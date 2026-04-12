@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>心理測驗企劃控制台</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+    ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes pulse-glow {
+      0%, 100% { box-shadow: 0 0 0 0 rgba(99,102,241,0.4); }
+      50% { box-shadow: 0 0 0 8px rgba(99,102,241,0); }
+    }
+    @keyframes slide-up {
+      from { opacity: 0; transform: translateY(16px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .spin { animation: spin 1s linear infinite; }
+    .pulse-glow { animation: pulse-glow 2s ease-in-out infinite; }
+    .slide-up { animation: slide-up 0.4s ease forwards; }
+
+    .progress-bar-inner {
+      background: linear-gradient(90deg, #6366f1, #8b5cf6, #6366f1);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s ease infinite;
+    }
+    @keyframes shimmer {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans antialiased overflow-y-scroll">
+  <div id="root"></div>
+
+  <script type="text/babel">
+    const { useState, useEffect, useRef, useCallback } = React;
+
+    // ── Lucide icon wrapper ──────────────────────────────────────────────────
+    const Icon = ({ name, className }) => {
+      const ref = useRef(null);
+      useEffect(() => {
+        if (!ref.current) return;
+        ref.current.innerHTML = '';
+        const el = document.createElement('i');
+        el.setAttribute('data-lucide', name);
+        if (className) el.className = className;
+        ref.current.appendChild(el);
+        lucide.createIcons({ root: ref.current });
+      }, [name, className]);
+      return <span ref={ref} className="inline-flex items-center justify-center" />;
+    };
+
+    // ── RSS categories (same as Google Trends tool) ──────────────────────────
+    const RSS_FEEDS = [
+      { label: '國內', url: 'https://news.google.com/rss/headlines/section/topic/NATION?hl=zh-TW&gl=TW&ceid=TW:zh-Hant' },
+      { label: '娛樂', url: 'https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=zh-TW&gl=TW&ceid=TW:zh-Hant' },
+      { label: '財經', url: 'https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=zh-TW&gl=TW&ceid=TW:zh-Hant' },
+      { label: '科技', url: 'https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=zh-TW&gl=TW&ceid=TW:zh-Hant' },
+      { label: '體育', url: 'https://news.google.com/rss/headlines/section/topic/SPORTS?hl=zh-TW&gl=TW&ceid=TW:zh-Hant' },
+    ];
+
+    const PROXY = 'https://api.rss2json.com/v1/api.json?rss_url=';
+
+    async function fetchTopHeadline(feed) {
+      try {
+        const res = await fetch(`${PROXY}${encodeURIComponent(feed.url)}`);
+        const json = await res.json();
+        if (json.items && json.items.length > 0) {
+          return { category: feed.label, title: json.items[0].title.replace(/\s{2,}/g, ' ').trim() };
+        }
+      } catch (_) {}
+      return null;
+    }
+
+    // ── Gemini API call ──────────────────────────────────────────────────────
+    const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent';
+
+    async function callGemini(apiKey, prompt) {
+      const res = await fetch(`${GEMINI_URL}?key=${apiKey}`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: {
+            temperature: 0.85,
+            maxOutputTokens: 8192,
+            responseMimeType: 'application/json'
+          }
+        })
+      });
+      if (!res.ok) {
+        const err = await res.json();
+        throw new Error(err.error?.message || '呼叫 Gemini API 失敗');
+      }
+      const data = await res.json();
+      const text = data.candidates?.[0]?.content?.parts?.[0]?.text;
+      if (!text) throw new Error('Gemini 未回傳任何內容');
+      return JSON.parse(text);
+    }
+
+    function buildPrompt(headlines) {
+      const headlineList = headlines.map((h, i) => `${i + 1}. 【${h.category}】${h.title}`).join('\n');
+      return `你是一位資深的心理測驗企劃師。請根據以下 ${headlines.length} 則台灣最新熱門新聞標題，為每一則新聞設計一套完整的心理測驗企劃，並以 JSON 格式回傳。
+
+### 熱門新聞標題：
+${headlineList}
+
+### 設計規範（嚴格遵守）：
+1. 題目數量：每套測驗 6 到 10 題（依主題複雜度彈性調整），每題 3~4 個選項
+2. 結果數量：每套測驗 4 到 10 種結果（依主題深度彈性調整）
+3. 選項設計：每個選項需對應某種人格類型的得分，需自然有趣、具場景感
+4. 結果說明：每種結果需有完整的人格描述（2~3句），以及一段 Gemini AI 產圖的英文 Prompt（描述畫面主體、背景、光影、風格，不需 --ar 這類指令）
+5. 推薦風格：依照主題氛圍，從以下風格中挑選一個：極簡質感/復古像素/霓虹賽博/奇幻魔法/千禧Y2K/清爽動漫/驚悚懸疑/溫馨水彩/懷舊報刊/科幻冷冽/唯美浪漫/搞怪幽默/美式波普/底片膠卷/國風墨韻/廢墟美學/立體拼接/夢幻蒸汽波/自然原始/奢華宮廷
+6. 主題轉化：測驗主題不要直接翻譯新聞標題，要延伸出有趣的心理測驗角度（例如：颱風新聞 → 測你的「抗壓人格」）
+
+### 輸出格式（純 JSON，不要有任何說明文字）：
+{
+  "quizzes": [
+    {
+      "id": "quiz-1",
+      "sourceCategory": "類別名稱",
+      "sourceTitle": "原始新聞標題",
+      "theme": "心理測驗主題名稱",
+      "style": "推薦視覺風格",
+      "description": "這套測驗的吸引人簡介（一句話）",
+      "questions": [
+        {
+          "text": "第 1 題題目文字（帶有場景感）",
+          "options": ["選項A文字", "選項B文字", "選項C文字", "選項D文字"]
+        }
+      ],
+      "results": [
+        {
+          "title": "人格結果名稱",
+          "description": "結果描述（2~3句，有溫度、有亮點）",
+          "prompt": "Gemini image generation prompt in English, describing the scene, subject, background, lighting and art style inspired by this personality type."
+        }
+      ]
+    }
+  ]
+}`;
+    }
+
+    // ── Main App ─────────────────────────────────────────────────────────────
+    function App() {
+      const [apiKey, setApiKey] = useState(() => localStorage.getItem('gemini_api_key') || '');
+      const [apiKeyInput, setApiKeyInput] = useState('');
+      const [showKeyModal, setShowKeyModal] = useState(false);
+
+      const [quizzes, setQuizzes] = useState([]);
+      const [expandedId, setExpandedId] = useState(null);
+      const [generatedAt, setGeneratedAt] = useState(null);
+
+      const [status, setStatus] = useState('idle'); // idle | fetching | generating | done | error
+      const [statusMsg, setStatusMsg] = useState('');
+      const [progress, setProgress] = useState(0);
+
+      const saveKey = () => {
+        const k = apiKeyInput.trim();
+        if (!k) return;
+        localStorage.setItem('gemini_api_key', k);
+        setApiKey(k);
+        setShowKeyModal(false);
+        setApiKeyInput('');
+      };
+
+      const clearKey = () => {
+        localStorage.removeItem('gemini_api_key');
+        setApiKey('');
+        setQuizzes([]);
+        setStatus('idle');
+      };
+
+      const copyToClipboard = (text) => {
+        navigator.clipboard.writeText(text).then(() => alert('已複製！'));
+      };
+
+      const generate = useCallback(async () => {
+        if (!apiKey) { setShowKeyModal(true); return; }
+        setStatus('fetching');
+        setProgress(10);
+        setStatusMsg('正在抓取 Google 最新頭條...');
+        setQuizzes([]);
+
+        try {
+          // 1. Fetch headlines
+          const results = await Promise.all(RSS_FEEDS.map(fetchTopHeadline));
+          const headlines = results.filter(Boolean);
+          if (headlines.length === 0) throw new Error('無法抓取新聞，請稍後再試');
+
+          setProgress(35);
+          setStatus('generating');
+          setStatusMsg(`已抓到 ${headlines.length} 則熱門話題，正在請 Gemini 生成心理測驗企劃...`);
+
+          // 2. Call Gemini
+          const prompt = buildPrompt(headlines);
+          const json = await callGemini(apiKey, prompt);
+
+          if (!json.quizzes || json.quizzes.length === 0) throw new Error('Gemini 未生成任何測驗');
+
+          // 3. Build aiPrompt for each quiz
+          const quizzesWithPrompt = json.quizzes.map((quiz, idx) => ({
+            ...quiz,
+            id: `quiz-${idx + 1}`,
+            aiPrompt: `請根據以下心理測驗設定，嚴格遵守 @[.agent/skills/psychological-test.md] 的核心工作流機制，為我開發一套完整的【單頁式心理測驗 Web 應用程式】。
+
+一、專案設定與嚴格守則：
+1. 輸出實體檔案：必須回傳完整的 index.html, style.css, data.js, app.js 程式碼。
+2. 測驗主題名稱：【${quiz.theme}】
+3. 指定視覺風格：【${quiz.style}】
+4. 佈局要求：極致的 Mobile-First，所有測驗過程必須在手機螢幕「一屏內」顯示，不允許出現 Y 軸滾動條。
+5. 【絕對守則】：產出的所有程式碼與介面中，嚴禁使用任何 Emoji 符號，請一律使用純代碼的「內嵌 SVG」取代。
+6. 廣告機制配置：請務必實作蓋版廣告，並在 data.js 寫入以下兩則隨機廣告：
+   - 廣告A名稱：AI 趨勢觀測站 / 文案：掌握一手科技新聞，立刻訂閱！ / url: # / icon: ./images/ad1.png
+   - 廣告B名稱：心理測驗大全 / 文案：發掘你的隱藏人格！ / url: # / icon: ./images/ad2.png
+
+二、企劃內容 (請轉化為程式碼與資料結構)：
+
+[題目區] (共 ${quiz.questions.length} 題，必須設定配分邏輯)
+${quiz.questions.map(q => q.text + '\n選項：' + q.options.join(' / ')).join('\n\n')}
+
+[結果區] (共 ${quiz.results.length} 種)
+${quiz.results.map(r => `・${r.title}: ${r.description}\n・[Prompt]: ${r.prompt}`).join('\n\n')}
+
+請立即開始 Step 1-4 的程式碼撰寫！`
+          }));
+
+          setProgress(100);
+          setQuizzes(quizzesWithPrompt);
+          setGeneratedAt(new Date());
+          setStatus('done');
+          setStatusMsg('');
+
+        } catch (err) {
+          setStatus('error');
+          setStatusMsg(err.message || '發生未知錯誤');
+          setProgress(0);
+        }
+      }, [apiKey]);
+
+      const maskedKey = apiKey ? `${apiKey.slice(0, 8)}...${apiKey.slice(-4)}` : '';
+
+      return (
+        <div className="min-h-screen">
+
+          {/* ── Header ── */}
+          <header className="bg-white border-b border-slate-200 sticky top-0 z-20 shadow-sm">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-4">
+              <div className="flex items-center gap-2 text-indigo-600 shrink-0">
+                <Icon name="brain-circuit" className="w-6 h-6 text-indigo-600" />
+                <h1 className="text-xl font-bold tracking-tight text-slate-900">心理測驗企劃控制台</h1>
+              </div>
+              <div className="flex items-center gap-2">
+                {apiKey ? (
+                  <div className="flex items-center gap-2">
+                    <span className="hidden sm:flex items-center gap-1.5 text-xs text-emerald-700 bg-emerald-50 border border-emerald-200 px-3 py-1.5 rounded-full font-medium">
+                      <Icon name="key-round" className="w-3.5 h-3.5" />
+                      {maskedKey}
+                    </span>
+                    <button onClick={() => setShowKeyModal(true)} className="text-xs text-slate-500 hover:text-slate-700 px-2 py-1.5 rounded-md hover:bg-slate-100 transition-colors">
+                      更換
+                    </button>
+                  </div>
+                ) : (
+                  <button onClick={() => setShowKeyModal(true)} className="flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 bg-amber-50 text-amber-700 border border-amber-200 rounded-full hover:bg-amber-100 transition-colors">
+                    <Icon name="key-round" className="w-3.5 h-3.5" />
+                    設定 API Key
+                  </button>
+                )}
+                <button
+                  onClick={generate}
+                  disabled={status === 'fetching' || status === 'generating'}
+                  className="flex items-center gap-2 px-4 py-2 bg-indigo-600 hover:bg-indigo-700 disabled:opacity-60 disabled:cursor-not-allowed text-white text-sm font-semibold rounded-lg shadow-sm transition-colors pulse-glow"
+                >
+                  {status === 'fetching' || status === 'generating'
+                    ? <><span className="w-4 h-4 border-2 border-white border-t-transparent rounded-full spin inline-block"></span> 生成中...</>
+                    : <><Icon name="zap" className="w-4 h-4" /> 抓取最新話題並生成</>
+                  }
+                </button>
+              </div>
+            </div>
+          </header>
+
+          {/* ── API Key Modal ── */}
+          {showKeyModal && (
+            <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-4">
+              <div className="bg-white rounded-2xl shadow-2xl w-full max-w-md p-6 slide-up">
+                <div className="flex items-center gap-3 mb-4">
+                  <div className="w-10 h-10 bg-indigo-100 rounded-xl flex items-center justify-center">
+                    <Icon name="key-round" className="w-5 h-5 text-indigo-600" />
+                  </div>
+                  <div>
+                    <h2 className="font-bold text-slate-900 text-lg">設定 Gemini API Key</h2>
+                    <p className="text-xs text-slate-500">金鑰只會存在您的瀏覽器中，不會上傳至任何伺服器</p>
+                  </div>
+                </div>
+                <input
+                  type="password"
+                  placeholder="AIzaSy..."
+                  value={apiKeyInput}
+                  onChange={e => setApiKeyInput(e.target.value)}
+                  onKeyDown={e => e.key === 'Enter' && saveKey()}
+                  className="w-full border border-slate-300 rounded-lg px-4 py-3 text-sm font-mono focus:outline-none focus:ring-2 focus:ring-indigo-500 mb-3"
+                />
+                <p className="text-xs text-slate-400 mb-4">
+                  前往 <a href="https://aistudio.google.com/apikey" target="_blank" className="text-indigo-500 underline hover:text-indigo-700">aistudio.google.com/apikey</a> 免費取得
+                </p>
+                <div className="flex gap-2">
+                  <button onClick={() => { setShowKeyModal(false); setApiKeyInput(''); }} className="flex-1 px-4 py-2 text-sm text-slate-600 border border-slate-200 rounded-lg hover:bg-slate-50 transition-colors">取消</button>
+                  {apiKey && <button onClick={clearKey} className="px-4 py-2 text-sm text-red-600 border border-red-200 rounded-lg hover:bg-red-50 transition-colors">清除</button>}
+                  <button onClick={saveKey} disabled={!apiKeyInput.trim()} className="flex-1 px-4 py-2 text-sm font-semibold bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 disabled:opacity-50 transition-colors">儲存並套用</button>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* ── Main ── */}
+          <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+
+            {/* Page header */}
+            <div className="mb-8 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-2">
+              <div>
+                <h2 className="text-2xl font-bold text-slate-900">最新熱門話題測驗企劃</h2>
+                <p className="text-slate-500 mt-1 text-sm">由 Gemini AI 自動讀取 Google 最新頭條，依照心理測驗公版規範即時生成</p>
+              </div>
+              {generatedAt && (
+                <span className="text-xs text-slate-400 shrink-0 flex items-center gap-1">
+                  <Icon name="clock" className="w-3.5 h-3.5" />
+                  上次生成：{generatedAt.toLocaleTimeString('zh-TW')}
+                </span>
+              )}
+            </div>
+
+            {/* Progress / error / empty states */}
+            {(status === 'fetching' || status === 'generating') && (
+              <div className="bg-white border border-indigo-100 rounded-2xl p-8 text-center shadow-sm mb-6">
+                <div className="w-16 h-16 mx-auto mb-4 bg-indigo-50 rounded-full flex items-center justify-center">
+                  <span className="w-8 h-8 border-4 border-indigo-600 border-t-transparent rounded-full spin inline-block"></span>
+                </div>
+                <p className="font-semibold text-slate-700 mb-2">{statusMsg}</p>
+                <div className="w-full max-w-xs mx-auto bg-slate-100 rounded-full h-2 overflow-hidden">
+                  <div className="progress-bar-inner h-2 rounded-full transition-all duration-500" style={{ width: `${progress}%` }} />
+                </div>
+              </div>
+            )}
+
+            {status === 'error' && (
+              <div className="bg-red-50 border border-red-200 rounded-2xl p-6 mb-6 flex items-start gap-3">
+                <Icon name="circle-alert" className="w-5 h-5 text-red-500 mt-0.5 shrink-0" />
+                <div>
+                  <p className="font-semibold text-red-800">生成失敗</p>
+                  <p className="text-sm text-red-600 mt-0.5">{statusMsg}</p>
+                  <button onClick={generate} className="mt-3 text-xs font-semibold text-red-700 border border-red-300 px-3 py-1 rounded-lg hover:bg-red-100 transition-colors">重試</button>
+                </div>
+              </div>
+            )}
+
+            {status === 'idle' && quizzes.length === 0 && (
+              <div className="bg-white border-2 border-dashed border-slate-200 rounded-2xl p-12 text-center">
+                <div className="w-20 h-20 mx-auto mb-5 bg-indigo-50 rounded-2xl flex items-center justify-center">
+                  <Icon name="sparkles" className="w-10 h-10 text-indigo-400" />
+                </div>
+                <h3 className="font-bold text-slate-700 text-lg mb-2">準備好了！</h3>
+                <p className="text-slate-500 text-sm mb-6 max-w-sm mx-auto">
+                  點擊右上角的「抓取最新話題並生成」，Gemini AI 將自動讀取今日最熱門的新聞，並依照心理測驗公版規範為您生成完整的測驗企劃。
+                </p>
+                {!apiKey && (
+                  <button onClick={() => setShowKeyModal(true)} className="inline-flex items-center gap-2 px-5 py-2.5 bg-amber-500 hover:bg-amber-600 text-white font-semibold rounded-xl transition-colors shadow-sm">
+                    <Icon name="key-round" className="w-4 h-4" />
+                    先設定 Gemini API Key
+                  </button>
+                )}
+                {apiKey && (
+                  <button onClick={generate} className="inline-flex items-center gap-2 px-5 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold rounded-xl transition-colors shadow-sm">
+                    <Icon name="zap" className="w-4 h-4" />
+                    立刻生成今日話題測驗
+                  </button>
+                )}
+              </div>
+            )}
+
+            {/* Quiz cards */}
+            {quizzes.length > 0 && (
+              <div className="space-y-4">
+                {quizzes.map((quiz, cardIdx) => (
+                  <div key={quiz.id} className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden transition-all duration-200 slide-up" style={{ animationDelay: `${cardIdx * 60}ms` }}>
+
+                    {/* Card header */}
+                    <div
+                      className="p-4 sm:p-6 cursor-pointer hover:bg-slate-50 flex flex-col md:flex-row md:items-center justify-between gap-4"
+                      onClick={() => setExpandedId(expandedId === quiz.id ? null : quiz.id)}
+                    >
+                      <div className="flex-1 space-y-3">
+                        {/* Source badge */}
+                        <div className="flex items-center gap-2 flex-wrap">
+                          <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded bg-rose-50 text-rose-600 text-xs font-bold border border-rose-100">
+                            <Icon name="trending-up" className="w-3.5 h-3.5" />
+                            {quiz.sourceCategory}
+                          </span>
+                          <span className="text-sm font-medium text-slate-600 bg-slate-100 px-2.5 py-1 rounded border border-slate-200 line-clamp-1" title={quiz.sourceTitle}>
+                            {quiz.sourceTitle}
+                          </span>
+                        </div>
+                        {/* Theme & desc */}
+                        <div>
+                          <h3 className="text-lg sm:text-xl font-bold text-slate-900">{quiz.theme}</h3>
+                          <p className="text-slate-500 text-sm mt-1">{quiz.description}</p>
+                        </div>
+                      </div>
+
+                      {/* Right meta */}
+                      <div className="flex flex-col items-end gap-2 shrink-0">
+                        <div className="text-[11px] text-slate-400 font-medium flex items-center gap-3 mr-7">
+                          <span className="flex items-center gap-1"><Icon name="list" className="w-3 h-3" /> {quiz.questions.length} 題</span>
+                          <span className="flex items-center gap-1"><Icon name="award" className="w-3 h-3" /> {quiz.results.length} 種結果</span>
+                        </div>
+                        <div className="flex items-center gap-3">
+                          <span className="inline-flex items-center gap-1 text-xs font-semibold px-2.5 py-1 bg-indigo-50 text-indigo-700 rounded-md border border-indigo-100">
+                            <Icon name="palette" className="w-3.5 h-3.5" />
+                            推薦風格：{quiz.style}
+                          </span>
+                          <Icon name={expandedId === quiz.id ? 'chevron-up' : 'chevron-down'} className="w-5 h-5 text-slate-400" />
+                        </div>
+                      </div>
+                    </div>
+
+                    {/* Expanded detail */}
+                    {expandedId === quiz.id && (
+                      <div className="border-t border-slate-100 bg-slate-50 p-4 sm:p-6">
+
+                        {/* One-click AI prompt */}
+                        <div className="mb-6 bg-indigo-50 border border-indigo-200 rounded-xl p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+                          <div>
+                            <h4 className="font-bold text-indigo-900 text-base flex items-center gap-2">
+                              <Icon name="bot" className="w-5 h-5 text-indigo-500" />
+                              一鍵交給 AI 製作
+                            </h4>
+                            <p className="text-xs text-indigo-600 mt-1">複製這段 Mega Prompt，貼給 AI，即可自動產出符合心理測驗公版規範的 4 個實體程式碼檔案！</p>
+                          </div>
+                          <button
+                            onClick={() => copyToClipboard(quiz.aiPrompt)}
+                            className="shrink-0 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold text-sm px-4 py-2 rounded-lg shadow-sm transition-colors flex items-center gap-1.5"
+                          >
+                            <Icon name="copy" className="w-4 h-4" />
+                            複製咒語
+                          </button>
+                        </div>
+
+                        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                          {/* Questions */}
+                          <div className="space-y-4">
+                            <h4 className="flex items-center gap-2 font-bold text-slate-800 text-base pb-2 border-b border-slate-200">
+                              <Icon name="list-checks" className="w-4 h-4 text-emerald-500" />
+                              測驗題幹與選項（{quiz.questions.length} 題）
+                            </h4>
+                            <div className="space-y-4">
+                              {quiz.questions.map((q, qi) => (
+                                <div key={qi} className="bg-white p-4 rounded-lg shadow-sm border border-slate-200">
+                                  <p className="font-semibold text-slate-800 text-sm mb-3 leading-relaxed">{q.text}</p>
+                                  <ul className="space-y-2">
+                                    {q.options.map((opt, oi) => (
+                                      <li key={oi} className="text-xs text-slate-600 flex items-start gap-2 bg-slate-50 p-2 rounded border border-slate-100">
+                                        <span className="font-bold text-slate-400 mt-0.5 shrink-0">{String.fromCharCode(65 + oi)}.</span>
+                                        <span className="leading-relaxed">{opt}</span>
+                                      </li>
+                                    ))}
+                                  </ul>
+                                </div>
+                              ))}
+                            </div>
+                          </div>
+
+                          {/* Results */}
+                          <div className="space-y-4">
+                            <h4 className="flex items-center gap-2 font-bold text-slate-800 text-base pb-2 border-b border-slate-200">
+                              <Icon name="sparkles" className="w-4 h-4 text-purple-500" />
+                              最終結果與 AI 產圖提詞（{quiz.results.length} 種）
+                            </h4>
+                            <div className="space-y-4">
+                              {quiz.results.map((res, ri) => (
+                                <div key={ri} className="bg-white p-4 rounded-lg shadow-sm border border-slate-200">
+                                  <h5 className="font-bold text-indigo-600 mb-1.5">{res.title}</h5>
+                                  <p className="text-xs text-slate-600 mb-3 leading-relaxed">{res.description}</p>
+                                  <div className="bg-slate-900 rounded-md overflow-hidden">
+                                    <div className="bg-slate-800 px-3 py-1.5 flex justify-between items-center">
+                                      <span className="text-[10px] text-emerald-400 font-mono tracking-wider flex items-center gap-1">
+                                        <Icon name="terminal" className="w-3 h-3" />
+                                        IMAGE PROMPT
+                                      </span>
+                                      <button
+                                        onClick={() => copyToClipboard(res.prompt)}
+                                        className="text-slate-300 hover:text-white flex items-center gap-1 text-[10px] px-2 py-0.5 rounded hover:bg-slate-700 transition-colors"
+                                      >
+                                        <Icon name="copy" className="w-3 h-3" />
+                                        複製
+                                      </button>
+                                    </div>
+                                    <div className="p-3">
+                                      <code className="text-xs text-slate-300 font-mono break-words leading-relaxed">{res.prompt}</code>
+                                    </div>
+                                  </div>
+                                </div>
+                              ))}
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
+            )}
+
+          </main>
+        </div>
+      );
+    }
+
+    ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+  </script>
+</body>
+</html>
