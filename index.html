@@ -72,10 +72,10 @@
         const res = await fetch(`${PROXY}${encodeURIComponent(feed.url)}`);
         const json = await res.json();
         if (json.items && json.items.length > 0) {
-          return { category: feed.label, title: json.items[0].title.replace(/\s{2,}/g, ' ').trim() };
+          return json.items.slice(0, 2).map(item => ({ category: feed.label, title: item.title.replace(/\s{2,}/g, ' ').trim() }));
         }
       } catch (_) {}
-      return null;
+      return [];
     }
 
     const MODELS = [
@@ -113,72 +113,23 @@
 
     function buildPrompt(headlines) {
       const headlineList = headlines.map((h, i) => `${i + 1}. 【${h.category}】${h.title}`).join('\n');
-      return `你是一位資深的「心理測驗小遊戲製作人」。請根據以下 ${headlines.length} 則台灣最新熱門新聞標題，為每一則新聞設計一套充滿創意、差異化鮮明的心理測驗企劃，並以 JSON 格式回傳。
+      return `你是一位趨勢分析與行銷創意總監。請抓取以下 ${headlines.length} 則熱門新聞話題，分析該話題可以延伸成什麼樣的心理測驗，並提供企劃構想，最終輸出 JSON 格式。
 
-### 熱門新聞標題：
+### 熱門話題 TOP10：
 ${headlineList}
-
----
-
-### 【核心設計哲學 — 每套測驗都必須感覺截然不同】
-禁止套用公式化的固定結構。先分析每則新聞的情緒張力、話題屬性、受眾輪廓，再決定最適合的測驗結構。
-
----
-
-### 【數量原則 — 禁止固定數字，依主題分析決定】
-
-題目數量（範圍 6~10 題）：
-- 輕鬆娛樂型（藝人、流行文化）-> 建議 6~7 題，快問快答節奏
-- 社會議題型（政治、財經、民生）-> 建議 8~10 題，深度情境探索
-- 生活體驗型（天氣、美食、旅遊）-> 建議 6~8 題，場景代入感強
-
-選項數量（每題 3 或 4 個，根據題目性質決定，禁止所有題都一樣）：
-- 情境選擇題（場景代入強）-> 4 個選項，增加區分度
-- 直覺反應題（快問快答型）-> 3 個選項，保持俐落節奏
-
-結果數量（範圍 4~10 種）：
-- 輕鬆風格測驗 -> 4~5 種，每種鮮明有趣
-- 深度性格分析 -> 6~8 種，涵蓋豐富人格光譜
-- 特殊主題（星座型、職業型等）-> 可達 8~10 種，互相差異明顯
-
----
-
-### 【內容品質要求】
-1. 主題轉化：不直接翻譯標題，延伸出有趣的心理測驗角度（如：颱風 -> 人生暴風雨的抗壓本色；股市 -> 你是哪種財富星人）
-2. 題目：必須有鮮明場景感，具體行動或選擇情境，口吻輕鬆有趣
-3. 結果描述：2~3 句有溫度的人格分析，值得截圖分享
-4. AI 產圖提詞：每種結果一段英文 prompt，描述主角、背景、光線、藝術風格，禁止 --ar / --v 等指令，畫風與測驗推薦視覺風格完全一致
-5. 推薦視覺風格（每套選一個最適合的）：極簡質感 / 復古像素 / 霓虹賽博 / 奇幻魔法 / 千禧Y2K / 清爽動漫 / 驚悚懸疑 / 溫馨水彩 / 懷舊報刊 / 科幻冷冽 / 唯美浪漫 / 搞怪幽默 / 美式波普 / 底片膠卷 / 國風墨韻 / 廢墟美學 / 立體拼接 / 夢幻蒸汽波 / 自然原始 / 奢華宮廷
 
 ---
 
 ### 【輸出格式】（純 JSON，不要有任何說明文字或 markdown 標記）
 {
-  "quizzes": [
+  "ideas": [
     {
-      "id": "quiz-1",
       "sourceCategory": "類別名稱",
       "sourceTitle": "原始新聞標題",
-      "theme": "心理測驗主題名稱",
-      "style": "推薦視覺風格",
-      "description": "一句話吸睛簡介",
-      "questions": [
-        {
-          "text": "題目（有場景感）",
-          "options": ["選項A", "選項B", "選項C"]
-        },
-        {
-          "text": "第二題（可以是3或4個選項）",
-          "options": ["選項A", "選項B", "選項C", "選項D"]
-        }
-      ],
-      "results": [
-        {
-          "title": "人格結果名稱",
-          "description": "2~3 句有溫度的人格描述",
-          "prompt": "English image generation prompt matching the quiz visual style."
-        }
-      ]
+      "theme": "心理測驗主題（吸睛、具話題性的好標題）",
+      "resultCount": 6, // 建議的結果數量 (範圍在 4~10 之間，最適合這個主題的數字)
+      "style": "推薦視覺風格（必須從以下選擇：極簡質感 / 復古像素 / 霓虹賽博 / 奇幻魔法 / 千禧Y2K / 清爽動漫 / 驚悚懸疑 / 溫馨水彩 / 懷舊報刊 / 科幻冷冽 / 唯美浪漫 / 搞怪幽默 / 美式波普 / 底片膠卷 / 國風墨韻 / 廢墟美學 / 立體拼接 / 夢幻蒸汽波 / 自然原始 / 奢華宮廷）",
+      "description": "分析說明為何這個話題適合這個測驗主題，以及能給使用者帶來什麼趣味"
     }
   ]
 }`;
@@ -190,13 +141,50 @@ ${headlineList}
       const [showKeyModal, setShowKeyModal] = useState(false);
       const [model, setModel] = useState(() => localStorage.getItem('gemini_model') || 'gemini-2.5-pro');
 
-      const [quizzes, setQuizzes] = useState([]);
+      const [quizzes, setQuizzes] = useState(() => {
+        try {
+          const saved = localStorage.getItem('psychological_quizzes_backup');
+          return saved ? JSON.parse(saved) : [];
+        } catch { return []; }
+      });
       const [expandedId, setExpandedId] = useState(null);
-      const [generatedAt, setGeneratedAt] = useState(null);
+      const [generatedAt, setGeneratedAt] = useState(() => {
+        try {
+          const saved = localStorage.getItem('psychological_quizzes_time');
+          return saved ? new Date(saved) : null;
+        } catch { return null; }
+      });
 
       const [status, setStatus] = useState('idle');
       const [statusMsg, setStatusMsg] = useState('');
       const [progress, setProgress] = useState(0);
+
+      useEffect(() => {
+        // 嘗試讀取伺服器自動生成的 daily-ideas.json
+        fetch('./daily-ideas.json')
+          .then(res => res.json())
+          .then(data => {
+            if (data && data.ideas) {
+              const serverDate = new Date(data.generatedAt).getTime();
+              const localDateStr = localStorage.getItem('psychological_quizzes_time');
+              const localDate = localDateStr ? new Date(localDateStr).getTime() : 0;
+              
+              const localQuizzesStr = localStorage.getItem('psychological_quizzes_backup');
+              const hasNoLocalData = !localQuizzesStr || JSON.parse(localQuizzesStr).length === 0;
+
+              // 如果伺服器的產出時間比本地紀錄還要新，或是本地沒有資料，就覆寫
+              if (serverDate > localDate || hasNoLocalData) {
+                 setQuizzes(data.ideas);
+                 setGeneratedAt(new Date(data.generatedAt));
+                 localStorage.setItem('psychological_quizzes_backup', JSON.stringify(data.ideas));
+                 localStorage.setItem('psychological_quizzes_time', data.generatedAt);
+              }
+            }
+          })
+          .catch(() => {
+            // 本地尚無此檔案，略過不處理（使用者可自己手動生成）
+          });
+      }, []);
 
       const saveKey = () => {
         const k = apiKeyInput.trim();
@@ -227,7 +215,7 @@ ${headlineList}
 
         try {
           const results = await Promise.all(RSS_FEEDS.map(fetchTopHeadline));
-          const headlines = results.filter(Boolean);
+          const headlines = results.flat().filter(Boolean);
           if (headlines.length === 0) throw new Error('無法抓取新聞，請稍後再試');
 
           setProgress(35);
@@ -237,39 +225,27 @@ ${headlineList}
           const prompt = buildPrompt(headlines);
           const json = await callGemini(apiKey, model, prompt);
 
-          if (!json.quizzes || json.quizzes.length === 0) throw new Error('Gemini 未生成任何測驗');
+          if (!json.ideas || json.ideas.length === 0) throw new Error('Gemini 未生成任何點子');
 
-          const quizzesWithPrompt = json.quizzes.map((quiz, idx) => ({
-            ...quiz,
-            id: `quiz-${idx + 1}`,
-            aiPrompt: `請根據以下心理測驗設定，嚴格遵守 @[.agent/skills/psychological-test.md] 的核心工作流機制，為我開發一套完整的【單頁式心理測驗 Web 應用程式】。
+          const ideasWithPrompt = json.ideas.map((idea, idx) => ({
+            ...idea,
+            id: `idea-${idx + 1}`,
+            aiPrompt: `請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：
 
-一、專案設定與嚴格守則：
-1. 輸出實體檔案：必須回傳完整的 index.html, style.css, data.js, app.js 程式碼。
-2. 測驗主題名稱：【${quiz.theme}】
-3. 指定視覺風格：【${quiz.style}】
-4. 題目數量：${quiz.questions.length} 題（依此企劃內容實作，禁止自行增減）
-5. 結果數量：${quiz.results.length} 種（依此企劃內容實作，禁止自行增減）
-6. 佈局要求：極致的 Mobile-First，所有測驗過程必須在手機螢幕「一屏內」顯示，不允許出現 Y 軸滾動條。
-7. 【絕對守則】：嚴禁使用任何 Emoji 符號，請一律使用純代碼的「內嵌 SVG」取代。
-8. 廣告機制：請務必實作蓋版廣告（5秒倒數後顯示關閉按鈕），並在 data.js 寫入以下兩則隨機廣告：
-   - 廣告A：AI 趨勢觀測站 / 掌握一手科技新聞，立刻訂閱！ / url: # / icon: ./images/ad1.png
-   - 廣告B：心理測驗大全 / 發掘你的隱藏人格！ / url: # / icon: ./images/ad2.png
+1. 主題：【${idea.theme}】
+2. 結果數量：${idea.resultCount}，並請自行根據主題設定 ${idea.resultCount} 種細微不同的人格分析結果。
+3. 風格：【${idea.style}】
+4. 廣告預設開啟
 
-二、企劃內容（請轉化為完整程式碼）：
-
-[題目區]
-${quiz.questions.map((q, i) => `Q${i+1}: ${q.text}\n選項：${q.options.join(' / ')}`).join('\n\n')}
-
-[結果區]
-${quiz.results.map(r => `・${r.title}: ${r.description}\n・[產圖 Prompt]: ${r.prompt}`).join('\n\n')}
-
-請立即開始 Step 1-4 的程式碼撰寫！`
+請根據這份資訊，嚴格遵守公版規範流程，並立即開始進行接下來的完整測驗企劃設計與全套程式碼開發。`
           }));
 
           setProgress(100);
-          setQuizzes(quizzesWithPrompt);
-          setGeneratedAt(new Date());
+          setQuizzes(ideasWithPrompt);
+          const now = new Date();
+          setGeneratedAt(now);
+          localStorage.setItem('psychological_quizzes_backup', JSON.stringify(ideasWithPrompt));
+          localStorage.setItem('psychological_quizzes_time', now.toISOString());
           setStatus('done');
           setStatusMsg('');
 
@@ -372,10 +348,26 @@ ${quiz.results.map(r => `・${r.title}: ${r.description}\n・[產圖 Prompt]: ${
                 <p className="text-slate-500 mt-1 text-sm">由 Gemini AI 自動讀取 Google 最新頭條，依照心理測驗公版規範即時生成</p>
               </div>
               {generatedAt && (
-                <span className="text-xs text-slate-400 shrink-0 flex items-center gap-1">
-                  <Icon name="clock" className="w-3.5 h-3.5" />
-                  上次生成：{generatedAt.toLocaleTimeString('zh-TW')}
-                </span>
+                <div className="flex items-center gap-3 shrink-0 mt-4 sm:mt-0">
+                  <span className="text-xs text-slate-500 font-medium flex items-center gap-1.5 bg-slate-100 px-3 py-1.5 rounded-md border border-slate-200">
+                    <Icon name="clock" className="w-4 h-4 text-slate-400" />
+                    上次生成：{generatedAt.toLocaleString('zh-TW', { year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' })}
+                  </span>
+                  <button 
+                    onClick={() => {
+                      const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(quizzes, null, 2));
+                      const dlAnchorElem = document.createElement('a');
+                      dlAnchorElem.setAttribute("href", dataStr);
+                      // 下載檔名自動帶上當前日期
+                      dlAnchorElem.setAttribute("download", `話題測驗備份_${generatedAt.toISOString().slice(0,10)}.json`);
+                      dlAnchorElem.click();
+                    }}
+                    className="text-xs flex items-center gap-1.5 px-3 py-1.5 bg-white border border-indigo-200 text-indigo-600 hover:bg-indigo-50 rounded-md font-medium transition-colors shadow-sm"
+                  >
+                    <Icon name="download" className="w-4 h-4" />
+                    備份為 JSON
+                  </button>
+                </div>
               )}
             </div>
 
@@ -429,128 +421,51 @@ ${quiz.results.map(r => `・${r.title}: ${r.description}\n・[產圖 Prompt]: ${
               </div>
             )}
 
-            {/* Quiz cards */}
+            {/* Idea cards */}
             {quizzes.length > 0 && (
               <div className="space-y-4">
-                {quizzes.map((quiz, cardIdx) => (
-                  <div key={quiz.id} className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden slide-up" style={{ animationDelay: `${cardIdx * 60}ms` }}>
-
-                    <div
-                      className="p-4 sm:p-6 cursor-pointer hover:bg-slate-50 flex flex-col md:flex-row md:items-center justify-between gap-4"
-                      onClick={() => setExpandedId(expandedId === quiz.id ? null : quiz.id)}
-                    >
+                {quizzes.map((idea, cardIdx) => (
+                  <div key={idea.id} className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden slide-up" style={{ animationDelay: `${cardIdx * 60}ms` }}>
+                    <div className="p-4 sm:p-6 flex flex-col md:flex-row md:items-start justify-between gap-4">
                       <div className="flex-1 space-y-3">
                         <div className="flex items-center gap-2 flex-wrap">
                           <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded bg-rose-50 text-rose-600 text-xs font-bold border border-rose-100">
                             <Icon name="trending-up" className="w-3.5 h-3.5" />
-                            {quiz.sourceCategory}
+                            {idea.sourceCategory}
                           </span>
-                          <span className="text-sm font-medium text-slate-600 bg-slate-100 px-2.5 py-1 rounded border border-slate-200 line-clamp-1" title={quiz.sourceTitle}>
-                            {quiz.sourceTitle}
+                          <span className="text-sm font-medium text-slate-600 bg-slate-100 px-2.5 py-1 rounded border border-slate-200 line-clamp-1" title={idea.sourceTitle}>
+                            {idea.sourceTitle}
                           </span>
                         </div>
                         <div>
-                          <h3 className="text-lg sm:text-xl font-bold text-slate-900">{quiz.theme}</h3>
-                          <p className="text-slate-500 text-sm mt-1">{quiz.description}</p>
+                          <h3 className="text-lg sm:text-xl font-bold text-slate-900">{idea.theme}</h3>
+                          <p className="text-slate-500 text-sm mt-1 mb-4 leading-relaxed">{idea.description}</p>
+                          <div className="flex flex-wrap gap-3">
+                            <span className="inline-flex items-center gap-1 text-xs font-semibold px-2.5 py-1 bg-indigo-50 text-indigo-700 rounded-md border border-indigo-100">
+                              <Icon name="palette" className="w-3.5 h-3.5" />
+                              推薦風格：{idea.style}
+                            </span>
+                            <span className="inline-flex items-center gap-1 text-xs font-semibold px-2.5 py-1 bg-amber-50 text-amber-700 rounded-md border border-amber-100">
+                              <Icon name="award" className="w-3.5 h-3.5" />
+                              建議結果數：{idea.resultCount}
+                            </span>
+                          </div>
                         </div>
                       </div>
 
-                      <div className="flex flex-col items-end gap-2 shrink-0">
-                        <div className="text-[11px] text-slate-400 font-medium flex items-center gap-3 mr-7">
-                          <span className="flex items-center gap-1"><Icon name="list" className="w-3 h-3" /> {quiz.questions.length} 題</span>
-                          <span className="flex items-center gap-1"><Icon name="award" className="w-3 h-3" /> {quiz.results.length} 種結果</span>
-                        </div>
-                        <div className="flex items-center gap-3">
-                          <span className="inline-flex items-center gap-1 text-xs font-semibold px-2.5 py-1 bg-indigo-50 text-indigo-700 rounded-md border border-indigo-100">
-                            <Icon name="palette" className="w-3.5 h-3.5" />
-                            推薦風格：{quiz.style}
-                          </span>
-                          <Icon name={expandedId === quiz.id ? 'chevron-up' : 'chevron-down'} className="w-5 h-5 text-slate-400" />
-                        </div>
+                      <div className="flex flex-col items-end gap-3 shrink-0 md:w-64">
+                        <button
+                          onClick={() => copyToClipboard(idea.aiPrompt)}
+                          className="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-semibold text-sm px-4 py-2.5 rounded-lg shadow-sm transition-colors flex items-center justify-center gap-1.5"
+                        >
+                          <Icon name="copy" className="w-4 h-4" />
+                          立刻複製企劃意圖
+                        </button>
+                        <p className="text-xs text-slate-400 text-right leading-relaxed">
+                          將四種必填參數貼給我，立刻為您展開公版測驗的企劃與全套程式撰寫。
+                        </p>
                       </div>
                     </div>
-
-                    {expandedId === quiz.id && (
-                      <div className="border-t border-slate-100 bg-slate-50 p-4 sm:p-6">
-
-                        {/* One-click AI prompt */}
-                        <div className="mb-6 bg-indigo-50 border border-indigo-200 rounded-xl p-4 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-                          <div>
-                            <h4 className="font-bold text-indigo-900 text-base flex items-center gap-2">
-                              <Icon name="bot" className="w-5 h-5 text-indigo-500" />
-                              一鍵交給 AI 製作
-                            </h4>
-                            <p className="text-xs text-indigo-600 mt-1">複製這段 Mega Prompt，貼給 AI，即可自動產出符合心理測驗公版規範的 4 個實體程式碼檔案！</p>
-                          </div>
-                          <button
-                            onClick={() => copyToClipboard(quiz.aiPrompt)}
-                            className="shrink-0 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold text-sm px-4 py-2 rounded-lg shadow-sm transition-colors flex items-center gap-1.5"
-                          >
-                            <Icon name="copy" className="w-4 h-4" />
-                            複製咒語
-                          </button>
-                        </div>
-
-                        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-                          {/* Questions */}
-                          <div className="space-y-4">
-                            <h4 className="flex items-center gap-2 font-bold text-slate-800 text-base pb-2 border-b border-slate-200">
-                              <Icon name="list-checks" className="w-4 h-4 text-emerald-500" />
-                              測驗題幹與選項（{quiz.questions.length} 題）
-                            </h4>
-                            <div className="space-y-4">
-                              {quiz.questions.map((q, qi) => (
-                                <div key={qi} className="bg-white p-4 rounded-lg shadow-sm border border-slate-200">
-                                  <p className="font-semibold text-slate-800 text-sm mb-3 leading-relaxed">{q.text}</p>
-                                  <ul className="space-y-2">
-                                    {q.options.map((opt, oi) => (
-                                      <li key={oi} className="text-xs text-slate-600 flex items-start gap-2 bg-slate-50 p-2 rounded border border-slate-100">
-                                        <span className="font-bold text-slate-400 mt-0.5 shrink-0">{String.fromCharCode(65 + oi)}.</span>
-                                        <span className="leading-relaxed">{opt}</span>
-                                      </li>
-                                    ))}
-                                  </ul>
-                                </div>
-                              ))}
-                            </div>
-                          </div>
-
-                          {/* Results */}
-                          <div className="space-y-4">
-                            <h4 className="flex items-center gap-2 font-bold text-slate-800 text-base pb-2 border-b border-slate-200">
-                              <Icon name="sparkles" className="w-4 h-4 text-purple-500" />
-                              最終結果與 AI 產圖提詞（{quiz.results.length} 種）
-                            </h4>
-                            <div className="space-y-4">
-                              {quiz.results.map((res, ri) => (
-                                <div key={ri} className="bg-white p-4 rounded-lg shadow-sm border border-slate-200">
-                                  <h5 className="font-bold text-indigo-600 mb-1.5">{res.title}</h5>
-                                  <p className="text-xs text-slate-600 mb-3 leading-relaxed">{res.description}</p>
-                                  <div className="bg-slate-900 rounded-md overflow-hidden">
-                                    <div className="bg-slate-800 px-3 py-1.5 flex justify-between items-center">
-                                      <span className="text-[10px] text-emerald-400 font-mono tracking-wider flex items-center gap-1">
-                                        <Icon name="terminal" className="w-3 h-3" />
-                                        IMAGE PROMPT
-                                      </span>
-                                      <button
-                                        onClick={() => copyToClipboard(res.prompt)}
-                                        className="text-slate-300 hover:text-white flex items-center gap-1 text-[10px] px-2 py-0.5 rounded hover:bg-slate-700 transition-colors"
-                                      >
-                                        <Icon name="copy" className="w-3 h-3" />
-                                        複製
-                                      </button>
-                                    </div>
-                                    <div className="p-3">
-                                      <code className="text-xs text-slate-300 font-mono break-words leading-relaxed">{res.prompt}</code>
-                                    </div>
-                                  </div>
-                                </div>
-                              ))}
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    )}
                   </div>
                 ))}
               </div>
