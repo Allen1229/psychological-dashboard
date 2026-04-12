@@ -32,33 +32,44 @@ async function fetchTopHeadline(feed) {
   return [];
 }
 
-async function callGemini(apiKey, prompt) {
+async function callGemini(apiKey, prompt, retries = 3) {
   const url = `${API_BASE}/${MODEL_ID}:generateContent?key=${apiKey}`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: {
-        temperature: 0.9,
-        maxOutputTokens: 65536,
-        responseMimeType: 'application/json'
+  
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: {
+          temperature: 0.9,
+          maxOutputTokens: 65536,
+          responseMimeType: 'application/json'
+        }
+      })
+    });
+    
+    if (!res.ok) {
+      const errText = await res.text();
+      // 若遇到 503 伺服器忙碌 或 429 請求過載，進行倒數重試
+      if (res.status === 503 || res.status === 429) {
+        console.warn(`[嘗試 ${attempt}/${retries}] Gemini 伺服器忙碌 (${res.status})。等待 15 秒後重試...`);
+        if (attempt < retries) {
+          await new Promise(resolve => setTimeout(resolve, 15000));
+          continue; // 跑下一圈迴圈重試
+        }
       }
-    })
-  });
-  
-  if (!res.ok) {
-    const errText = await res.text();
-    throw new Error(`Gemini API Error: ${errText}`);
+      throw new Error(`Gemini API Error: ${errText}`);
+    }
+    
+    const data = await res.json();
+    const text = data.candidates?.[0]?.content?.parts?.[0]?.text;
+    if (!text) throw new Error('Gemini returned empty content');
+    
+    const jsonMatch = text.match(/```(?:json)?\s*([\s\S]*?)```/) || text.match(/(\{[\s\S]*\})/);
+    const jsonStr = jsonMatch ? (jsonMatch[1] || jsonMatch[0]) : text;
+    return JSON.parse(jsonStr.trim());
   }
-  
-  const data = await res.json();
-  const text = data.candidates?.[0]?.content?.parts?.[0]?.text;
-  if (!text) throw new Error('Gemini returned empty content');
-  
-  const jsonMatch = text.match(/```(?:json)?\s*([\s\S]*?)```/) || text.match(/(\{[\s\S]*\})/);
-  const jsonStr = jsonMatch ? (jsonMatch[1] || jsonMatch[0]) : text;
-  return JSON.parse(jsonStr.trim());
 }
 
 function buildPrompt(headlines) {
