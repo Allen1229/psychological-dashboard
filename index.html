@@ -83,17 +83,23 @@
     }
 
     // ── Gemini API call ──────────────────────────────────────────────────────
-    const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-pro:generateContent';
+    const MODELS = [
+      { id: 'gemini-2.5-pro', label: 'Gemini 2.5 Pro' },
+      { id: 'gemini-2.5-flash', label: 'Gemini 2.5 Flash' },
+      { id: 'gemini-2.0-flash', label: 'Gemini 2.0 Flash' },
+    ];
+    const API_BASE = 'https://generativelanguage.googleapis.com/v1beta/models';
 
-    async function callGemini(apiKey, prompt) {
-      const res = await fetch(`${GEMINI_URL}?key=${apiKey}`, {
+    async function callGemini(apiKey, modelId, prompt) {
+      const url = `${API_BASE}/${modelId}:generateContent?key=${apiKey}`;
+      const res = await fetch(url, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           contents: [{ parts: [{ text: prompt }] }],
           generationConfig: {
             temperature: 0.85,
-            maxOutputTokens: 8192,
+            maxOutputTokens: 65536,
             responseMimeType: 'application/json'
           }
         })
@@ -105,7 +111,10 @@
       const data = await res.json();
       const text = data.candidates?.[0]?.content?.parts?.[0]?.text;
       if (!text) throw new Error('Gemini 未回傳任何內容');
-      return JSON.parse(text);
+      // 嘗試擷取 JSON（支援 markdown code block 包裹的情況）
+      const jsonMatch = text.match(/```(?:json)?\s*([\s\S]*?)```/) || text.match(/(\{[\s\S]*\})/);
+      const jsonStr = jsonMatch ? (jsonMatch[1] || jsonMatch[0]) : text;
+      return JSON.parse(jsonStr.trim());
     }
 
     function buildPrompt(headlines) {
@@ -156,6 +165,7 @@ ${headlineList}
       const [apiKey, setApiKey] = useState(() => localStorage.getItem('gemini_api_key') || '');
       const [apiKeyInput, setApiKeyInput] = useState('');
       const [showKeyModal, setShowKeyModal] = useState(false);
+      const [model, setModel] = useState(() => localStorage.getItem('gemini_model') || 'gemini-2.5-pro');
 
       const [quizzes, setQuizzes] = useState([]);
       const [expandedId, setExpandedId] = useState(null);
@@ -204,7 +214,7 @@ ${headlineList}
 
           // 2. Call Gemini
           const prompt = buildPrompt(headlines);
-          const json = await callGemini(apiKey, prompt);
+          const json = await callGemini(apiKey, model, prompt);
 
           if (!json.quizzes || json.quizzes.length === 0) throw new Error('Gemini 未生成任何測驗');
 
@@ -277,6 +287,14 @@ ${quiz.results.map(r => `・${r.title}: ${r.description}\n・[Prompt]: ${r.promp
                     設定 API Key
                   </button>
                 )}
+                {/* Model selector */}
+                <select
+                  value={model}
+                  onChange={e => { setModel(e.target.value); localStorage.setItem('gemini_model', e.target.value); }}
+                  className="text-xs border border-slate-200 rounded-lg px-2 py-1.5 bg-white text-slate-600 focus:outline-none focus:ring-2 focus:ring-indigo-400 cursor-pointer"
+                >
+                  {MODELS.map(m => <option key={m.id} value={m.id}>{m.label}</option>)}
+                </select>
                 <button
                   onClick={generate}
                   disabled={status === 'fetching' || status === 'generating'}
