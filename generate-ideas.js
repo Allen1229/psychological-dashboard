@@ -119,7 +119,7 @@ async function main() {
     const ideasWithPrompt = json.ideas.map((idea, idx) => ({
       ...idea,
       id: `idea-${idx + 1}`,
-      aiPrompt: `請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【${idea.theme}】\n2. 結果數量：${idea.resultCount}，並請自行根據主題設定 ${idea.resultCount} 種細微不同的人格分析結果。\n3. 風格：【${idea.style}】\n4. 廣告預設開啟\n\n請根據這份資訊，嚴格遵守公版規範流程，並立即開始進行接下來的完整測驗企劃設計與全套程式碼開發。`
+      aiPrompt: `請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【${idea.theme}】\n2. 結果數量：${idea.resultCount}，並請自行根據主題設定 ${idea.resultCount} 種細微不同的人格分析結果。\n3. 風格：【${idea.style}】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。`
     }));
     
     const outData = {
