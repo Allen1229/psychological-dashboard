@@ -16,7 +16,7 @@ const RSS_FEEDS = [
 ];
 
 const PROXY = 'https://api.rss2json.com/v1/api.json?rss_url=';
-const MODEL_ID = 'gemini-2.5-pro'; // You can change this to flash if needed
+const MODEL_ID = 'gemini-2.5-flash'; // 改用閃電版模型，避開 Pro 的全球塞車，且對企劃發想來說絕對夠聰明
 const API_BASE = 'https://generativelanguage.googleapis.com/v1beta/models';
 
 async function fetchTopHeadline(feed) {
