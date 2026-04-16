@@ -1,29 +1,117 @@
 [
   {
     "id": "2026-04-16",
-    "generatedAt": "2026-04-16T00:30:00.000Z",
+    "generatedAt": "2026-04-16T03:51:46.739Z",
     "ideas": [
       {
         "sourceCategory": "國內",
-        "sourceTitle": "中共惠台10項都有前提！他酸：鳳梨、釋迦排隊喊「支持統一」才能出關？ - Yahoo新聞",
-        "theme": "你的「價值觀」能值多少錢？測測你面對誘惑時的「底線指數」！",
-        "resultCount": 6,
+        "sourceTitle": "【國內】館長怒嗆李貞秀「當政治人物就2個字」 還自爆一事 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPclVCRTVadGVNTXMzak5ReV81dExyWC0tWGduMnN2aW9URUo5QmpaYVgwMmdrOWMwZlBWOEFDNDNCcU9GSnd6cXRqT05oUkpBMEpVaVloZXJtWEQ1bHVFR1FoZ0E3aDhFOTAtUk1YbVJqRjFHdjk0Ykg5VmhwQ0J3bFB3bGdtdjVyb2JiNmk4UzJTMElwVml0ejJlcXJFUTFmMWpxZW9kdUpWTlRyOUxfTTNWeDltbFlOYzdlZUtfdXNwS2d1aHpBOV9oMmhTNFBSbjhwQ1lSdlpWRl83Wjg1WVZNeUt1SjV5MV9fV2ZMd3NQMFZ6UHU4WHJzcDROREk3TDItUFQtY1pFdVB5VjlGNlU1TzZ4NmpUT280bC10b1ZOVXpER01xZEhXVjdFbzRUVU5NU2tWZFpoaFFB?oc=5",
+        "theme": "你的網路發言風格是『館長』型還是『李貞秀』型？測測你的『言論自由』指數！",
+        "resultCount": 5,
         "style": "搞怪幽默",
-        "description": "這個測驗透過模擬面對兩難抉擇的情境，分析使用者在個人利益與原則之間，會如何權衡與取捨。它能讓使用者趣味地反思自己的價值觀，並了解自己在不同情境下可能展現的「底線」在哪裡，帶來自我探索的趣味。",
+        "description": "透過館長直率的政治言論與自爆內容，分析使用者在公開場合（特別是網路社群）的發言風格，是傾向直接嗆辣、理性分析，還是有所保留。讓使用者幽默地了解自己在言論表達上的「人設」，以及面對爭議時的真實反應。",
         "id": "idea-1",
-        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【你的「價值觀」能值多少錢？測測你面對誘惑時的「底線指數」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。",
-        "sourceLink": "https://news.google.com"
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【你的網路發言風格是『館長』型還是『李貞秀』型？測測你的『言論自由』指數！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
       },
       {
         "sourceCategory": "國內",
-        "sourceTitle": "翻出多位藍委「支持印度移工」 李正皓：國民黨沒支持能通過？ - 自由時報",
-        "theme": "你的「移工政策」投票指南？測測你內心的「多元共融」光譜！",
-        "resultCount": 5,
-        "style": "清爽動漫",
-        "description": "議題圍繞著社會政策的討論與政治立場的表態。此測驗能讓使用者透過模擬情境，探索自己在面對多元文化與勞動政策議題時，內心真正的傾向與考量點。不僅能增進對社會議題的認識，也能趣味地了解自己在「包容度」上的光譜位置。",
+        "sourceTitle": "【國內】鄭麗文訪中團費480萬傳用「台灣民主基金會」補助 網怒噴：不要臉 - 自由時報",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92VFFGVVkzVzl3UU95M3hYQ0E1cTZYdWY4Y2dUcFJ6cE5Nbk5YWTZ6YXp4MUhWT0diX3lfZ281UUhyYkV1M0VObXBlVUotZy1GRTlWZmtTWGUySDV5UTQ4VXQ4SnJaVkxqVkHSAW9BVV95cUxOVGNIaThhMjVLMUxEN3JMZjR1eHFNSlpwYUljaDF3bnRxeFI3aEp3Y0Eyam1ka01QT09FQWFKWDNSYWl3QkxPY211QW5kR0gzMWdSa0txRXlMU0ExS0VNZWluT3ZFbjVwSy15UHpBeU0?oc=5",
+        "theme": "面對公款爭議，你是「憤怒鄉民」還是「理性評論家」？測測你的『公義天秤』傾向！",
+        "resultCount": 6,
+        "style": "懷舊報刊",
+        "description": "以政治人物團費引發的公款爭議為引子，測驗使用者對社會正義、資源分配和政治倫理議題的看法。讓使用者思考自己面對類似事件時的反應，是偏向情緒性批判、冷靜旁觀，還是積極監督，藉此反思個人社會參與的模式。",
         "id": "idea-2",
-        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【你的「移工政策」投票指南？測測你內心的「多元共融」光譜！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。",
-        "sourceLink": "https://news.google.com"
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【面對公款爭議，你是「憤怒鄉民」還是「理性評論家」？測測你的『公義天秤』傾向！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "【娛樂】噴1298元買帝王蟹罐頭「到貨打開崩潰」！謝麗金PO本體照：又上當了 - ETtoday星光雲| ETtoday新聞雲",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QbExQOTA1N3lKeHIyTTB4eHBaeGdvMVVpa2xzSDVoQW1pUmJtbHdZamhyYlZpenIxcjhIMkk4ZHZsUFZ1cm9QX0VPeld0Z9IBakFVX3lxTFBidmNnTm9jTUs4UnZ0Y3dtSkZKN2p4U1R0N04tN1Nia1J4b0lGOVkyVWRrV2Rqd0xjdi1ndWR3VUtxQlliU2NtNGJXTkFSZWpkLVR6ZDlWbzZUQVNEdFNnX04tRGhyVjNCd2c?oc=5",
+        "theme": "千元罐頭崩潰實錄：你的期待值與現實落差有多大？測測你的『網購踩雷』指數！",
+        "resultCount": 5,
+        "style": "搞怪幽默",
+        "description": "透過明星分享的「網購踩雷」經驗，測驗使用者在購物決策、風險承受度及面對期待落空時的反應。讓使用者在幽默情境中，反思自己的消費習慣，是衝動型買家、謹慎型買家，還是屢敗屢戰的「踩雷王」。",
+        "id": "idea-3",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【千元罐頭崩潰實錄：你的期待值與現實落差有多大？測測你的『網購踩雷』指數！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "【娛樂】遭爆秘戀柯震東不忍了！舒華首公開「真實近況」喊：my loves - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOR0NZQ2ZLZGRUcVZpNjJ4djlhRWgwSE5NNEFiVHc2X3FKTmZYSmFLQmdSR3lBQnVMMjZFWGpJcTlQQV8zb3lvaVVUT0VHODd3b3RxVlFUU1I4a1hFQUZJWTVRODBUaXM0cGRWZHZLbTJGZG9vZXprVE1YbEZNNHlXM1FYTGpXQ3phd1BHTEpGZ2Z5b3pBcTRVaDB0XzltSERXdTFWbjNLcnF0U2tNS3J1cFdVYWRuaTZRX1NZSUc4ZFEyMVBtMEQ2Z013enBnZ1VibUNTeWJrSTItcE1OdTFzOFlzd3FOdURlOHJiZFhkLXhPVVBkVVdVMkFUbWl5YzY1QjFLNUhNM1VHM1JTdzJadzVUVmxUQ3hpclFCNUQ0dFRnYXp2QmtHRjRWVXRObzVMaHZDX2V4Qnd2OVU3MVN6cHFGLUJJS3lhT1pLTG5NQQ?oc=5",
+        "theme": "你的『八卦雷達』靈敏度有多高？測測你面對藝人緋聞的反應！",
+        "resultCount": 4,
+        "style": "千禧Y2K",
+        "description": "以明星緋聞和闢謠事件為核心，測驗使用者對八卦的態度、對偶像隱私的尊重程度，以及面對不實傳聞時的應對方式。讓使用者從娛樂話題中反思媒體素養，並了解自己在資訊傳播鏈中的角色。",
+        "id": "idea-4",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【你的『八卦雷達』靈敏度有多高？測測你面對藝人緋聞的反應！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【千禧Y2K】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】〈台股盤前要聞〉連7漲摸到3萬7、台積電法說登場、中信金奪金控3月獲利王 - news.cnyes.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zNE9ObWZkTHZxdHZ0WXBLN2tETHBDYUFycHdqSFNRNl82YmR6ME0zdWlVUU5sNnAtX2NrTU5wVVRYUzRkZ01fLXhtUUdnNkk?oc=5",
+        "theme": "股市飆漲你敢不敢衝？測測你的『台股投資人格』！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "透過台股大盤、台積電法說和金控獲利等財經熱點，測驗使用者對投資風險的評估、對市場資訊的判斷力，以及個人的投資心理傾向。讓使用者在輕鬆有趣的氛圍中，了解自己的財商潛力與投資風格，是偏向穩健型還是積極型。",
+        "id": "idea-5",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【股市飆漲你敢不敢衝？測測你的『台股投資人格』！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】川普宣稱「戰爭已經結束」！美股四大指數2漲2跌 台積電、鴻海ADR雙雙走低 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOS2lpbFRqQ2tIeVZQUEFHZzVfZmRBTVhwTmZ2VmJUVk9zX1pLR3ktNmI0R25IcTBVSG0wYW5URjZHaFdSOGhSLUtvdmo1THpIQk4wQWpDV3pZRDhjNzFaczBLZEwwZDFRVm1mTVB4UVRibS1GMUUzZkJDamMwOTByLXBTNElUTEdLQXYyRURpcEVjVnZDNmk5cjJnNWpjeTN2Sm5zOGFrNmhoOERmRC13TWpKSm5lQk9xX2FHbmxYX0wyWFM3YzhwSGtSdHNJcjMwZUJOUlpndVFjZ3lrNzc0TkJIRTVhb0xJTjMxSHRuOUtsWDVsbEhtbUJvS0tTdzB5Vnowd1pkSzJCYzFiSVEyWHEtWXZKV3llWk5oZUNvYjV6NUlSU3g2NjE3aXV3d18tQWYtM3RzblNDbG40VW8wOGNnaWJEY2VpUEJOWVVDVnUtR1EydnBqWGUyS3cyZlB1bE1aeHNNNkI2Mk5VdThzWnlDb1A4WDVoNGhQMXQ5OHFqV3Z0b05RQmF0aTRvcGowQVAtUG1Bc1FDMTFuQmNSZGRzRGZydUJvWlVZ?oc=5",
+        "theme": "川普一句話，你的錢包會怎麼動？測測你的『政治經濟敏感度』！",
+        "resultCount": 5,
+        "style": "奢華宮廷",
+        "description": "結合國際政治人物言論對全球經濟和股市的影響，測驗使用者在面對不確定性時的決策模式。讓使用者反思政治與經濟的連結，以及個人在複雜環境下的風險偏好，是選擇保守觀望還是危機入市。",
+        "id": "idea-6",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【川普一句話，你的錢包會怎麼動？測測你的『政治經濟敏感度』！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【奢華宮廷】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "【科技】搭Uber怕暈車坐副駕 鄭家純竟被司機當約會對象、豔遇！當場提早下車 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioANBVV95cUxQVDNJV0J4ODBwTlh1LVpYREN4YkIwWUZZOUo5NUZhRkRkZDdpYXg4RmpvRzdFb2VGa1dpSkNvbFljcTgzZ19ycXNVbkdkSXI0azVaRklCUXhpSWptbFVpSmhoUmFrRUgxcE83VFlNQi11dGtVSGMyZ1RNa0JhV2otRzZ1V1lHaGl3LTVYWFN5Qi0yS0ZaSzNoVzJLNklZbFN1VmhNQ2ZTQ3d6eGpwQ1NKTTMza0NsNzFZTXFNSWl3MUZUM0d0U3ZoQTJmQ2xtY0Q5UnpuNWQ1NXVORlVLeWEwUXBZcGV5N0UycG1qUXlzVld6Nm9VYlItTHdoald5SkdhMXZHSXZIT1U0Y1RNZ2hjUXYxcGVucXNlMi03eTBNeHZTZXhhZVdOb1lGdUlRLVExNlE4dWotdU5INkN5OTBSY2U2TXVHVHQwejdHNlMtR0JOZHQ1N2JSVUdGSlhsWlE4Y1dITnVTaVZrX19aV1pRdkdFYTBvR2sySjdKT2tQeV9ndjVYNEJOdUFmX1JTbGp4V3BDczl2emR2cnJTSlJJUA?oc=5",
+        "theme": "Uber司機把你當約會對象？測測你的『社交界線』有多清晰！",
+        "resultCount": 7,
+        "style": "搞怪幽默",
+        "description": "藉由搭乘共享交通工具遇到尷尬社交狀況的趣聞，測驗使用者在陌生人互動、個人空間維護及突發狀況應對上的能力。讓使用者在輕鬆的測驗中，思考如何在日常生活中有效保護自己並劃清社交界線。",
+        "id": "idea-7",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【Uber司機把你當約會對象？測測你的『社交界線』有多清晰！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "【科技】馬斯克發文要謝台積電卻鬧了烏龍！宣布AI5晶片投片 特斯拉應聲大漲8% - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QY2RkcV9RSElYVnlBUFkxNVpuUFdwejRuZndvb0U3WjlQMDE4SDk5NmJkYzRRVE9ZVFZtRXhYbkdhYUhoX19Kb1VqUjk5TnB6?oc=5",
+        "theme": "馬斯克一句話，你信不信？測測你的『科技偶像濾鏡』！",
+        "resultCount": 4,
+        "style": "霓虹賽博",
+        "description": "透過科技巨頭馬斯克的言論烏龍與市場反應，測驗使用者對權威資訊的判斷力、對新科技趨勢的態度，以及是否容易受到意見領袖影響。讓使用者在科技話題中，訓練自己的獨立思考能力與辨識假訊息的敏銳度。",
+        "id": "idea-8",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【馬斯克一句話，你信不信？測測你的『科技偶像濾鏡』！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "【體育】MLB》大谷翔平只專心投球 連續上壘紀錄是否中斷受關注 - Yahoo運動",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPV1ZTV1ZldWZzRGRFVHNrbGVNTEtTbDFLVkhHNHdlZy1iVUh2WDR3OW1heW4tUG56M0d0SkM0X2FaZ2wtaUIxd2tiT0N6TnJsSjVfNVBuamd6ZGZNM25ZeU9KcEhhRUxfX3EwMjF6UmpialN3Ti1UTEFGV1BlQkF6QnRUY0xUOEpuZEFzV0ZoQ1UwRnVsdXdVNHpKRFlxQ3pZWmZLUE9kMmhfSE5wWEpuRTJQYWx4QXFVZkdVR3l0bmN3bGhSQVR4amk2RERqUHM0dEJHU21pcmdwZjduZFFadTZoZnYtTXFUVmtZNEs0cVM2Zm9Sek50dmlFYk9vSVlGOUdCVGZhcUV4bGFEZXdNZXNnRVZxOThFbElpbkFhNThUWnV6TkRobTJwc0tjS0YycmVpZXRSNHdjSWg2OEt0dDQ2UU1wTUR6WktmZDg4SW82TXZYN1ZnX2NFT1dFQXhZRWhySHpQaDRNdDg?oc=5",
+        "theme": "大谷翔平的專注力，你有幾分？測測你的『目標達成』戰略！",
+        "resultCount": 6,
+        "style": "清爽動漫",
+        "description": "藉由運動明星大谷翔平專注於投球而可能中斷連續上壘紀錄的事件，測驗使用者在面對壓力、追求目標和專注力方面的特質。讓使用者透過運動精神反思自己的工作或學習態度，以及是選擇專精單一目標還是追求全面發展。",
+        "id": "idea-9",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【大谷翔平的專注力，你有幾分？測測你的『目標達成』戰略！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "【體育】中職／王維中6.2局無失分奪久違勝投 兄弟開季12戰吞10敗平隊史最慘 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzVDAtN0FXLXVYZmZJSjktWktHcll0R2thM1cyMW41bFhrTllJcXpBSDlKTVFqTE0xNTRpMnpnUWxOOE5xdHp1dHNGblFWREw10gFWQVVfeXFMUFR4bXhqcm13Vk1wZDBhMllOaDQwY3dDbFlrYUlVc3BUWDNpSmo4TjlPNURmUHk4WW94TXRoSjFvMWFjUDFGdTJ1NDlzcVh1QldsdFNEQlE?oc=5",
+        "theme": "連敗陰霾下，你會是力挽狂瀾的英雄還是默默承受的隊友？測測你的『逆境突圍人格』！",
+        "resultCount": 5,
+        "style": "熱血動漫",
+        "description": "結合職棒球隊的慘烈戰績與球員個人突破的對比，測驗使用者在團隊合作、面對挫折和逆境時的態度。讓使用者從體育故事中獲得啟發，思考自己在團隊中的定位，以及如何激勵自己和他人走出低谷。",
+        "id": "idea-10",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【連敗陰霾下，你會是力挽狂瀾的英雄還是默默承受的隊友？測測你的『逆境突圍人格』！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【熱血動漫】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
       }
     ]
   },
