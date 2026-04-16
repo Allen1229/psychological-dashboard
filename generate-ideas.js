@@ -162,8 +162,8 @@ async function main() {
       history.unshift(newEntry);
     }
 
-    // 最多保留 7 天的歷史紀錄
-    history = history.slice(0, 7);
+    // 最多保留 8 天的歷史紀錄
+    history = history.slice(0, 8);
 
     fs.writeFileSync('daily-ideas.json', JSON.stringify(history, null, 2));
     console.log(`Successfully wrote daily-ideas.json (Total days: ${history.length})`);

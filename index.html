@@ -73,7 +73,11 @@
         const res = await fetch(`${PROXY}${encodeURIComponent(feed.url)}`);
         const json = await res.json();
         if (json.items && json.items.length > 0) {
-          return json.items.slice(0, 2).map(item => ({ category: feed.label, title: item.title.replace(/\s{2,}/g, ' ').trim() }));
+          return json.items.slice(0, 2).map(item => ({ 
+            category: feed.label, 
+            title: item.title.replace(/\s{2,}/g, ' ').trim(),
+            link: item.link
+          }));
         }
       } catch (_) {}
       return [];
@@ -113,7 +117,7 @@
     }
 
     function buildPrompt(headlines) {
-      const headlineList = headlines.map((h, i) => `${i + 1}. 【${h.category}】${h.title}`).join('\n');
+      const headlineList = headlines.map((h, i) => `${i + 1}. 【${h.category}】${h.title}\n新聞連結：${h.link}`).join('\n\n');
       return `你是一位趨勢分析與行銷創意總監。請抓取以下 ${headlines.length} 則熱門新聞話題，分析該話題可以延伸成什麼樣的心理測驗，並提供企劃構想，最終輸出 JSON 格式。
 
 ### 熱門話題 TOP10：
@@ -127,6 +131,7 @@ ${headlineList}
     {
       "sourceCategory": "類別名稱",
       "sourceTitle": "原始新聞標題",
+      "sourceLink": "該新聞的完整連結URL",
       "theme": "心理測驗主題（吸睛、具話題性的好標題）",
       "resultCount": 6, // 建議的結果數量 (範圍在 4~10 之間，最適合這個主題的數字)
       "style": "推薦視覺風格（必須從以下選擇：極簡質感 / 復古像素 / 霓虹賽博 / 奇幻魔法 / 千禧Y2K / 清爽動漫 / 驚悚懸疑 / 溫馨水彩 / 懷舊報刊 / 科幻冷冽 / 唯美浪漫 / 搞怪幽默 / 美式波普 / 底片膠卷 / 國風墨韻 / 廢墟美學 / 立體拼接 / 夢幻蒸汽波 / 自然原始 / 奢華宮廷）",
@@ -295,7 +300,7 @@ ${headlineList}
           let newHistory = [...history];
           if (existingIndex >= 0) newHistory[existingIndex] = newHistoryEntry;
           else newHistory.unshift(newHistoryEntry);
-          newHistory = newHistory.slice(0, 7); // Changed from 30 to 7
+          newHistory = newHistory.slice(0, 8); // Changed to 8
           
           setHistory(newHistory);
           localStorage.setItem('psychological_quizzes_history_data', JSON.stringify(newHistory));
@@ -326,7 +331,7 @@ ${headlineList}
               <div className="flex items-center gap-2">
                 <span className="hidden md:flex items-center gap-1.5 text-xs text-slate-500 mr-2 bg-slate-100 px-2.5 py-1.5 rounded-md font-medium border border-slate-200" title="系統每早排程自動抓取重點話題">
                   <Icon name="alarm-clock" className="w-3.5 h-3.5 text-slate-400" />
-                  每日 08:30 自動更新
+                  每日 14:00 自動更新
                 </span>
                 {apiKey ? (
                   <div className="flex items-center gap-2">
@@ -435,7 +440,7 @@ ${headlineList}
               <div className="mb-6 flex items-center gap-2 overflow-x-auto pb-2 scrollbar-hide" style={{ scrollbarWidth: 'none' }}>
                 <span className="text-sm font-bold text-slate-400 shrink-0 mr-1 flex items-center gap-1">
                   <Icon name="history" className="w-4 h-4" /> 歷史話題
-                  <span className="text-xs font-normal opacity-80">(保留近 7 天)</span>
+                  <span className="text-xs font-normal opacity-80">(保留近 8 天)</span>
                 </span>
                 {history.map(item => {
                   const isCur = selectedHistoryId === item.id;
@@ -501,7 +506,7 @@ ${headlineList}
                 </div>
                 <h3 className="font-bold text-slate-700 text-lg mb-2">專屬企劃產生器</h3>
                 <p className="text-slate-500 text-sm mb-6 max-w-sm mx-auto">
-                  通常系統會在每日早上 8:30 自動產生最新的測驗企劃。<br/><br/>
+                  通常系統會在每日下午 14:00 自動產生最新的測驗企劃。<br/><br/>
                   若您為管理員且想立刻手動生成，請點擊右上方按鈕或是下方設定 API Key。
                 </p>
                 {!apiKey && (
