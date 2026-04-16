@@ -2,8 +2,8 @@ name: Generate Daily Psychological Ideas
 
 on:
   schedule:
-    # 每天 UTC 06:00 執行 (台灣時間 14:00)
-    - cron: '0 6 * * *'
+    # 每天 UTC 00:37 執行 (台灣時間 08:37，避開 GitHub 整點與半點排程高峰)
+    - cron: '37 0 * * *'
   workflow_dispatch: # 允許在網頁上點選 Actions 以手動執行
 
 jobs:
