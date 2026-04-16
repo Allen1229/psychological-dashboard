@@ -24,7 +24,11 @@ async function fetchTopHeadline(feed) {
     const res = await fetch(`${PROXY}${encodeURIComponent(feed.url)}`);
     const json = await res.json();
     if (json.items && json.items.length > 0) {
-      return json.items.slice(0, 2).map(item => ({ category: feed.label, title: item.title.replace(/\s{2,}/g, ' ').trim() }));
+      return json.items.slice(0, 2).map(item => ({ 
+        category: feed.label, 
+        title: item.title.replace(/\s{2,}/g, ' ').trim(),
+        link: item.link
+      }));
     }
   } catch (err) {
     console.warn(`Warning: failed to fetch ${feed.label}`, err);
@@ -73,7 +77,7 @@ async function callGemini(apiKey, prompt, retries = 3) {
 }
 
 function buildPrompt(headlines) {
-  const headlineList = headlines.map((h, i) => `${i + 1}. 【${h.category}】${h.title}`).join('\n');
+  const headlineList = headlines.map((h, i) => `${i + 1}. 【${h.category}】${h.title}\n新聞連結：${h.link}`).join('\n\n');
   return `你是一位趨勢分析與行銷創意總監。請抓取以下 ${headlines.length} 則熱門新聞話題，分析該話題可以延伸成什麼樣的心理測驗，並提供企劃構想，最終輸出 JSON 格式。
 
 ### 熱門話題 TOP10：
@@ -87,6 +91,7 @@ ${headlineList}
     {
       "sourceCategory": "類別名稱",
       "sourceTitle": "原始新聞標題",
+      "sourceLink": "該新聞的完整連結URL",
       "theme": "心理測驗主題（吸睛、具話題性的好標題）",
       "resultCount": 6, // 建議的結果數量 (範圍在 4~10 之間，最適合這個主題的數字)
       "style": "推薦視覺風格（必須從以下選擇：極簡質感 / 復古像素 / 霓虹賽博 / 奇幻魔法 / 千禧Y2K / 清爽動漫 / 驚悚懸疑 / 溫馨水彩 / 懷舊報刊 / 科幻冷冽 / 唯美浪漫 / 搞怪幽默 / 美式波普 / 底片膠卷 / 國風墨韻 / 廢墟美學 / 立體拼接 / 夢幻蒸汽波 / 自然原始 / 奢華宮廷）",
@@ -122,13 +127,46 @@ async function main() {
       aiPrompt: `請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【${idea.theme}】\n2. 結果數量：${idea.resultCount}，並請自行根據主題設定 ${idea.resultCount} 種細微不同的人格分析結果。\n3. 風格：【${idea.style}】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。`
     }));
     
-    const outData = {
-      generatedAt: new Date().toISOString(),
+    const nowISO = new Date().toISOString();
+    const dateId = nowISO.split('T')[0];
+    const newEntry = {
+      id: dateId,
+      generatedAt: nowISO,
       ideas: ideasWithPrompt
     };
-    
-    fs.writeFileSync('daily-ideas.json', JSON.stringify(outData, null, 2));
-    console.log("Successfully wrote daily-ideas.json");
+
+    let history = [];
+    try {
+      if (fs.existsSync('daily-ideas.json')) {
+        const raw = fs.readFileSync('daily-ideas.json', 'utf8');
+        const parsed = JSON.parse(raw);
+        if (Array.isArray(parsed)) {
+          history = parsed;
+        } else if (parsed && parsed.ideas) {
+          // 轉換舊版單一物件格式為陣列
+          history = [{
+            id: (parsed.generatedAt || '').split('T')[0] || 'legacy',
+            generatedAt: parsed.generatedAt,
+            ideas: parsed.ideas
+          }];
+        }
+      }
+    } catch (e) {
+      console.warn("Could not read previous daily-ideas.json, starting fresh.");
+    }
+
+    const existingIndex = history.findIndex(h => h.id === dateId);
+    if (existingIndex >= 0) {
+      history[existingIndex] = newEntry;
+    } else {
+      history.unshift(newEntry);
+    }
+
+    // 最多保留 7 天的歷史紀錄
+    history = history.slice(0, 7);
+
+    fs.writeFileSync('daily-ideas.json', JSON.stringify(history, null, 2));
+    console.log(`Successfully wrote daily-ideas.json (Total days: ${history.length})`);
     
   } catch (error) {
     console.error("Execution failed:", error);

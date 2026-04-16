@@ -35,6 +35,7 @@
       0% { background-position: 200% 0; }
       100% { background-position: -200% 0; }
     }
+    body { zoom: 1.1; }
   </style>
 </head>
 <body class="bg-slate-50 text-slate-800 font-sans antialiased overflow-y-scroll">
@@ -158,13 +159,48 @@ ${headlineList}
       const [status, setStatus] = useState('idle');
       const [statusMsg, setStatusMsg] = useState('');
       const [progress, setProgress] = useState(0);
+      const [isFetchingDaily, setIsFetchingDaily] = useState(true);
+
+      const [history, setHistory] = useState(() => {
+        try {
+          const saved = localStorage.getItem('psychological_quizzes_history_data');
+          return saved ? JSON.parse(saved) : [];
+        } catch { return []; }
+      });
+      const [selectedHistoryId, setSelectedHistoryId] = useState(null);
+
+      // On initial local load, if we have history but no selected id, select the first one
+      useEffect(() => {
+        if (!selectedHistoryId && history.length > 0) {
+          setSelectedHistoryId(history[0].id);
+          setQuizzes(history[0].ideas);
+          setGeneratedAt(new Date(history[0].generatedAt));
+        }
+      }, [history, selectedHistoryId]);
 
       useEffect(() => {
         // 嘗試讀取伺服器自動生成的 daily-ideas.json
         fetch('./daily-ideas.json')
-          .then(res => res.json())
+          .then(res => {
+            if (!res.ok) throw new Error('Not found');
+            return res.json();
+          })
           .then(data => {
-            if (data && data.ideas) {
+            if (Array.isArray(data) && data.length > 0) {
+               // New Array format from history
+               const latestServerDate = new Date(data[0].generatedAt).getTime();
+               const localDateStr = localStorage.getItem('psychological_quizzes_time');
+               const localDate = localDateStr ? new Date(localDateStr).getTime() : 0;
+               if (latestServerDate > localDate || history.length === 0) {
+                 setHistory(data);
+                 setSelectedHistoryId(data[0].id);
+                 setQuizzes(data[0].ideas);
+                 setGeneratedAt(new Date(data[0].generatedAt));
+                 localStorage.setItem('psychological_quizzes_history_data', JSON.stringify(data));
+                 localStorage.setItem('psychological_quizzes_backup', JSON.stringify(data[0].ideas));
+                 localStorage.setItem('psychological_quizzes_time', data[0].generatedAt);
+               }
+            } else if (data && data.ideas) {
               const serverDate = new Date(data.generatedAt).getTime();
               const localDateStr = localStorage.getItem('psychological_quizzes_time');
               const localDate = localDateStr ? new Date(localDateStr).getTime() : 0;
@@ -183,6 +219,9 @@ ${headlineList}
           })
           .catch(() => {
             // 本地尚無此檔案，略過不處理（使用者可自己手動生成）
+          })
+          .finally(() => {
+            setIsFetchingDaily(false);
           });
       }, []);
 
@@ -243,7 +282,23 @@ ${headlineList}
           setProgress(100);
           setQuizzes(ideasWithPrompt);
           const now = new Date();
+          const newId = now.toISOString().split('T')[0];
           setGeneratedAt(now);
+          setSelectedHistoryId(newId);
+
+          const newHistoryEntry = {
+            id: newId,
+            generatedAt: now.toISOString(),
+            ideas: ideasWithPrompt
+          };
+          const existingIndex = history.findIndex(h => h.id === newId);
+          let newHistory = [...history];
+          if (existingIndex >= 0) newHistory[existingIndex] = newHistoryEntry;
+          else newHistory.unshift(newHistoryEntry);
+          newHistory = newHistory.slice(0, 7); // Changed from 30 to 7
+          
+          setHistory(newHistory);
+          localStorage.setItem('psychological_quizzes_history_data', JSON.stringify(newHistory));
           localStorage.setItem('psychological_quizzes_backup', JSON.stringify(ideasWithPrompt));
           localStorage.setItem('psychological_quizzes_time', now.toISOString());
           setStatus('done');
@@ -269,6 +324,10 @@ ${headlineList}
                 <h1 className="text-xl font-bold tracking-tight text-slate-900">心理測驗企劃控制台</h1>
               </div>
               <div className="flex items-center gap-2">
+                <span className="hidden md:flex items-center gap-1.5 text-xs text-slate-500 mr-2 bg-slate-100 px-2.5 py-1.5 rounded-md font-medium border border-slate-200" title="系統每早排程自動抓取重點話題">
+                  <Icon name="alarm-clock" className="w-3.5 h-3.5 text-slate-400" />
+                  每日 08:30 自動更新
+                </span>
                 {apiKey ? (
                   <div className="flex items-center gap-2">
                     <span className="hidden sm:flex items-center gap-1.5 text-xs text-emerald-700 bg-emerald-50 border border-emerald-200 px-3 py-1.5 rounded-full font-medium">
@@ -299,7 +358,7 @@ ${headlineList}
                 >
                   {status === 'fetching' || status === 'generating'
                     ? <><span className="w-4 h-4 border-2 border-white border-t-transparent rounded-full spin inline-block"></span> 生成中...</>
-                    : <><Icon name="zap" className="w-4 h-4" /> 抓取最新話題並生成</>
+                    : <><Icon name="zap" className="w-4 h-4" /> 覆寫並手動生成</>
                   }
                 </button>
               </div>
@@ -371,6 +430,36 @@ ${headlineList}
               )}
             </div>
 
+            {/* History Selector */}
+            {history.length > 0 && status !== 'fetching' && status !== 'generating' && (
+              <div className="mb-6 flex items-center gap-2 overflow-x-auto pb-2 scrollbar-hide" style={{ scrollbarWidth: 'none' }}>
+                <span className="text-sm font-bold text-slate-400 shrink-0 mr-1 flex items-center gap-1">
+                  <Icon name="history" className="w-4 h-4" /> 歷史話題
+                  <span className="text-xs font-normal opacity-80">(保留近 7 天)</span>
+                </span>
+                {history.map(item => {
+                  const isCur = selectedHistoryId === item.id;
+                  return (
+                    <button
+                      key={item.id}
+                      onClick={() => {
+                        setSelectedHistoryId(item.id);
+                        setQuizzes(item.ideas);
+                        setGeneratedAt(new Date(item.generatedAt));
+                      }}
+                      className={`shrink-0 px-3 py-1.5 rounded-lg text-sm font-semibold transition-colors ${
+                        isCur
+                          ? 'bg-indigo-600 text-white shadow-sm'
+                          : 'bg-white border border-slate-200 text-slate-600 hover:bg-slate-50'
+                      }`}
+                    >
+                      {item.id.replace(/-/g, '/')}
+                    </button>
+                  );
+                })}
+              </div>
+            )}
+
             {/* Loading */}
             {(status === 'fetching' || status === 'generating') && (
               <div className="bg-white border border-indigo-100 rounded-2xl p-8 text-center shadow-sm mb-6">
@@ -396,26 +485,35 @@ ${headlineList}
               </div>
             )}
 
+            {/* Initial Fetching */}
+            {status === 'idle' && quizzes.length === 0 && isFetchingDaily && (
+              <div className="bg-white border-2 border-dashed border-slate-200 rounded-2xl p-12 text-center flex flex-col items-center justify-center min-h-[300px]">
+                <span className="w-10 h-10 border-4 border-indigo-200 border-t-indigo-600 rounded-full spin mb-4"></span>
+                <p className="text-slate-500 font-medium">正在自動載入今日最新企劃...</p>
+              </div>
+            )}
+
             {/* Empty state */}
-            {status === 'idle' && quizzes.length === 0 && (
+            {status === 'idle' && quizzes.length === 0 && !isFetchingDaily && (
               <div className="bg-white border-2 border-dashed border-slate-200 rounded-2xl p-12 text-center">
                 <div className="w-20 h-20 mx-auto mb-5 bg-indigo-50 rounded-2xl flex items-center justify-center">
                   <Icon name="sparkles" className="w-10 h-10 text-indigo-400" />
                 </div>
-                <h3 className="font-bold text-slate-700 text-lg mb-2">準備好了！</h3>
+                <h3 className="font-bold text-slate-700 text-lg mb-2">專屬企劃產生器</h3>
                 <p className="text-slate-500 text-sm mb-6 max-w-sm mx-auto">
-                  點擊右上角的「抓取最新話題並生成」，Gemini AI 將自動讀取今日最熱門的新聞，並依照心理測驗公版規範為您生成完整的測驗企劃。
+                  通常系統會在每日早上 8:30 自動產生最新的測驗企劃。<br/><br/>
+                  若您為管理員且想立刻手動生成，請點擊右上方按鈕或是下方設定 API Key。
                 </p>
                 {!apiKey && (
-                  <button onClick={() => setShowKeyModal(true)} className="inline-flex items-center gap-2 px-5 py-2.5 bg-amber-500 hover:bg-amber-600 text-white font-semibold rounded-xl transition-colors shadow-sm">
+                  <button onClick={() => setShowKeyModal(true)} className="inline-flex items-center gap-2 px-5 py-2.5 bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold rounded-xl transition-colors shadow-sm">
                     <Icon name="key-round" className="w-4 h-4" />
-                    先設定 Gemini API Key
+                    手動生成 (需設定 API Key)
                   </button>
                 )}
                 {apiKey && (
                   <button onClick={generate} className="inline-flex items-center gap-2 px-5 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white font-semibold rounded-xl transition-colors shadow-sm">
                     <Icon name="zap" className="w-4 h-4" />
-                    立刻生成今日話題測驗
+                    立刻手動生成話題測驗
                   </button>
                 )}
               </div>
@@ -425,7 +523,7 @@ ${headlineList}
             {quizzes.length > 0 && (
               <div className="space-y-4">
                 {quizzes.map((idea, cardIdx) => (
-                  <div key={idea.id} className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden slide-up" style={{ animationDelay: `${cardIdx * 60}ms` }}>
+                  <div key={idea.id} className="rounded-xl shadow-sm border border-slate-200 overflow-hidden slide-up even:bg-slate-50 odd:bg-white" style={{ animationDelay: `${cardIdx * 60}ms` }}>
                     <div className="p-4 sm:p-6 flex flex-col md:flex-row md:items-start justify-between gap-4">
                       <div className="flex-1 space-y-3">
                         <div className="flex items-center gap-2 flex-wrap">
@@ -433,9 +531,16 @@ ${headlineList}
                             <Icon name="trending-up" className="w-3.5 h-3.5" />
                             {idea.sourceCategory}
                           </span>
-                          <span className="text-sm font-medium text-slate-600 bg-slate-100 px-2.5 py-1 rounded border border-slate-200 line-clamp-1" title={idea.sourceTitle}>
-                            {idea.sourceTitle}
-                          </span>
+                          {idea.sourceLink ? (
+                            <a href={idea.sourceLink} target="_blank" rel="noopener noreferrer" className="text-sm font-medium text-slate-600 bg-slate-100 px-2.5 py-1 rounded border border-slate-200 line-clamp-1 hover:text-indigo-600 hover:bg-indigo-50 transition-colors flex items-center gap-1 group" title={`在外開開啟新聞：${idea.sourceTitle}`}>
+                              {idea.sourceTitle}
+                              <Icon name="external-link" className="w-3 h-3 opacity-50 group-hover:opacity-100" />
+                            </a>
+                          ) : (
+                            <span className="text-sm font-medium text-slate-600 bg-slate-100 px-2.5 py-1 rounded border border-slate-200 line-clamp-1" title={idea.sourceTitle}>
+                              {idea.sourceTitle}
+                            </span>
+                          )}
                         </div>
                         <div>
                           <h3 className="text-lg sm:text-xl font-bold text-slate-900">{idea.theme}</h3>
