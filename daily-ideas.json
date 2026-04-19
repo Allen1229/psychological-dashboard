@@ -1,5 +1,121 @@
 [
   {
+    "id": "2026-04-19",
+    "generatedAt": "2026-04-19T03:53:44.063Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "周五周六鋒面再來 雷陣雨由北而南氣溫下降、北台轉涼 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByaUFlMTdIcEdkZWZ3UGFxMExQZlZqeHRZeVltYVA2M3dTMjE2UjMycG9lN1pvcGpFd19vRGRDNWtkYUppcXl6QVN5YTQ2emNy0gFWQVVfeXFMUGV6NGwxWnB0YW1KVHBQd1BaM0dXSEpfQWtHcHI3TlV1QlBSM1JweXlLUWFzQWFnMlN0ZmxrT2RockEtRlJZdEx1NG8xWlVDZmdCaUpMVVE?oc=5",
+        "theme": "你是哪種『天氣人格』？一場雷陣雨測出你的真實情緒反應！",
+        "resultCount": 5,
+        "style": "溫馨水彩",
+        "description": "天氣變化是日常生活中最常見的外部影響，人們對天氣的反應往往能反映其內在的情緒模式與應變能力。這個測驗能讓使用者透過選擇在不同天氣情境下的反應，了解自己是哪種類型的「天氣人格」，增加自我認識的趣味，並在茶餘飯後與朋友分享，創造話題。",
+        "id": "idea-1",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【你是哪種『天氣人格』？一場雷陣雨測出你的真實情緒反應！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "翡翠水庫「敲詐」台電？他們同聲批蔣萬安「無恥」 - Newtalk新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94eklYQ1FNcTgxZnRCN2hRcWY2Q1ExZG44SWFuT0lMd244OTJYWVdueUI5T1dSbTFrdXlLYktKTmZ6Wi1IelZzMk9iRjIwdHBSZm1zSmZVTEs2azg?oc=5",
+        "theme": "當資源分配引爆爭議，你是哪種『意見領袖』？",
+        "resultCount": 6,
+        "style": "懷舊報刊",
+        "description": "圍繞公共資源分配和政治人物的爭議，往往能激發大眾不同的看法和反應。這個測驗將模擬一個爭議情境，讓使用者在面對複雜的意見衝突時，選擇自己的立場和應對方式，進而揭示自己在社會議題中的角色定位，是希望引導輿論還是保持客觀。",
+        "id": "idea-2",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【當資源分配引爆爭議，你是哪種『意見領袖』？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "健康網》法國影后娜塔莉貝伊辭世 醫示警：這種失智症「幻覺超真實」更危險 - 自由健康網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94eXMxNkZlWC1JZHJXa18zQ0tqbXlyOFhTOWNBclJ6dTdYbWlCUkJXTE4zMDJLNDhqMDA2cFhwRVV1OEtvbV9QSHl4amtqS0hlMjRweF9WNFA2aEs3XzJoTUYtNVLSAWpBVV95cUxQc2I5M0JDNG9Wc3RUNi1NZFpXRnhzYmw1cm5Uak1TcUwxcGVjRDJleDlhSk96RmZla0dpRDJOREFYc3A5TVNpTWE4MV9Yb3BOUkd0OTdXRTNvV04xZlRLSW1xWl9yaldEWDBn?oc=5",
+        "theme": "面對生命中的『不確定性』，你的心靈防禦機制是什麼？",
+        "resultCount": 5,
+        "style": "溫馨水彩",
+        "description": "關於健康和生命議題的新聞，能觸動人們對自身與周遭親友的關懷。這個測驗透過探討使用者如何應對潛在的健康挑戰或生活中的不確定性，引導他們反思自身的心理韌性與應對策略，提供一個溫暖且具啟發性的自我檢視機會。",
+        "id": "idea-3",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【面對生命中的『不確定性』，你的心靈防禦機制是什麼？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "高允貞新劇硬撼《21世紀大君夫人》 導演不樂觀 - 20260418 - 娛樂 - 明報新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQYXRfQTc3TlRfcFpKNE1QbzgxZkNCTG5IT2N0bkNsTWltcGtkMkNSWGZRN3hsMjk0NnFkNHc3MHhfSDBNZERydWpBSEtVMVR3TlRQbW9DWVFOOXhaQkl2SjdxOFNxaEJXQ0FIQVJWUjJWcHZNdWk0cUNrMGxqbnJrcUlXcS0xYTl4anpXQ1pSWHEwWFhSM05YMXEyamx2RkZvOWxxY2IxLU5vQzN0dTk5eFdTa0ZmbGdWQ2VtbmE4Z192aEhSbnBIN3BQYko5bmgzOUtKSEtYalVld2RQSzdkQVJiM052aUpPSi1lQjE1aGR0ZDZRS0hMWXAxRFQtWG1jZ093NE40WjNaMHpiX2E2QkI5WDhrT21uejFhVW1JcnhWU3FMWTZpLXFLdWJyS2tCNjV6YWtUbU93NWJJeWpHalJwaVktbHNOa2JuZ091Si1ONTUzSFJWaHpfcTVQWExjNWhRaFlmb25YLTlfQmYwWUdRV0ZWOWZZRmxhVXdvVFlGQWc?oc=5",
+        "theme": "新劇對打，你是哪種『職場競爭者』？測測你的勝負欲指數！",
+        "resultCount": 4,
+        "style": "霓虹賽博",
+        "description": "影劇圈的競爭激烈與作品的成功與否，常引起大眾關注。這個測驗將以影劇對打為背景，模擬使用者在面對競爭、挑戰和高壓期望時的反應，揭示他們的「職場競爭者」人格特質，是勇於挑戰、步步為營，還是獨闢蹊徑，增加娛樂性和話題性。",
+        "id": "idea-4",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【新劇對打，你是哪種『職場競爭者』？測測你的勝負欲指數！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台積電擁史上最強成績單「夜盤竟崩500點」專家揭3關鍵：跌破1價位快撿 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNWnpSQk5vYUtwQl_5RWdFajA1R3pfWDZPbmZjdlpuVFJTRW01SVd4QWlwMGpXM09jNktqcUROa0hfNVhfR1R2WkhTa3ZCV25IRjJxRzlmNWpLNVRfeGNLVG90RHFSNmY5Z0tYVzVqLVBfUEQ1QWZJTWVMWXYxelEweUIxM2ZzQ0NiVE9oNlcxOXlaWS1iQTVZMWNyN1kzQXVNMC0yTVU5bjlUTnUtUkpxMm43SmhVN3g0M0Zva3Nac2RxWUF2c1lORjVRQVp2R0M0R2hNYnlZS2s1bmpqSVBycXNSTTZfQ1hzeTFXMWZYbnQyQnN6c0VkcjBaM042UDYVck1yUzkwaUVQbU96ZElGbXlNRExPUmJxTGxGY1NRUy1lR1ZQQTdQOWQ1ZUdvTGRjVTB5N2JPSmhaN3lqVmx6LTNZQllORUtRa0FkMmJjTmNzYmRaNzZUV2tCclRDY2xFS3FMTEk1UzFDNm83U0s1bFJFV0xHNk8xVGduNnFJVktOUE5Ed2VNRkJrN1gxREpGZXczcXk1VHltbnVISTNVV1VR?oc=5",
+        "theme": "台股震盪，你是哪種『投資者人格』？崩盤時你該跑還是撿？",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "股市波動是許多人關注的焦點，特別是龍頭股的表現更能牽動人心。這個測驗將模擬市場劇烈變動的情境，讓使用者選擇自己的應對策略，從而揭示其「投資者人格」，是屬於穩健保守、積極進取，還是趨勢追隨者，提供有趣的自我探索。",
+        "id": "idea-5",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【台股震盪，你是哪種『投資者人格』？崩盤時你該跑還是撿？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "伊朗開放荷姆茲海峽油價暴跌！美股飆漲創新高、台積電ADR漲1.97 - Newtalk新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KZVVuYUFjQnFTMU56OGpsTzhELVExTy1hdjNJS2FTemV6MmR2a1JYXzBhdnJ0b254aTAzTmlvaTVPWFNxWlVzUUdUbW9sbHVJMFhHUExnWFUtQ0k?oc=5",
+        "theme": "全球局勢詭譎多變，你是哪種『國際觀察家』？",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "國際局勢的變化，尤其是對經濟市場的影響，是許多人熱議的話題。這個測驗將透過假設國際重大事件，讓使用者選擇他們會關注的面向、預測可能影響或採取的立場，藉此分析他們是哪種「國際觀察家」，是聚焦經濟、政治，還是人文關懷，增加對國際議題的參與感。",
+        "id": "idea-6",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【全球局勢詭譎多變，你是哪種『國際觀察家』？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "拉基不落地？淡江大橋活動驚聞「中國腔廣播」新北市府：委外廠商AI製作 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNR29MRm96LW1HY3JjdzNLQ214UnA4bkYxbFl5UERQdkNFUDRXOTRGQXFFWG9uV3RIYm5JUlhlYTJ6OGV0RzRYbk8zZXpGN3dwbWIxUzJDUDRFeW55VHpOUFBObFU3cU43WGtMelFCV291bEZUWXlLOHJiX1pkaDZfVUJFYy1Jcmt1SVJiSVhFQjMtcFJsTWdwSDNDYTUzSXAzNnE4cDF1VHJyY1VMSEZjbm9HR3BPRDZZSUNydDRMNHRDc2o3RW80SFZsRWZ4N1ZvTVNXLWlQcm5aNnNULTBCa1BZb3ItdlpUZnJNYW5iRmpEVEQtU0FxN25HMEdjYnU2VUJoZTNtdmdFeU1vMVd1NnRuYzcxOFkycEF0b3YzWUREUjNhM0h3d1UxbDNMLXpCMjBnSE1UeWJNNEJORWVydElnX2Z4cy1iVC1ZaDRJc2E5Qjc0Z2EzeDBCV1lmVVQwVjhqbmNKcmFXdUpPZkZNbUp5TXRpMlNnV3dOSUpheUxVcVpVajU4eHVVOUUtakZ3Z1Q0MlFubjN5WlE1eG10RjhiaDhaT01zZlNsSWRmV2V2UHdnTnJBTHlHenBzNVNlSzZOeDMzYldpZzJ1aHUtY3JoZVdjZw?oc=5",
+        "theme": "AI進駐生活，你是哪種『科技觀察者』？測測你的AI接受度！",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "當AI技術與日常生活和文化議題產生交集時，往往會引發熱烈討論。這個測驗將以AI語音廣播事件為引，讓使用者在面對AI融入生活、甚至帶有文化敏感性的情境時，選擇自己的態度和看法，藉此了解自己是哪種「科技觀察者」，是樂觀擁抱還是保持警惕，趣味性與討論度兼具。",
+        "id": "idea-7",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【AI進駐生活，你是哪種『科技觀察者』？測測你的AI接受度！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "魏哲家說晶圓代工「沒有捷徑」 馬斯克曝蓋廠內幕偷抱怨 - 自由財經",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zUHRLT01xZFV2c2RmOS1RMkhCNVRCZTZaMTFfZDliM3NOenZKS29JdGhiRThXWVdCS0JYN0p3aTUyelRobnBVNkw3a0pQdTFiWWxWbWdneUUySzJ5MS1B0gFkQVVfeXFMUFhiVFdZbTJvemJLaTNWaUNsWjMtdXhNbU5CZWI2dGw1SHF6VnpJUXRSc19odDlGTjhWNjRNWXZLOGhtYmdqSFd2Sm03TlpUR3R4VUtiZnZDaDVUdGxuYTlON2ltUA?oc=5",
+        "theme": "成功之路沒有捷徑？你是哪種『打工人哲學家』？",
+        "resultCount": 6,
+        "style": "立體拼接",
+        "description": "科技巨頭們對於成功和努力的見解，總能啟發人們對自身職涯和目標的反思。這個測驗將透過模擬工作或創業中的挑戰情境，讓使用者選擇他們的應對方式和心態，進而揭示他們是哪種「打工人哲學家」，是堅持不懈的實踐者，還是尋求智慧的策略家，引起共鳴。",
+        "id": "idea-8",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【成功之路沒有捷徑？你是哪種『打工人哲學家』？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【立體拼接】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "MLB》追平棒球之神紀錄！大谷翔平最後打席敲安 達成連續50場上壘 - 自由體育",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xTVBEWnRXSUhNSUtoSFREZUk3OFJwdXlMRm5tU1hheGRzeWQzeHJtMmU2MWhEY2pXbDlLazZreW1xWExiOHZIaFVyRUpoMjV3QzMwZlRidG56cDJXN05HZtIBZkFVX3lxTE5QMHNZNWl1a3QwQnEzMzhtUEd3cVhvZzR2NU51c3pCZWlyYnpoN2kxX2VIZDM3WTRWTXdlUURkYW0xck94Vk9aZ0hzZnh0eWJGd0wtTENkMktIanBvczVXOUFPVFQzZw?oc=5",
+        "theme": "挑戰巔峰，你是哪種『紀錄創造者』？測測你的潛力值！",
+        "resultCount": 5,
+        "style": "美式波普",
+        "description": "體育明星的卓越成就總能激勵人心。這個測驗將以大谷翔平的紀錄為靈感，讓使用者透過情境選擇，探討他們在追求個人目標或挑戰極限時，會展現出哪些特質，是依靠毅力、智慧，還是爆發力，提供正能量與自我期許的趣味。",
+        "id": "idea-9",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【挑戰巔峰，你是哪種『紀錄創造者』？測測你的潛力值！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "MLB／生涯前21戰7轟超越大谷 日媒預測村上宗隆本季54轟 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aUFdkWERVVHBiYW11SzJYbTUwRWt4RmxOS083R2hVb3Rab3VodHc4TjhjM1BSTHpOVFNIc2lrSTlfOUZFekI3QVE4SGRJbkpt0gFWQVVfeXFMTXF0aERVNEg5X1JwVVpuc2tRMEI2aWFLeWFYMVVEQWxfZ2FhNkQ4NndqbGxNaEJmTVZZeGVBbGVDeVpUclhKN0NmdW5sWkVuekZEdnBCckE?oc=5",
+        "theme": "我是下一個誰？測測你的『潛力爆發』指數與未來成就！",
+        "resultCount": 5,
+        "style": "美式波普",
+        "description": "體育界的後浪推前浪，新星的崛起總是充滿話題與期待。這個測驗將借用新人挑戰傳奇的背景，讓使用者在設定目標、展現潛力與面對預期時，選擇自己的反應與策略，藉此分析他們在個人發展中是屬於哪種類型的「潛力爆發者」，充滿勵志與想像空間。",
+        "id": "idea-10",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【我是下一個誰？測測你的『潛力爆發』指數與未來成就！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      }
+    ]
+  },
+  {
     "id": "2026-04-18",
     "generatedAt": "2026-04-18T03:34:53.078Z",
     "ideas": [
