@@ -1,5 +1,121 @@
 [
   {
+    "id": "2026-04-20",
+    "generatedAt": "2026-04-20T03:56:20.709Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "【國內】李貞秀提假處分盼保立委身分 黃國昌：交給司法程序完全不擔心 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYUUtlRTVCVE84SUVXNGdVSkJRMWhZRVhiMGVXOHVNcTRBQTJrenljOFdENlUtaWxQS0Y3OXp5bHNKMnVjcmQ2aXpwVU92RHh40gFWQVVfeXFMT18yUVR6cy1xSlNhb255Tks3eXlZdmhzVTlRM2dpTkNlZHdjU1NyM0phVkZrOXg1enVfYjloSlZ6UHFKN0dIQ25iMk9Lb3lNOTNJMXc2bUE?oc=5",
+        "theme": "權力遊戲生存戰：在政治風暴中，你是運籌帷幄的智者還是堅守原則的鬥士？",
+        "resultCount": 6,
+        "style": "懷舊報刊",
+        "description": "新聞涉及政治人物的權力保衛戰與司法攻防，這種情境很適合設計成探索個人在面對複雜局面、壓力與外部挑戰時，會如何選擇策略、堅守立場或靈活應變的心理測驗。能讓使用者代入情境，思考自己在權力與原則間的平衡，增加參與感。",
+        "id": "idea-1",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【權力遊戲生存戰：在政治風暴中，你是運籌帷幄的智者還是堅守原則的鬥士？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "【國內】商總惠台措施記者會「以商逼政」？ 業者：扣帽子抹紅才是「以政逼商」 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yZFZFQ2hKNU5LMDZ6cTJkRUN5a1o1a3JWcmVKRXpCYW4zS2txY2JrNjRjWnpCZ2NocktkVnBJWXNnbWlqajNXRnVFaG9MR0prdWg40gFYQVVfeXFMUGN5dTBLaVREa2p1Z181a2pockcwOUJHUzluZGhjQmVvUkRNemtNRzhFWE1NenotUmxqQW1rWE13QURqVkhLR1RoQUFKZ3FvVTdiNUh3VUZxeg?oc=5",
+        "theme": "商戰風雲錄：當商業遇上政治，你會選擇硬槓到底還是巧妙周旋？",
+        "resultCount": 5,
+        "style": "極簡質感",
+        "description": "這則新聞揭示了商業與政治之間的敏感張力，以及雙方在公眾面前的言論攻防。測驗可以設計成讓使用者模擬在這種壓力下，如何回應外界的質疑、選擇戰略，並維護自身或團體的利益。趣味點在於讓使用者體驗「在商言商」與「政治正確」之間的兩難。",
+        "id": "idea-2",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【商戰風雲錄：當商業遇上政治，你會選擇硬槓到底還是巧妙周旋？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "【娛樂】香港金像獎完整名單／梁家輝5度拿下影帝 章子怡影后敗給大黑馬飲恨 - 噓！星聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrdU9UejUwVWNBX3I4V3dMWXlnWnlBN1JlTDltckFpbVcteWhRWm5xbGtZa0RIbGJlNk4xUEphWlV4VzNzWjdWYWZjUlN0WEVkd3Z3dWsxbUpXd9IBX0FVX3lxTE84YWRlVnBuOWpvTnAtLVBIWFB5MFIxMHNCQi15QjB2eHhYcGItcnIyMGM4QV9ZUGNGWlROX3VweVhjeTJCRFAxNGRxcUxrSEptSUt1OWtNcEtjSkRnNWxj?oc=5",
+        "theme": "金像獎人生劇本：你的人生是黑馬逆襲，還是飲恨落馬？",
+        "resultCount": 6,
+        "style": "唯美浪漫",
+        "description": "頒獎典禮總是充滿高潮迭起與戲劇性，有勝利者的榮耀，也有黑馬的驚喜，更有遺憾的飲恨。這類測驗能讓使用者對應自己在生活中面對成功與失敗、期待與現實落差時的反應，以及自己是追求穩紮穩打還是期待一鳴驚人。",
+        "id": "idea-3",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【金像獎人生劇本：你的人生是黑馬逆襲，還是飲恨落馬？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "【娛樂】超正女兒才創IG！吊車大王突「認了被封」震撼原因曝 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOTzlReUtseFVxODFGTnBXTkZ5engxZW5pUGVrSWh1QWJXYzlTRkpncDJxeFZtd2tFUjYzRUJlbmRxWkxxSEJ0YjFMYmJ2MVJDemt6QkczSzFkeFZHZnlFYWdMMFIzMlc4R0pfQkJfZ1ROZ0VsOEtpa1Foakg4WnE1d2JzdU9yRWQtTFNDVEc2WVZoMGdOd0FTNHh2eXNkalFZVFJNYTAxa29QV0hBM05nZGROQnFSZ0NrQUlyU3JJMjRtLXBUMHVWOUVIM1J0SEFrWkw3SjdHcTVtdjBiMHctN1lNWnAxVlpPcG1EcnZOX3MyMVVaTFBXdkhNaW9NMms4V0lPNmJabXhTdUtzZXhaVzlnTHhIQUhIRGxGRnpBal9yYm14bnd0T3VjdlRRb3l2cS1RdE1QMnVuZGt3Zk9nMVl1N3lhOWUtUmc?oc=5",
+        "theme": "社群媒體生存戰：面對網路喧囂，你是低調隱士還是流量製造機？",
+        "resultCount": 5,
+        "style": "千禧Y2K",
+        "description": "名人的家庭隱私與社群媒體的界線一直是熱門話題。測驗可以讓使用者思考自己對於公開個人生活、保護家人隱私的態度，以及在社群時代，如何處理網路上的關注與潛在風險。趣味點在於模擬處理「爆料」或「被爆料」情境。",
+        "id": "idea-4",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【社群媒體生存戰：面對網路喧囂，你是低調隱士還是流量製造機？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【千禧Y2K】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】台股早盤漲逾400點 台積電漲20元 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPclF0M3ExMFlMajJKYWRGci1QbGxFbzlXN0NKdnBwNk5UN0VzMTgyS2JtNVdPV3o3eGpLMHVQQWhDY1RxRXpYdi1qelV4ckx5X3lDeGN5VTZrR1oyc1U4Zmk2OF9PUkQ2bFhaaEhPazJ6aUs3d0M0VDN0NVdLQkxvc2lCYnJKZXozQm9xTjZsX2lySFZqS0hNaXluRzJROTd2YmNETTB3WFNuYnd4VzAzV3RITktfdlhmZC1HNEJaOGt2MG9rbzIzVU1WM19JbWZyVHNGa0hVOEJ6ZHZNdmNZZ1h3NEhhdTZkeUpF?oc=5",
+        "theme": "股市人生劇本：當台股大漲，你是抱緊處理的巴菲特還是見好就收的先知？",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "股市漲跌牽動人心，特別是台積電等指標股的表現。這個測驗能讓使用者探索自己在面對市場波動時的心理狀態、風險承受度以及投資決策風格，是屬於追逐熱點的冒險家，還是穩健佈局的長期主義者。",
+        "id": "idea-5",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【股市人生劇本：當台股大漲，你是抱緊處理的巴菲特還是見好就收的先知？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】中東能源危機升級！荷姆茲海峽再掀波瀾 美伊向商船開火 國際油價大漲8% 金價跌破4800美元 - news.cnyes.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00QWZPVkI1M201M2YtLWhwaW1TMno2bmdUb01abExyVXl3cFhhb1d5MkpaQkl6SlZhM0JKanM0TDg1VUE2ZVdYTGpZT3lYSEk?oc=5",
+        "theme": "末日生存挑戰：當世界陷入危機，你會成為哪個類型的倖存者？",
+        "resultCount": 6,
+        "style": "驚悚懸疑",
+        "description": "中東危機與國際油價、金價的波動，反映了全球局勢的緊張。這種情境非常適合設計成探索使用者在面對重大危機、不確定性和生存壓力時，會展現出何種應變能力、決策模式和心理素質。趣味點在於讓使用者想像自己在國際衝突中的角色。",
+        "id": "idea-6",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【末日生存挑戰：當世界陷入危機，你會成為哪個類型的倖存者？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "【科技】伊朗報復美軍扣押貨船！無人機群攻擊多艘美軍艦 損傷不明 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWWFtcVplODhhcndVcEZVRXI2anJwZExEOUN4TWhFYl8yUVAweHpaS2dlejF0azVmcGNFN2hfOFNSeHpsZXNvdDhnbVZqMlZpTnVF0gFYQVVfeXFMTmxPMjNhNWM5dzNUTW9NUlFjeDUxNXl2QzdXaXhiR2xyVW1kb3JHczdFcHF0QXdsOFJTbzRmeUluTFE0a0hvMFFEXy1UMEwySnBpd0Fmd2lieA?oc=5",
+        "theme": "AI戰場策士：在科技衝突中，你是無人機指揮官還是情報分析師？",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "無人機群攻擊代表了現代科技在軍事衝突中的應用。這個測驗可以讓使用者代入高科技戰爭的場景，思考自己在戰略規劃、情報分析、危機應對等方面的特質，並感受科技如何改變衝突的模式。",
+        "id": "idea-7",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【AI戰場策士：在科技衝突中，你是無人機指揮官還是情報分析師？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "【科技】AI大咖正在發生的一些事情 對台積電是好消息 外媒說明了 - 自由財經",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Xd3Jlak1OZjhrRnJWbENNelZSZXBKQU9PQVJpMmxDWGVFUVIwQ1k5NWxzRUpFcHhHeHJ4UE5wOWpvZkNES2lBcWhOUWRpdmxETGNWZkdodzJRMEdPYW1Z0gFkQVVfeXFMUDNBS0RzRVJ6bVF0Ujk3eHcwaWNvV241akRqN1FjZVA2MHI1T1JnOUVKQzdGOE1GN0V0TFo0eDUzY3NCak9xVFFDSXBuTU1JcTU2UWEyWS1oRmVmTjF2Zm0zRjdfQg?oc=5",
+        "theme": "AI時代領航員：面對科技浪潮，你是引領者還是乘風者？",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "AI的發展是當前最熱門的科技趨勢，對全球產業鏈產生深遠影響。此測驗能讓使用者評估自己對新興科技的態度、在變革中的角色定位，以及如何看待未來的科技發展。趣味點在於將抽象的科技概念轉化為個人特質的探索。",
+        "id": "idea-8",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【AI時代領航員：面對科技浪潮，你是引領者還是乘風者？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "【體育】MLB》猛敲2長打！大谷翔平聽牌亞洲最狂紀錄 朗希先發4.2局飆158公里 - 自由體育",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlNk44RjV0LWdaSzFfR2RDVUhZV2N6d3lmOW5kcm9UanFFZDNPN2R5YnNCek9iSS0xa0ktd2cxRzVZUlU4QTJmQS1WdnNlVWxEVmpVMHVjUDhxVURndTRtZNIBZkFVX3lxTE1BOGd5RWV5eFB3U0g1S0RYTklUQzVnMm9lUVNhdDJHaU1ZbmlDT2NVSExCREZUbld0andnc3AwclA5WW54R0J3eHlIOFp3OXpkMFdmM0VRQ0NvMmdwbzdtVDFkaF8xdw?oc=5",
+        "theme": "棒球人生測驗：在挑戰巔峰的路上，你是哪種MVP潛力股？",
+        "resultCount": 5,
+        "style": "美式波普",
+        "description": "體育明星大谷翔平的表現總是激勵人心，挑戰紀錄的精神也令人讚嘆。此測驗可以讓使用者對應自己在追求目標、面對競爭和展現個人實力時的態度，以及是否具備突破極限的潛力。",
+        "id": "idea-9",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【棒球人生測驗：在挑戰巔峰的路上，你是哪種MVP潛力股？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "【體育】中職》2度本壘攻防戰！ 「台鋼最速男」完勝陳晨威 - 自由體育",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNWHkyNC02WlRNaWxIZgRmV2R0bjZTckQyMzFRTHNQc3pCMHVKTjExQmJiVEl3S2dhTTl6RGZrM3BBb0NjMFZnWHJScTlJeUZaVVVtWFFmT1VkYVhpaXJGbtIBZkFVX3lxTE55ZlNIb3pOeFNxSVZBZXk0WUY3RlcydGhZbDVUSFdHTEx2amh1aGlPc0RXdENJSE9SUWFGTXR4Rm42NFVtM2JhMmEtVmhuNmd0ODlUVWZhM3VYUzRrV2h1MUFhR21WQQ?oc=5",
+        "theme": "球場關鍵一刻：在本壘攻防戰中，你是速度致勝的快腿還是智取攻防的策略家？",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "棒球比賽中的本壘攻防戰充滿刺激與不確定性，考驗選手的速度、判斷與膽識。測驗能讓使用者將自己的反應力、決策風格以及在壓力下是否能發揮最佳狀態，與球場上的關鍵情境相結合，增加趣味性。",
+        "id": "idea-10",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【球場關鍵一刻：在本壘攻防戰中，你是速度致勝的快腿還是智取攻防的策略家？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      }
+    ]
+  },
+  {
     "id": "2026-04-19",
     "generatedAt": "2026-04-19T03:53:44.063Z",
     "ideas": [
