@@ -1,5 +1,121 @@
 [
   {
+    "id": "2026-04-22",
+    "generatedAt": "2026-04-22T05:56:36.036Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "賴清德出訪受阻 撤銷飛航許可的非洲三國回應了 林佳龍：外交部努力到最後一刻",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNRGx5WDZaald4MFRETUtJYXZQMjdtSEdwSVVtZGREWWtkSWppOVJwWXE3MWgyWlVzQlAtM0p4b3NVZ0pUSFZEd2xXREk0Y0tVUm9Zd1pjc0pXU2lkWkdQUUZkZ2NlajNUVWVZNnZhMHlfalBNaEFFZFYyTVFVdjUweER4VTVzRkpNR1c5a19adTNuS1JYVl9hQzBYNFZmckRUaHZxVjFVRnZmTE5NOTRYRlRZZ1Y4NXpSVkdoOU4xejdsX2lkWFRtUVhRVmRJdXkzR3lfRDgwSWZlU3J0NzhzTi02X0pDb3hYeUVpU24tdUdUYVBrNUw1RVJZcVhJdlQ4SE1iaHlyYklKeGhYQnN2bFg1eUwyYndkM0Y4WUFOTWxLczRwX25UaFVnT1hVdXFsTjFGQVlvekhfeksxRmlRTF9PQ2EwWmpmVVlYaVpsTFo0dXJBN2VBb1ZWVEJVZ3EzbjEwaTJjWGgyMHJzOEh1UGlRLWtZNk1VeEVLYUpWaFJrRmRnQVcwOHpQU1JaSEllcWRzUUwyczhLOWhJaGY0OTh6U1NkT2VMWmZpaXdXQ0VZSWNwTWlzZTFPcUppbkxIMlRTMUliUjJhRE5CNmszaWRuSzAtZkU3azB1M3NfdENRLThx?oc=5",
+        "theme": "你的外交手腕有多強？測測看你面對國際危機時會如何出招！",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "這個話題關於國際政治與外交困境，可以延伸出使用者在面對複雜人際關係或工作挑戰時，會採取何種「外交策略」。測驗能讓使用者了解自己的溝通模式、應變能力，並從政治情境中找到生活趣味。",
+        "id": "idea-1",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【你的外交手腕有多強？測測看你面對國際危機時會如何出招！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "辣椒水案翻車！黃智賢轟柯文哲：貪污判17年還像皇帝出巡去助選賤人就是矯情| 政治 - Newtalk新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWOS13RWdUR3VuTkFDNkFrcFc5U2NXUVlfVlVvXzlBNVFwVHVKLTV0SnlMQ3pkdWJDQVNkXzUyNk8zRExzRlptbFdkYnA4MEFmQVdqcDlPMUxvUGc?oc=5",
+        "theme": "測驗你的「輿論風向球」指數！面對爭議話題，你是哪種評論達人？",
+        "resultCount": 6,
+        "style": "懷舊報刊",
+        "description": "政治人物的言行常常引發兩極化的輿論反應。這個測驗能讓使用者透過模擬評論者的角色，了解自己在面對公共爭議時，是屬於哪種意見表達類型，是理性分析、情緒批判，還是旁觀吃瓜，增加參與感與娛樂性。",
+        "id": "idea-2",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【測驗你的「輿論風向球」指數！面對爭議話題，你是哪種評論達人？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "買股半個月爽賺100萬！30歲女星公開「2大致富秘訣｣：太好賺了吧",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQTzIwWTdCS2JUcUhjRXJXZ3UtdnhQZjAyTGN1a2l1Y21UT0RxUTRYbjU0MW1OaFVTeGxobE5CakJoU0daMWZ2Zk1UaE95bHpkRGduUVkxTGdoUzVfYmNDU2c4OHh5Q1BYLVFWNmdidVJ5YkZ6M0xDMll1NkRpa2ZtU1l6dy1sOUF4cVRzTXJ5SXc2Z0p2RUprWUd5UWVZUUdNVU1vNUcwQnpiclJOUFZ2eklyUzZ2NU5PazVnYmpYNFVDc2lxUUp4Y1RQU3VhMmNVS2NqdmNEN1hmTUs3TXBfZE13M1dMeUNuaUE3bWFUejg0d2pzcU5tY1ViVlU3Tjh5YWlnbFFrT1R6VG1DVW9INE1mbWZjd1lMcm1zbmJzNi1ZRlhROERPVDlWMXJlamxMYkx1eHFrT1FsbWNpa2RQOGhoSzg3dHVyYS03b1RBWktYMjdaaF80R3hXODBudnU1Z2MwWTNnRFdSRm5IN1hOTS0xZw?oc=5",
+        "theme": "你的「財富自由」潛力有多高？測測看你最適合哪種投資人格！",
+        "resultCount": 5,
+        "style": "極簡質感",
+        "description": "許多人嚮往財富自由。這個測驗能將「女星賺錢」的熱點，轉化為探索使用者個人理財觀念與風險偏好的工具。透過測驗，使用者可以了解自己是屬於穩健型、積極型，還是享受型投資人，增添對理財的興趣與自我認識。",
+        "id": "idea-3",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【你的「財富自由」潛力有多高？測測看你最適合哪種投資人格！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "許維恩三姊妹旅行 「美的像P上去」！網驚呼三仙女下凡",
+        "sourceLink": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93c1BQdlFMcEtSbHl2WFVXVmcyYk5rQTR1NG5CdEVGTThidWltUnEwRlBkTmtIVlJVVU1UVzNZc21LYTJ5TnBNVy1tcHR1RFlmTWhDVnpxOXRhSlpBSlFiS2dDdzkwcFZWV1duZFNyQjkwUlA1Nld1Ni1jUWVtVTQ?oc=5",
+        "theme": "你的姊妹/兄弟旅行風格是？測測看你們是哪種「天團級」出遊組合！",
+        "resultCount": 4,
+        "style": "唯美浪漫",
+        "description": "姊妹淘出遊總是充滿話題與美好回憶。這個測驗以明星姊妹的旅行為引子，讓使用者思考自己與親友（姊妹、兄弟或閨蜜）出遊時的互動模式、角色分配，以及對旅行的期望。趣味性在於找到自己團體中的「定位」與風格。",
+        "id": "idea-4",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【你的姊妹/兄弟旅行風格是？測測看你們是哪種「天團級」出遊組合！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "美股收盤》美伊談判疑慮再起！道瓊跌近300點 台積電ADR上漲",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVSFU5azlwNUYzV01xZnNDUzFXQzR6T0xoMUwyMFVXdmFfVjlOUGdYM281aHkwUkxVWkE2bF9UV3ltV0g4MmVrcW8yV0c0QlNhV002X2wycWZvMERUV0RV0gFkQVVfeXFMTkpnbTMtOXBaazUwZmsxT191Z01jdF9Sd2xzX3JENFhXT1FYS015ZVZnRzZBWjdVMkNNd21YMkJGzJiUTlnM3duY3ZfNF9EOGNBTkF3Sy0xdWgxWjdIalhCNktnZQ?oc=5",
+        "theme": "股市震盪，你的「投資心臟」有多大顆？測測看你的抗壓型投資人格！",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "股市波動是投資者日常。這個測驗將國際局勢對股市的影響，轉化為個人在面對壓力與不確定性時的心理狀態。使用者可以了解自己在投資決策時的風險承受度、情緒管理能力，以及是屬於保守、激進還是投機型，增加自我認知與對財經議題的趣味連結。",
+        "id": "idea-5",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【股市震盪，你的「投資心臟」有多大顆？測測看你的抗壓型投資人格！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "季線乖離率過大台股浮現「擦鞋童理論」疑慮名師指點長短線操作心法- 日報 - 工商時報",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rWGk5Uk9SRkdGRTBpZi1IZXhZRGxpVFl1R2lpTDdHVzdJZDFyTW9GTmEwQlV3YjJvblhabTEta2gyaWRDWG91RUVUX2Fody1WSFUyaEZxdlFkMkNzZ0Vz?oc=5",
+        "theme": "誰是你的「投資導師」？測測看你適合跟隨哪種風格的財經專家！",
+        "resultCount": 6,
+        "style": "復古像素",
+        "description": "「擦鞋童理論」是經典的市場反指標。這個測驗以此為靈感，讓使用者思考在資訊爆炸的時代，自己會選擇相信哪種權威或資訊來源。測驗能幫助使用者反思自己的獨立思考能力、對專業建議的判斷力，並在趣味中了解不同財經專家的風格。",
+        "id": "idea-6",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【誰是你的「投資導師」？測測看你適合跟隨哪種風格的財經專家！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【復古像素】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "蘋果換帥／世紀接班照曝！四兆帝國執行長換人當 揭密庫克退位內幕",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwNBVV_5yqLPhkO_4zL85aM1SAXzZQB_LVrFfb8wLzQzS2lkSGpBZGhTVlZaQWhKT25CQUEzX041UzhDUVc4cmNUeFVLZzh0TkNZMzlPWWJvMkpxR2hQQUpHSWhTNnNrbUR5bTJKVnIyTjhyTVRKTW1Sc1NZWWstSTJ6ZHFXcjUtMUZjTWVnX0FZdUtvVmd3NEdYSUJ5aDJTMG8wRUU3SXBiNkdhMm9sX3pTeG9YQ2VZb0lTOFlnNC1xVmxPbjJ4QXdaLTJYMmx1YktyelAySThJdXd4a1VrU3VSZ0tpSWpBRTY4ZWM4Zi14M3NiY1dneXpSRUNvZHVsRUlKM1lwUWNvVml1VmZqN0Z6anY2czMyb1NyVDc4R3p3MS1DdUlEbTNBVllRYXdkNWhJTmRaOW1vSFRsN0Y5UHlGU05aRW1ZT2hMZE4zYU1NQU85cXJWRGU5eC1XRHdXZGpfeVhVUElNRVZ0MkhWc28xNTBnUFdITVpUNFhGUE1KU1VjUHNPbDk4MDk5MVY0LWJPcGZZYjdTZWs2TE1Mc1lfRWwtSnNfdmc?oc=5",
+        "theme": "你的「領導者潛力」有多強？測測看你是哪種風格的「帝國掌舵者」！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "科技巨頭的領導者交接總是引人注目。這個測驗將蘋果換帥的事件，轉化為探索使用者在團隊或職場中展現的領導特質。透過測驗，使用者可以了解自己是創新者、管理者、協調者還是策略家，從科技巨頭的權力更迭中，找到自己的領導風格。",
+        "id": "idea-7",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【你的「領導者潛力」有多強？測測看你是哪種風格的「帝國掌舵者」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "AI熱延伸金融戰場 法人點名金融股受惠名單曝光",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixwJBVV_5yqLNVUB_zBtLTJVpVFlZVdGMkVRZlkzVExRTmlkR2hNalNTTHFwYXM4NFo4NWZvZG9sWHfZTGNHdmJwQng1NzF0TFJSZjhleUZDSHlZUy0tQ1hoRlM1VFAyVGdnZHFtSjQtdVlMVVlZV3BfZnR0cmJ1V1k1RUZ2cWJYdWdKSlhXLVRyazlLRmltcDJMRkhqeVZOS3g0TnNBZ25TN2oxeVJxZmdLQk5oeGFfRzhuLWN3aVp2MHN4a1lDQ1RhQkctcjY2WlZBM0dsTFFmWWx1bmZOT3QwUjlBYmhYaTdkaFZJWmpSb016bFlLSlpfSXBWQ0N1OG16b1V5MkVmUThVRkhaVG5DZzE3Y3JIREo3aXNVOVN0TGJzYVZiWi1hYmdZby1pT2JCbHY2U0F5SnBsWG04UEpJZnh6ZXZOcVNsWDQ?oc=5",
+        "theme": "AI時代來臨！你的「數位金融力」有多強？測測看你最適合哪種AI智能工具！",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "AI與金融的結合是當前熱點。這個測驗將AI金融化議題，轉化為使用者對新科技的接受度與應用能力。透過測驗，使用者可以了解自己在數位時代中，是屬於保守觀望、積極應用，還是勇於創新者，增加對科技發展的趣味參與。",
+        "id": "idea-8",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【AI時代來臨！你的「數位金融力」有多強？測測看你最適合哪種AI智能工具！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "中職》沒讓鄭浩均挑戰獨力無安打 平野惠一透露換投當下",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wSlQyaGM1NTdoT2VzMV80bE9nMVc3ZHozWGFtRlRwMy1MU3lRZndVTDh4TGt4b0dvTEttbTdJMlRhRlpBcVo2Zlkzb2tBa0x4OU1aMm1DVTF4Vk9aU3I1U9IBZkFVX3lxTE52VW5qbC04M3lfdThGajNKeTk5Ul9CTG5zTlgxRzU4SjhSV1NBcTNFOEEzRHhMa3ZwN0NXd0o3TDFsWk5pQVVqVy1tQmEwRWhaWkdXSThnV2Q3Vk9hS3U1VExqckpfQQ?oc=5",
+        "theme": "你的「決策風格」是哪種？測測看你是理性派教練還是感性派球迷！",
+        "resultCount": 4,
+        "style": "清爽動漫",
+        "description": "棒球比賽中的換投決策，往往牽動球迷情緒。這個測驗能將此爭議轉化為使用者在關鍵時刻的決策風格。使用者可以了解自己是傾向理性分析、數據導向，還是重視情感、直覺判斷，從體育話題中找到個人特質的對應，增加趣味與參與感。",
+        "id": "idea-9",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【你的「決策風格」是哪種？測測看你是理性派教練還是感性派球迷！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "MLB／流量密碼！大聯盟置頂李灝宇影片 紅襪先前發文遭台灣球迷謾罵",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uYlNnSlZuQkxfbTRBNkZ6cUlaLUVWZFFPNHdvLWRNeGpTUXg2V0lHa09BRlNsYTV1S0dIdV9ZVGpNVnh4V3UwZ0NadVJoSHZU0gFWQVVfeXFMUEdnSnJnYUFQWjBpeS1lSmxiZktLVnJVQ3ZnZlFQSjI1QVVjNXpobkdIU09mSEpmNnVJRG5fdWlMXzcyb0JTUlltRG41U0RXZEdWLVFPNFE?oc=5",
+        "theme": "你是哪種「網路社群」意見領袖？測測看你的社群影響力指數！",
+        "resultCount": 6,
+        "style": "搞怪幽默",
+        "description": "運動賽事與社群媒體的互動，常常引發熱烈討論。這個測驗以大聯盟的「流量密碼」事件為引子，探索使用者在網路社群中的行為模式與影響力。使用者可以了解自己是屬於帶風向的意見領袖、理性分析者，還是默默關注的潛水員，趣味地反思自己的數位公民角色。",
+        "id": "idea-10",
+        "aiPrompt": "請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：\n\n1. 主題：【你是哪種「網路社群」意見領袖？測測看你的社群影響力指數！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】\n4. 廣告預設開啟\n\n請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。"
+      }
+    ]
+  },
+  {
     "id": "2026-04-21",
     "generatedAt": "2026-04-21T01:09:14.080Z",
     "ideas": [
