@@ -16,12 +16,38 @@ const RSS_FEEDS = [
 ];
 
 const PROXY = 'https://api.rss2json.com/v1/api.json?rss_url=';
-const MODEL_ID = 'gemini-2.5-flash'; // 改用閃電版模型，避開 Pro 的全球塞車，且對企劃發想來說絕對夠聰明
+
+// 主模型 + 備援模型：若主模型持續過載，自動切換
+const MODELS = [
+  'gemini-2.5-flash',   // 主力模型
+  'gemini-2.0-flash',   // 備援模型
+];
 const API_BASE = 'https://generativelanguage.googleapis.com/v1beta/models';
+
+// RSS 抓取超時時間 (ms)
+const RSS_TIMEOUT_MS = 15000;
+
+/**
+ * 帶 timeout 的 fetch 包裝
+ */
+async function fetchWithTimeout(url, options = {}, timeoutMs = 30000) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const res = await fetch(url, { ...options, signal: controller.signal });
+    return res;
+  } finally {
+    clearTimeout(timer);
+  }
+}
 
 async function fetchTopHeadline(feed) {
   try {
-    const res = await fetch(`${PROXY}${encodeURIComponent(feed.url)}`);
+    const res = await fetchWithTimeout(
+      `${PROXY}${encodeURIComponent(feed.url)}`,
+      {},
+      RSS_TIMEOUT_MS
+    );
     const json = await res.json();
     if (json.items && json.items.length > 0) {
       return json.items.slice(0, 2).map(item => ({ 
@@ -31,49 +57,126 @@ async function fetchTopHeadline(feed) {
       }));
     }
   } catch (err) {
-    console.warn(`Warning: failed to fetch ${feed.label}`, err);
+    console.warn(`Warning: failed to fetch ${feed.label}`, err.message || err);
   }
   return [];
 }
 
-async function callGemini(apiKey, prompt, retries = 3) {
-  const url = `${API_BASE}/${MODEL_ID}:generateContent?key=${apiKey}`;
-  
-  for (let attempt = 1; attempt <= retries; attempt++) {
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: {
-          temperature: 0.9,
-          maxOutputTokens: 65536,
-          responseMimeType: 'application/json'
+/**
+ * 指數退避等待：每次重試等待更長時間，避免短時間密集請求
+ * 第1次等 30s、第2次等 60s、第3次等 120s、第4次等 180s、第5次等 240s
+ */
+function getBackoffDelay(attempt) {
+  const delays = [30, 60, 120, 180, 240]; // 秒
+  return (delays[attempt - 1] || 240) * 1000;
+}
+
+/**
+ * 呼叫 Gemini API，具備：
+ * - 指數退避重試（避開短時間密集嘗試）
+ * - 多模型 fallback（主模型不行就換備援）
+ */
+async function callGemini(apiKey, prompt) {
+  const maxRetries = 5;
+
+  for (const modelId of MODELS) {
+    console.log(`\n🔄 嘗試使用模型: ${modelId}`);
+
+    for (let attempt = 1; attempt <= maxRetries; attempt++) {
+      try {
+        const url = `${API_BASE}/${modelId}:generateContent?key=${apiKey}`;
+        const res = await fetchWithTimeout(url, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            contents: [{ parts: [{ text: prompt }] }],
+            generationConfig: {
+              temperature: 0.9,
+              maxOutputTokens: 65536,
+              responseMimeType: 'application/json'
+            }
+          })
+        }, 120000); // API 呼叫給 120 秒超時
+
+        if (!res.ok) {
+          const errText = await res.text();
+
+          // 429 (速率限制) 或 503 (伺服器過載) → 指數退避重試
+          if (res.status === 429 || res.status === 503) {
+            const delayMs = getBackoffDelay(attempt);
+            const delaySec = delayMs / 1000;
+            console.warn(
+              `⏳ [${modelId}] 嘗試 ${attempt}/${maxRetries} — 伺服器忙碌 (${res.status})，等待 ${delaySec} 秒後重試...`
+            );
+            if (attempt < maxRetries) {
+              await new Promise(resolve => setTimeout(resolve, delayMs));
+              continue;
+            }
+            // 最後一次重試也失敗 → 換下一個模型
+            console.warn(`❌ [${modelId}] ${maxRetries} 次重試均失敗，嘗試備援模型...`);
+            break;
+          }
+
+          // 400 (Bad Request) 等非暫時性錯誤 → 直接換模型，不浪費重試次數
+          if (res.status === 400 || res.status === 401 || res.status === 403 || res.status === 404) {
+            console.error(`🚫 [${modelId}] 非暫時性錯誤 (${res.status}): ${errText.substring(0, 200)}`);
+            break;
+          }
+
+          // 其他未知錯誤 → 退避後重試
+          const delayMs = getBackoffDelay(attempt);
+          console.warn(
+            `⚠️ [${modelId}] 嘗試 ${attempt}/${maxRetries} — 未預期錯誤 (${res.status})，等待 ${delayMs / 1000} 秒...`
+          );
+          if (attempt < maxRetries) {
+            await new Promise(resolve => setTimeout(resolve, delayMs));
+            continue;
+          }
+          break;
         }
-      })
-    });
-    
-    if (!res.ok) {
-      const errText = await res.text();
-      // 若遇到 503 伺服器忙碌 或 429 請求過載，進行倒數重試
-      if (res.status === 503 || res.status === 429) {
-        console.warn(`[嘗試 ${attempt}/${retries}] Gemini 伺服器忙碌 (${res.status})。等待 15 秒後重試...`);
-        if (attempt < retries) {
-          await new Promise(resolve => setTimeout(resolve, 15000));
-          continue; // 跑下一圈迴圈重試
+
+        // 成功回應 → 解析 JSON
+        const data = await res.json();
+        const text = data.candidates?.[0]?.content?.parts?.[0]?.text;
+        if (!text) {
+          console.warn(`⚠️ [${modelId}] 嘗試 ${attempt} — Gemini 回傳空內容，重試...`);
+          if (attempt < maxRetries) {
+            await new Promise(resolve => setTimeout(resolve, getBackoffDelay(attempt)));
+            continue;
+          }
+          break;
         }
+
+        const jsonMatch = text.match(/```(?:json)?\s*([\s\S]*?)```/) || text.match(/(\{[\s\S]*\})/);
+        const jsonStr = jsonMatch ? (jsonMatch[1] || jsonMatch[0]) : text;
+
+        try {
+          const result = JSON.parse(jsonStr.trim());
+          console.log(`✅ [${modelId}] 成功！嘗試 ${attempt} 次`);
+          return result;
+        } catch (parseErr) {
+          console.warn(`⚠️ [${modelId}] 嘗試 ${attempt} — JSON 解析失敗: ${parseErr.message}`);
+          if (attempt < maxRetries) {
+            await new Promise(resolve => setTimeout(resolve, getBackoffDelay(attempt)));
+            continue;
+          }
+          break;
+        }
+
+      } catch (err) {
+        // fetch 本身失敗（timeout, 網路問題等）
+        console.warn(`⚠️ [${modelId}] 嘗試 ${attempt}/${maxRetries} — 網路錯誤: ${err.message}`);
+        if (attempt < maxRetries) {
+          await new Promise(resolve => setTimeout(resolve, getBackoffDelay(attempt)));
+          continue;
+        }
+        break;
       }
-      throw new Error(`Gemini API Error: ${errText}`);
     }
-    
-    const data = await res.json();
-    const text = data.candidates?.[0]?.content?.parts?.[0]?.text;
-    if (!text) throw new Error('Gemini returned empty content');
-    
-    const jsonMatch = text.match(/```(?:json)?\s*([\s\S]*?)```/) || text.match(/(\{[\s\S]*\})/);
-    const jsonStr = jsonMatch ? (jsonMatch[1] || jsonMatch[0]) : text;
-    return JSON.parse(jsonStr.trim());
   }
+
+  // 所有模型、所有重試都失敗
+  throw new Error(`所有 Gemini 模型 (${MODELS.join(', ')}) 均呼叫失敗，放棄本次執行。`);
 }
 
 function buildPrompt(headlines) {
@@ -102,25 +205,34 @@ ${headlineList}
 }
 
 async function main() {
-  console.log("Starting daily idea generation...");
+  console.log("🚀 Starting daily idea generation...\n");
+  const startTime = Date.now();
+
   try {
-    const results = await Promise.all(RSS_FEEDS.map(fetchTopHeadline));
-    const headlines = results.flat().filter(Boolean);
-    console.log(`Fetched ${headlines.length} headlines.`);
+    // ── 第一階段：抓取 RSS 新聞 ──
+    console.log("📰 正在抓取 RSS 新聞...");
+    const results = await Promise.allSettled(RSS_FEEDS.map(fetchTopHeadline));
+    const headlines = results
+      .filter(r => r.status === 'fulfilled')
+      .flatMap(r => r.value)
+      .filter(Boolean);
+    console.log(`📰 成功抓取 ${headlines.length} 則新聞標題\n`);
     
     if (headlines.length === 0) {
-      console.error("No headlines fetched. Aborting.");
+      console.error("❌ 無法抓取任何新聞標題，放棄本次執行。");
       process.exit(1);
     }
     
+    // ── 第二階段：呼叫 Gemini API ──
     const prompt = buildPrompt(headlines);
-    console.log("Calling Gemini API...");
+    console.log("🤖 正在呼叫 Gemini API（含指數退避與備援模型）...");
     const json = await callGemini(GEMINI_API_KEY, prompt);
     
     if (!json.ideas || json.ideas.length === 0) {
-      throw new Error("No ideas generated in JSON.");
+      throw new Error("Gemini 回傳的 JSON 不含任何 ideas。");
     }
     
+    // ── 第三階段：組裝與寫入 ──
     const ideasWithPrompt = json.ideas.map((idea, idx) => ({
       ...idea,
       id: `idea-${idx + 1}`,
@@ -152,7 +264,7 @@ async function main() {
         }
       }
     } catch (e) {
-      console.warn("Could not read previous daily-ideas.json, starting fresh.");
+      console.warn("⚠️ Could not read previous daily-ideas.json, starting fresh.");
     }
 
     const existingIndex = history.findIndex(h => h.id === dateId);
@@ -166,10 +278,14 @@ async function main() {
     history = history.slice(0, 8);
 
     fs.writeFileSync('daily-ideas.json', JSON.stringify(history, null, 2));
-    console.log(`Successfully wrote daily-ideas.json (Total days: ${history.length})`);
+
+    const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+    console.log(`\n✅ 成功寫入 daily-ideas.json（共 ${history.length} 天資料，產生 ${ideasWithPrompt.length} 個點子）`);
+    console.log(`⏱️ 總耗時 ${elapsed} 秒`);
     
   } catch (error) {
-    console.error("Execution failed:", error);
+    const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+    console.error(`\n❌ 執行失敗（耗時 ${elapsed} 秒）:`, error.message || error);
     process.exit(1);
   }
 }
