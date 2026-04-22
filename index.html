@@ -274,11 +274,7 @@ ${headlineList}
           const ideasWithPrompt = json.ideas.map((idea, idx) => ({
             ...idea,
             id: `idea-${idx + 1}`,
-            aiPrompt: `請根據以下資訊製作一個心理測驗小遊戲：
-
-1. 主題：【${idea.theme}】
-2. 結果數量：${idea.resultCount}，並請自行根據主題設定 ${idea.resultCount} 種細微不同的人格分析結果。
-3. 風格：【${idea.style}】`
+            aiPrompt: `請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【${idea.theme}】\n2. 結果數量：${idea.resultCount}，並請自行根據主題設定 ${idea.resultCount} 種細微不同的人格分析結果。\n3. 風格：【${idea.style}】`
           }));
 
           setProgress(100);
