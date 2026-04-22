@@ -274,14 +274,11 @@ ${headlineList}
           const ideasWithPrompt = json.ideas.map((idea, idx) => ({
             ...idea,
             id: `idea-${idx + 1}`,
-            aiPrompt: `請幫我製作一個心理測驗小遊戲，並提供 @[.agent/skills/psychological-test.md] 執行前確認的必要資訊如下：
+            aiPrompt: `請根據以下資訊製作一個心理測驗小遊戲：
 
 1. 主題：【${idea.theme}】
 2. 結果數量：${idea.resultCount}，並請自行根據主題設定 ${idea.resultCount} 種細微不同的人格分析結果。
-3. 風格：【${idea.style}】
-4. 廣告預設開啟
-
-請以最高標準嚴格遵循 @[.agent/skills/psychological-test.md] 的【絕對守則】與【程式碼生成藍圖】，切勿遺漏與捏造任何公版細節（包含跨屏 max-width 置中、嚴格一屏高度佈局、純文字貼齊分享列、以及重測廣告蓋板邏輯等），並立即開始設計與撰寫全套程式碼。`
+3. 風格：【${idea.style}】`
           }));
 
           setProgress(100);
@@ -331,7 +328,7 @@ ${headlineList}
               <div className="flex items-center gap-2">
                 <span className="hidden md:flex items-center gap-1.5 text-xs text-slate-500 mr-2 bg-slate-100 px-2.5 py-1.5 rounded-md font-medium border border-slate-200" title="系統每早排程自動抓取重點話題">
                   <Icon name="alarm-clock" className="w-3.5 h-3.5 text-slate-400" />
-                  每日 08:37 自動更新
+                  每日 9點左右自動更新
                 </span>
                 {apiKey ? (
                   <div className="flex items-center gap-2">
@@ -506,7 +503,7 @@ ${headlineList}
                 </div>
                 <h3 className="font-bold text-slate-700 text-lg mb-2">專屬企劃產生器</h3>
                 <p className="text-slate-500 text-sm mb-6 max-w-sm mx-auto">
-                  通常系統會在每日早上 08:37 自動產生最新的測驗企劃。<br/><br/>
+                  通常系統會在每日 9 點左右自動產生最新的測驗企劃。<br/><br/>
                   若您為管理員且想立刻手動生成，請點擊右上方按鈕或是下方設定 API Key。
                 </p>
                 {!apiKey && (
@@ -569,11 +566,8 @@ ${headlineList}
                           className="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-semibold text-sm px-4 py-2.5 rounded-lg shadow-sm transition-colors flex items-center justify-center gap-1.5"
                         >
                           <Icon name="copy" className="w-4 h-4" />
-                          立刻複製企劃意圖
+                          複製話題資訊
                         </button>
-                        <p className="text-xs text-slate-400 text-right leading-relaxed">
-                          將四種必填參數貼給我，立刻為您展開公版測驗的企劃與全套程式撰寫。
-                        </p>
                       </div>
                     </div>
                   </div>
