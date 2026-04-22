@@ -558,7 +558,7 @@ ${headlineList}
 
                       <div className="flex flex-col items-end gap-3 shrink-0 md:w-64">
                         <button
-                          onClick={() => copyToClipboard(idea.aiPrompt)}
+                          onClick={() => copyToClipboard(`請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【${idea.theme}】\n2. 結果數量：${idea.resultCount}，並請自行根據主題設定 ${idea.resultCount} 種細微不同的人格分析結果。\n3. 風格：【${idea.style}】`)}
                           className="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-semibold text-sm px-4 py-2.5 rounded-lg shadow-sm transition-colors flex items-center justify-center gap-1.5"
                         >
                           <Icon name="copy" className="w-4 h-4" />
