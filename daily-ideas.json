@@ -1,5 +1,121 @@
 [
   {
+    "id": "2026-04-23",
+    "generatedAt": "2026-04-23T03:57:41.524Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "賴總統專機遭撤飛航許可 美國務院：這些國家在中國要求下行事",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPWWh6SzVJM1RULURTYzlLUENEMXp0Tnh6bUstT2pWZFRfLVFlSnhCeVFscUJNWktZcHNfTUNtd1FrZEJBb0VmUGdIb3RPWGdqb2ZvS3NGOHJOdHRUVnRBbzF2VWt6Zk41RlN5WEFQUXg1Vk5TWGdfV0RQcnM1QkNLMW9LMGE4YjFsZ1RMZDJaSldFUFZtWkNHdTB3dGpUREJ5Yms5cVZpN0J3UERRUlhXcFFUdmw2b3ZCT094TDBURHBIMXVUeEdETlJVcTZvUUtsbUFLZFNfV01RdmZOTlNvSnhoR2owUVN5NlJLLTBveDhSV2VFUU9xYUVHbWV1ZWZ6WkdWQ013YlpyNHYzNmktekVITDVzc1Nha2NhR2J0N3RiekpyS2NRaVJldVY3bHN1S2VLd1ItdlpweW1obWJQWFRtczEtRllYdG4tekRKQXZ6T21tN3RIbkdwbjJPd0U3QVRSQlQtVlRnVWFTVVRHX3VXWUV0d2E4cllFZDlUa1VTVUpNWDVWT3FTX25zSzBVZG9NcC16T3hYQQ?oc=5",
+        "theme": "你的「危機應變力」有多強？測測你在國際困境中會如何策略轉向！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "該話題涉及國際政治角力與突發狀況應對。將其延伸為心理測驗，能讓使用者透過模擬情境，了解自己在面對外部壓力、資源受限或需要快速做出決策時的反應模式與策略思維，增加對自我「危機應變」能力的洞察與趣味性。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「危機應變力」有多強？測測你在國際困境中會如何策略轉向！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "中國高德地圖登台爆紅！秒查看「紅綠燈倒數」藏資安疑慮？ 數發部回應了",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitANBVV95cUxOZEI4UlFkTDlxenNHWDhTaEhKRGRRX3RtX1NwanFEYTdjZWtZbWNKNFdLdFBXWVo3WHA2OXV6SXBrVUdtUWFObTI5THl4YWxJT0RibWt6UEExM0JqSnd0Um01Y0k0Z1l5MFgteWphNW5qNmktZWdYREhxekJ0WlI4WDMwZ0NwWjVJdXZacTZna1FnNzM3UzNreVRzMThrS1R0cTdIdE9kUW5QS015WXVPZ1FHWERnNkdvNmlVWXVySW9ac2pXZDBzZFpsLV80MzJlY2wzUE1xUmhxQUtWaE52U19xdm9GdldQSVVhNkVfTFEyNTdTTUw1NTZ1MFVsQ0RCVy14TURsT2JlWERTTFZjX19sNElsYTNSbmV2UEdvaWV5bXRxb0I2c0lrak9sd1lMeWttR1ZkUEE2Zi0yNG1IajNIY1hGLTlNeVlYSVhvZ0V1bmF6MVVJcHdUWlNrMnJiaDZRMlpseTRMcU9NZng3ekRZTDgzWEhLSHV4dGQwMFE0eE5BSWZxSzBydGEyS0paTUNpV043Q1lVUG40ZkJ5ZzFGbVRVdDFMb3J2dTNBRFVfMXhm?oc=5",
+        "theme": "你是「科技享樂者」還是「資安守護者」？測測你如何在便利與風險間取捨！",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "高德地圖的資安疑慮與其提供的便利功能形成矛盾。此測驗能讓使用者思考在日常生活中，面對新科技產品時，會優先考量便利性、功能性，還是會對潛在的隱私或資安風險抱持警惕，從而描繪出個人對科技產品的信任與使用模式。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是「科技享樂者」還是「資安守護者」？測測你如何在便利與風險間取捨！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "吳卓源曬親筆信 大方認愛朱軒洋",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZWZyY0pPTkxNNVp6OHhwWFRQVnBTTG9ELUczYWo4N3h4OTZ5UmY2ZnpwalZLMTk2aTYxdGhCSVNnd294NHlVZHB2cGpDWndBR3VMR0YtcWhYTFN5dm9vUmhJekJNdjdxTWRPMU93RGFfa1d3cnJ1bmJJRlFYWVhhbllIczBCWDdEblkyZ096X3otTDRzT1VTUnhTeDFLOHZNd19QZnVaVFFkXy1Ua2w0Z0lWWFI4S2ZTb2NMcFpmUXRvSE1xLUl0TDE4SG1nM3psc2d2T3BfWHlMWldQWVd2QUZlOURHSUlfaHExREEwRHp1dE5BZC1QbnRhZ2s?oc=5",
+        "theme": "你的「戀愛表達力」是哪種風格？測測你會用什麼方式大方示愛！",
+        "resultCount": 6,
+        "style": "唯美浪漫",
+        "description": "藝人公開認愛的方式引發話題。這個測驗能讓使用者探索自己在感情中表達愛意、承諾或面對關係公開時的態度與風格。從親筆信的浪漫與勇氣出發，引導使用者思考自己的情感溝通模式，提供趣味性的戀愛人格分析。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「戀愛表達力」是哪種風格？測測你會用什麼方式大方示愛！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "小S舅父離世享壽77歲！歌后愛女忍悲現身告別式 曝長眠地痛喊：永別了",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jVEk0aUpsQ2hkaTF1RGJNRV9qVjZadjZPNXJVVDJxUHFLRFE0bXVJR2RxR011aE1oQ3N6WkZvVE8zd2RsaDdGNTBITWZHLW9JRFlHejIySkdKdw?oc=5",
+        "theme": "當人生列車到站，你會如何與「永別」共處？測測你的告別哲學！",
+        "resultCount": 5,
+        "style": "溫馨水彩",
+        "description": "名人親友離世，社會關注其告別的方式。此測驗旨在引導使用者思考自己面對「失去」與「告別」時的情感反應與處理方式。透過不同的情境選擇，讓使用者了解自己在悲傷面前展現的韌性與情感表達，並在緬懷中尋找力量，提供一個溫馨而富有深度的探索。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當人生列車到站，你會如何與「永別」共處？測測你的告別哲學！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台積電飆天價！魏哲家身價1年增破百億元 張忠謀暴增1693億元",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNS3pRd3JWXzhMYmo5R1J1QzBmVEN1NWI3TmcwemZiQzZ1em93SmRrYmZ5d2MyVkx5TjF4Zm1PVFZueVdOVy1XdDZ0Y2tuZnlxSlN3YTRmUGVsRHBQUllqR2ZJQmdJeVNDbmV3UXNCNEpOVEE2SzhYM2lPczdDWEVsMWZ6MzRaWFAzNThva1FEeW0xMHJ0cGdnaHBOb2dOQ0VSTDNhOTBGd0pVZkd1NG9fempvbGhFWE9zeGZTSVY2V2RvYlVsOTZjVmtvUHVqY3JzUVJ1dGJ4LTRERmxXajRNUXR5am5FYTFKeUxQNWRjNl9XTE0wN2J4QU44N291R3BYRWlYdEtNekRvX29BaGUyLXY1bkpjZXdsaUhRRmRGMW1ZZVhaQWlwQkNYdE9aRnpLNG5CN0V3Y0trMHF6YlBraDQtNmk5eTBSbTVoQTNuT0wtWkVYQVEwNlpUU1lPMXZGUmc5eDJ3dDZ1NTV4QWhKMlB4Tk5CdWktU05TOEs5MDdzajlmektEWVlpMzZfQ0E?oc=5",
+        "theme": "你的「財富放大術」是什麼？測測你潛藏的理財天賦！",
+        "resultCount": 5,
+        "style": "極簡質感",
+        "description": "台積電股價飆漲，創辦人及高層身價暴增，激發大眾對財富累積的想像。此測驗能讓使用者透過模擬投資情境或對金錢的價值觀選擇，探索自己潛在的理財性格、投資偏好與對「財富」的定義，引導用戶思考如何有效積累財富，並帶有勵志與趣味性。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「財富放大術」是什麼？測測你潛藏的理財天賦！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台積北美技術論壇》美國廠再進化！台積AZ廠先進封裝估2029啟用 CoWoS、3D-IC都過去了- 產業 - 工商時報",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMbjR5WlJtOC1WcjZkVEtaTC1xYW1mdm1PdkJua0JrSTlxMjBZanlocjF3LXlrYTFfRW1EV0tmVmxnZ0VkRm44OG4tZjlqNVl4YVVQQzdTSEltVEp2NnpN?oc=5",
+        "theme": "你的「未來科技預言力」有多神？測測你如何在趨勢洪流中超前部署！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "台積電新技術的發展與未來佈局，代表著產業的持續創新與進步。此測驗能讓使用者將自己代入科技發展的角色，評估自己對新技術的接受度、對未來趨勢的判斷力，以及在變革中如何規劃策略，提供一個充滿未來感和策略思維的趣味體驗。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「未來科技預言力」有多神？測測你如何在趨勢洪流中超前部署！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "台積電最高機密CoPoS曝光！魏哲家對供應鏈下達封口令…CoWoS後，神山下一張王牌",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxONnUtZFFLbGNsZ2I3ZkFTaThsVFRpb3FsMXFGMlpRdDEzczJva3pxSHB3Si1aVFloUG02X3ZvOTVzdUxIRmhVdXFuZG84cGtVdlUtN1hWS2x5dVgwVXh2U09qWnVWNVFNV2x2NGttMlNTSUkzcENiblVab1N2bEtYbVowVWZ0eWU2SlFHakZVMXNxZTZiOU84dzd6N1pHRWVScEhpWlVNQW1FOXdXT2F5NlEyekxUSW00bkFvZmt0ODFYMjNNOERBYzZLRkhZOXlORzhJejhMWGtRSUVMQkVXSVFsbnVHcG9UbmhpOVRsWkNMZVEtU1lNUlBlNTQ1QW91eGdXNkNjNXVSeVc3UUpLLUU0OE56WV9WTnRFUVlLN01ScFBEeEN3YlIxNkwwYTFKUUlLRE02NmY2MHBhTlFyNkZvMnMwRFJPeFVXUEpBdnhBYVVXb2RSdHEwWlZib1REakQ4NzhoME9DSW9IQjBHd3dCOGM2dGFtMndOZEJuZW5WbWxvNDdVQWxCMFFDZklfcEdJZndyM3NfMnZmSnQ3T2lsQm1WVUs4cEJnblhQZ0FqUkJubDlOdlF3a2lfWUpkdE1aVG1LbEFnVVNhMG8td2N0OS0?oc=5",
+        "theme": "你是「絕密守護者」還是「情報分析師」？測測你在商業戰場上的策略角色！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "台積電新技術的機密性與競爭力，引發大眾對企業策略與情報保密的關注。此測驗能讓使用者想像自己在高度競爭或需要保守秘密的環境中，會扮演什麼樣的角色、採取何種策略，以及如何評估資訊的價值與風險，增添職場或人際策略的趣味性。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是「絕密守護者」還是「情報分析師」？測測你在商業戰場上的策略角色！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "全球產業巨頭確定退出台灣！「宣布撤資裁員」將重新招標，5 大退場名單一次看",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mYTNkRzdURDdOa3VLZjl1T0hadlZqZU1rUW1meEJsZUtoem5EREtrWk9wZ2x3WVUzcHU0dUJVUGh3Vml4T2NYU0RabDAzODhU?oc=5",
+        "theme": "當人生按下「重啟」鍵，你會如何重新佈局？測測你的轉型潛力！",
+        "resultCount": 5,
+        "style": "廢墟美學",
+        "description": "產業巨頭撤資，象徵著市場變動與重新洗牌的機會。此測驗能讓使用者將自己代入企業或個人面臨重大轉型的處境，思考自己面對「結束」與「重新開始」時的反應模式、決策風格，以及如何從挑戰中尋找新的成長機會，提供一個既現實又具啟發性的趣味測驗。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當人生按下「重啟」鍵，你會如何重新佈局？測測你的轉型潛力！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【廢墟美學】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "李灝宇回虎巢 解鎖各種第1次",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZUXVXSi1wdVFmeW5ayZuaU5sUktHUXdwRFVCYlJaXzhTZ1o2VHJnSVB3akFHa0FySF9ubEpVMllMbE0yZlJIbkZ1enNTUUEtQXR3ZDJUZ9IBXEFVX3lxTFAwVzJ2Zy1jZDVmdVRtVlk0bnJkRXRsc2xtRjR6dU8wQnVlQldUQXlpbXVUTXp1ck9jZGFXSDN6cEVGSklROVU2VWtWYjRTdWotMlFSTl9FVGY4aFc1?oc=5",
+        "theme": "你的「人生初體驗」指數有多高？測測你會如何迎接新挑戰、解鎖新成就！",
+        "resultCount": 6,
+        "style": "清爽動漫",
+        "description": "運動員回到熟悉的環境卻迎接許多「第一次」的挑戰，象徵著在熟悉中尋求突破與成長。此測驗能讓使用者思考自己面對新事物、新環境或新挑戰時的反應與心態，是傾向保守觀望還是勇於嘗試，從而了解自己的冒險精神與適應能力，充滿積極向上的趣味。",
+        "id": "idea-9",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「人生初體驗」指數有多高？測測你會如何迎接新挑戰、解鎖新成就！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "NBA／溫班亞瑪進入腦震盪程序 G3出賽成疑馬刺強調有應對措施",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Cb251RTA4S083elpXTnNsbVFubThLMTU0NjNHUzAwZlFrWlB0MGVtM3lSWUVKR1JLWjJZeGJkOEdiUC1vR0FTOWJLUzJnZUhp0gFWQVVfeXFMT0Q5YzV1cWVYZUxaY2dCMjhfNGhSNlFCV1BFQnNZQlJ2ZEdxak94UktneUFDUWhpb200VnB4NWNwZFB6RGFPaXFDM29VdkJqbVBoT1Qxc2c?oc=5",
+        "theme": "當人生遇上「暫停」鍵，你會如何調整步伐？測測你的「復原力」與「團隊精神」！",
+        "resultCount": 5,
+        "style": "搞怪幽默",
+        "description": "運動員因傷進入保護程序，球隊需有應對措施，體現個人健康與團隊應變的議題。此測驗能讓使用者思考自己在面對健康挑戰、突發狀況或團隊合作時的心態與處理方式。是會選擇謹慎評估、積極復健，還是為團隊利益做出調整，提供一個結合運動精神與生活態度的趣味探索。",
+        "id": "idea-10",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當人生遇上「暫停」鍵，你會如何調整步伐？測測你的「復原力」與「團隊精神」！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      }
+    ]
+  },
+  {
     "id": "2026-04-16",
     "generatedAt": "2026-04-16T00:30:01.000Z",
     "ideas": [
