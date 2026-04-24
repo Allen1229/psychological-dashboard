@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-04-24",
+    "generatedAt": "2026-04-24T04:05:10.888Z",
+    "ideas": [
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "現代版《逐玉》？張凌赫、田曦薇前後更新IG 網跪求「一起開車」",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPM05OcGdqVHR4Z3ZDZW9fTDZoTWIxRGs4T1NESzNHQ3lYQy1jbzRTakI1NU5Vd1l3dG11ZW90ZU5QS29oT0p1NmtTUEJSZ0IzYzNsOG5WSVFGa2NsOHNoQ3A5QnVXay11T1A5VWItNXZnVXhkbkJqcUgwSlB3VE5oOW1vV0hCRnZ0WTI5OTl4VGtqZkdiV0FoTExaQjZqTU43bGlPX0dTMmpGNS0yNmVudGdBeGtjcDdTLXJBTC1JZXY1NGdFN3o3NWE5WV9PcmZGc2JiUm5kVDQxS0l1ZmtscXhVMk5DbnU1T2NiZ2RjcFUzRldQRk1jSl9FQzRoOXllM1pFNkZtZTNjbWt5Vk5BTzFiY1JPMW9Edi1MWTM1Z21PR1FOX1FGbFJYX1VncVo0?oc=5",
+        "theme": "你和TA的緣分指數？從社群蛛絲馬跡看你的潛在CP體質！",
+        "resultCount": 6,
+        "style": "唯美浪漫",
+        "description": "現代人透過社群媒體觀察名人互動，也喜歡在日常生活中從細節處尋找與心儀對象的連結。這個測驗能讓使用者透過模擬情境，分析自己是哪種「潛在CP體質」，並給予對應的戀愛或人際關係建議，滿足他們對浪漫關係的憧憬與探索。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你和TA的緣分指數？從社群蛛絲馬跡看你的潛在CP體質！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "全台灣只有8人！　台大正妹女歌手入選全球音樂計劃：很不真實",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MUFI1cHhhMDBfRE4wZ0tGSk9Ud1VGb0dPdkUzYzVTWDFoZ1M0dld1d3VCYmtvTDVXODl0OXZLMXJDNW9uTi1HelJWb0JXZ9IBakFVX3lxTFBHeEcwVm5lWmItQ3Q5REx6MllOR241QWpuNEdhenVZTzFrSXl2T0JudkY1QnFRUkJudUFZcW1ic2lhMUphLXdsaGRmUUJPRUF1bk1OOENweUtLN0Q4LTlHRlkzQ0FwM1pmYlE?oc=5",
+        "theme": "測測看你身上藏著什麼「稀有天賦」？你是全球TOP 0.001%的潛力股嗎？",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "人們都渴望被看見、被認可，尤其是在自己獨特的領域發光發熱。這個測驗透過情境題引導使用者探索自己的潛在天賦，並將其與「稀有性」連結，讓他們感覺自己是少數的、有價值的存在，激勵他們發掘並發展自身優勢。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【測測看你身上藏著什麼「稀有天賦」？你是全球TOP 0.001%的潛力股嗎？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股早盤》聯發科漲停、台積電大漲100元！指數狂飆逾1200點至38916點",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lVUlyWWV4eE8tbHdmN3E0UkRlOVozYkREcFF4X1ZaRnBCeXhTVFQ4SlB4bF9hQXVteExySlZOYkx2dlBlSC1fMWllMXVNWGUxNlZQRG9aU0FiODJSWldF0gFkQVVfeXFMTXI3azh2VGZuMG1JSEJ1LWlRWHVSbjJDeWc0cmd4M0pkdGt4OEtPYVdGR2Roc29zZUc3VERKc2w4UmRibm1VbFhLdk9aa3pEYm5RZTR0b2F6Z29YZWV3V1pFUlpIUQ?oc=5",
+        "theme": "你是股市爆富體質嗎？測測你的投資人格，看你屬於哪種「飆股收割機」！",
+        "resultCount": 7,
+        "style": "霓虹賽博",
+        "description": "股市波動總是牽動著人們的心，尤其在狂飆時期，大家更想知道自己是否有機會搭上這波財富列車。這個測驗將抽象的投資行為轉化為具體的人格特質，讓使用者在趣味中了解自己的風險偏好與投資潛力，並提供幽默的「收割機」稱號，滿足他們對財富自由的想像。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是股市爆富體質嗎？測測你的投資人格，看你屬於哪種「飆股收割機」！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "〈美股盤後〉伊朗啟動防空系統 油價飆升 軟體股暴跌 三大指數收黑",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hRWxJUWVZcnM1cVJMSXhMRE1uUkJuRXhaS1pvbnBJMTdsVmlnSEVjUHlIcGtYeThLYTNpellVN1NndVJCNnlJa2JBRWtqbm8?oc=5",
+        "theme": "全球變局下，你的「生存指數」有多高？測你面對危機的應變能力！",
+        "resultCount": 6,
+        "style": "廢墟美學",
+        "description": "地緣政治與全球經濟情勢的變化，讓許多人對未來感到不確定。這個測驗將新聞中的「危機」情境化，讓使用者模擬如何在不穩定的局勢中做出選擇，測驗他們的應變能力和心理素質，並提供面對挑戰的建議，滿足他們對安全感和掌控感的追求。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【全球變局下，你的「生存指數」有多高？測你面對危機的應變能力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【廢墟美學】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "庫克卸任前全認了！蘋果這款APP是任內「第一大錯誤」！最自豪這產品",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQa3YxRkdETEppZ2U2WFRKbDBJUHpPMlQ3OV9ISXp5al96QklFdGxqVWMzXzlTUDVIbm9tSldVRjBQQU93WTVMeUNVanFfOXFNeHpRZlJJbDdtN2xkUVVsempRckNFdHh3VHIwVVRRSWFWd2djRVNUcEJrOEZFQ3pQUDBGRGdlMDBBbU9vSFpxNUZ4Z1F3ejFkbGI1aWhPMnZ3enNUMGVOZGprZGhTYkQ2cFdkd2pneS1TSzY5QjMzM0l4YWdQVkotQkl2ZW9iYVV3ZmFHbDNTSU9UUWtYbV8yRTNNZ3NrNk9TOWdpWFlEdGstbmd0Z2xnM2pYbFBySlZhX1hZOUdkOWY2bGFoLXJOQ3N6Zkt0UU1WVU44UjdrY1EydGpVaGw2WExCcUFBdGpSWWR2SmpWZlcwcUlHRGpRaUtNZ3NJTExkTTh4cENBOU1WQ0ZlM3hmQTdxazVOOXkwNFc5dG13MHh4aVpZZXR0TFZQRUNzb3dtRXpHdk9WWl9GN2hpb1lCRQ?oc=5",
+        "theme": "你是「庫克型」領導者嗎？測測你的決策風格與職場盲點！",
+        "resultCount": 7,
+        "style": "極簡質感",
+        "description": "企業領導者的決策與反思，是許多職場人關注的焦點。這個測驗以庫克的經驗為引子，讓使用者評估自己在職場中的決策風格與可能存在的盲點，並提供實用的自我成長建議，幫助他們在領導或工作崗位上做得更好，滿足向上提升的職涯需求。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是「庫克型」領導者嗎？測測你的決策風格與職場盲點！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "美超微傳遭甲骨文取消大單...改這家台廠接手 股價盤前重摔逾12%",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xRFhLSDlyZWY5dHdnNnZ0Vk1rUll0OHpQUmdlZWc4MVQ4eTZPdUhtRThBRktvYmxzcVRnWmpvalg1UDV5TlR3dWh2UUxzWFF6?oc=5",
+        "theme": "在商場叢林中，你是哪種「生存玩家」？測測你的職場危機處理力！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "商業世界瞬息萬變，大單的取消與轉移，不僅影響企業，也映射出個人在職場中可能面臨的挑戰。這個測驗將商業競爭比喻為「叢林生存」，讓使用者透過虛擬情境，檢視自己的危機處理能力與應變策略，並提供角色定位，激勵他們在職場中保持警覺與韌性。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【在商場叢林中，你是哪種「生存玩家」？測測你的職場危機處理力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      }
+    ]
+  },
+  {
     "id": "2026-04-23",
     "generatedAt": "2026-04-23T03:57:41.524Z",
     "ideas": [
