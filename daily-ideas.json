@@ -1,5 +1,121 @@
 [
   {
+    "id": "2026-04-25",
+    "generatedAt": "2026-04-25T03:43:45.924Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "賴總統出訪遭取消飛航許可出現羅生門？張競：模里西斯稱從未同意申請 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAycWRVQkM3NEpJRDYwbXlIZ19MclNkZVFDMmxQYlJ6T1FBZjFmaGVYNjZJdHRPdDdEclZULTFDeFVvMFJ1V3VtY3RPVVpjWXBJemU00gFYQVVfeXFMTUoxbXJkZ0tGX2pCcm1KNzRJQkFVQ2RKb3ppdFZvMEI1SDVIa1NFajd0UjFNdnkyNDFDTXRieW1BYlBFaXRfSWE5azhfandxdVlucU94ajhNSw?oc=5",
+        "theme": "「你的羅生門人格」：當真相撲朔迷離，你屬於哪種「偵探」人格？",
+        "resultCount": 6,
+        "style": "懷舊報刊",
+        "description": "現代社會資訊爆炸，真假難辨的「羅生門事件」層出不窮。這個測驗能讓使用者透過模擬情境，了解自己在面對複雜資訊和多方說法時，是傾向於理性分析、感性判斷，還是容易受外部影響，從而揭示其內在的「偵探」人格特質，提供自我省思的樂趣。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的羅生門人格」：當真相撲朔迷離，你屬於哪種「偵探」人格？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "微風痛失金雞母？傳新光三越接手「北車商場經營權」 砸錢真的能贏嗎？ - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPMjNVdXU4bExwWm1Sd2c2MDVNZ095UEgzb054bnA5Rk9RT21OSVRhYzZQVWgzSjNJbEFVZkdTZ1BoQ3NyOGs1ZE9EX2xzd3VUUDdTSVZuVmc5WHRDWXZOUjhBVm9raFpRaHdoZG9YRTAtSzFzbWdNQ1lyVDlHOG1SVDhYOFZSaFB2QUNWa2xGcExLTFVkNFNmX0RFT3d2SVN2ZXY4N01XVmdaWFNqamNxaTlxZExCdzBoS2FtME5DU1Y2T1F1YThySTRkOFdDZ2psZFV4MTVibEhJdklfTjNoTFIzck95ZlFnUkR4MTlNM3U1MDlPcy1pVzA4Z0V6NHlrRFVjUUZPZWFwTDZhWVJVWC1ZWGZIbEFLMWlxU0g5Wlp3LWNjNFBELUtCZ3hWVlRRTTB4Q1pGWFc1cDlHcHEzSndKRjlGQUMta1FrX21NMDFOb01QVk0zUmVDZ2hNX0RuZGZYQXZRM2lNUTNRcXRvcEpYd0ZKNjFzVFlEMkVld3E0d21naGVCQk9oNExWWGtjMG1JRDFab2QzNXdRY19nSE1GdVVNRzQ?oc=5",
+        "theme": "「你的商場爭霸戰略」：在職場或人生中，你是「砸錢派」還是「巧思派」？",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "企業經營權的競爭，如同人生職場上的挑戰。這個測驗能幫助使用者審視自己在面對資源爭奪或重要決策時，是偏向「大手筆投入」的直接攻勢，還是「以智取勝」的巧妙佈局。透過情境選擇，讓參與者了解自己的競爭風格，並從中獲得啟發。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的商場爭霸戰略」：在職場或人生中，你是「砸錢派」還是「巧思派」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "陶昕然「浪姐7」超離譜淘汰！安陵容輸給范瑋琪「划水組」全網開罵！ - 噓！星聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDWWpkQzJrTXdsR1VJXzNfakhuZEl4YXNxWlpnVkFVWWtGZlVxM3JZajI1TFJYV0JzZWJVTGtQX2c3eFZqWWJtNXlaSVJLY1g1blhGeV96bEc4UdIBX0FVX3lxTE9wbWVINHpyeXZXd1ZBSTFDUWZrVXQySUotN255RGVnb1ZpNjBHQUVOVkF5ZUxBQVpSR3ZJa0Z2V0hFS2dXa1FoQjhLSjRNTWlrR3I3amhNLXlFZG1iNFpj?oc=5",
+        "theme": "「你是佛系『划水』還是拚命『C位』？」：在人生舞台上，你屬於哪種努力派？",
+        "resultCount": 6,
+        "style": "霓虹賽博",
+        "description": "娛樂圈的「划水」爭議，映射出現代人在職場或社群中對「努力」與「結果」的看法。這個測驗能讓使用者檢視自己是傾向於低調付出、順其自然，還是積極爭取表現、渴望成為焦點。透過有趣的假設情境，讓參與者反思自身的價值觀與行動模式。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你是佛系『划水』還是拚命『C位』？」：在人生舞台上，你屬於哪種努力派？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "粉碎回憶？香港翻拍木村拓哉日劇《長假》　選角網吐槽：變母子戀 - ETtoday星光雲| ETtoday新聞雲",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YdWo5cEJVRTFfYUFndG5rY0UyYXRua0k0aXhxUDVZekVaSml1YWZEbU9GeU5CSGZqMHpzb3kyNldrVW9SdkxaN2ZKRVh4d9IBakFVX3lxTE9TWkxla1dlYXBmbmdNa2NVS2tKM3ppTEhsN0U4RVJIamdHZjdwdnJ6QjZRRktRcVQ5bUxkX1cySlRGOENIWUhVaXlHTVEyblIzOXJicGI4UFZuaV87YXNLb0pYYlVZOXRvQ1E?oc=5",
+        "theme": "「你的回憶殺承受度」：當經典被翻拍，你是「忠實粉絲」還是「開放嘗鮮者」？",
+        "resultCount": 5,
+        "style": "底片膠卷",
+        "description": "經典作品的翻拍總是伴隨著兩極的討論，反映了人們對回憶和創新的態度。這個測驗能讓使用者探索自己在面對「舊瓶裝新酒」時，是堅持原汁原味，還是樂於接受新詮釋。透過情境題，了解自己對文化產品的忠誠度與接受度，並喚起對經典的回憶。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的回憶殺承受度」：當經典被翻拍，你是「忠實粉絲」還是「開放嘗鮮者」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【底片膠卷】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "美股收盤》台積電ADR漲逾5％！標普那指衝新高 英特爾狂飆23.6％ - 自由財經",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBdXQ5VmMyWVhvb2E5RHBRR0tfbVhydEdmcU1QNDVHVlNWX3NQX0VDVHNwa1B1YU5MYndsS0tXelJvamJvemphTFVyRDdxOFRFaUdJanZqNVVWVXdDNWdN0gFkQVVfeXFMUDVERzhhUTBpWEt4YUp2Z01WWTc0Zmx4TzI2b2RhVlIzTzVtSG1HOWUtU05wTFhSdE5MYmlXb3FxYnlkeXBWaE9tY1ZSel8xZk92bnExTDNtYWhBVTNJZXpZTWhubA?oc=5",
+        "theme": "「你的財富爆發體質」：面對投資機會，你是「謹慎佈局」還是「大膽追高」？",
+        "resultCount": 4,
+        "style": "極簡質感",
+        "description": "股市的漲跌牽動著許多人的心弦，而暴漲的股票更是引發無限遐想。這個測驗透過模擬投資情境，讓使用者探索自己在面對高風險高報酬機會時，是屬於穩健保守的類型，還是敢於冒險追求最大收益的類型。了解自己的投資人格，有助於更理性地規劃財務。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的財富爆發體質」：面對投資機會，你是「謹慎佈局」還是「大膽追高」？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "飆1218點創史上第5大漲點！台積電收新高爆964億成交額稱王「這檔」拉第3根漲停目標價喊上2588元 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilARBVV95cUxNdnBaYklQVkwwMXlyOWF2WDJWNHhiMGkzNXlCSW1Malo1bS1BRDJKaVBBSGRpYS1wUVRKandHVXB6TlpUNHpSbHJ3TWpfSGZCY2RjY3pUXzdJYkNCVkNYbnNTbzU1bTZLRG1GOVd3eWhxZnllRFdmbHc3UGJ5VWtMQ2FZVjZtSVgxczZORlJDN3lZWTh5SktvZUNzTC1tYzdzUDJ1MFpPa2Y4VmJ5LUljelRjMlplVTZHcFJUVUFoWi04UzhLbHhOSThvNGowYkNpc096V1FDNG9CQW1lelFheGg3YXRMRWxnQUVXVGlmZEs4SUV3RFVzbTRmT3V5RmV4akFjekZHb3ZaRG44SWlrQ3ozLXByNmNuY2p1ZGhqVndzSmx3c2lvOFRzc0c2UDhQMVpkbHdtT3ExZTNlRXFjQnJRcV9jLUtKY0R1c29iU2k0UG4zOEx5di1wSENUN3FHX0twUnVXNDNWS1F5MWZabTR2TVlBQnJ6eUNDcUdlR0VqV1F4R2ZqWnlCQnExVGp1M1BNX0F3TDJOTlk5T3lJTVJEendvMjNEb3lucUZwSkRVckQ4NmhrTV9GcHhhSHB5My1NZTlqYk9aaTgxYWtXcXc4WXlRRENIVTVaT0x4Z2UxOFZSVFo5RnNzNTVHR0wzSHJmVHl4SlcyOGtHM0pVZFd4YzFjaHNyRWQ0eWdNTGpVU0x6?oc=5",
+        "theme": "「你的股市暴富夢」：如果給你一筆投資金，你會成為哪種「股王」？",
+        "resultCount": 6,
+        "style": "美式波普",
+        "description": "股市的狂飆紀錄激發了許多人的財富自由夢。這個測驗讓使用者想像自己身處股市風暴，面對巨大的漲幅與誘惑，會選擇怎樣的策略來追求「暴富」。測驗結果能揭示參與者潛在的投資性格，是偏愛穩紮穩打還是追求一夕致富，帶來刺激又有趣的自我探索。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的股市暴富夢」：如果給你一筆投資金，你會成為哪種「股王」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "Microsoft Gaming 回歸「Xbox」！微軟重新定調遊戲品牌名稱 - GNN 新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrV0tmQ2ppVDl4dXJRYk9tM05QdEJyQl9tRHA2UEtpNXlMSlYtSW1uRm82RFN3MndVaC1zT3FuX0d4d3NTanFTaWRCZThKaWdyVkx2NE5OLXk?oc=5",
+        "theme": "「你的品牌人設」：在人生中，你會堅持「初心」還是不斷「創新」？",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "品牌名稱的更迭，反映了企業對核心價值的堅持與市場策略的調整。這個測驗能讓使用者思考在個人發展或職涯規劃上，是傾向於固守熟悉的「品牌形象」，還是勇於嘗試「重新定義」自己。透過模擬品牌決策，幫助參與者釐清自己的核心價值與對變化的態度。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的品牌人設」：在人生中，你會堅持「初心」還是不斷「創新」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "【最新消息】Google第八代TPU，「8檔概念股」搶先關注！ - CMoney投資網誌",
+        "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03ei1Md2Y4VWttSTVmLVZBeTI4Q0d3dENmcU1YeUY3ZUxySDhNaENtUjFna1lLMV9OZFlvNWJFWVFQNDFJZXNpRHBTeVV0d2l5SDF2Si1odGpoUWo5T3VOV3A1ZDhHclNGQndYNWxJN1R0ZnlxZGRsZGVqOG5KUQ?oc=5",
+        "theme": "「你的AI趨勢嗅覺」：面對科技浪潮，你是「引領者」還是「觀望者」？",
+        "resultCount": 8,
+        "style": "科幻冷冽",
+        "description": "AI 技術的快速發展，預示著未來的無限可能。這個測驗能讓使用者想像自己身處科技前沿，面對新技術和相關投資機會時，是具備敏銳的洞察力，能夠搶先佈局，還是傾向於觀察市場、待時而動。透過情境選擇，揭示參與者對未來趨勢的判斷力與風險承擔能力。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的AI趨勢嗅覺」：面對科技浪潮，你是「引領者」還是「觀望者」？】\n2. 結果數量：8，並請自行根據主題設定 8 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "MLB》真貨！日本強打村上宗隆第11轟出爐 並列大聯盟全壘打王 - 自由體育",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE1yZDJQVWQyVnhDNEZDN2lEdDkxUUpRazZCbnotbWpzdU4xeWVidkNKZmxjOTJyR3l3V0lKUlpFMHVmaHpqVkxGRXFUWjl0ZWJUT2tSbFB4bnVfYkNaWTAzM9IBZkFVX3lxTE9nNWpuanFlWFNFSWtPc1RNMFlDNm1UQVd1ZTEzSzQzNFVlUHUwdEJUQjlnVTRNUzg1eGtHQkZIbEFoS3hBRUFOM2tXYWhTQWp5eDJZYk9XWE5HckJtYjEyV0NiTV9hdw?oc=5",
+        "theme": "「你的潛力爆發指數」：在你的專業領域，你是哪種「怪物新人」？",
+        "resultCount": 6,
+        "style": "清爽動漫",
+        "description": "體育明星的崛起總是激勵人心，他們的努力與成就，也激發人們探索自身的潛力。這個測驗能讓使用者想像自己在某個領域嶄露頭角時，會展現出怎樣的特質與實力，是依靠天賦異稟、還是後天努力，或是能在關鍵時刻一鳴驚人。了解自己的「怪物新人」屬性，帶來激勵與趣味。",
+        "id": "idea-9",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的潛力爆發指數」：在你的專業領域，你是哪種「怪物新人」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "NBA季後賽》湖人、火箭G3 分差僅個位數進入決勝節 - Yahoo運動",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPNXJVWU5DZnZEbGlaTFdDNElnMTNfb2t6RzNoSFZBVlZUZEVaZzJNaUEydjRIV3FoUFNoM0VrcXRLLTB4RzQ3UE5BLUVFSFp1RGV4MzlwVVp3RTZEaGRUZnNiYkRyZl95dTdDSlRoc0U2YWExWWhnNnJnYkh3cnhkNkJmTVV4THhRbmZOUEVNODZaMXVwY3NUWW5yNEJrUWZORXFEYkVSUXpvQWFrWjVIcWxtREEzUk9VY2x2OHlvRU5DVFRscXEwTzNkTWlLejliaE1Yck9yT1dRS0FZMGtNd0RGY2pzN2tuZDlwOWxjYlptN3UtNWl1RlI2NExZeDJoWjBXSTlTQzFFcUxMU0ZwV1VRTlJ5d2xCYVVDYmZIbHgtZW5RR2xZU085NjdDaXc1a29RVVJjMTRLdWhJN3NTUWd3UmJ5S200RHJ2TDhpWDh4bjZM?oc=5",
+        "theme": "「你的關鍵時刻特質」：當人生進入「決勝節」，你是哪種「致勝關鍵」？",
+        "resultCount": 5,
+        "style": "立體拼接",
+        "description": "體育賽事中的「決勝節」，考驗的不僅是技術，更是心理素質。這個測驗能讓使用者模擬在人生關鍵時刻，面對壓力和挑戰時，會展現出怎樣的應對方式。是能保持冷靜、力挽狂瀾，還是容易緊張失誤。透過情境選擇，揭示參與者在壓力下的真實表現與潛能。",
+        "id": "idea-10",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的關鍵時刻特質」：當人生進入「決勝節」，你是哪種「致勝關鍵」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【立體拼接】"
+      }
+    ]
+  },
+  {
     "id": "2026-04-24",
     "generatedAt": "2026-04-24T04:05:10.888Z",
     "ideas": [
