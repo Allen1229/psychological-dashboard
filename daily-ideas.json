@@ -1,5 +1,121 @@
 [
   {
+    "id": "2026-04-26",
+    "generatedAt": "2026-04-26T04:06:26.985Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "賴總統出訪受阻肇因太高調？ 退休官員：幕後者不應站到台前 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GRG43RnVBVi15amFHbzd3RHEwdW9PekkyUF9WMjd5Njc2Q2pDaHprYkQ5aXladExtWWFKcnFCMzFvTUhvYW85UFpHd19VOXA0Wmk00gFYQVVfeXFMTmw1SGRnWnI2WEhVZkRXdHdzYTRKTzcxM0lFMEJzVmpTdDN0dHZPOFFCQlFNN0lQV3I2UWxNT3Z0aDJaT01MZzdkNVJCX0dzaWxUTHJBaG9oQQ?oc=5",
+        "theme": "你是天生領袖還是幕後軍師？測測你的政治手腕與影響力風格！",
+        "resultCount": 5,
+        "style": "懷舊報刊",
+        "description": "這則新聞探討政治人物的行事風格與影響力策略。測驗可以透過情境題，分析使用者在團隊或公共事務中，偏好高調展現領導力，還是擅長低調布局、在幕後發揮關鍵影響，揭示其在權力運作中的角色定位，帶來策略思考的趣味。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是天生領袖還是幕後軍師？測測你的政治手腕與影響力風格！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "沈伯洋瘦一點像木村拓哉？游淑慧嘆：居然找不到他的法案政績來誇 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Tdl9HaWZNSVQtMkF0OGJLVUQ0T3RnVkgwZy1EcHFaN3pHLUFyR0t6SHVvZW9tSkkzckpJUzE2amN1ems0VnlpSDFuZG5BLXR4MnJj0gFYQVVfeXFMUExZVVFIRmFLWlVkMk1VS01sUElzbHFtVmhfYUdobkVFSmhwbXcyRnZ4WWlvMUphd0ZSRUI3RGlNcFRabEJWcUYxSE9RWmUxam5iQW5QOW9ZZQ?oc=5",
+        "theme": "外貌與實力，哪個才是你的決勝關鍵？測測你最容易被哪種特質吸引或評價！",
+        "resultCount": 4,
+        "style": "搞怪幽默",
+        "description": "新聞將政治人物的外貌與政績進行比較，引發關於「形象」與「實質」的討論。測驗能讓使用者反思自己是更重視一個人的外在魅力，還是更看重其實際成就與內涵，並了解自己容易被哪種特質所吸引或給出評價，提供輕鬆有趣的自我洞察。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【外貌與實力，哪個才是你的決勝關鍵？測測你最容易被哪種特質吸引或評價！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "直擊／龍千玉唱一半下跪磕頭！痛哭失聲「甲狀腺全拿掉」 - 噓！星聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YY1FKc1piU25Qc2NtUy13Z2hubHlUR0w3MmpLV1BMb01vb1J6SlNlY3VEU2dKZUZaQnV6YTBaaDYyUU1fYVdwQ25QdFpPdjJlMTNfRlozekV2d9IBX0FVX3lxTE5BN1V2Z21fR0RJVlJoT093YmI3bThRaXpZc3V0Z044a1lQX2VGUEVNVzlvTy1pSkxHT0NvVWUtOEJLeGUwYXhDWXNlYkxhQ3ZYLW1Sa1A0cFlIWFIzWkk0?oc=5",
+        "theme": "當生活給你重擊，你會如何面對？測測你的情緒韌性與療癒風格！",
+        "resultCount": 5,
+        "style": "溫馨水彩",
+        "description": "藝人龍千玉在舞台上展現的脆弱與真情流露，觸動人心。此測驗能透過情境題，引導使用者思考在面對生活挑戰或病痛時，會選擇如何表達情感、尋求支持或獨自承受，了解自己的情緒應對模式，帶來共鳴與自我關懷的趣味。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當生活給你重擊，你會如何面對？測測你的情緒韌性與療癒風格！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "Jisoo坎城奪獎成韓國第一人 家族風波仍被翻出 - 自由娛樂",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZQVJPT0dCeTFBM0ZwSjdZTlp1M0c4aU05WDYyMlYxR2NjbEtfNHlGYlFla2ZHZkFvMHYxcG52eE1ncHYwQTJpYldRQ2NuVXRjZmhPQ1FmTUUyWmNK0gFiQVVfeXFMTXV2bjdiVmFfNGJRNXFqRG5EN3pCSTRMTkFldG9tSVlzWHpqbU1PLTlfVER1UlpJRk9VWVhpRFJtNDI1TGhINDlLQ01WQnZQRmlWMGdOa2l3UDI4MVBtUFVmWXc?oc=5",
+        "theme": "當你站上巔峰，會選擇面對還是避談過往？測測你如何處理光環下的陰影！",
+        "resultCount": 4,
+        "style": "唯美浪漫",
+        "description": "Jisoo在事業高峰期仍被舊聞困擾，反映了公眾人物在成就光環下，個人或家族歷史仍會被攤在陽光下檢視的現象。測驗將探討使用者在功成名就之際，會如何處理個人過去的爭議或陰影，是選擇坦然面對，還是試圖切割，呈現其內在的處事哲學。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當你站上巔峰，會選擇面對還是避談過往？測測你如何處理光環下的陰影！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股今年攻4萬？謝晨彥：台積電上看2400 小資族靠主動式ETF追「萬金股」 - 工商時報",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SWUpJMHdQUk8ta0JMY0RNNDRKUmhqbWJKYTRwVUZoenVINHFEU2FMcjBpemRwemhmYjA0Vk9WeE81dWt6dzl4NDU2ZGJ4aGdPNDd3WlVEUVpsdHlwZWdR?oc=5",
+        "theme": "你是保守穩健還是積極衝鋒？測測你的投資人格與財富累積策略！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "股市預測與小資族的投資策略，展現了人們對財富增長的渴望和不同的風險偏好。測驗可以透過情境題，分析使用者在面對投資機會時，是屬於保守觀望、穩健佈局，還是敢於追高、積極衝刺的類型，並提供適合其特質的理財風格建議，兼具實用與趣味。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是保守穩健還是積極衝鋒？測測你的投資人格與財富累積策略！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "MacBook Neo低價搶市 帶新果粉入門 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwcV9CQThiYnhlcXRsWkYydG1xMThxa0FDMklreXF1R0F5TWlaZFZ2QTFtTEtpaXNiNnJEdWRiOVdzWF9FdmtlamxrM2V2cUFx0gFWQVVfeXFMTnNKdzJaWUszYlFSa1RZaVlfOVlvRmFtSHFvdFBzb0EyVFk1SjRXMU5EbDdxNEZkNDZvb0drbXVoNldJeHZ2Uk9TR1ktNzJ5RTZlTUYzdWc?oc=5",
+        "theme": "你是品牌的死忠粉還是理性消費者？測測你的3C消費觀與購物決策模式！",
+        "resultCount": 5,
+        "style": "極簡質感",
+        "description": "蘋果產品推出低價版，旨在吸引新用戶。這個話題能延伸出關於消費者行為的測驗，探討使用者在面對新產品或品牌時，是看重品牌價值、性價比、功能實用性，還是追求新鮮感，揭示其深層的消費心理與決策習慣，提供生活化的趣味。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是品牌的死忠粉還是理性消費者？測測你的3C消費觀與購物決策模式！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "LINE宣布「終止1實用功能」！4/27起沒付錢全面停用， 免費替代方法曝 - 風傳媒",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qbmhDYXpUMmJKOUtyNUJ3eTBLeElQVmFjRzR3Zk1mNjllQXRuYXE2clI4d3p6MHVvLS1GRmVmZUxyTkI5M2tuOUVrWnU5LVBR?oc=5",
+        "theme": "當你的慣用服務突然改變，你會如何應對？測測你的數位生活應變力！",
+        "resultCount": 4,
+        "style": "霓虹賽博",
+        "description": "LINE功能收費化的消息，觸及用戶對數位服務的依賴與對改變的接受度。測驗能透過假想生活中的數位工具或服務發生變化，來分析使用者是會積極尋找替代方案、抱怨不適應，還是願意付費升級以維持便利性，反映其數位生活中的應變能力，帶來科技與心理的連結趣味。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當你的慣用服務突然改變，你會如何應對？測測你的數位生活應變力！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "驗證碼要掰了！Google宣布Android手機登入流程重大改變 - 自由電子報3C科技",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ISzFMckZoMnB6MVdGTG1zXzZMNzhGZVdIOURpMkk4aXpOSUpUUDZTbGdJekJ5WGZQNUt1TXFEUFQ3bmIwanYw0gFMQVVfeXFMT1JYNWJaZXNCRURMNjBxeTdfY2tjS1lYbG16Vk5kLTBNSi1DNEtTRjAwaXVVVDhzMWxBOUYxaEROTlIxZ0ZLek4xc19VYg?oc=5",
+        "theme": "你是科技先鋒還是保守觀望者？測測你對未來科技趨勢的接受度！",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "Google改變登入驗證方式，預示著科技安全與便利性的新趨勢。測驗可以透過情境題，探索使用者對新科技、新驗證方式的態度，是抱持開放的心態樂於嘗試，還是謹慎觀望、更重視傳統的安全保障，進而分析其對未來數位生活的適應與接受度，充滿未來感與探索趣味。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是科技先鋒還是保守觀望者？測測你對未來科技趨勢的接受度！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "MLB》最速158公里！佐佐木朗希先發5局5K慘挨3轟 防禦率高達6.35 - 自由體育",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE9FTEV4WFBMcnlHeWZrZ2RvSHVhSU1rdkJPTVhlTElkUExteGZ4dHpxTnk0ZlRUMnBQOGQ1clB3aFBiZ09fQ0MyQXJuLWl0aHlRbXlydi1YNDdCQS1JVHp2NtIBZkFVX3lxTFBoY2duNEtlNzNMWlYtdHZ1UTJjTENSQzQ3aXA2SXpiZTVjQThQTFVTOXUyNUx2TjNIcGpVMHllVXVsb0xzbHJPMmVJOXBKRnktaDlPR3hyaGUwd0drVkhZTGdBeC1DUQ?oc=5",
+        "theme": "當你全力以赴卻失利時，會如何面對挫折？測測你的運動家精神與抗壓指數！",
+        "resultCount": 6,
+        "style": "清爽動漫",
+        "description": "新聞描述棒球選手在場上表現的起伏，即使有高速球的優勢，仍會遭遇挫敗。測驗能透過運動競賽情境，探討使用者在面對高壓與失利時，是會選擇重新振作、分析原因，還是容易氣餒、影響後續表現，揭示其心理韌性與應對挫折的能力，充滿熱血與勵志趣味。",
+        "id": "idea-9",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當你全力以赴卻失利時，會如何面對挫折？測測你的運動家精神與抗壓指數！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "MLB／鄧愷威平手登板遭洋基捕手敲陽春砲 苦吞賽季首敗 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CU0R3TlQwdjYtYnJYcE1DdHFMdjVNWUN5NXVGSWJNNjJYWjUyd2NlZ3RESFoyYm03ME8xNmJTWWV2NTZ1R0YxLW1BQy12ZnNn0gFWQVVfeXFMTnR4cEVfaEVlOHV0THNpOWU4aVRZdER1OFR3U0wtUWpxOU9xS2FybjZwZU15M05iVFZVYVFBdFlScGVZLW1LR1RDMENrNm5tcUVWRkRKMFE?oc=5",
+        "theme": "關鍵時刻的壓力爆棚，你會是致勝英雄還是背鍋俠？測測你的抗壓性與臨場反應！",
+        "resultCount": 5,
+        "style": "美式波普",
+        "description": "棒球選手在關鍵時刻的失誤導致球隊吞敗，反映了運動競技中「一球定勝負」的殘酷與壓力。測驗將透過情境題，模擬使用者在緊要關頭，面對巨大壓力時的決策與反應，是能頂住壓力化解危機，還是容易因緊張而失誤，呈現其抗壓性與臨場表現，帶來刺激與挑戰的趣味。",
+        "id": "idea-10",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【關鍵時刻的壓力爆棚，你會是致勝英雄還是背鍋俠？測測你的抗壓性與臨場反應！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      }
+    ]
+  },
+  {
     "id": "2026-04-25",
     "generatedAt": "2026-04-25T03:43:45.924Z",
     "ideas": [
