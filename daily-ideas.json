@@ -1,5 +1,121 @@
 [
   {
+    "id": "2026-04-27",
+    "generatedAt": "2026-04-27T04:22:07.146Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "游盈隆：以國籍法處理陸配參政牽強且爭議應從憲法與相關法律著手| 政治 | 要聞 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5icmFiTkczOFpiZTI0cVNsRGg5WkI0R2x4bDNZOGthTjJreXZZQWJVMWJ3bWkxbFI5X2xHR2Zzb29mc293QWJqb1hfLWNIdWI5?oc=5",
+        "theme": "你是哪種『公民意識』類型？從國籍法爭議看你對社會規範的態度",
+        "resultCount": 5,
+        "style": "懷舊報刊",
+        "description": "藉由「陸配國籍法」這類複雜的社會議題，測驗使用者對於國家、身份認同、法律規範與人權的看法。透過選擇不同的觀點，分析你是「原則至上型」、「務實考量型」、「人道關懷型」還是「社會和諧型」，探討你如何權衡法律與情感，在社會中扮演的角色。這能讓使用者反思自己的價值觀，並理解多元視角。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種『公民意識』類型？從國籍法爭議看你對社會規範的態度】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "曝徐國勇「一動作突襲」暗助沈伯洋搶先致詞 秦慧珠：老實的蔣萬安危險了！ | 張大任 | 新聞 - 風傳媒",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wVHNwUFFmWDdlaktVRk5PdENTWjdLU1h0ZmkyQzVzeXBvaDkwbVdTUXJUZy1pWmtlSjM0a3FJRE1vMzVYVmpWb1NYSS1DZw?oc=5",
+        "theme": "政壇生存遊戲：你能在複雜的權力鬥爭中脫穎而出嗎？",
+        "resultCount": 4,
+        "style": "驚悚懸疑",
+        "description": "從政治人物間的「突襲」與「暗助」事件中，延伸探討使用者在職場或人際關係中，面對突發狀況、權力競逐時的反應模式。測驗你屬於「見招拆招型」、「以靜制動型」、「直球對決型」或「洞察先機型」，分析你的應變能力和策略思維，讓使用者在娛樂中學習如何應對職場挑戰。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【政壇生存遊戲：你能在複雜的權力鬥爭中脫穎而出嗎？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "王俐人SWAG尺度大開後再衝話題！下一部作品確定：演出喪偶未亡人 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNVWo4bTVBLXB0blFvemFTN2pyeURYSXNNUndmZlVwOW5SaXg5UUNuVlYyek1kNjFncVVfRnBRa2pNR0VHdl91ZGExRTVsZm9KMm85dF9MMWRoZWRLcmhNdDRiZWh6RkJoY0M3d3ZfWktkSVd3anloRWZic3hWWU5LNFlQNXBCbDdrSjF4UllQeVpJVU5NWUtyMUQzSFo3OTFsQ1JMU2JxXzN3djVGaFNWUE1PZU54Ty1zdkE0SlBnTTdURmwtSmdaOEQ0Nmpud0FEWERtQzNKU0FtdTgtSHoya0FTaWJIenlPLVptTE1QQTA2RDgxY2hXRUgwRlpDWDZWY200ZVMwU1hIQVBUV3NmRUlEbl81UlAzS3U2QUlqbmx4ZGViNW1xelB0VVBKODg0NXBSWi0xVldSVlZaU0hSWFBWT0ZwZ2VtQ0t5aG9QSlhiM3RwM0hZWXI2ZTNtd0d1SU0yZVp1RHd6N01VX1RQQ3Z4QnVUYk9TNENDeVMwTmhaSW5FQnVEQQ?oc=5",
+        "theme": "挑戰你的舒適圈！你在哪種情境下會『尺度大開』？",
+        "resultCount": 6,
+        "style": "霓虹賽博",
+        "description": "藉由藝人挑戰大尺度演出的話題，設計一款測驗，探討使用者在生活中，面對突破傳統、展現自我或挑戰極限時的態度。你是「循序漸進型」、「大膽嘗試型」、「有條件開放型」或「保守觀望型」？這測驗能讓使用者了解自己對於「尺度」與「界線」的看法，激發探索未知的樂趣。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【挑戰你的舒適圈！你在哪種情境下會『尺度大開』？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "代言爭議！李多慧慘吞633萬官司 公司：認知細節產生誤會 - ETtoday星光雲| ETtoday新聞雲",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XN0hDU2VJNEVUeF9HWFpLaFB6V0F3SHFaNmR5V01GUkZDQlBZckKuYS1SVzM4VGNtYXdiVDgyVzVDZ21uTjlSZk1pOFRnd9IBakFVX3lxTE9tblRXSHQ3TWoyaUY0bkI2enRjdlVzZDZGTndLTDlod29Iclc4NzFkUW5BNEtfaUZCXzlkcUEwS1NOTXUtY0UzTGZSUGN1RGFBQ3BCZS1fTVZ2dGEzRC1rU3FNVUdQQmVUOXc?oc=5",
+        "theme": "職場協商大師是你？測測你處理『合約糾紛』的能力",
+        "resultCount": 5,
+        "style": "極簡質感",
+        "description": "從藝人代言官司的「認知細節產生誤會」切入，設計測驗探討使用者在日常生活中，面對協議、承諾或潛在衝突時的溝通與處理能力。你是「細節魔人型」、「隨性豁達型」、「息事寧人型」或「堅持原則型」？這能讓使用者反思自己的溝通風格，並學習如何避免不必要的誤會與紛爭。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【職場協商大師是你？測測你處理『合約糾紛』的能力】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股早盤漲逾1200點首破4萬大關 台積電漲145元達2330元 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNeXZrRFpPU3h1b2dhb0diR0ZoX2lVT2d4RS16dzZiT25WUThDekxzcy1RU044dVdXNVpUSHBYOC1ibWIxakpvQjdoelRMSUFHRHUyaEIwdW9nZzdUeDZnUXAxNlpxLTBJV3hkM1hUQmY4RTNFeWdDSlRTN09Id3lBZDUxRlF4bHFPNUpoM3YxMGVYb1k4VEZQTnYwTmZRU0w1TUJYcllnb1NQazZUejFMd25XNHNKWk01anRIQ29NRXc5NnVTTGdOdmNNaE9MNG9Vc3k1bFNkUFpIOTVvOVlwUWkwUVRzUFhVb0N0eFhlWml1SnhFSWNiZkpHVkJOREdjbmZrc0QzbmN1a2ptdVhDTzZyNU5weGEwZWpXWGZmclN2cUhMMDdOWDJTZVk1TXpmNHNyaEhIWjZ2OTJKdzlaHhFSWXo2bDJF?oc=5",
+        "theme": "股市淘金熱：你是哪種『財富追逐者』？",
+        "resultCount": 4,
+        "style": "美式波普",
+        "description": "結合台股衝破四萬點的熱潮，設計測驗探討使用者面對投資機會、風險管理與財富累積的態度。你是「穩健保守型」、「積極進取型」、「機會主義型」或「趨勢跟隨型」？這能讓使用者在輕鬆的氛圍中了解自己的投資性格，並對個人理財觀念有更深的認識。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市淘金熱：你是哪種『財富追逐者』？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "黃仁勳「美國糟糕了」預言成真？DeepSeek V4獨家合作華為 分析師揭市場反應 | 張大任 | 新聞 - 風傳媒",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FSG1zejdsbTdIcUdHYXNXc3FGWEh3NjRBa2VoYzNQT1pDSVJHaXJybkd4dDBpWTZDWF9IV19HZmtYQUNpU0F1Wmp6eG1odw?oc=5",
+        "theme": "AI時代的戰略家：你的『科技預言』能力有多強？",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "以黃仁勳的「預言」與AI產業的國際合作為靈感，設計測驗評估使用者對於未來趨勢的洞察力與戰略思維。你是「趨勢判讀者」、「技術預言家」、「風險評估者」或「創新驅動者」？這能激發使用者對科技發展的興趣，並思考自己在快速變遷的數位時代中如何定位。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI時代的戰略家：你的『科技預言』能力有多強？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "不是人人都愛 250 億歐元 AI 資料中心挺進德東小鎮 被當地消防局長帶頭聯署反對 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOalFBZndtQlFBeWlUM2ZEOHRNZ1otZzJPcmduRUo3WmpwR0wyYlZzVUlDaG92dlVPUHRteHZQa3hTYVlnZXB5NHJJdnFFWG83MWE2OV8yaE1MaDJwX0tBUDVPekQ1Znoyc1JQbmpwNnZUMktuM0N3ZmlnY1BrZDlSMHR3LU9CUDdWcmJYUGJuSlhxMHRUVEpaSXZLSGF5Rk1ZUElYUjU0WEZYSFk4SXNIcm56aklJZ1ZzWnhTOXctMHBvT202YUJWX1hReEhsRWVFRnRGUkJnbFRsVWdOc3NtZnY1LWRpMTF1YVF6Z19HX3ZTcTV6MGVUZXVhdl9PVE01TkYxek5TN3VuXzVSMEpaUWM2VFUzUHE3c2h3X0R2cXUyUDhLZFJ4dTJjbmZvLTFyLTVHR1RaSnc3N2tob1VPamRkOA?oc=5",
+        "theme": "科技與土地的拔河：你心中的『發展平衡點』在哪？",
+        "resultCount": 6,
+        "style": "自然原始",
+        "description": "以德國小鎮居民反對AI資料中心為題材，探討使用者在面對科技發展與環境保護、地方權益衝突時的立場與選擇。你是「科技樂觀派」、「環境保育者」、「地方優先主義者」或「理性折衷派」？這能鼓勵使用者思考永續發展議題，並認識到不同群體在價值觀上的差異。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【科技與土地的拔河：你心中的『發展平衡點』在哪？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【自然原始】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "台灣地區 PS5、PS5 Pro 及 PS Portal 調整後售價出爐 - GNN 新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VbzhBcWwwZTNLUGpMQndlc2liMTdMUUpPNFpzNHU2dUJGOWlWeFFoQVcwblJDblBaZ2hMcVZRdWlYdmxMVFNCMDY1Ry1uN0Z4SjNjX09PTTBp?oc=5",
+        "theme": "遊戲機漲價心痛嗎？你是哪種『科技消費人格』？",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "藉由PS5系列產品的價格調整新聞，設計測驗探討使用者在面對高價位科技產品時的消費決策模式。你是「價格敏感型」、「性能至上型」、「品牌忠誠型」或「精打細算型」？這測驗能讓遊戲玩家與科技愛好者反思自己的消費習慣，提供有趣的購物決策視角。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【遊戲機漲價心痛嗎？你是哪種『科技消費人格』？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "NBA／斑馬G4回歸狂搧7鍋 馬刺19分大逆轉拓荒者聽牌 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FQVhKM1MzbVBwaWxITC1xQW9jZW1DRm5FOEdrdG1uU3QwTEhtdXo2TTFLTExsRzNpR0lIT29vckw5SzlXT25pTXlxanpoeThJ0gFWQVVfeXFMUFdHb2RNa3JLaDJ5eEVZWWtNdTR3OFBZQkhGZzFiYTJuYlM3MXhULWxxQkZvYjhLVDNIaGFtcjhWQ0JPSWxhUDB6ZWxLZ0tkZzZrZXpoZlE?oc=5",
+        "theme": "球場逆轉勝！你在團隊合作中是哪種『關鍵英雄』？",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "從NBA球賽逆轉勝的熱血故事出發，設計測驗探討使用者在團隊合作中扮演的角色，以及面對挑戰時的領導力與應變能力。你是「絕地反攻型」、「戰術分析師」、「精神領袖型」或「默默奉獻型」？這能讓使用者將體育精神帶入日常，了解自己在團隊中的潛力。",
+        "id": "idea-9",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【球場逆轉勝！你在團隊合作中是哪種『關鍵英雄』？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "陳傑憲開轟道歉 獅橫掃雄鷹 - 自由體育",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpLWVCbTNZbXAyR3lqRDZaU25UcDcxYmdjZ1JXcmxPVFJ1ZTZYSDJURDEwZDFFZDRmTEt5RWNmUjFSOWF5Z1NudU1aaklYVGVKQUN4V2FDd9IBXEFVX3lxTE02WFYtS2V0Zjg5d0JwZkxhbExKYVRNU2FObldyWXVsdGdVUnNJV3FRWkdQVjNXdEJQTzJDUG8tODFob05NNmJXRmphTDktdjBQeFdXeV9VcTd0Rl95?oc=5",
+        "theme": "矛盾的勝利者：你在成功時會如何展現『運動家精神』？",
+        "resultCount": 4,
+        "style": "溫馨水彩",
+        "description": "借鑒棒球選手開轟卻道歉的特殊事件，設計測驗探討使用者在競爭中獲得成功時，如何平衡個人成就與他人的感受，展現情商與風度。你是「高情商圓融型」、「直率坦蕩型」、「勝者為王型」或「內斂謙遜型」？這能讓使用者反思勝利的意義，以及如何在競爭中保持人際和諧。",
+        "id": "idea-10",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【矛盾的勝利者：你在成功時會如何展現『運動家精神』？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      }
+    ]
+  },
+  {
     "id": "2026-04-26",
     "generatedAt": "2026-04-26T04:06:26.985Z",
     "ideas": [
