@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-04-29",
+    "generatedAt": "2026-04-29T04:22:44.437Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "鄭麗文：軍購特別條例不反對匡列8000億 但絕不接受1.25兆空白授權 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNbnhwLVU1Sk4yYjMzUG5HNzJVZWxQVFJDWlViYmJFVGdpcWpUNXlPMU9ZaGp2VU5wWG5RTTlTT0VWeXB4OUYtV0hNazlXQmlpdmNIUnRNSDYyYkM2ZjlZNkFxNzJsWlZuaGgwbWhLMTVadEFlZzBpS0JoR0Z1RWthb1BINHg5SzFiaElzRHRWUmljQkJCUFN5QnR4d2dySElVS2pzZnhLdGhRU0ZyYVB0dDZzTUFSR01nRTZCY1JRRlRRYzBEdkUxdWNuVkdCVjd0Vmo8WHp1bVFEUlZFb0stYUhHTTF2MjZTcS1uV2Rzc0pnRVZqV3RHb3BWc0huTXdfSVJCZzVWU2Rkc00xaDJVckVBdDNVYXh4N0hKcVAtRm1QTG5JcHNjQWFBWk55dURUbmdDS3pNeVZ3NXo4MU5FQm1zcV9xLVdKd3RqUGZVWXNCN3daXzhGWktpdnpEV0FtdktxWWpSZVRGTWZaTUp6elJmblVTSlVKRDQ2cXNraUdheFJUUWh5R0NwV0NiMjV6ZTQ2MEZR?oc=5",
+        "theme": "你的預算規劃師人格是什麼？測測你在金錢授權上的底線在哪！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "這個話題圍繞著巨額預算授權與國家資源分配的爭議，可以延伸為個人在資源管理與決策上的風格測驗。透過測驗，使用者能了解自己在面對金錢、時間或任何資源時，是傾向謹慎保守、嚴格把關，還是更願意賦予彈性與信任，從中獲得對自身決策模式的趣味洞察。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的預算規劃師人格是什麼？測測你在金錢授權上的底線在哪！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "評選結果提前揭露、評委爆未利益迴避 台鐵董座鄭光遠今正面回應 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYTEdHZWFGTWt5MGRfcDFFLU9fMV9maHAxQU9zWjJ6Z1ZUWlFoaW9MTEJsclByU2tUd0VrbS1sODVOc0xzY2pMRFB0VG43TlhK?oc=5",
+        "theme": "你的道德雷達有多敏銳？測測你在職場或生活中對『潛規則』的態度！",
+        "resultCount": 5,
+        "style": "驚悚懸疑",
+        "description": "新聞涉及評選舞弊與利益迴避問題，觸及公平、公正與誠信等核心價值。以此為靈感，可以設計一個探討使用者在面對不公平、潛規則或道德困境時，會採取何種應對方式的心理測驗，揭示其內心的原則與底線，提供深思與反省的機會。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的道德雷達有多敏銳？測測你在職場或生活中對『潛規則』的態度！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "安芝儇受傷無法「炸裂」！右肩脫臼5公分 親曝大巨蛋將改以「這方式」現身 - 噓！星聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdU9rSVpMOUVBWDdwUFJyM2w2djA2SkJXQ2ZQZHZRbHZaVFRlZEdScG5TdnFnaG45UnN2ZXNicE5zaXJGdVZMTFVMdHZHeDNhdVdBQTdXeVlDRHktcG0yVUpmLTNIeGdoYkViVU1kTHJMLWFobWd3di03RzdTZHVELdIBYEFVX3lxTE5qV05SY0xOWVBFLWVqWkJEVDFxN092Qk81QVN6ZTRZa3hFU1NVQWw0QXo3elUzeG51M0d2Mi1ZS1B6RUNsbE42SGs3U1FtOHhhLWVWb2hPcWFkOWZkeEd2Zw?oc=5",
+        "theme": "當人生『炸裂』時，你會怎麼華麗轉身？測測你的逆境應變力！",
+        "resultCount": 6,
+        "style": "清爽動漫",
+        "description": "啦啦隊女神因傷無法上場，卻以新方式現身，展現了面對逆境的韌性與創意。這個話題能激發使用者思考在遭遇挫折或限制時，會如何調適、尋找替代方案，或是以不同形式持續發光發熱。測驗將幫助他們認識自己的應變能力與積極性。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當人生『炸裂』時，你會怎麼華麗轉身？測測你的逆境應變力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "負債登SWAG！王俐人昔燒錢做試管 白白發聲：演藝圈最善良的人 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPdko4ZDFHWjA3dlR0SW5QcUs1Q0kyTVNlREJBLVFLS0pjX2NYaVRJTUY5Y2FhTGQ1dzJTb1VybHR0LVVUWUhOcVFSNzBSVUdvazQ4Qm5oT0U3anhOZ3Z5Ri1aRmtEMGZNTHBpd0dTNkxfMUlTMnlUTzh4RzZPbnhVeTZQX2JXMnhNMnRjb0pyS0NHM3pZMy00NU1CX014aVBaZkpoQXBGVWoxYmpPNnVpekxOQlA0TUpIMS03alpWLWVyQXBfTXpnWXFINkR0Mlp1cVMwVXB1Yy1mMFFQX2VDRDdKcVRncGVNQURvMXNOaWtXV2lQSWZWTTlGTjJPazVpRDY3dTFjc2tHNURvRzkxVFNEcGotcnBMQlZLQS1ZRXpab1BKOHNzaXkxQXAwSkV2eUtmNkdPZFBDaVB1TUJRb3lMaXV5T0tsYXF1RUltdktXcVh4SXZERU91Z2F2cTJFOUdqVEk2czFkUk04ZDVRTzFYTFJWOTVsNVRBUw?oc=5",
+        "theme": "當人生走到十字路口，你會為愛做出什麼『大膽選擇』？",
+        "resultCount": 7,
+        "style": "唯美浪漫",
+        "description": "新聞揭露藝人因個人（生育）與財務困境而做出大膽轉型的決定，觸及人生抉擇、犧牲奉獻與社會評價。這個測驗能引導使用者思考在面臨重大難題、特別是為家庭或所愛之人時，會願意付出多大代價，或做出多麼出人意表的選擇，藉此反思個人價值觀與勇氣。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當人生走到十字路口，你會為愛做出什麼『大膽選擇』？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "美股收盤／AI 泡沫疑慮再起！OpenAI 傳營收未達標拖累大型股和晶片股下挫 - 經濟日報",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpN3U4QWNsbWROWndFU0kwUmZSd1pPcU4yVFpick9ROWZKSjh4V0NCZlJ1ZDBlNThoTU9fMFVZTUNtLTFmSHluM1NsaVhpZzFsV0hXSWNMRFJKV0lo0gFiQVVfeXFMT196RDN2cVZmTEc3cW4tZXpxU1JOQW4xV1ZrZ3ExRUtVTXBfazhFMHNOLUVUZTZ6djI3dkhlVDlZU1FZLVlXSEROUW9aSV9Cdk4zRzlJeHhXUDVCV3RnQUFIb1E?oc=5",
+        "theme": "你的『AI投資人格』是什麼？測測你是追逐風口還是穩健佈局！",
+        "resultCount": 6,
+        "style": "霓虹賽博",
+        "description": "AI泡沫疑慮再起，反映市場對新興科技的追逐與潛在風險。這個測驗可以從投資決策的角度切入，讓使用者評估自己在面對市場熱潮、新科技概念或潛在風險時，是傾向於大膽投入、謹慎觀望，還是能保持獨立思考，從中認識自己的投資風格與風險偏好。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『AI投資人格』是什麼？測測你是追逐風口還是穩健佈局！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "阿拉伯聯合大公國為何退出OPEC？華爾街日報：美國頁岩油和伊朗戰爭| 國際 - Newtalk新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UVEhMMGpES0xXYTdMdFJ1RV82UTRwemVQV0lSUG5oN1hVZTVZZEZWbm9hY3JscjRRS29lT1NrUzBPYzFwdkIzQ0Uzd2dYQmd4WE4wZ0VOTUdETEk?oc=5",
+        "theme": "你的『國際關係策略』是什麼？測測你在聯盟與博弈中的角色定位！",
+        "resultCount": 7,
+        "style": "奢華宮廷",
+        "description": "阿拉伯聯合大公國退出OPEC涉及複雜的國際政治、經濟與能源戰略。這個話題可引導使用者思考在多方勢力角逐、利益交織的局面中，會如何評估情勢、選擇結盟或脫離，以及其背後的動機與策略思維，幫助他們理解自己在複雜人際或組織關係中的應對模式。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『國際關係策略』是什麼？測測你在聯盟與博弈中的角色定位！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【奢華宮廷】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "MLB》直球均速下滑4公里！鄧愷威本季初先發3局失2分 他說明原因 - 自由體育",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xWVhqajEyakE3VTN1RTF5bXczY0N2d3RibDJBNEt3ckFfUjNHUUJLVUxESEl2NXNDbUF4dktVdkxPcjVEamxFZDBodG9EX3RoQ0J0Q2ctQ09ZRV9UOUJMRtIBZkFVX3lxTE1pZEQ5OGZzbDRablZ2Y1Z4U0FWQ3VDcDVRWmdmTzE5UzVoQkF5eWpISHpIY1V5ck1XRmtYbjY1Uk85dWFta3N0SmNIX3NkRjh1b1ZDdUVnUjhqUHBTbnZaNHdaR3Ftdw?oc=5",
+        "theme": "當你的『表現下滑』時，會如何面對與突破？測測你的低潮應對之道！",
+        "resultCount": 5,
+        "style": "自然原始",
+        "description": "運動員的球速下滑與初次先發表現不佳，以及他對原因的說明，展現了面對個人表現起伏的態度。這個測驗能讓使用者反思在個人能力或表現不如預期時，會如何自我檢視、尋找原因並嘗試改進，或是如何調適心態，從中了解自己的挫折容忍度與成長思維。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當你的『表現下滑』時，會如何面對與突破？測測你的低潮應對之道！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【自然原始】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "MLB／大谷翔平先發專注投球不打擊 道奇調度二刀流尋求最佳平衡 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85RWUxNTN5QXA5dXFUVmhYVGp6cTF4eW9LZE1MVThBLUY1QTJpWmE2NDFFMGxhMUNvd2VwRUwyV2l2cy1NX2lTU25ES1d5cGRs0gFWQVVfeXFMTWNUejVXeVpTdDJKLTdxRDJkdXVnaUlzMlV4VDdPT2FsTGVDcVk0SDVuVWhES1FEb3BsQWFicllrMWViLUtJX25QRER0U2h4VVR3UjVXSXc?oc=5",
+        "theme": "你的『天賦應用哲學』是什麼？測測你是專精一項還是多工平衡？",
+        "resultCount": 6,
+        "style": "立體拼接",
+        "description": "大谷翔平的「二刀流」調度策略，旨在尋求個人能力與團隊效益的最佳平衡。這可以引導使用者思考在多重角色或任務中，如何分配時間精力、發揮所長，或是如何在專精與多元發展之間找到最適合自己的平衡點，提供個人發展或職涯規劃的啟示。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『天賦應用哲學』是什麼？測測你是專精一項還是多工平衡？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【立體拼接】"
+      }
+    ]
+  },
+  {
     "id": "2026-04-28",
     "generatedAt": "2026-04-28T04:25:24.643Z",
     "ideas": [
@@ -675,34 +769,6 @@
         "description": "議題圍繞著社會政策的討論與政治立場的表態。此測驗能讓使用者透過模擬情境，探索自己在面對多元文化與勞動政策議題時，內心真正的傾向與考量點。不僅能增進對社會議題的認識，也能趣味地了解自己在「包容度」上的光譜位置。",
         "id": "idea-2",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「移工政策」投票指南？測測你內心的「多元共融」光譜！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】",
-        "sourceLink": "https://news.google.com"
-      }
-    ]
-  },
-  {
-    "id": "2026-04-15",
-    "generatedAt": "2026-04-15T00:30:00.000Z",
-    "ideas": [
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "水樹奈奈「VISION」巡演台北場圓滿落幕 能為「菲特」不同人生階段配音大感幸福 - GNN 新聞網",
-        "theme": "你的「人生角色」是什麼？測測你的「命運劇本」走向！",
-        "resultCount": 7,
-        "style": "清爽動漫",
-        "description": "以聲優水樹奈奈與其經典角色「菲特」的長期羈絆為靈感，探討人們在不同人生階段中，如何定義與扮演自己的角色。測驗將透過情境題，引導使用者思考自己的成長軌跡、夢想與挑戰，並揭示其人生劇本的潛在走向，帶來共鳴與自我認同的趣味。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「人生角色」是什麼？測測你的「命運劇本」走向！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】",
-        "sourceLink": "https://news.google.com"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "排名暴跌才爆黑箱爭議！曾沛慈瘋傳退賽《浪姐》 本人現身回應了 - Yahoo新聞",
-        "theme": "你適合在「浪姐」還是「青你」出道？測測你的「娛樂圈求生指數」！",
-        "resultCount": 6,
-        "style": "霓虹賽博",
-        "description": "結合選秀節目中的排名爭議與退賽傳聞，此測驗能讓使用者在模擬的娛樂圈競爭情境中，探索自己面對壓力、挫折與不公時的反應模式。它不僅趣味地反映出個人在追求目標時的「求生策略」，也能讓使用者了解自己是屬於哪種性格的「選手」。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你適合在「浪姐」還是「青你」出道？測測你的「娛樂圈求生指數」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】",
         "sourceLink": "https://news.google.com"
       }
     ]
