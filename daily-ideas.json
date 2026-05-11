@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-05-11",
+    "generatedAt": "2026-05-11T04:46:58.804Z",
+    "ideas": [
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "【娛樂】台灣之光！挺進《英國達人秀》最高榮譽進決賽 楊立微首發聲：真的好累 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQYUJySEVUWHpaemVhZG1hbHJYc0MxUnFteE1zdmRNRVdOdTBRQzhweVhTYlJ4ajl5RDNsWjc1NXlZTk5TZGRudXBiTENRdS1zLS1odW5PdW5ra1ZUYldHNm1tZ25Oc1NNME83N1YwWmNrZ19YY25hUkNSSXoyczl1U2xHb2JERkxKZG5QWFBWbldpaW9GRUVUNFNQSm9acGNZM0dnVDF1NVlVVTVEemJCdW9xQ1ZHbjVSYklBSnd2OUNjdnBxM2ozQTUweE9Jd2c5VDJtT0ptQWFQQkUyaWJpQjRKX2V6bDJyd2dmZkdoLUg4Qi13dlZveXpaZmtYSXg4RjJfYjI1N3dzck9CNlJiZk14c2NwN0ducGJLVFhKWVpYNDVQMV9yOHM0aHRFOU1fRmJpcExfZzBGS0JlWThZM3JSVm9vSU9oQzAxY0NXRUduOTh2OVczNXk5RDRwSnlsdXRsOTFLS2lSSnFGWXBnZl9xWFBPSW5v?oc=5",
+        "theme": "你的夢想濾鏡是什麼？測測你在成功路上會遇到哪些挑戰？",
+        "resultCount": 6,
+        "style": "溫馨水彩",
+        "description": "楊立微在《英國達人秀》上的成功與疲憊感，反映了許多人在追求夢想時的真實寫照。這個測驗可以讓使用者探索自己對於成功的定義、追求夢想的動力，以及面對壓力與挑戰時的應對方式。透過情境選擇，讓使用者思考在光鮮亮麗的背後，他們願意付出多少、如何平衡內外狀態，並提供不同類型的「夢想濾鏡」結果，增加共鳴與趣味性。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的夢想濾鏡是什麼？測測你在成功路上會遇到哪些挑戰？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "【娛樂】潘裕文告別舞台！凱希憶20年前星光歲月　「謝謝一起熬過青春的人」 - ETtoday星光雲",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SRWFpN0lJTExjNXd0S0ZqUEdRRzFSdUI2eFNuNHpTcmpBckNkSllqdFdqSFNRa0tOaFoyMmsxSzVDMnlKTWVITlVPeS1RQdIBakFVX3lxTE00TzlZQnZyR3BSRnhvV1BHMVppblJPYVJXMl9PZUxlZnM1cVpZZm41UUdVckF4ejZsR09WWjI2cjZEQzdBTmlRaUZXMnlmak9yWWRLS1g4eDRDMGY4eTlTV2RQSjBkcVhlcVE?oc=5",
+        "theme": "【青春回憶殺】測測你的「星光指數」，哪段歲月讓你最難忘？",
+        "resultCount": 5,
+        "style": "底片膠卷",
+        "description": "潘裕文告別舞台、凱希回憶星光歲月，引發了對青春和友誼的共鳴。這個測驗能讓使用者回顧自己的成長歷程，思考在過去的歲月裡，有哪些人、事、物對自己影響深遠，以及自己是如何度過那些難忘的青春時光。透過情境題，引導使用者連結自己的經驗，並在結果中找到代表自己「星光指數」的特質，喚起集體回憶。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【【青春回憶殺】測測你的「星光指數」，哪段歲月讓你最難忘？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【底片膠卷】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】台股平盤震盪！台積電下殺25元 記憶體族群漲停狂飆 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNTDF5OHhWUVJYeWEzaUp4dFJHUlF6blZIeFBhZWJPeThoX3ctZTVuVlRIWUlReHIxVl81d1ZFcWJueEdrbXd3WlBmOTI2cVZUUWZSbjNndTdZS3pIdTdTU1JvUjVjcGEzY05EaDhlQ3QwODhGOGxPUkVwenhxR1FzTzhJX2Z4OG5KXzlXaUpPWjdVaHhzV2ZxMFhUTGV5ZXhTTVhiTWVUYTVjWE5pZ2x1WDJHQ19xZ01XOFJkVVhuNmh5TmtlVGpETmExR1F3Q19mOWJaN3Nid2hhVmdJaTJ4WFhfMXk3T0pUbDdCOEZIOC02MTRVMm5jQnJYc3BjX3ctdXdHNlZOREgyZlVDWmdIR2FBaGMzZ3VrNzM0T1lHN1dLZ25hdVpBNXc0UkFpZWh3WGRnQ1VORkllcUFSU1M3OXIwaEpsQlB6akhMaE83RXJpd3loUEZxWjVtWGI?oc=5",
+        "theme": "你是哪種股市「震盪俠」？測測你的投資心態是保守還是激進？",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "台股震盪、個股表現兩極化，反映了市場的不確定性與投資人的抉擇。這個測驗能讓使用者檢視自己的投資性格，了解在面對市場波動時，是偏向保守觀望、積極追漲，還是勇於危機入市。透過模擬股市情境與選擇，幫助使用者認識自己的風險承受度與決策模式，並提供趣味性的「震盪俠」稱號，引導對財經議題的討論。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種股市「震盪俠」？測測你的投資心態是保守還是激進？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】群創FOPLP傳將與台積合作 董座喊先進封裝技術「已站在第一領先群」 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85aFJTUDlubi1zQVBlNjU2YXdaZndueFVwdWpIZTYyaWwxZEVwVE43YVBDNzhyQVNramthcmhuZDFVV2RlbU5RaVlqaGhWdF9D0gFWQVVfeXFMTVgzdnhJbVd5UjRvbHh0QTJkc1hMeVhQMzF3NG5sT1VHc2JjWDAzQUpqVHNvdFJCRkVRX0xPcXRwejhQRUN3bTFlNm9Lakl0ZlYtSkFlRWc?oc=5",
+        "theme": "你是哪種「策略結盟」高手？測測你在職場上如何布局合作關係？",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "群創與台積電合作，以及在先進封裝技術上的領先地位，體現了現代產業合作與技術創新的重要性。這個測驗可以引導使用者思考在個人職涯或團隊合作中，自己扮演的角色及決策模式。透過情境題，例如面對挑戰、尋求合作夥伴等，揭示使用者在「策略結盟」中的傾向，是主導者、協調者還是創新者，提供有趣的職場洞察。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「策略結盟」高手？測測你在職場上如何布局合作關係？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "【科技】AI巨頭千億支出，台廠準備再吃餅？阮慕驊點破台股「過熱」真相：矽谷燒錢、亞洲變現 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNZDBRYUhodUxOaDl3RmdCdV80TXdXYVVqSy1rSlNBUWJ1NklWMGNRNlN5dU8taWliZHhKSlJDR0RSOUw3b3NHY1NXMGdnRjhvcEUzeWdjVEtjS1ktXzR4R1pWTXRlNnU5QUVwdHpGd0paRENMTEp4WFJZN2JxOW5EM2lTaWhHSUdfN2l3OERvdjFjb0pEMUtkNlIwOFdrNWdza3JfS1kyNWgyQnpCTWs3bVNwMWpPZXRCWG9pMzVuNUZqb3NZTGh0NHkwanRqMVpfRUdwZnBsQTRlUW1UMDRUdnc0SW9YTWQxMW1ZZnl2dVp2S3haYklOaTlPUHJmLWRFTzc4QlBQeml6VTE3VFlGWk55Z0tOSm9WRWlXemRGaWVCVDY4QXozQ1dleXdLbGtzdFRROXl3ekMzS3pycEU3bzN0bWdrRzY2STUwRmZ2VFFId1ZHSHBLWUlXTlpUZEwzWXd3ZDRtbkpBeFZyd0wxVVRpMGpzQVhkaHRn?oc=5",
+        "theme": "你是AI熱潮的「清醒智者」還是「追夢人」？測測你的「AI餅」辨識力！",
+        "resultCount": 7,
+        "style": "科幻冷冽",
+        "description": "AI巨頭的千億支出與台股「過熱」的討論，凸顯了科技浪潮下的機遇與風險。這個測驗能讓使用者檢視自己對新興科技趨勢的判斷力與風險意識。透過情境題，例如面對新技術的投資機會、市場泡沫化的警訊等，幫助使用者了解自己是屬於理性分析的「清醒智者」，還是容易被熱潮感染的「追夢人」，提供趣味的自我認知。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是AI熱潮的「清醒智者」還是「追夢人」？測測你的「AI餅」辨識力！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "【科技】台積電不再是代工首選？傳蘋果不只接觸英特爾 專家列「動搖壟斷」3大關鍵 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNNHE4YlJWUmlnbldPT2laOEtQVUZFU3BHUWJZZnlITFhlaGtObl94R0I3OHhheTRjUXFSRTJQSjE4S1JlcThvQ3NnTmt6TUtrdFRPN0o1ZTZLNm9yUURZVW00eW90QUhXSm96OW1tYkU2SUZHa2hHTUlIUWJucDk0XzN5eGFWN3FVRlAtSHhHS2pMVHhKd2kteEdkSWxPNm80ZGJUVW5sZlF3dURLM0hCbjhDRnRkRHZOYlYxTkdkRWNoSTVrQnFJclByQmJPeUEzUlRuWS1ZTFB1dFdMNnRjdE9pWFFxOUlkckpCX01wZEN2cHYtTENjdW5sV2tDbGMtNjlITm1ua19CWVg3MDVyMTlLOGl2N1pUTnEwcEVvYUVKenVidwzNjTDVEY1pHSG1LVnZ5dk83TnJqVS1UUm1jdGRiMHZXd2FkQ29PeWMtYWRoQ3ZSMmhXVlhQRDd1Mkg4YV9qY3ZzcTlRZ2xlT2QtZHpjdnppMGVNcXlyVnJEME54NzZkSU5leEVCNmNXVWZESkREUFNyLUVuTVB4bzBfbTc5MkEzVkNHNm9nTkM5OUptM001UW1uS3ctZHVtdlB5YkE5b09nM3RnRmN2Q2xWSHNhamZqcW5XZzl2SEFsN2JJUQ?oc=5",
+        "theme": "誰能動搖你的「第一」地位？測測你的「競爭防禦指數」有多強！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "台積電的「壟斷」地位可能被動搖，反映了科技產業競爭的激烈與變化莫測。這個測驗能讓使用者思考在個人或團隊中，如何面對潛在的競爭者或挑戰者，以及如何鞏固自己的核心優勢。透過情境選擇，讓使用者模擬如何在「第一」地位受到威脅時做出反應，是積極創新、尋求合作，還是築高門檻，提供對競爭策略的趣味反思。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【誰能動搖你的「第一」地位？測測你的「競爭防禦指數」有多強！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "【體育】MLB》鄧愷威有望專職先發投手！ 太空人主帥絕讚：他投得很好 - 自由體育",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVU3lxTE1pdmRKWGZ4dC04UlpLRUNXTC03N3pMWlJOLWV1NXVuM3FzenJuYWVUMDBzNEdTQ3kyZmVfemFhMGFkeF91VVpaeld2Si0xMUZ0VTM0Y19yLXFaZFozSXdPcNIBZkFVX3lxTE84QWszR04zS0s2S0xxQlg4dVR4ZTVhRGVvUXlnX3U3OS03NTR6ajIxNnc0MmcxcHpJQ1BMdG9PZzFvY0ZjSlcyZWpRRXAyWlZadXZ1NU9TM3F4WWZmaHVXQUdPckdpUQ?oc=5",
+        "theme": "你是哪種「潛力股」？測測你的天賦專長最適合哪個位置？",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "鄧愷威有望成為專職先發投手，代表著潛力被肯定、才能得到發揮。這個測驗可以引導使用者探索自己的天賦與專長，思考在個人成長或職場中，哪些領域或角色最能讓自己發光發熱。透過模擬選擇，幫助使用者認識自己的「潛力股」特質，並鼓勵他們找到最適合自己的「位置」，增加自我認同與探索的樂趣。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「潛力股」？測測你的天賦專長最適合哪個位置？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "【體育】差點過大牆！李灝宇生涯首三壘安打出爐 老虎隊官方嗨喊：台灣尚勇 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQdXMtcjlCeTA4UDlvRDBNWjVFZTJGYkFBcmpPR3UxX1FaRHRIbTRLYjMzX3JGTkFFT20yNFNJQ3hpLU1uUGJWaDg0Y3hNVzVYd1NjYmptMF83Q3g5UEJKNlNlNF96YU5PaXVtR1VWX0lKWXRvd0NfLVIwTkpseVlraXotRjQ4Q2t3d1FSZm1zYmFpUXY3a2J1ZFpPelllVFliMzZlTUtSTTZUR2tCUjFBN2RNQVY3T3hwZDV1ZWZZYU9mRFFvdDJuZ0xpZHJVbHJhd0lqSmxkdUlhWmFWSGF6S1ZNU1NUTWFNZnZURDlNZkd6Z0RuUlJ2cUlKTy1BYjNybDdoUHNCSXdmSE5tRTB3b3lTS003X0dqRzIzQVhEaDBPYnV0czZuWTRaQmJrRlhMZHB3QVlUbmpPRGJXSmRoREk5TGpFNVRpTlZwM1BvNWFlT0FJaG1leFFXN2wtLVVyVV9aQnhBMk53RGtsaHkwZnAwUzB4a054MS1UdkM5bEF6eVp0R1hncHREekRzZm9PdnM0bmxHaURRMFA4VFcwQTluV3AyalE?oc=5",
+        "theme": "【尚勇挑戰者】測測你的「破牆」指數，離成功只差一步時你會怎麼做？",
+        "resultCount": 4,
+        "style": "美式波普",
+        "description": "李灝宇的首支三壘安打，以及「台灣尚勇」的喝采，代表了突破與激勵人心的時刻。這個測驗能讓使用者思考在面對目標或挑戰時，自己距離成功僅一步之遙的心態與行動。透過情境選擇，模擬在關鍵時刻的反應，是奮力一搏、冷靜分析，還是尋求支援，揭示使用者的「破牆」指數，並鼓勵他們勇敢突破，感受勝利的熱血與喜悅。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【【尚勇挑戰者】測測你的「破牆」指數，離成功只差一步時你會怎麼做？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      }
+    ]
+  },
+  {
     "id": "2026-05-10",
     "generatedAt": "2026-05-10T04:34:52.444Z",
     "ideas": [
@@ -742,122 +836,6 @@
         "description": "體育競賽中的「失敗與反彈」是極富戲劇張力的主題。這個測驗可以引導使用者思考當自己面對重大挫折或失敗時，會如何調適心情、從中學習並重新振作，是會選擇立即檢討、尋求協助，還是需要時間沉澱。這能幫助使用者認識自己的「挫折復原力」，並提供面對人生低潮的參考，具有正能量與實用性。",
         "id": "idea-10",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【從谷底反彈，你的『逆轉勝』潛力有多大？測測你面對挫折的心理韌性！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      }
-    ]
-  },
-  {
-    "id": "2026-05-03",
-    "generatedAt": "2026-05-03T04:31:45.607Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內/財經",
-        "sourceTitle": "賴總統出訪 我國與史瓦帝尼簽署關務互助協定",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kSEtoNzBPNlN0Y0xJb1JQcW52VnFmRFItT2IyTllDS01tY0xnaW1RQU9nNWd1OGt4UmdwMElBV2ZnVk95RWNWS25VN2dxT2pRRlU1TFJWOERoVDlDTEhn0gFkQVVfeXFMUER4TmFLdnROdVJOSzhoUjl0Z0gzd01JZHczcEd5ZEF5OXlIOHNUTmpOdkZmMG1sN3JySHcteHJ6U254QzNaai1HQnJlZkdUNlZoMTdITVduNFZHbXRzcWRUTkRZSw?oc=5",
-        "theme": "測你潛在的國際魅力指數：你的外交手腕能為自己爭取多少『互助協定』？",
-        "resultCount": 6,
-        "style": "極簡質感",
-        "description": "現代人生活與工作都離不開合作與協商，這則新聞可以引導使用者思考自身在人際關係中扮演的角色，以及如何運用智慧建立互惠互利的連結。測驗將透過不同情境題，分析使用者是屬於哪種「外交」類型，帶來自我探索的趣味。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【測你潛在的國際魅力指數：你的外交手腕能為自己爭取多少『互助協定』？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "幕後》鄭麗文的中常會為什麼殺韓國瑜？國民黨2028年總統之爭引發內鬥",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlT0FQUkZBWHlLUm1LQW1GNTY1bmF3am1NX0hZNmZmajF4RjZVX3pRNW5UX1loNDFzOTNqSlYtaHExNGEtVF9ZeTNVUmtfZw?oc=5",
-        "theme": "職場宮鬥劇：在辦公室權力遊戲中，你會是哪種『政治玩家』？",
-        "resultCount": 7,
-        "style": "奢華宮廷",
-        "description": "政治場域的權力鬥爭，其實在職場或人際關係中也屢見不鮮。這個測驗能讓使用者對應自身經驗，檢視自己在面對競爭、派系拉扯時的應對策略與內心真實想法，從中獲得對自我「權力遊戲風格」的趣味洞察。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【職場宮鬥劇：在辦公室權力遊戲中，你會是哪種『政治玩家』？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【奢華宮廷】"
-      },
-      {
-        "sourceCategory": "娛樂/健康",
-        "sourceTitle": "健康網》林逸欣父不敵攝護腺癌 醫揭「腳麻、腰痛」 8成末期病患中招",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DaGZWMTI4MXE1UXRGS0RGd29vUkZZTU85WWE2QXhKMmZxc2lTbkRqYXJSU0h6Wi1IanpyLS14TDdhSllDZTFMUUN6LW9vWUpyNlJDZzdydnhwMWhrd3Q5aFlXTHfSAWpBVV95cUxOT0Y2T01hV2VuVFdIOUgtNk8wTGszcWhOUWowZmZqTUdELUNKZUJfcEtXaF90QV81NXhkcFVIVTBpVVpWMDQ5eWVKMzUzWTN4LWt5X1Z3TVJYZVBMZDlYZ3JkOEZCS2NwMDd3?oc=5",
-        "theme": "你的身體在跟你說什麼？測驗你的『健康警訊敏感度』有多高！",
-        "resultCount": 5,
-        "style": "溫馨水彩",
-        "description": "健康話題是每個人都關心的。藉由名人憾事，引導大眾關注自身健康警訊，但不以恐嚇方式，而是以輕鬆的測驗形式，讓使用者了解自己對身體訊號的敏感度，並鼓勵更積極地照顧自己，傳達正面健康觀念。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的身體在跟你說什麼？測驗你的『健康警訊敏感度』有多高！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "（專訪）天心超市前險遭撞！韓籍尪「秒變臉」要出拳護妻 女神嚇壞：沒看過他發火",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQM0htSDNnM0pVenkwSnZCVEs1dmZfOU91RVZxMkhmaXh6TnI1QmR1dTZfZTgyYkdPbWxqb0lfenU2VVk3UUVmdGdoVWFmU0FNRXFQTjJycTU4UFowUmR6XzBuazV5SklLSTNFTzJqMURCMVVEM25pM1JzYzZaLWdadFBqRjBqd0ZBRDI0a2V0WWRjX3ZpZ0RSbXRUcTV4eWwyclhCbFFjak1xZW0wU3BGLU9hMlVPbC1XRWc5Y2lzZlpkS0pCMEFHTl9CbmJyR2F0X01NSnotUWVOUXhaSVI3b3Q4TVRaSlpGaVZSMnU2aWRwUDJGOFpUb0JyU2ZSV0dhQTNiTUpEdDN4UUM1RmFBcVRYcFNpTVhJRHcwRENrVVNqZk1TWGVjc1RNT3NfOExJaUUtRGZ1VXRrZjlKTDhzWE9CN0ZrdHpxOE1pZUNfeGU3N0NQ?oc=5",
-        "theme": "愛情防禦戰：測驗你在感情中，會是哪種『護妻/護夫狂魔』？",
-        "resultCount": 6,
-        "style": "唯美浪漫",
-        "description": "面對突發危機，伴侶的反應最能展現其本性與對感情的重視。這個測驗能讓使用者想像自己在類似情境中的反應，或透過對伴侶行為的想像，思考自己在感情中期望被保護的方式，從而增加對親密關係中「安全感」的趣味探索。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【愛情防禦戰：測驗你在感情中，會是哪種『護妻/護夫狂魔』？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "【台積電全球日不落】今年蓋9座新廠 亞利桑那首座先進封裝廠、晶圓4廠將動工",
-        "sourceLink": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNaUFBUm5fTnRBa0lMa1F3OEtaY0ZsbzZrbGMya0tUTkpCUFg1Nk42SDZUOXFEMlpiUlF5UGdYVnBHRWljUzcyY29KLXJUaFV0UUZqcnJEWFM4anV1QWZnUlJsUWdpRjNEVzFnX1NNNmZBcW5nM0hGNmg4ZXR5VUFEeHAyMUhEWUgyaDN2SndrY2p4X3dZczZFRTdzdXBrZnZBRmdvU3JSX2wyTi1ObW9yRC1tak1tVkVHRTFsdl93V25EMGpsNFdyTXh2bURaa2FJdzYyblBFWXpCVndZOTNwZGNseFl6dWlPREI4OGFQRnpWVFdOZGFlTGM0RnEyVV9zYjBhQTVVR0hsXzExZ0J2WEFJaktmc1p4RGpsNG1YS0tmdjVUNTQ5Ym5YUTlNeFoxWjNQbDdfUGZwTnpGNk1DUkY1aUk4bkRSaTg1YWIwaVYzREctZFVVNWJWTVI5VWVmbUxEeXpyMy11UUYxRXdybU9lUVh3SWhTemxtaW9pc1JlNENTWEozV1VyWG5yMjVVdTNpNEI1eFpZT1ROblBWMjR6MjB2QVFDcllOM2FxUjZVbUNNa3ZSOGZzSjVfNTR0a2lXLXBpRGJuRkViTlE?oc=5",
-        "theme": "你的『人生新廠』蓋在哪？測驗你的職涯擴張版圖與野心指數！",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "台積電的全球佈局展現了宏大的願景與執行力。這個測驗將引導使用者思考自身的「職涯藍圖」，探索他們在學業、職場或個人發展中，是傾向於穩紮穩打、快速擴張，還是專注深耕特定領域，從中獲得對自我人生規劃的趣味啟發。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『人生新廠』蓋在哪？測驗你的職涯擴張版圖與野心指數！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "美股收盤》科技業財報助攻！標普那指再創高 台積電ADR上漲",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzLVFUZFBnOURmMk9teVIxVlVhUkZIU000dU9lbVhDeGNjM213elZzQlFxSWFQbDFVTmxMa1ZWemVOLXJGVnhVS2NlSllWeEJBdUd0WXF3bG85UmRFSEo00gFkQVVfeXFMTkxFZURNdXh0NmxVZnpOS1c1bFg5WEl6eGlNazgzeGlHWG5OTHZHbGwySDhLRzNtdThoVW5xLTRlazFGQkU2TlZTY0Z2QTluSzcyQzB3ZTNuSUZGai1HdlpSMVpCNQ?oc=5",
-        "theme": "你是哪種『投資性格』？測驗你的財富自由之路是穩健還是積極？",
-        "resultCount": 6,
-        "style": "霓虹賽博",
-        "description": "股市漲跌牽動著許多人的心。這個測驗不旨在提供投資建議，而是透過情境模擬，幫助使用者了解自己對於「財富」與「風險」的態度，是偏向保守穩健還是積極冒險，從中獲得對自身財務規劃思維的趣味洞察。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種『投資性格』？測驗你的財富自由之路是穩健還是積極？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "老兵不死「諾基亞」1神話再起！Nokia變算力救星 連教父都豪砸10億投資",
-        "sourceLink": "https://news.google.com/rss/articles/CBMijwNBVV_5cUxQcXhmNGpwcEpwVU1PazlnNFRhLURnOTVKVU0xbU8tZHE1LU8tMzRKU2tTYWRveHlPQUtxdXhwWnNPam5EMWowdllJSlhCd0FYM0F4VzBGeUVCTUVMRmpfOS1jNVZzU2dTZFl4U1pyMlhHME9BM2kyMkRyR3lndnRmZzhQdzdjREgySzRDdTlRZ25NM3dLSXhrVFU3cThIejhvNXdjb242M2RGb2dQcDlwRWZnc0RYaW9va0p4Vi1BbEU0ekxNd3pYYWx5SkVXUUpOLUFONmd6NlhVOXRDaDlHTWtqMURGdWVNbjYxMG9xNWFmaE5nWm5kbnd0OXMzR216YzhVc2lTX0tLOW1YT2k3LV8wOFViV3NLcF9RQlQ5ZjNNdGZOWkF2NjlMc0d0YkxXcFNYS0U0Y1FDY1lPRmFCc1RyRk1DY0ZSQmFHeHBqZENOczRKN2NCUnhuMnQ2M0pSQUM4WGxfM3RNZUZMSnF5NzdNMXNFN1ZVWWtfbEV2M0dLUEE3eHZHXzRyaTBmZ3c?oc=5",
-        "theme": "科技老兵不死，你的『人生韌性指數』有多高？測驗你翻身再起的潛力！",
-        "resultCount": 5,
-        "style": "復古像素",
-        "description": "諾基亞的東山再起，象徵著品牌與個人都能在逆境中找到轉型契機。這個測驗將引導使用者反思自身在面對挑戰或低潮時的應變能力，是選擇固守過去還是勇敢求變，從中激發對自我成長與突破的趣味思考。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【科技老兵不死，你的『人生韌性指數』有多高？測驗你翻身再起的潛力！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【復古像素】"
-      },
-      {
-        "sourceCategory": "科技/財經",
-        "sourceTitle": "分析師預測台股下週一衝39600點！記憶體、機器人和矽光子有望領跑",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiigNBVV_5cUxQRjJYY0pzekZEaXI3Q1ZiNkZJYkFrc0FkSlRWZWtoZ1ZUSHpRNmZFc0pJc1hBbTVlUnljaG0tYlc4MlNid1lUYmx0MVZqOE81N3NwSFkyTGcwVlZKZm9fbDZuZWRZSzdPc2UyRmk2Y0F0Y2JVZlJmWjVLYTk4UnJfUlA0LVhDQnRFNkdmQzdQaWRNbWdkZTZRdTh4Z0VZU1lLTXM5ZXFRSEpyMGdnbUpvcUFiOFA5N1VUX1JwdTI3d1J3OU9pWF9zcVQyWmRHclpTdzNwd3h5Rnc0QklMQVlEQ0d1eTQ5QUxaS19WRGFpSC1pQTEyOWxkN1hKOV9CWEZfc2RXMUV1UUd2dXVvZkgtMk1qS1Y3enRJWjFFTWFwRkNPS3gzc0xKMzFyWlBVdnRXWlJ2WlRFbkxscktfZVJzZHpjMGc5cm96WG16ekE3RTZIUGZvdkFieml1NDhoWXA2RDZ2bHFObzFLR2hhY0ZTUXJ0TjROR1FEZWlUVUZHRVVERWZtbVhNZ1J3?oc=5",
-        "theme": "洞察未來趨勢：你的『投資先見之明』能抓住下一個風口嗎？",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "股市分析師對未來趨勢的預測，反映了對潛力與機會的判斷。這個測驗將以科技脈動為背景，引導使用者思考自己對於「未來趨勢」的嗅覺與判斷力，是能洞燭機先還是偏向保守觀望，從中獲得對自我市場敏銳度的趣味檢視。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【洞察未來趨勢：你的『投資先見之明』能抓住下一個風口嗎？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "桌球／鄭怡靜安檢傳「不當性騷」！桌協證實回應了",
-        "sourceLink": "https://news.google.com/rss/articles/CBMixAJBVV_5cUxObl9YUU1ZeTFCSWRGd2tZTUNlemo5dWxDMTRpOVZBaHFhdXN2YlR6cGEwQ1c5RHE2dGhna19pSGZIc2xWRWdlYlQzZkZHZEt6ckFWOFNwU3FLWXpvYjdmV0l1WW5BWG9rb2NZZ3ExZjJkVDRMZWRrSjVQRzZ0VVI1V1pOdzNEekZ5eGJfZEFtMmxWbmpHNjhhaDRhODJOWFRxYm9hRjJKUkJRUzdySUtFSG5OZXRNdTU2S2JFcDNCQWRTNHNLREUtUnhxQnJ2dGQ2U2dOR0syLVlTeE9iLTJoZXJkSnFtUzNkeWI3d015Y0ZtVWpHUXZTbzhYaHNGVXQ4S3UxVXlHZmMyYnJ4Ykg2QXFmX1dxUzNkdEJDODBTOHF3UHczMjVkN3RnLV9xdUwtUnZZWjJBZ0pjOFoyVVRDWEZRejc?oc=5",
-        "theme": "守護你的界線！測驗你在職場或生活中，如何應對『不舒服情境』？",
-        "resultCount": 5,
-        "style": "極簡質感",
-        "description": "運動場域的不當行為揭示了保護個人界線的重要性。這個測驗將以情境題引導使用者反思，在面對感到不適或侵犯的情境時，是選擇勇敢發聲、尋求協助，還是選擇隱忍退讓，從中培養更強的自我保護意識與應對能力，並傳達尊重與界線的重要。",
-        "id": "idea-9",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【守護你的界線！測驗你在職場或生活中，如何應對『不舒服情境』？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "「洋」裝黃子鵬操兵 兄弟還是輸",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHd1ZqY25hSFFVQjFfUnhiOWNRQUZsaGRVWGV5aVg4azZhb2s4SDBYOUl2NW1QR1FoNzZRVkp2blRRRVlCMkNUTUgzYlNtZ3Y3dVFERmpJa9IBXEFVX3lxTFB5X3dOU05TWEpIWTRrd19PNHdiZnFYSGtHNDVIUGZvQndscVVZQzlFQTEzY2ltMGFpcUlZN2ZvaHJzei1RdE82UTEzZGxFUlBvd2luNlAwUldkM2xl?oc=5",
-        "theme": "團隊挑戰賽：面對失敗，你是哪種『絕地反攻型選手』？",
-        "resultCount": 6,
-        "style": "美式波普",
-        "description": "運動賽事的輸贏，不僅考驗技術，更考驗團隊的心理素質與應變能力。這個測驗將透過運動情境，引導使用者思考自己在面對挫折或團隊挑戰時，是選擇氣餒放棄，還是能從中學習、調整策略，展現堅持不懈的精神，從中獲得對自身「逆境商數」的趣味檢視。",
-        "id": "idea-10",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【團隊挑戰賽：面對失敗，你是哪種『絕地反攻型選手』？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
       }
     ]
   }
