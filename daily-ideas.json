@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-05-14",
+    "generatedAt": "2026-05-14T04:31:56.887Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "看好誰當選台北市長？蔣萬安獲超過7成支持 輾壓沈伯洋 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQSlVHdjU2bFZjdk5HYTM2MzB6cFhXRjVwRkI3a1RDeDBjcHlXR0hPOVdaU050LUNkZXVycEl5UjlyX2lMQ2lEcTRmSnRrNTRESEd3S09BSVVrX1FGMTd1WFhHSzRhVFpLSC1IazZucXlEV0JfZnB2bmtzZRdhdyb3pORzc5T2Nmd093Z1VGUldZZ00teTRLM1lLWGdHRHdpbm9qcE9SVnloS2o0VDE5aUtuTmlRRHUwU01xVFl5My1oMUZEVzlrYXRxR3JQdHhsVUVTZnJJcXh3RC1sWWwwR1loVmpyVVVUUU04Mi1SQUYxalhRSFhCLXJPYVRfdVd3TEV6b2djeUNOb242YWlWRThxT0VxdzhaT256MEl6TDViMG1sQUs0MUZ0eWIzUjhSQ2xKUFR2bmRHeXJOeGdxZGhDUWtYcWl0dHlfR0tEQS0yQnVJaThwVzRhTV94U09VQnlVQ0s3NW5LOWJwajg?oc=5",
+        "theme": "【你的政治人格是什麼？】測測看你是務實改革派、理想浪漫派還是行動實踐家！",
+        "resultCount": 5,
+        "style": "懷舊報刊",
+        "description": "這則新聞反映了民眾對政治人物的偏好與期待。心理測驗可從「個人對領導風格的偏好」、「對社會議題的看法」、「在群體中的影響力」等方面切入，讓使用者探索自己的政治傾向或公民人格，並理解自己更傾向支持哪種類型的政策或領導人。趣味性在於用輕鬆方式探索嚴肅議題，了解自己在社會中的角色定位。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【【你的政治人格是什麼？】測測看你是務實改革派、理想浪漫派還是行動實踐家！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "三班護病比明年520上路 北榮院長：若採「此制度」恐有衝擊 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JWkxVZHVtVVk3Q01nMkhRRnM3OGx5em02d0RRM1JybVZSVEpwMHZ1ZEZQcEVXVUhGcURRMzZ4OV9sc01fcnBvNHJIQmJ1X0tL0gFWQVVfeXFMUHpUQ1gyQTRIS0lZblJFQXlBRzlrRHVBanhFeHlPRWhVQkZDVHlsZjlkeklwNk5BM1dLYWU5ZlhOWlNXaEw3V0Z3aVR2ZmNqRGRFSG9fUmc?oc=5",
+        "theme": "【你是哪種壓力承受者？】測驗你面對困境時的應變指數！",
+        "resultCount": 4,
+        "style": "極簡質感",
+        "description": "護病比改革涉及醫療體系與醫護人員的壓力議題。測驗可以從「面對高壓工作的態度」、「在資源有限下的決策方式」、「團隊合作的傾向」等方面設計問題，讓使用者了解自己是哪種壓力承受者，並提供應對建議。這能讓使用者在了解自己的同時，也對醫療人員的處境有更深的同理。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【【你是哪種壓力承受者？】測驗你面對困境時的應變指數！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股早盤漲逾800點 台積電漲50元 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT2JfaFV4cGNHT3FJVVNnYkc5ZjN2Q3U2dXJvZWlEbzdDbUUzbm8xeUYzbmtHcUVoOHZJTmRleTY2Zi1JMGRwX0dXTVhNZk9TdEZpWVVLWkJ6cUUwNk5pSFdXUzZ2NnYzamhSWHVwc2VNRUFDbTUzZWNBem5ieHJsZ2ZsQk4yclhLTDRaUmFxRVVHQjVTWFpaMHl0dzc4MVRqRUNJRHZvMEY2cTZ3QmhZb2FQRTItQ1lpNDVGYlRpTjRFc3pKa3pXcmZONUtWYzZVVkliNGwyXzRvS1BHa0l6UGNMbFd1aTRxMkVr?oc=5",
+        "theme": "【你的投資人格是哪種？】測出你是穩健長抱型、短線衝刺型還是潛力挖掘者！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "股市大漲、台積電表現亮眼，反映了市場的熱絡。測驗可以從「對風險的態度」、「投資決策的依據」、「對市場波動的反應」等方面設計，讓使用者了解自己的投資風格和心理傾向。這不僅能提供趣味，也能幫助使用者反思自己的投資行為，或許對未來的理財決策有所啟發。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【【你的投資人格是哪種？】測出你是穩健長抱型、短線衝刺型還是潛力挖掘者！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "馬斯克隨川普下「空軍1號」 黃仁勳換上西裝 - news.cnyes.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ueXdoQVlFamc3dG4tMkVEN1IzUnpKZl9WRWRhTTNkSkthUlAxcTc5em9VclJMS0FwNEI1R3VHZXFzMzA1OTVxTHhJa2ZqQVU?oc=5",
+        "theme": "【你是哪種科技巨頭人格？】測測看你像馬斯克、黃仁勳還是庫克！",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "這則新聞聚集了全球頂尖的商業與政治人物，話題性十足。測驗可以透過情境題，例如「面對重大商業決策你會怎麼做？」、「你的公眾形象是什麼樣？」等，讓使用者探索自己更像哪位科技或商業巨頭，以及他們的領導特質。趣味性在於將自己代入這些知名人物的角色，看看潛在的性格特點。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【【你是哪種科技巨頭人格？】測測看你像馬斯克、黃仁勳還是庫克！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "為何黃仁勳「中途入陣」？傳川普看報導後親自急Call 黃直飛此地會合| 川習會將登場| 全球 - 聯合新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vSlVWZVFGUWZVUHA0ZFIwRGRFcWJXVEljaE0xVlJYWG9xZy0zb2sxVkFpOExqTk1WdVlzb2l5d2xtWFFPOWVLVWRrS3d6VlJnZXcw?oc=5",
+        "theme": "【你的職場求生本能指數？】測測看你是否能抓住關鍵機會、快速應變！",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "黃仁勳的緊急會合顯示了其快速反應與捕捉機會的能力。測驗可以設計關於「如何在緊急情況下做出決策」、「如何抓住稍縱即逝的機會」、「在複雜人際關係中如何應對」等情境題。這能幫助使用者了解自己在職場或生活中的應變能力和策略思維，增加對個人能力的反思。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【【你的職場求生本能指數？】測測看你是否能抓住關鍵機會、快速應變！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "遊戲手把竟會發出慘叫聲！Steam Controller惡搞彩蛋掀玩家「集體摔手把」 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioANBVV95cUxPbklLNFNjNVc4NWFyZzN4d0NNc25oeGdFbkdCc0lMS1ZaNnp0UUNmVnl0X2VIekVleWMwSEQ5NnlJam95cnVwdFpJbFNubGM2S0llT3F4Tm90WklOTllrV1lXQWQ5U0dIYUUyNy1SQW5BbDhVZ1FNWTQ2LTZmLVpXLWRyRW15ek1LUjdyVDV3ZnUxdzRRM19LRWR1cm44M25ZejZoaVpNV2xRTDhSclNJRWhjSnZWWm1uMm1nZ2Z0aG1LLXNyYjdvTWRjQk9vTmI3STdTQTN5STl0NU81SWZNSE5YT0lQRXN3b1JaX3VHZXB3R3ZlZUJLRTlLbXJzeV9pcmY2ZnNUemhxR1dvUzlXNTFCVmpsRDFBM0NJX0RtM3F4UUx3a1FLems0UG90UGlFZS1GREYyZlZoZUZ3TTZuX2paWFRrbm9LUldiWlFxNWp1NjNIWHZpc3ZDZnhLUkdiYU5VSEN4YkhZUlNJV0Q2UVFiN1ZoeC1mek40TXowbnQ1N24ydWdXNkxyTk1pdVJtd3NJUXBwZVBWalpvTjNsLQ?oc=5",
+        "theme": "【你的遊戲人生態度是？】測出你是佛系玩家、硬核高手還是彩蛋挖掘機！",
+        "resultCount": 6,
+        "style": "搞怪幽默",
+        "description": "遊戲手把發出慘叫的惡搞彩蛋，是玩家之間有趣的互動。測驗可以從「面對遊戲中的挫折」、「對遊戲彩蛋的看法」、「玩遊戲的目標」等方面設計，讓使用者了解自己是哪種類型的玩家，以及他們享受遊戲的方式。趣味性在於貼近玩家生活，用輕鬆方式對應其遊戲習慣。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【【你的遊戲人生態度是？】測出你是佛系玩家、硬核高手還是彩蛋挖掘機！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "MLB》大谷翔平開轟後連休2天！ 道奇主帥透露背後考量 - 自由體育",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTFBnR3pOSE45TjkyazhySDVEUEpqMzktTk80TldFaEtOQXdmc2RMZkJqZHJtQXc2cG1XS2hjVUZaWW52bmFMZkdwMVJaVElIdklOSjNEeFNXVjVfejMwU2w1VdIBZkFVX3lxTE90YVpfLTNVZmpZR09GbF9ESDVwZ2tHVTJaZTE2Uml0Y09kRmZvbE43VFRuTmJTdFdNYkVDcDZYRU5kRWZiTVpnM2FRQzE4SzZWNU1qVE5mZ0xxRWFBcks2OElFRjE5dw?oc=5",
+        "theme": "【你是哪種「職場充電」高手？】測測看你的高效休息術！",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "大谷翔平的休息安排，反映了高強度工作後適當休息的重要性。測驗可以從「你會如何安排工作與休息」、「面對壓力時如何放鬆」、「你認為最有效的充電方式是什麼」等方面設計。這能幫助使用者反思自己的工作與生活平衡，找出最適合自己的充電方式，提升生活品質。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【【你是哪種「職場充電」高手？】測測看你的高效休息術！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "鄭浩均失7分後休息區畫面挨批　李杜軒：替兄弟球迷感到不值 - ETtoday運動雲",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zT1Z3MEtGR1NFWWFXb3UtODNMcWVsMDlJaU53V215V1paX215TENORnNWZGtMMmhJRXdkU3JkTEI3R2lBLV9xdGxnZElWdWYz0gFsQVVfeXFMUDJmUGs4ZExEcllTbEdPa1doVnRaNzh5NExGUlQxbXdndWRzcVJveUxOZl9HSkhra3JzSkdFaF9hbnB0R3hfYVhibFhUME5aYnVUM0hNOF9wdDlrQkpRalhKemhoVUFxeHB4czN1?oc=5",
+        "theme": "【你的抗壓心理素質有多強？】測測看你面對挫折與批評時的反應！",
+        "resultCount": 4,
+        "style": "驚悚懸疑",
+        "description": "運動員在場上的表現及其後的公眾反應，涉及心理壓力與抗壓性。測驗可以設計關於「面對失敗後的反應」、「如何處理外界的批評」、「在逆境中如何調整心態」等情境題。這能讓使用者反思自己面對挫折和壓力時的應對方式，並提供一些心理調適的啟示。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【【你的抗壓心理素質有多強？】測測看你面對挫折與批評時的反應！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
+      }
+    ]
+  },
+  {
     "id": "2026-05-13",
     "generatedAt": "2026-05-13T04:33:27.744Z",
     "ideas": [
@@ -764,78 +858,6 @@
         "description": "讓使用者想像自己在某個領域中嶄露頭角，測驗其具備何種「潛力股」的特質，以及如何被發現、培養和突破。這個測驗能激勵使用者發掘自身潛力，並與新聞中「林維恩入選百大新秀」的成就連結，提供充滿希望與趣味的體驗。",
         "id": "idea-10",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「百大新秀」是你！測測你的「潛力股特質」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      }
-    ]
-  },
-  {
-    "id": "2026-05-06",
-    "generatedAt": "2026-05-06T04:25:05.066Z",
-    "ideas": [
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "啦啦應援催落／女神閃婚金牌國手離開啦啦隊 一句「非自願畢業」掀議",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYZjU5WG9ON210dWstSmVNZjhtZTdIVjF3MkpkWnF3WWx3QW5ZNE5HQW1uREkzdHhkN1VtMjZpTnc3VUJWUE1UalJ3?oc=1",
-        "theme": "「非自願畢業」？測測你的職場危機處理指數！",
-        "resultCount": 5,
-        "style": "清爽動漫",
-        "description": "啦啦隊女神的「非自願畢業」事件，引起大眾對職場與人生選擇的深思。這個測驗能讓使用者透過虛擬情境，了解自己在面對突如其來的職場變動或人生轉折時，會展現出何種應對特質，是積極尋求轉機，還是更傾向順應命運，或是成為旁觀者。透過趣味的題目設計，帶出職場情商與個人韌性的重要性。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「非自願畢業」？測測你的職場危機處理指數！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "直擊／鄭嘉睿遭霸凌後首度現身！親吐想重新應援　來台意願更強烈",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2ZEczUzNQTmdwTE9ESEhiU1JSTDRLN2dqRnY1dkEwbllyNkdjelJrVVVNcTBXc1JUb1Blb0lFelBrS1ZfWTMwcWdnYXLSAVJBVV95cUxNMDN1bm1mSFNZVHhkNm0zVFVhYjZUN1pWY0lUcDJabzliSkNYM1BUUDI4NFFoZFRJbEVxTkZtOEFvblpQb0JvZ1VLMXJVeS13VDJB?oc=1",
-        "theme": "遭霸凌後仍想應援？測測你的逆境重生指數！",
-        "resultCount": 6,
-        "style": "唯美浪漫",
-        "description": "鄭嘉睿遭霸凌後仍展現強烈回歸應援的意願，凸顯了人面對逆境的堅韌與對夢想的執著。這個測驗旨在幫助使用者探索自己在面對困難、挫折或不公待遇時，會如何選擇應對方式，是選擇退縮逃避，還是能像鄭嘉睿一樣，將逆境轉化為追求夢想的動力。透過情境題，引導使用者思考自身面對壓力的潛在反應，並鼓勵積極的心態。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【遭霸凌後仍想應援？測測你的逆境重生指數！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "聯發科領軍飆漲停！台股衝破4萬1「台積電開盤價曝光」",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQU1BIU1RZUWEzcUVZQVJWaEtYSVRZeWdibVlEaUZhY1ZVZGtiMGdFZXIyWTM2cUgxazZ2UWcwQ1Bnd2JVbmVJaEk4cXptb1docVZfTVdOclRrWHNtR1FIZ3NSZ1hSTk1GcFV2bEtMbG1sc3ZqTjV6ZkREamk0UVZBNmFtZ3RURlhoOUFESk9ZMEtNZk9sMjQ0NmY2eTNTUy1hdlBoa3lyNW9IaVBmRGZhMUM3dGZoVjExaUlrUGxiZ3Q1SVM5TnhqdnZBcVFfWGFqNnJhX3hScDRhcFRaQTdDYWZCWjlpWEZCMmtvWmt4a19MaUxaR0kxMllKRERReTMtYzNadXpLZEl4dTdvMmE5bnYwRmNQVlF4OWVVM1lTbUlKb0tXelRFY3RwcUhVTWpSa0Vaelx5U3luZl9YTUFKU2J3dGRmMlZvNjM1WlB1V3VRMkouNm02ekRKMQ?oc=1",
-        "theme": "台股衝破4萬1！測測你的「投資人格」是哪種股神？",
-        "resultCount": 7,
-        "style": "科幻冷冽",
-        "description": "股市飆漲總能引發全民關注，尤其是當指標股聯發科、台積電表現搶眼時。這個測驗將財經熱點轉化為趣味的「投資人格」分析，讓使用者在非實際投資的輕鬆情境下，探索自己在面對金錢、風險與機會時的決策模式。透過模擬情境，幫助使用者理解自己的財務性格，不論是穩健型、冒險型，或是資訊焦慮型，都能找到對應的「股神」稱號，增添互動樂趣。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【台股衝破4萬1！測測你的「投資人格」是哪種股神？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "美股收盤》英特爾飆近13％！標普那指續創高 台積電ADR反跌近2％",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16NWE3bmsxalBTVlVydmhUSzRUSC1pNzVnVjF6YVJMV3R4VWlKeGhQTkVTNUxWUEM3Q01iMXo1RDR6MnhpVldmY0Jjd0N6Z1oyTEhDM1ZQZmY0b1VVcXo40gFkQVVfeXFMTzg4UjNQTUZ3UTAwNG1FLXhra01CZEpzRVJfRGU1VTBmeDM0MFcyWjYzQnBMdWE1VFNybmVYdTUtdUFZTG9nTGd0V0NSM1QyemkwZ0hrUHBiRXR1d216b3BWbTV4SQ?oc=1",
-        "theme": "股市有漲有跌！測測你的「財富波動」心臟強度！",
-        "resultCount": 5,
-        "style": "霓虹賽博",
-        "description": "美股市場的漲跌起伏，尤其是龍頭股如英特爾、台積電ADR的表現差異，常常牽動投資者的情緒。這個測驗將關注點放在「應對波動」的心理層面。使用者將透過一系列情境題，評估自己在面對資產增減時的情緒反應和決策傾向，是能泰然自若、沉著應對，還是容易隨市場風向動搖。這不僅是關於投資，更是關於一個人面對不確定性的心理素質。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市有漲有跌！測測你的「財富波動」心臟強度！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "MLB／大谷翔平本季首度挨轟一場兩發 投滿7局但道奇打線卡彈",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SYXBnQ3pvMW5FaVdaT3oxSFA4UTU3NUJQSkQ1endfNC04bGRwelNaOGlWX2NmR1pwcUdUdVR0ejNIMXlEZm9PekJQcTllX3R50gFWQVVfeXFMTl9VZFNYSUxsNHI2OGd1cGdQY0Y1YVJ1UUpudDhHVmdhMXNYakVPOU44UlU4UnpYZkNSdnZndlNJdC1CeWl1b2hHVWlTWW55dXBjNzRVM0E?oc=1",
-        "theme": "大谷翔平也會卡彈？測測你的「高壓表現」抗打擊指數！",
-        "resultCount": 6,
-        "style": "美式波普",
-        "description": "即使是像大谷翔平這樣的頂尖運動員，也會有表現不盡理想的時候，如「挨轟兩發」或「打線卡彈」。這個話題引導我們思考，在面對高壓挑戰或團隊合作失利時，個人的應對與心態。這個測驗讓使用者透過運動情境的模擬，探索自己在職場、學業或團隊合作中，面對困境與壓力時，是選擇獨自承受、積極調整，還是尋求外部支援。測驗結果能幫助使用者理解自己在壓力下的潛能與盲點。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【大谷翔平也會卡彈？測測你的「高壓表現」抗打擊指數！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "MLB》李灝宇參與大場面！領36億的老虎球星核爆10分 還砸人引衝突",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTFB4T0NIMzVob19WOTVvTDYtU1hvUndEbEVaaHAyRFZ5SmlfYU1OaFh4UmlBbGhvcjNGV3dTOEt0NzBSSDRVcEZxQkcySTFtd0NmX1NYM2NLZFMtVzY3a2xUTNIBZkFVX3lxTE1aYUdYMmZmRlZRS0tDTkRhZWRwS3oxNHNSNjVyMUdsLW9WR1BjU1ViMjBod3ZreDNNTDhCNXZuOG5UbWpCTlQtLXh4Z1BoVUxzbDJfRUZpdTR1RjI4SGRuVGlPZDJTdw?oc=1",
-        "theme": "36億球星核爆還砸人？測測你的「戰場」衝突應對模式！",
-        "resultCount": 5,
-        "style": "搞怪幽默",
-        "description": "運動場上的高潮迭起與潛在衝突，如「核爆10分」與「砸人引衝突」，反映了競爭環境中的各種人格特質與應對方式。這個測驗將這種「戰場」上的戲劇性，延伸到使用者日常生活中可能遇到的競爭或衝突情境。使用者將探索自己在團隊合作、人際關係或職場競爭中，是傾向於強勢主導、理性分析、避免衝突，還是樂於從中協調。透過幽默的題目設計，讓使用者輕鬆認識自己的「衝突應對模式」。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【36億球星核爆還砸人？測測你的「戰場」衝突應對模式！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
       }
     ]
   }
