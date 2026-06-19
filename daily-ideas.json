@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-06-19",
+    "generatedAt": "2026-06-19T05:37:50.140Z",
+    "ideas": [
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "30歲女星驚傳已交代後事！童星出身奪2座金鐘 認了「寫好遺書」 真實心聲全公開 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOYjFwSGZ2LWpHLVRON3ZXaTZ0ZDkzaFZKa0NBWmczdnlaVExOcUJyZ0tlOE5lNUZNNmxYTVUtT0VBbmhmYTJaSWtpaktqNnhrUllrQ0lSX21adXNYTFo1VHNaWEtoZVpPZnFrWHJhM3pYZXM5ZXdFb3FrdndSa1Y3SlZLZTJmeUlFWDVmeHpZdFF6OXhzOUcxY1RTdXEyajhfbE9EMjdUSS1qZE1JTndTcVRmdkt0RVhqLTdrZ0pzb0RIZXVKeTB4TkdFaFdfeks4bEtFTDUwdTNFZUVFZ2dDX2lyekM2MUptaWR3UExsQkZ3cUVTOW9LMWJZQ01EQ0Z5OU9icVZKVEdFX2N2YlFZYURZQnY4ZFV6dW91ck13N1FZNzNsNWpScmhuSTFzZkhtQlg2YzBmdjNYWW9mYTRpUlpMdHdpTlFlVzR0bDBQajhXekE3VDRQVjZqQzB5UGdubzRmZDJ3S0paTS1SOGJpZzVCRk5RdGVaeF9sX0ktWlpLSkc1YjVPNGlxXzFnQUhGcXY1VTdYS0Q1R2RRY0tGTHhMNXRxRFlIUUtlQlI0ZlFMeGZmbDQ5M1FLdVNRQV9WMU1mNWlHNHhtZnRUdmJJZw?oc=5",
+        "theme": "「你的人生劇本，會如何收尾？」：從告別練習看你的生命價值觀",
+        "resultCount": 6,
+        "style": "溫馨水彩",
+        "description": "這則新聞聚焦在名人面對生命議題的坦然與準備。透過「寫遺書」這個具衝擊性的行為，引導使用者思考自身對生命、死亡、遺產（不只是物質，也包含精神）的看法。測驗可以透過情境題，例如「如果你只有一年壽命，最想完成什麼？」、「你希望被如何銘記？」等，來探索使用者的人生觀、價值排序及對未來的規劃。趣味性在於反思生命，並從不同結局中找到自我認同，理解每個人對「好好活著」和「好好告別」的定義。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的人生劇本，會如何收尾？」：從告別練習看你的生命價值觀】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "昔開條件求介紹帥哥！賈靜雯愛女梧桐妹生日突曬「大腿貼手親暱照」 甜喊：21歲有你更好 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxOeUx4R3RUeWRNX3BQM2FtQzUwT3dtRzRsWlJtT0JONk9VNmM2YkppM01XTUpaOTNSNmxTezNQMVNNM0lSaUJKWEFmUWFVejk3OFVPOHdSa0x0ZVRWWUlHRDUyX2dOUElNSk5FMWYzcTV5blBLcVRDck9tWlRxdTlJam1jU2hBRlN0TlNyemIwM19tWmRlLUR6WHFWVUpmbUJ2aHlVS2FtTjItRnFzY0RMa2owRDZhX29YM0xPMmdvY2tBZXFkUHRHSzYyMmY2R0NBdmhjLU1BLXpwbG9ScFVpRXduZkptUk1SNGtQUXZUMklDdXpMU0VaRFh4ejRQUk1vQmZ1Q0huMmZpSm9WQzNzQXJNcHNmT0lSb2Q0eE1rY2hkUmoycklBRTVuRGZETkJDamJpR3E1cFpFbGduSzl2dDJxY0pNYWtYdlZLUW1kcG1KUzJvZnREbXpLOHBrQXVQVzl2QnZjLVloOGo4OXRTcUF1R1ZZbFFYNjhETGcyQjg3akhHOGcwWmJkYld0Z01ldFY2NmNweXRjUlhXR1loSVBfc0gwXzhWTkEteUVnMElsMk5OTk1Wa1hhWl9xZDVJbGtNazdlaFN5YVpvQ3N5M3ZoRjFDOVVzV1hiOHFTX1lMRmpPSzkxd1BVSEEzUmRZdDFlOVhYaHloelR6c01v?oc=5",
+        "theme": "「誰能甜寵你一生？」：從梧桐妹戀愛觀看你的理想型伴侶",
+        "resultCount": 5,
+        "style": "唯美浪漫",
+        "description": "梧桐妹的戀情曝光，不僅吸引了八卦目光，也反映年輕世代對愛情的追求與表達方式。這個話題可以延伸為探討使用者在感情中的期待、相處模式及對理想伴侶的想像。測驗可以設計情境題，例如「約會時你最重視什麼？」、「面對爭吵你會如何處理？」、「你認為最浪漫的事是？」，來分析使用者是屬於哪種類型的戀人，以及最適合與哪種特質的對象發展關係。趣味性在於讓使用者對號入座，找到自己潛意識中的「理想型」，並對愛情有更深一層的認識。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「誰能甜寵你一生？」：從梧桐妹戀愛觀看你的理想型伴侶】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "美股收盤》晶片股提振！英特爾飆逾10％ 台積電ADR漲近7％ - 自由財經",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93czJqelZNejZpMGRmVDRJSDdWLUJabENSdlFmMVZrQzZJb1BmSDdNcnJ2eHFCdUdHN0IxN0xWNDR0VkxWazZUdmVRa2VyWndUeXBKRUVwdkJfT2hRUUtF0gFkQVVfeXFMTV9Bemh4X3hTeUJkTUdVUGJwZ0NQeTJhOVVMZzIwZzN3NTcyeHZiV0M5S3hBb0ZjUGJXWFIzVDFqeXZaeGlMaGhza2o0LVZEaVNObmF2SkJ1VTdfazhGMHBRUnQteA?oc=5",
+        "theme": "「你的財富DNA是什麼？」：從晶片股飆漲看你的投資風格",
+        "resultCount": 4,
+        "style": "科幻冷冽",
+        "description": "晶片股大漲是財經新聞的熱點，背後牽涉到科技趨勢、市場分析與投資決策。這個話題可以轉換成探索使用者在財務管理與投資上的心理傾向。測驗透過情境題，例如「面對市場波動你會？」、「你會追逐熱門概念股嗎？」、「你對長期投資的看法是？」，來判斷使用者屬於哪種投資性格，是偏向保守穩健、積極冒險，還是更注重長期價值。趣味性在於將複雜的投資概念簡化為有趣的心理測驗，幫助使用者初步了解自己的財富觀與風險承受度，並可能啟發他們對理財的興趣。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的財富DNA是什麼？」：從晶片股飆漲看你的投資風格】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "SpaceX漲勢降溫賣壓浮現 市值兩日蒸發逾1,500億美元 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOeldjQnFsNVFIY2pPbE5zTWVnVFQzNVljM1poN3pKcGFrQ0xwUVVNcUVCaEFCUVctRkdOZEdWVnhTbUNpUlRNTmRuRDJpeXVoMEJzOElSUVFlaHVEbVJEUVBrMHV2TnRRMEtqUGszS3c4QkdIeE5VSXZOalZwNUY2T05yMkt0eTRCVUJQZndveE1rNDA1NU1RNm5JNTdLbjdVOXJSdmF3TzZzaVdZY2drRlY1VGtDVkVoNFhyMUFLM2xuRThtX1RXOGRhX1R2NFowZDNaaHlBVTdDWm9KTFcyRmVhdExGWEtxbjRvTHNsUDZ1aElFOXJXeFpZTUxHUHVLcFlscnlCRDNWNlZyYnRDODdSTUZacDFwV1JBaWxleWdMN0NWNFBFWU5JcmVDOXZMajRRSDlRZGk3d2c?oc=5",
+        "theme": "「你是逐夢者還是現實家？」：從SpaceX股價波動看你的創業精神與風險評估",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "SpaceX的股價波動反映了市場對高科技新創的期待與現實考量。這能引導使用者思考面對夢想與現實、機遇與挑戰時的心態。測驗可設計情境題，如「當你的計畫遇到挫折時，你會怎麼做？」、「你是願意承擔巨大風險以追求突破，還是偏好穩健發展？」、「你如何看待未來科技發展的潛力？」，藉此剖析使用者是屬於勇於開創的「夢想家」，還是更注重風險控管的「現實家」，以及他們在面對不確定性時的決策模式。趣味性在於將個人對「夢想」與「實踐」的態度投射到一個具體的科技巨頭案例上，提供一個有趣的自我檢視角度。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你是逐夢者還是現實家？」：從SpaceX股價波動看你的創業精神與風險評估】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "世足》致命失誤釀大禍！南韓續寫2項「不勝魔咒」 門將自責還原當下 - 自由體育",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BcGM5ZXZzSXlORjB2NnJsc2R2RnZTWF9qSklUODV5am52SGN1YU1qMk5WcHpreU1MLWkwMk9iU2FQb0Rqa1VXMTJiVkdXNVpsY0drVkdvV0YxaWd1VDJwRdIBZkFVX3lxTE9DbWNEdUxPLV9oNERlMlc2blZLT3lxWmJ0bUo1bWphTFQ3WF9hMEo3ZmZEVjMxYkFyTFpRcE45QWtBbG1pUnB5S0xUOUJrWGxCcGkzRWp2YjViRGtlTFhubnVhYkZjQQ?oc=5",
+        "theme": "「你的人生賽局，如何逆轉勝？」：從南韓門將失誤看你的壓力應對與抗挫力",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "門將的致命失誤是體育賽事中常見的戲劇性時刻，它不僅考驗選手的心理素質，也讓觀眾反思「壓力」與「錯誤」的影響。這個話題可以延伸為探討使用者在日常生活或工作中，面對重大失誤或壓力時的應對方式與心理韌性。測驗可以設計情境題，例如「當你搞砸一個重要任務時，你會？」、「你是如何從失敗中學習的？」、「在關鍵時刻，你最需要什麼來支持自己？」，來分析使用者是傾向自責、積極彌補、尋求支持還是迅速調整心態。趣味性在於將體育場上的高壓情境與個人生活連結，幫助使用者了解自己的抗壓模式，並找到提升韌性的方法。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的人生賽局，如何逆轉勝？」：從南韓門將失誤看你的壓力應對與抗挫力】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "世足/加拿大6球狂勝卡達 科內遭鏟倒「左腿變形了」 - Yahoo運動",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOcWdkWlVnX1hqMFFSZ1kzWWlwZnI1cHZPaFV0S1pyaTFlcjFGZTkzZ0JRWWZMUnpJQ1FqNEVRZVV3djViLW16VXk1ZHRIRkNPd1czYXV3N0RnZmVHSW9yZDlIZkFPMkg1Rk8yUGp1ZEFWZGRsbTFHUk9aUVV1RVh3aG9waG50eEJSR1ktcVNySGVqdEh5ZTVMWlhPVGJaeGlWbHJFMHU0RGRuNGduZHBMT3NxYy1MSW1NbVBvY0xaRGxPTEM2WXZ6eUcxNjExMnlCckYwMWR1bmEwY0wyMUtrSGNFNzBtVkRFb1hLSmJnd2RwYTZGRVBXWlZfaVpWV3BGc1QwdEhhUHJNVnhOVjY1NkJQamRsQS1iNWc3bUU3eTRUblU4R0t0R1NLREh2V1FSTXI4Rko3SHFaZzdaUmtDN1lBRnFEWnVxanNxazlvS2FHcW9uZw?oc=5",
+        "theme": "「你為夢想，能堅持到哪個極限？」：從球員重傷看你對熱情的奉獻度",
+        "resultCount": 5,
+        "style": "立體拼接",
+        "description": "球員重傷是體育賽事中令人揪心的一幕，它不僅展現了運動員的拼搏精神，也引發人們對「代價」與「追求」的深思。這個話題可以轉化為探討使用者在追求目標或熱情時，願意付出多少努力與犧牲，以及面對困難和「傷痛」（無論是生理或心理）時的態度。測驗可設計情境題，例如「當你的夢想之路充滿荊棘時，你會？」、「你為了達成目標，願意放棄哪些享樂？」、「你如何定義『成功』與『失敗』？」，藉此分析使用者對熱情的投入程度、堅持的毅力，以及面對挑戰時的心理韌性。趣味性在於透過高強度的體育情境，讓使用者審視自己為理想奮鬥的「極限」，並思考何謂真正的熱情與價值。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你為夢想，能堅持到哪個極限？」：從球員重傷看你對熱情的奉獻度】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【立體拼接】"
+      }
+    ]
+  },
+  {
     "id": "2026-06-18",
     "generatedAt": "2026-06-18T05:23:14.058Z",
     "ideas": [
@@ -643,100 +715,6 @@
         "description": "明星球員的意外受傷，象徵著人生中不可預期的挫折與挑戰。此測驗能讓使用者透過運動場景的隱喻，探索自己在面對逆境、突發狀況或運氣不佳時的應對方式和心理韌性，提供不同「道奇精神」的結果，鼓勵正向思考並引發共鳴，增強社群分享的動力。",
         "id": "idea-6",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「人生逆境應對力」：面對突發狀況，你屬於哪種「道奇精神」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【底片膠卷】"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-11",
-    "generatedAt": "2026-06-11T05:13:57.462Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "梅雨鋒面+西南風今天重返台灣上空 粉專：降雨長達5天 端午出梅轉夏季 - UDN",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DXzZaUlAwUHBMYjVvSWNOaTlsamQ0NHJJZElxY0FPdVpReWRET2tsV2tHRGVvZzFBZGM0YXFfQVh4anJpOU04LTFhU1VSaEs20gFWQVVfeXFMTUZGdVV4dVdhUXI0YjJHN2ZYWXJjaE5LcVMwU3VydGVHdFBwbzdSb0QyQ1lQbWZqOU5IWTVSMDBnSTJ3Wkw4UUVKbXJJMDFQbHh3Z1Z5aUE?oc=5",
-        "theme": "「你是哪種梅雨系人格？」測測你的端午出梅轉運指數！",
-        "resultCount": 5,
-        "style": "清爽動漫",
-        "description": "梅雨季節的連日降雨，總讓人心情複雜。這個測驗能讓使用者探索自己在陰雨天氣下的性格特質和應對方式，並預測在出梅轉晴後，他們的人生是否也會跟著「轉運」，帶來趣味和期待感。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你是哪種梅雨系人格？」測測你的端午出梅轉運指數！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "日菲劃界牽涉美陸台 吳子嘉預言：關鍵9月、綠選情恐「天崩地裂」 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPTUJOTEFCejU2WGh0VGZOMFFvc3FES2ZNQ19GcDI3dlR5LXY5ZUR4VTBSRkFUMzJqaWJKeVJ1VjdWX0Qta0Z6SndHa0NjT1lJMWR6UTJHRXg4d3FJVE9PaUh6a0ctRFU1dDdxZE1xM3JPRVd4QUN2X0Z2YzJOeWJkaUZnSWU5N0VUb2pCaFFYSjNVeUZ6U0dWeHRzRVZQYVg2bjhfSGJucUp4bENJNFlSVE1Mdkw2U1dKYjNNc0ZlYzk1NXRaN0tFNzBha1F3aHF6ZmdlSXE5OElXa0dCaERINmZ2eDlYMzdObExMV3llU3puaU05czdlNTF2OENwMnlkaGMyNjVCZkF4Z3RRaENRWkJWaEE3WTVXb2ozQVN1V2J4cWw2OHhRM3U5eHdvTm0zblZaOVVGcVJibjFldFFvb2FsYWMzY1NKLVo1dHB0d1I0Zng2ZmtKR3dzY016NkJESEptcVNnOHZkWVVqTjk1Tzdkck5aMWpqMG5tMU9mQnd2OC1IQ0E?oc=5",
-        "theme": "「亂世求生指南」：測測你在國際局勢動盪中，是哪種關鍵角色？",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "國際局勢變幻莫測，牽動著每個人的未來。這個測驗透過模擬國際政治的複雜情境，讓使用者了解自己在面對不確定性和重大變革時，會扮演什麼樣的角色，並提供一些「亂世」中的生存智慧，增加參與感和趣味性。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「亂世求生指南」：測測你在國際局勢動盪中，是哪種關鍵角色？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "聯發科下殺3％ 台積廣達鴻海齊跌 台股跌逾300點破43K - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNQWtIazdFcUM0RHAzTnBYQWFCQTlXR3JaZTZDeUdpdjJpOTBFcHB2WTJlWC1WZTVwSGluTXo3a085aUlscFJITUwtRHVNSmhSVlhyNlg3UkZ6VXRSeElJVzBSZ3NRMnh3NnJNUzJwdkxwZ3FBZWxTclBqMjRXTVRrLURQTU9Fbm05Y1VndXBaZFgyRWNIY3U4Y25tZ3FOS1hKanRNWkJjUW9JeGh0OTRXZXJWRTFHVkxHUWh4RjNzXzVRZXVjbl9IYXFUMTVSOHF5WDZrbmhyVFNzWDhJR2RFRktUZC1Yb0d2VENBOUZqUGNaMHpCNGFfT0JBN1Y5X2d0c3BpR3B2T0phT0tXMUZIb00tUmpVSVUyanUxX2JQVlR4bDlVcVBablV5WUp5UFk5bmFMS00zRnRLWlNQNkNrQ0V4MnA4dHdnTjB3?oc=5",
-        "theme": "「股市海嘯來襲」：測測你的投資心態是哪種動物？",
-        "resultCount": 7,
-        "style": "復古像素",
-        "description": "股市震盪往往讓人心驚膽跳。這個測驗將投資者的心態擬人化為不同的動物，幫助使用者了解自己在股市波動中的投資風格和情緒反應，無論是保守還是激進，都能從中找到樂趣並反思自己的財商。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「股市海嘯來襲」：測測你的投資心態是哪種動物？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【復古像素】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "房市管制踩煞車 楊金龍：就到這裡 - UDN",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qalZVU1VDbVlqMmpsUldBazRvQ0ZRSkoxRWRTbnlzeXl3ckdrSm8zZVNuR0hWMF9TejYxRVZiVldxWGFmc1Vtdy02bW5ud3dF0gFWQVVfeXFMTlpZdUNReHB5ZU5Ib2tLNk9CMkFySFlwbi1xZTJLV0FVZmo2WXNLU3piYW9LQ0hnZzNTZXBiRXlzOXlfbFB1TlFWWTBib21lMWlsS1Fma1E?oc=5",
-        "theme": "「你的理想家園在哪？」測測你是哪種房產系旅人！",
-        "resultCount": 5,
-        "style": "極簡質感",
-        "description": "房市政策的變化，牽動著許多人對「家」的想像與規劃。這個測驗能幫助使用者探索自己對於居住環境、生活方式以及未來規劃的偏好，無論是追求大都市繁華或偏愛鄉間靜謐，都能找到屬於自己的理想家園型態，並思考如何實現。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的理想家園在哪？」測測你是哪種房產系旅人！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "新莊公寓頂樓變「空中垃圾山」！被罰4次繼續堆 屋主稱：研究核能 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMihgNBVV95cUxORzFURlRCTGhUM2FRcW5tRjJ0QlhXMUVPWjdMNFdKQXV0SFpubGVBLXZybm50UjFyOG5ZdUVKNkI4NnNPaTJLd2kxajY3b3ZvcEFtY2RocElUazZrMTR6SFhvVkVJcEdTcUI5TnZFT3FUTjBwUmxxZGdmWkdzUWI5emVObVhfNER5QnViZjBSODZvMTVEOHlPRUpXQmlMOGhEU0lKcndCdlFiRG9OTnpnZ0Etb3M0aE4yZlF6dU1XZmZLRDNyWU9JLXlySDNDeVpIaDB2WU1YZkJ5V1oxa1FKZzhQa2RDVjR6amRtSHFzX3cyek55dUFFZzcxSG5MVVA3R1IwOGduYnJXY3BoYkJBb2laNUtqaXhJdkJHN1pyLWtwUkU3M1V4dzR2TVkxMTBnMENxSldiLWNwVnNUOUlKNzA1V0hRbWhvaGFXZks3Tmp5VlRLQXhHWUhFSG1tU2tDZ1h2SlpvbVEtdXpSb3pUMDVSOFN1X2NWajZWWWFwb0YydzBkdFE?oc=5",
-        "theme": "「你的內心住著誰？」測測你的離奇指數有多高！",
-        "resultCount": 4,
-        "style": "搞怪幽默",
-        "description": "「空中垃圾山」事件充滿了獵奇與荒誕。這個測驗能讓使用者探索自己內心的「怪咖」潛質，或者在面對荒誕情境時會如何反應，是選擇旁觀、加入，還是挺身而出解決問題，帶來輕鬆一笑的同時也引發對生活秩序的反思。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的內心住著誰？」測測你的離奇指數有多高！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "台灣就像家一樣！黃仁勳最新影片「點名5台廠」 - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPQWxhS1AxVkdkODZ4MUtUVjhFV210VGIzeGRzUUFwSVp5OGlEZVBqUGhLSG9hQUFCRFNaa3FpNEkzSWZwOGE3Unk2WmNMUldfQWtkVF9vOHRrU25iU3A5R0YzWTZFaklNUDVvbU0ta1lWc0RFNU5vRmpCSjBUbFk4MVpPcERFUDJpSlVpWVFRVERELURrdnpUQzhVMElyalR6d2diZndxNU4ydWc0T3VTX0RYanF4THhibnl4VVF6b1ZZUnZLdWIxYW9hUVE4VVM2LTNJSVpKMlRkVVlSaS1nSHFNNmVtZXVVOXZvT05wM0h4U21fV0pGdldlSnJQTTRHQS1wNmU5THVLdW5xR21NR0UwdUx4WFRCWXBPZkJabTE4TklwX2toMTZ4b1g4QTJ3QmVLejVMUDlhQkxsajdBS29XTk8yLVhWNVdzOE1yYTA1aWFZTDBRaw?oc=5",
-        "theme": "「AI浪潮中，你是哪位科技巨擘？」測測你的創新潛力與領導風格！",
-        "resultCount": 5,
-        "style": "霓虹賽博",
-        "description": "科技巨頭黃仁勳對台灣的讚譽和對台廠的點名，激勵了許多人對科技創新的熱情。這個測驗讓使用者想像自己在AI浪潮中扮演的角色，是引領風潮的領袖，還是默默耕耘的技術專家，藉此探索自身的創新潛力與領導特質。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「AI浪潮中，你是哪位科技巨擘？」測測你的創新潛力與領導風格！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "NBA總冠軍賽》OG Anunoby「準絕殺」馬刺 尼克上演冠軍賽史上最大分差逆轉勝聽牌 - Yahoo運動",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQZXZHMjBPWnRHdXJWcFUtTmxEcUhhdktEYlptSE9yY2Y5cndsV1JLdnVPNmoydVJmVTlYRWQydHdnR2tCMUhKN3dWX1lTUTQ2aDkxZ2QxcjlQRlJaOTlMYkh1UGpoYlB5bVBmd0FFdU55TU82dmtoYkk3Z2Rya1g2WE41YmtPck5ITWJrUFY1ck1NNnA0MWFUaHAwazAxS2xHNlczeXp0Vk5Yb0dmdGY3NkU3aEtLLVlKWnh4UDBTb2xYb1ZWaHVZV1VnTjNfMlFuVmJNQ3kwS2JnNUgyODNkMXkwa05WTURmcTdPZlRpTmVDYThQME8tSzRvcEVXZnFOazFiQlpUZXZBYVJPeXZIZ1R1YmY1RjZweVhjalMxa1I4NEtqdTNFaGJNYV95TmJ3QWw2UVJ3Zy1HZ29sTEM5cko4Q0hxX0NidmM2NVJla3Zyc0NWOWN1bmJVTDhPWHJrRDU4OHh6eWJnckM0eXQxRzZ5TVRGcDhqUTdzM2RIR3k0TVRJaWMwbEtudERQSWJaWEtCYlk0Q3ltTnNfUzZzSXdEZTNORThjZGZ6NzRmUWo1aXh4YjB1cm1vMnByelJkMjJVVGJ6c0lmU081MVNsS1ZhSmhSWHc?oc=5",
-        "theme": "「逆轉勝的人生」：測測你在關鍵時刻是哪種「致勝王牌」？",
-        "resultCount": 6,
-        "style": "美式波普",
-        "description": "籃球賽場上的逆轉勝充滿激情與戲劇性。這個測驗將使用者代入到比賽的關鍵時刻，探索他們在面對壓力、挑戰甚至看似絕境時，會展現出何種特質來扭轉局面，是獨自CARRY還是團隊協作，激發內心的勝利慾望。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「逆轉勝的人生」：測測你在關鍵時刻是哪種「致勝王牌」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "MLB》大谷翔平無緣第7勝、夯本季第12轟 道奇牛棚大放火遭海盜逆轉 - 自由體育",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Hd29rdkR1YzRrYjFkeEJQS2JzMUdXTXRhbm9JcFB4MnpHWWY2dTAtVUxsT21CSW9pS18wb09Sc0xMeS1RVTNOWHZFYkdVc1BXdzFkN1lUSVZqV1RoWmJ3VNIBZkFVX3lxTE9OQWNkMTRVYnVUZTNrYndfQkQ3UVZQZzkweXQ3YWJ0WENpV0l1eE9oeVlnYWdVNGtJUjFFZmdQbEhHR0FoTXNSNnR4N1pqSnZFMnpWNnJZekxhLWdvaXZ4TkVqYWJLZw?oc=5",
-        "theme": "「人生全壘打 vs. 隊友豬隊友？」測測你的職場合作指數！",
-        "resultCount": 5,
-        "style": "懷舊報刊",
-        "description": "大谷翔平的個人亮眼表現與球隊失利形成對比，凸顯了團隊合作的重要性。這個測驗將棒球場上的角色代入職場情境，讓使用者了解自己在團隊中的定位和合作模式，是追求個人榮譽還是以團隊利益為重，思考如何在協作中發揮最大價值。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「人生全壘打 vs. 隊友豬隊友？」測測你的職場合作指數！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
       }
     ]
   }
