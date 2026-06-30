@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-06-30",
+    "generatedAt": "2026-06-30T04:49:16.558Z",
+    "ideas": [
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "以台積電熊本廠為標竿！李在明向三星與SK會長90度鞠躬致意 - 自由財經",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rcEpwLUluSlJ0QkJMUkw3N0o3R213c3BPdjR2cVIwMnZvbDRKZmJfUkloclV3bUtZejhFTE1xTUd1MXJ0NWQ5WDNYeG9fWkhEYTJ6akVodEFJeHJrNXRR0gFkQVVfeXFMUFpPYWlOd1dSbHVsRldhMC1BV1M1N2twUFRIS1BIOGpkYUJvdTNOWVFWb19HTWM2Z2NoTkRfWUJQdlBSLVJrSHVEU19CUEtSZTlwX2FxZFFETndZVV8yT0YxbWZwXw?oc=5",
+        "theme": "你是哪種商業策略大師？從李在明的鞠躬看你的職場致勝之道！",
+        "resultCount": 5,
+        "style": "極簡質感",
+        "description": "現代職場充滿競爭與策略，這則新聞中李在明的鞠躬行為，不僅是企業政治，也反映了面對強敵的態度與野心。這個測驗能讓使用者透過虛擬的職場情境選擇，探索自己在面對競爭、學習與合作時的潛在特質與應對風格，找出自己的「職場致勝之道」，提供實用的自我認知與趣味。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種商業策略大師？從李在明的鞠躬看你的職場致勝之道！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股早盤漲逾1300點突破46300點 台積電上漲105元 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONG51TUdfTElKdUM0S2wxLWliS2t0anM3Y3JDT1BoRW1UTkl6QlFtMllPYXNqOWExSW1RYi1zM0ZnRjhGU01neld3bS13Q2R0dExva1M5bm1rTlprQ0dheHk0ZmU5Q0JCek5MREN0MmFnV2hFUGFaTmo5cWVnbzNNTTA0Y0hRWjhqMU5KU1liUmJGSFB5VzF4ajFoaGtiY2M0LUVhOE1nb1N0ZjExLVhJRkE1TFFXdlFaWnJHMnRKNU5uTW5uOWk3M2NtaE10aTRTWmpNQjZDOGVmOE9JQmpNRE5tN2Q3elFlZVN0dHB1anRrYjRpM0ozYWRZZnFvWEE?oc=5",
+        "theme": "台股飆漲你跟上了嗎？測測你的「財富體質」是哪一種！",
+        "resultCount": 6,
+        "style": "美式波普",
+        "description": "股市的波動與財富的增長總能牽動人心。這則台股大漲的新聞，激發了人們對投資與財富的好奇與渴望。此測驗能讓使用者透過模擬投資情境，探索自己在金錢觀、風險承受度、投資策略上的潛在偏好，了解自己的「財富體質」，在娛樂中思考個人理財態度。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【台股飆漲你跟上了嗎？測測你的「財富體質」是哪一種！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "捲入高階AI晶片走私中港澳風暴！ 上櫃飆股「青雲科技」遭搜索發重訊：全力配合調查 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOaVh6TlBzTmtoUlFLbHZVMmlPenV5U2FkWjNia0l5b2JvTklkQnVjUzA3ckxqMVlMblVSOEhzRjZPRlc3VXR4X3dqUU1JZ0pyQWcwVW42d1hyaWZ4bFVTQk1INDRTLUw1MzdHbm41NjNrenB3aEVqOWQ0R1NzdTJVMy1ubnpIUkNTazczOFZ3T0hUMjZLRHotVWc5Rko4T0dfV0Z1NF9hakhkeVJmRl92MXJYZ0wySXZMWGRPQXE4a09yRXZFSWpQc09PcFA3dER1TGh2S3Y1bTV6Ym44Yl9mVkVkRndTOExzekNyX1B6MzJoMndzcHVaWWx5TmVtc2F4WWI4RDVuWWw3ZlMwc3dibDZIQTJWZmI4T3RCN3BfZGVJazdiRkVMTVRTUG4yR0t1RFhNUjRyY2V4SnFINXV4SlFOanNlRC01Nzk5azZrMEQ3akFVYjJBQkVfZ2JuWFNsMFVEWVNNWGNkWmZ5bXFqbzFiYUU0R3BYWGZ6X3NZelNreURheEtmbWxvejdUaURFbTVlQmtMMDRuclB3LVhmajVMQkJsR1o5MXJDcUtPX294WlZhWU0wSTY4VWJxRDJBd3lfNm9oV2tSemhHTWpaTVdiOWJBMGwwZk1ncnJNM1dUZ0dENXlB?oc=5",
+        "theme": "AI晶片走私風暴！測測你的「危機處理人格」是哪種類型？",
+        "resultCount": 4,
+        "style": "驚悚懸疑",
+        "description": "高科技產業與國際貿易中的灰色地帶，往往充滿著利益與風險。這則AI晶片走私的調查新聞，帶有緊張與懸疑感。這個測驗能讓使用者在模擬的危機情境中，測試自己在壓力下做決策、應對挑戰的風格與傾向，了解自己的「危機處理人格」，在刺激的氛圍中自我審視。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI晶片走私風暴！測測你的「危機處理人格」是哪種類型？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "聯發科ASIC商機再獲看好外資目標價顯升至1萬元- 新聞 - MoneyDJ",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYV9jZE1kZmljcDlKR1h1UXBJdFc4N05uc0lDWnl1a0lGU2hpMGNQRlI2eWZaWTZyM3hlVzR0b24za3h3VVNMeVNGYVdXckZfYUlhY1BqWlFJZjMwVW5ybXpQNTRWNUJscU90dmZyUlpRR1Z4RTd1ZVpjNVgxcksyT3JYYWo0ZTltenFxZmdKWGFOQQ?oc=5",
+        "theme": "聯發科ASIC前景看好！測測你的「未來潛力指數」有多高？",
+        "resultCount": 7,
+        "style": "霓虹賽博",
+        "description": "科技進步的速度超乎想像，聯發科在ASIC領域的潛力，象徵著對未來趨勢的掌握與突破。這個測驗能讓使用者透過對未來科技應用、個人職涯發展的想像，探索自己在創新思維、適應能力與前瞻性規劃上的特質，了解自己的「未來潛力指數」，激發對個人與科技未來的無限想像。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【聯發科ASIC前景看好！測測你的「未來潛力指數」有多高？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      }
+    ]
+  },
+  {
     "id": "2026-06-29",
     "generatedAt": "2026-06-29T05:17:06.099Z",
     "ideas": [
@@ -588,122 +638,6 @@
         "description": "李灝宇棒打洋基王牌，是典型的以小搏大、突破重圍的勵志故事。這個測驗將引導使用者檢視自己在面對挑戰和機會時的反應模式，是選擇全力以赴、一鳴驚人，還是步步為營、穩紮穩打，幫助他們發現自己內在的潛能和突破方式。",
         "id": "idea-6",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是逆境超人還是穩健高手？測測你的潛能爆發模式！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-21",
-    "generatedAt": "2026-06-21T05:29:31.792Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "鳳梨釋迦外銷九成仰賴中國！沈伯洋：應將台灣水果行銷到無政治前提處 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPNU5jaktJcEc4akdCVFBYVDgzTUxrNXltbEMzT2NkVXJoRElPaXZTamdHa2puZm1PV0c3UjVCamRZUHh1a1lidVl3MlBucXlnaUs4dEVZNHU5eklFU1lUVWJGYW1nZ2dCLUgzLUo1ejB2dTRfZ1NzY2pzMk5yMVZZSVJxUWJUeUJzNFFYZlVyc0plNGQzSzJyLXphSHFFNWxMWlJVWHg0WlBUZmF6UEd4bFBXSUF2RmxjSW1RV2M1M21aMkY3TFNsQ0pCZExkalgwUDhmNU9PMmlHTjVldkFtdnhER085RFdENzRtei1UaURIZXIzamFGNk9zZlRhSEtjNDFQTHNwWmxWaDRlc1c2OGp4TTdKNi1WSTlPb0trS0p6SF8xdG1aOGxfSkZhRWh0ZkdVeUFHTm14YXpGWDlmT010ZkE1b1lNZlpSenEzNnpXOEVnUy1remlDRUtjdm9TSEc2Q0tiZ1ZrMHBYTkhNUkgtUi1oV3k3UzNlUVl5aXlPcHlCN3RPb1hpSWFha0VlQ1RBQTMwSmhsTFY4OWtTYzRhSFI0OEdYQVV1bVp0MFl2eUdiblpUVmxHWWt3dw?oc=5",
-        "theme": "你的職涯需要「分散風險」嗎？測測你是哪種「市場開拓者」人格！",
-        "resultCount": 6,
-        "style": "自然原始",
-        "description": "這則新聞聚焦於單一市場依賴性與開拓新局的重要性。測驗可延伸至個人職涯或生活中的「分散風險」策略，透過情境題讓使用者了解自己在面對挑戰時，是傾向保守鞏固現有資源，還是積極探索新機會，找到屬於自己的「無政治前提」發展空間。趣味在於將國家經濟策略類比到個人選擇，更具代入感。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的職涯需要「分散風險」嗎？測測你是哪種「市場開拓者」人格！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【自然原始】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "鄭麗文訪美後啟動全台輔選 部分藍營人士心驚：大家都跟妳拉開距離 - 自由時報",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JTEllMzgxU0E4MXBTZUdXRlZPMGxtdW9relZKUW1pQVZ2S2ZhS3UtSlcwTkF1M0hHQUk2UFZGaW45TC15NzRZMUYxXzgtLUtHUU5DVU9FVUJSRENjSUJYWHpvS0ktYXl2enfSAW9BVV95cUxOVUZIV1o0SFloSmtweGdJejdXRjBhR2Zlei1jT1d6Y2xITC1JV3VlUjBNSnNvcUJ0NXdicVJwZkJVWEl3V2F4MVFwUGllUm9kRTRFWWEtVUhPNUhSSDhhSHZvQTFtdG9FblBvakFQX2M?oc=5",
-        "theme": "職場社交測驗：你是「話題製造機」還是「人緣磁鐵」？測測你讓隊友又愛又恨的指數！",
-        "resultCount": 5,
-        "style": "搞怪幽默",
-        "description": "新聞描述了某政治人物的行動造成黨內同志「心驚」並保持距離的現象，暗示其可能具備鮮明但具爭議的行事風格。測驗可將此情境轉化為職場人際互動，讓使用者評估自己的社交手腕，是吸引眾人目光的焦點，還是不經意間讓人感到壓力。透過趣味化的結果，幫助使用者反思自己在團隊中的影響力。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【職場社交測驗：你是「話題製造機」還是「人緣磁鐵」？測測你讓隊友又愛又恨的指數！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "胡瓜包大紅包祝福白家綺、吳東諺！ 沈玉琳吃喜酒笑曝禮金「萬元是標配」 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOVVJ5Z0V1Y1Q3NHNfTG01VXpJYWFlXzQydGZHdWxCbE0zRXNRUkVhNFVwNmlyWi1wTHc1TVNjWkdkOTBGdk5vTlJJc2hqdFlxRnczNktVRmJwTGxySjc5SDlwT1I0YmR0aDJhUHk4SWswc2p6ZWVrN0dOQXctMVhLYTFTeUZaamQ2Yy0tWFNGdG1zTE1NSWtmRDlmb3R1WC1QZVBocWltQXdBYzZSbWN4elVIVVlUY0tLOFgyakZXMUVfb1FYa2tkV1Y4RXN2c2VaUmtybTA1VmRWWWdEZUxJbTYwZ2FEOVNYRDhHdHg0NldkNUY2NEtFdGZyZUlkcmN0Y3l6S01VMWJOdzB0UzY1UEdZaEhKS201YUpYTzJXU1FsNU5aNGFJZUZXLURESlh3M2VYMzRqU2VQMjdvUU1uTlV1aEhzNl9tZHoyaGFYcFRTTUlwanR3czhuSE81d2V2bl93ZVZ0eEgxeEFYSG5ESXlNSWMxUUlYdlMwdXI0Y3RocVhvUmRDeFpBR3ZCSTZhbko0b3pSTURXNW1BM1c5OEFPVXQ2ZjJBS21YTFFCQ3A2eTA?oc=5",
-        "theme": "你的「喜酒行情價」是多少？測測你的社交紅包策略是哪一型！",
-        "resultCount": 4,
-        "style": "奢華宮廷",
-        "description": "這則新聞討論了藝人禮金的「行情價」和社交壓力。測驗可從紅包文化延伸，讓使用者透過模擬情境選擇，判斷自己在參加婚宴等場合時的禮金預算考量、人情世故的處理方式。結果可以揭示使用者是屬於「實用主義者」、「面子至上者」還是「心意導向者」，增加趣味性和話題性。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「喜酒行情價」是多少？測測你的社交紅包策略是哪一型！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【奢華宮廷】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "羅PD式綜藝魅力再現！從青春旅行到牧場生活，《花樣青春 Limited Edition》《種豆得豆 做Farm得Farm 動物農場》展現明星好友自然互動 - KSD 韓星網",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10bXplSWEycThKaE9Za3Q1dHo3dnk3YThDTWl2YWFoWEdlcmhhdmdtcFk1Q0hnVXVXWHlfaVA1c25lOUF2MEgtajhFY1Y4REFYeXZGR0tNV2nSAVdBVV95cUxOV29MdDB5QzFuZ1JoX3ozS19raVBPM0NVc095cGtic0trVkxjNkhyNUN3bGFMZXd2bGtXc2I5OEtfdlRLLWZrZHRRY3BTTFlkOWQ1ZmFFaU0?oc=5",
-        "theme": "你的「理想慢活劇本」是哪一種？測測你是哪種「療癒系綜藝主角」！",
-        "resultCount": 6,
-        "style": "清爽動漫",
-        "description": "羅PD的綜藝節目以貼近自然、展現明星真實互動和慢活步調聞名。測驗可以根據節目中「旅行冒險」或「農村生活」等主題，設計問題讓使用者選擇理想的放鬆方式、面對挑戰的態度以及與朋友互動的模式。結果會揭示使用者內心渴望的慢活劇本，例如「城市探險家」、「田園詩人」或「社交達人」，提供有趣的自我探索。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「理想慢活劇本」是哪一種？測測你是哪種「療癒系綜藝主角」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "美光財報成AI熱潮試金石 華爾街集體盯盤 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMGJNMVVlckZ2UWtJRklSNTNLMzAtMjV1Zk0wczAta2Nzd21lOXlPZVdSZmxNSmRmcDNrRHpYOGs5QkFEb3drMlVEQ3VaNnctRUw0S2xVQ29yTHd0eEszYW01SG80SzJJaTJjSmUzMm5tSVZBQmxOcmdJUHRlTV9BaHdJT3pTZGsyQ1VXMXZzMk1zUWEzaFhxUEZobTFnd3loc29qUlpBUWFEZ21neWthQjN0M1dHLW9uemJiZGpVODRycnJDeFdZLVdXY1hzbldyMDNJenRNQkkxM1htZUNJd2trTDMxV1d0eFV0Yk82UzVzaUNCQVBUMlhDVUhYU3I1WmdUN19hclVyX09qR2xBd0lCWDlJb3lYTURUbGdLaDhINTQ?oc=5",
-        "theme": "AI投資風口！你是「趨勢嗅覺型」還是「穩健成長型」投資者？",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "這則新聞圍繞AI熱潮與財報的市場反應，涉及對新興科技的判斷與投資策略。心理測驗可以將AI趨勢延伸到個人對未來科技的態度和風險承受能力。透過模擬投資決策的情境題，讓使用者了解自己在面對高潛力、高風險市場時的行為模式，結果可以劃分為「前瞻預言家」、「謹慎觀察者」等，提供有趣的財經人格分析。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI投資風口！你是「趨勢嗅覺型」還是「穩健成長型」投資者？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "AI榮景讓聯準會陷兩難！「Fed傳聲筒」：華許面臨「1996還是1999」的歷史抉擇 - news.cnyes.com",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTSEtxQ2NZUjJyTzFMN2dvTlB5QnV2VVduVTRlSEU0RFRGdVZ5aExpanEyNkdpeGJzOVBYVmUzZmloa1JiNW5xSFlaU3NBam8?oc=5",
-        "theme": "你的決策風格是「保守穩健」還是「大膽創新」？測測你面對兩難的歷史抉擇！",
-        "resultCount": 6,
-        "style": "懷舊報刊",
-        "description": "聯準會面對AI榮景的兩難抉擇，將過去的歷史經驗作為借鑑。測驗可將此情境轉化為個人在生活或工作中面臨重大決策時的風格。透過設計不同情境，讓使用者在保守與冒險、遵循舊例與開創新局之間做出選擇，了解自己是傾向「歷史借鑒型」還是「未來導向型」的決策者，提供有趣的角色扮演。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的決策風格是「保守穩健」還是「大膽創新」？測測你面對兩難的歷史抉擇！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "手機不想再用iPhone、三星了！眾改買這牌：一支免5500、水準超高 - NOWnews今日新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95cUUtRkRJRm5GZHF3WWdzajlETnJ5RDY5aUdhLVBUSzQ1eUdSV0N4dkpuWFp1TGNITDJEQ19yclZDZkd1bDlCaW15WTDSAVJBVV95cUxOQkVsTmI2enR4RGtXS1djYnRTOFkzV2dUOUVNN3Bad0w3ODZBdWZKWGFDVURqM292VFhReDItNmZjd25CSGJkUVJ5TzNCTjFfcVJn?oc=5",
-        "theme": "擺脫主流！你是哪種「隱藏CP值挖掘者」？測測你的3C反骨精神有多強？",
-        "resultCount": 4,
-        "style": "霓虹賽博",
-        "description": "新聞反映了消費者對於主流品牌的厭倦，轉而尋求高CP值替代品的趨勢。測驗可以從個人消費習慣延伸，探討使用者在購物時是追求品牌、注重CP值，還是偏愛小眾獨特。透過選擇不同產品或服務的情境，測出使用者是「品牌忠誠型」、「精打細算型」還是「獨具慧眼型」，滿足現代人追求個性化與高性價比的心理。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【擺脫主流！你是哪種「隱藏CP值挖掘者」？測測你的3C反骨精神有多強？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "被動元件飆完換誰噴？聯發科、世芯-KY領軍 「這10檔」IC設計黑馬接棒AI狂潮 - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPVnQtWkt2S1RFaXdzc0RLRmZLX2VzdW5ZSkl0amVQR0F5VU5Vcm9YUWNGQ1hkS0FOQjV1VElkT3RFNmIySzhYX0YzWXNhRVJXNmg4Nkdsdmp3ZDlwa3VFSl9QTXk3ZjczYm5uN19Od0tQZE1INXNpeVNybHZTSmMybTRUekF1RmV2eTdYUzBWX0Y4TXpkVTNWcDlDQzAtakx3dTVaQ3MzQXY4c19UT0xZNHhXYnF1SGZQSmZ4NVdaMDRvVGVEbkZ2ZkZlN1l5dk9TbzVLSHctWm9SLXVXRmdFTW5lUWFTTGZPZ1JGYlhscVlUdlZ3cjRTYlRpa0FWaFk5NXV3cmk5ancyRy1qbmNfMHJUbVM4VVc2WV92bGdlY0NMR0lKWExmR1l0UEFKd2ZaVGUtNzFmVWo2dHBpUVE?oc=5",
-        "theme": "下一個職場黑馬是你嗎？測測你的「市場趨勢雷達」靈敏度！",
-        "resultCount": 7,
-        "style": "霓虹賽博",
-        "description": "這則財經新聞探討了股市中「黑馬股」的預測與AI狂潮下的板塊輪動。測驗可將此概念轉化為個人在職場或生活中「發現潛力」的能力。透過情境題，讓使用者判斷哪些是未來趨勢、哪些是值得投入的機會，測出他們是「趨勢嗅覺者」、「潛力挖掘者」還是「穩健追隨者」，提供有趣的自我定位。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【下一個職場黑馬是你嗎？測測你的「市場趨勢雷達」靈敏度！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "世足》古拉索門將瘋狂15次撲救 0：0踢和厄瓜多寫歷史 - 自由體育",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE1ESm14Qy1PMlJSMDdNcUxHS20zc1RBR3g3OVZQV0tUbkxMVGxFc1MxMl9zcVlzUl94c2dVNUVFUTQ0VWdfSlRKUDBOUEJSakFSZFJlNVQ2Ukd0OE1iR3JkaNIBZkFVX3lxTE1hZ2lCamZQSE9nV1g0czZqcFR4dkxyZkRrX0hlQ1Q3OHBtZzZIM0VlWG5DS3hobDRPcG5kTS1OSExTU2N6R1lNWUhvVW1QVWxxMUZ3a3h6MnFMb1EtV3BDblNVanB4dw?oc=5",
-        "theme": "職場「神撲救」！測測你在關鍵時刻是哪種「抗壓英雄」？",
-        "resultCount": 5,
-        "style": "美式波普",
-        "description": "古拉索門將在世足賽中的瘋狂撲救，展現了超凡的抗壓能力和關鍵時刻的表現。測驗可將此情境轉化為個人在職場或生活中面對突發狀況、巨大壓力時的應對方式。透過模擬職場危機或個人困境，讓使用者選擇處理策略，判斷自己是「臨危不亂型」、「逆轉勝型」還是「團隊合作型」的抗壓者，提供有趣的英雄式想像。",
-        "id": "idea-9",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【職場「神撲救」！測測你在關鍵時刻是哪種「抗壓英雄」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "光速重返！大谷翔平剛迎2寶「隔天就歸隊」 下場登板時間也揭曉 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMihANBVV95cUxOVlR2a243Zjh6RE5qN2hTQmRoZlFuZjB6OWQ5RkhDQ1ZCMlhYdnp3SzRNVXpneGhmeE1nX2Jad1I2ek9zWG0wandCaWdmSFRUUDhaSnJubUFna0NfbW1FMmsxWnFHUTJrMzhaS09HRzFJU0xMV1Bsc2dhRmVHMFJMSkNtMEhXU09KM3p1NWpFYXF5blB3Tlp6WEo5ak9ETjhwN2xRaGNfOEljb3o3TTYtcGNoVlZyVDJhTGR5RzNCRVd4X3dKUHpRSmF6WVBaVTQ5VWp5TWFkaGp5d1RGU0Y1YkhmTHF4cU5QZHJGQk5FLVc2Vk1haXNNWHJnWHhDRzFfdkI5NTFhc3VTMTd6bHZQZ1htQkFDa2hHS20tUHBfYnhoMVN3SWxWTkhIMzQ2V1NqdWpqZkZYX3NIVGtJQ0k5cVZYVG1OZl85dVlWTHkzaUJsdmlDVXBxemRiU3dnYXlSVk5UMmppXzc0b0JUeC0wS2U3eUNENXhFYU1rekpUM2MtV3Nz?oc=5",
-        "theme": "大谷翔平式超人！測測你的「工作與生活平衡」能力是哪一型？",
-        "resultCount": 6,
-        "style": "美式波普",
-        "description": "大谷翔平在迎來新生兒後光速歸隊，展現了極高的自律與對工作的投入。測驗可從這種「超人」般的工作態度延伸，讓使用者評估自己在工作與生活之間的優先順序和平衡能力。透過情境題，例如「面對緊急任務和家庭聚會你會怎麼選」，測出使用者是「工作狂人型」、「家庭至上型」還是「效率平衡型」，提供有趣的自我檢視。",
-        "id": "idea-10",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【大谷翔平式超人！測測你的「工作與生活平衡」能力是哪一型？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
       }
     ]
   }
