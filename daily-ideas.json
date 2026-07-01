@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-07-01",
+    "generatedAt": "2026-07-01T05:10:09.188Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "中國大陸7/1新制民族團結法上路 陸委會：支持台灣維持現狀恐遭套罪名 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwNBVV95cUxON0xfVHNxMEVqaUVKaTlXMEQ3Szd1bjh5NHJJaV9IVnVZbFhrU3E5LWFUR2RCOWZLc3liLURPVGhhMjNPZ3pTUXVrWDhyZjVuTnd2NzlhSlQ3aGVGQklfOE9oOEM1S3pvTnhuWF9tOHhkdjNWZF9IOHdJcXNneXk4ZXduX1QxTG9pQVE3eDhsU1NhcnpnTHY2aV9peFduQnNra3phTXI3aXlKOGtaMGxmVlBaZjFjYTlRRjVuMzgyQk1MU3Fka2FKcVk2NXNNX2VFajduZ2ZUNkNBX25CYUZkYXBRaTItdngtM0RTakFrUGJzdzAwR2xKQnRZZUw2Yy1mTExxOG1WT2w5TG5wVlRpaGZnWHh4NHBya0NUaE1MSzM2RTU0V3ltaEkzRXZ4VXBmQXB1Y0FZR1NSU0FNcFZkWWEzSnYxT2FNWkVXam0wN2RMV3pVX2xraDcxRTZQVkROaHVoRjF6Z0NjaThzVzgweU9yX3Q5RXdGTzNuMHByLUFvZE5DVUNZNjk3eHR1MWthZk02MmdiMXRFZkpzRVpNNFRiNHpYejZtYURLNGZlZ2hOWl9iREloS2V2b1FTMDBBQ?oc=5",
+        "theme": "【7/1新制影響】你的『現狀維持』風格是哪種？測測你面對複雜世界的人格特質！",
+        "resultCount": 6,
+        "style": "懷舊報刊",
+        "description": "這則新聞觸及了個人信仰、國家認同以及在潛在風險環境中表達意見的勇氣。設計一個測驗能探索個人如何感知並應對這種複雜情境，揭示他們的核心價值觀（如：追求自由、優先穩定、務實應變、謹慎觀察）。這將為使用者提供一個以有趣、自我探索的方式反思自己立場和對時事理解的機會。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【【7/1新制影響】你的『現狀維持』風格是哪種？測測你面對複雜世界的人格特質！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "三鶯線首個下班尖峰直擊 頂埔人潮增一班可消化、過北大站車廂轉空 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaSTZKZ0NfYWlBRkp1WW1rVU5idkZ5WEZoNDU1aXFKcVgxamx1SzUxMGxnWWpBazloRGdPMm4xR0RiQWM5MnF1RW5XWHJSZVNu0gFWQVVfeXFMTm55Q0RvdEg1R0p0eUdpUzduTkNndVZjTDZaRUV5UGNQRk5PazZzcXMtdVJVS3N4WGllM1pQdjdOVUJCdi1uM2Y3MVlFUVBtY28xMTFXRUE?oc=5",
+        "theme": "三鶯線直擊！測測你是『捷運上』的哪種乘客？",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "這則新聞聚焦於常見的都市通勤經驗。測驗可以深入探討使用者日常通勤的習慣與困擾，詢問他們理想的通勤方式、如何應對擁擠的人群，或是他們在公共交通上的『生存策略』。這提供了一個有趣的方式讓使用者認同常見的通勤者原型，分享他們的經驗，並在日常生活中找到共鳴與幽默。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【三鶯線直擊！測測你是『捷運上』的哪種乘客？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "郭明鑑事件 彭金隆首發聲： 「只有監理官 沒有老長官」並做三承諾 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TRlhTdWxLVkVidmhHMVFhOTMtUXViM2N6MmlZNF9ULVBVcmsxdTZNQ0JQZ3VPbjJ3WlJwWXhrRF9VeVluemFuNGM4c3pUUEJp0gFWQVVfeXFMTnJUV2R2WVRvVzVzX1p4QjJ4bGh0b284WGx4cWp1SEs2dkZSMG9UVEhKbnV3d0J3SE1XQ0J2LXN2WllpTG1vWjFqSkhTZE1FdVZ3bXc?oc=5",
+        "theme": "你的『職場倫理』光譜在哪？測測你面對權力與關係的選擇！",
+        "resultCount": 5,
+        "style": "極簡質感",
+        "description": "此事件觸及了職場中誠信、權力動態和道德領導的關鍵議題。測驗可以探索使用者在公平性、透明度方面的個人價值觀，以及他們在具挑戰性的專業情境中堅持原則的意願。這提供了一個反思自身領導潛力或專業行為的機會，以引人深思且與職業經驗相關的方式呈現。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『職場倫理』光譜在哪？測測你面對權力與關係的選擇！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股大漲1106點！ 被動、矽晶圓又暴動「刷一排漲停」 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPeEEwQU9aSjh5Q3E2bEZhdDgzTTZNYWw5eGNaaTB6OTV4QUpXb0J0U1VUNDFwbjcwUGMyNTA5eXZwaS1yVHlSYXhVaGN4Z0tETkVoTzFZWWNrQ2wzNWo1SDVFeHNlQVBCUXV5SHg2UlRSR0tRQVBXQ1dMWmFZdlZiNlA3ZXZkX09SclNhNEdVeFljNFpQdmtrWmtONmQ1RmlyRmlGMURTYXk4d3lBZzMxd0swczZCdUxDQ0RrT2dON1RpSFJONmcxd1FaNWx4ZER4OXJWZTlGWHNhNTBuX1FTbWpZVF82NUNUZExxWk5kYXpuOG9xR1BjTmtkZDUxVkZLSW02cnl0QVFWN3gteU1MMGVfbDg5Z21JZjhxRDZlTTk5RVBwaGE3eXRUZWRYZUJkY2c?oc=5",
+        "theme": "台股暴漲1106點！你的『股市心臟』有多大？測測你是哪種投資人格！",
+        "resultCount": 6,
+        "style": "美式波普",
+        "description": "股市的波動和快速的漲跌直接牽動著人類的情緒——貪婪、恐懼、興奮、焦慮。一個關於『投資人格』的測驗可以探討使用者的風險承受度、在壓力下的決策能力，以及面對市場波動時的情緒韌性。這提供了一個有趣、低風險的方式讓使用者了解自己的金融心理，並與不同的投資者原型產生共鳴。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【台股暴漲1106點！你的『股市心臟』有多大？測測你是哪種投資人格！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "聯發科重演台積電劇本「第2座護國神山」？謝金河：贏過1巨頭將成萬元股 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNYUZmVGhaRUQ1bGtGbHdTNGpFc1VrV1NFWXF4WVJkd2ZDcmRoSExkTXZNbW1KMlY2M19rN3BMZ3RXdmNXUGFNeEgwM05qcVRuanZQRmpyN3hGYjJ6YjhsOUo1N1VOaHlTQUl1cXppMEJJX3pYS0ZHSVpNV1p5S000NkZuQjg5UUhncUozWHBqNUl2b21Sc2hVS2lhU3ZBdC00ZWFHS0lXczBScFpubUs5cUJ0d1JBMlpRNkZfLTR6SHRjMzlZdENHcVJpOXBTXzhEa3VibEhuTzhPcXgwMUdQRERBa2o2Rjl5eTdOWDBIYjFkempMb3cwRUhIWGw2NFd4R29LT2RGT0JHVFFTck02SVBTYW9FY2pBWFRTVjBOc3dCZXhXVnV1RG9nZlpnUUFKRTl0dnBtaVpYT3pkUFEyeGFyVk92SlRTNUNZMjRaVlI3SUdQZHVaamZYRms1dExPYWpWNk9TZ3hTUUJ4dWcyWENZTUpiNDROdjVQV05mOUk0MVFwUTVUdEZheDFrNWduQVhacVA1c3M5TTcwTDJRQTRrZElfWUp4NTlPblpiemMtN2ljVnVSVGkwckxHYVRNNFdJQTdIeHhTdEktLUhLZHJGYUxKdw?oc=5",
+        "theme": "【聯發科崛起】你的『潛力股』人格是哪種？測測你如何發掘下一個巨頭！",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "這則新聞突顯了識別和培養產業領導者的興奮與策略思維。測驗可以探索使用者發現潛力的能力、他們的戰略思維，以及他們參與或貢獻突破性成功的抱負。這為使用者提供了一個在動態領域中將自己視為遠見者或策略家的機會，使其既引人入勝又具啟發性。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【【聯發科崛起】你的『潛力股』人格是哪種？測測你如何發掘下一個巨頭！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "AI概念股恐泡沫化？傳奇投資人葛拉漢：美股這類恐慘跌7成快逃 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPVW1ycmNYV1ZWNGl2QnRpTFkxX18xU0lYY3dRbWxuT2N2NUsyamtvLVREQW1ZbFpyUmhtTUNXeUZaV012VGszeGVNbEZtakNMMjdnclZDOGdOam1CRkdwUmViQVF0SS15RDdkblVNaVZXYk1oaG82aEZBSkNNRmRDbXBiSW50SEFnbm82OWpkcGozQ0IxZkpqMEFVQnFqT3BmYVg2bVZXeXp5NUJRUFJpOHhNMDg3eEZZQWJrZXNwRl9PUjJXNFhKWE1HOXFXNjJKXzVlWjZNQW5FRlpQSkZfZnBzazFyU0hYRVU5Q2hyajhRVHVNZ3MyM1FLc0dHN0JJNkdjaFFLTHV0SnA1RjVtcV8xOGdvUDJrTmFKYWxzQm1ZN2xwa3RhemJBUGthajQ0OGVzaUt5TUN3ckZGTzZKRHd2NFhiRDlNTm1mdUtDaUVfNWZZWGhPTld2RHdRcGpXVGNIdjRlZUVxVXZyMXdKQ0Q1U3pCVXpkeE9Nci1mUnNEeDRHMVE?oc=5",
+        "theme": "AI泡沫化危機？你的『市場警覺』雷達有多靈敏？測測你是哪種投資求生者！",
+        "resultCount": 5,
+        "style": "驚悚懸疑",
+        "description": "這則新聞直接觸及市場恐懼和泡沫破裂的可能性，引發了人們對財務損失的焦慮。測驗可以探索使用者對風險的感知、他們是傾向追隨趨勢還是謹慎行事，以及他們在市場熱潮中做出理性決策的能力。這提供了一個及時且相關的反思，關於財務審慎，以鼓勵自我評估其『市場生存本能』的方式呈現。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI泡沫化危機？你的『市場警覺』雷達有多靈敏？測測你是哪種投資求生者！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
+      }
+    ]
+  },
+  {
     "id": "2026-06-30",
     "generatedAt": "2026-06-30T04:49:16.558Z",
     "ideas": [
@@ -566,78 +638,6 @@
         "description": "韓股因「未實現收益稅」提案而遭遇大跌，顯示政策對市場的巨大影響。此測驗將探討當個人財富因突發政策或不可抗力因素受到衝擊時，人們會如何應對。測驗結果會將使用者歸類為不同類型的「政策衝擊反應者」，例如積極抗議者、快速撤離者或冷靜觀望者等，提供一個有趣的角度來思考個人在宏觀經濟變局中的心理韌性與決策模式。",
         "id": "idea-4",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【如果你的財富被「政策」突襲，你會是哪種「反應者」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-23",
-    "generatedAt": "2026-06-23T04:44:59.447Z",
-    "ideas": [
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台股進入47K保衛戰！半導體股「9檔飆漲停」撐盤、聯電等5檔漲半根 南亞科、新唐摔6% - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQNU4tazFVd1RqWGJXdGJWRE1TZE1XMEhNM082NkVoekt3X0VEYTFTS1k1ZjdOU1FzcDRQYmd0UUstTWlwN1pXVkNvbXpJcXZ1T05jdGhSeWhfLXZxeVlwdl9aX0RSN2VmY2VpelpGZWoyeW5LazNEfDhkYy1FeWNrM2hubktsWko5YmdkTDZTX016Y0FYanhLWHg5U3BjdVI3T1pUSnJkQ1k5ckgzeWN1bV9NdkQzRVNJM1FaM0xmWlZhRG1EeDNJcmJrZk5BQXFzdXFkSnlGdVZTaHo5blpydnVxNkZXWmdaSzA3Wm1kcWVQNjlOdUpRTUVKOWtVdzFsUmdlNHJZcDhSLXZLWFppelZ6V0tEYWRmTGpBVzZlM3pfNVY2U241Nkg2NFJMbUVndWNqdGRESE93UGdlaHViYzMxZEVtSW5ELXJCOXBrTmlDN1ZuVTc3NU5DVjJzQXo4VXFjcXBwTmJyUEVhUkZGZmVGNmQ2Q0pQcTRCV0E0dGVHWURLWUdF?oc=5",
-        "theme": "股市漲跌考驗人性！你的投資人格是哪種潛力股？",
-        "resultCount": 6,
-        "style": "極簡質感",
-        "description": "股市波動反映了投資者的情緒和決策模式。這個測驗能讓使用者透過模擬情境，了解自己在面對市場起伏時的心理狀態和投資傾向，無論是積極進攻型還是穩健防守型，都能找到自己的定位，並從中獲得趣味。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市漲跌考驗人性！你的投資人格是哪種潛力股？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "近1年台股ETF 10強 00947績效翻2倍衝第1 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTjduQTRoZmZjX0pSQWc1NmpRSk1uZVJFLWdzX2MwQy1VaENhY1p4aW53bDV6c1E3YURmcmtJaE8yTTdYZE1ZTW5WTWJGajJXeW1yZ1FkbnllVnBVMHp3OXQ5Tl9FN01VWHFYZ3lZbVdyeUh3Z3EzeTVlcXVVdG1iYktVeEZPOVBOSlZNV2d6cDNTRGJhZFJ6R0VsMlZHeW0xMVU1ZkNZYXRUN0tITWdIcW5FYmJPXzhtbXV0aElBVXBnbHdzb0NkSldQU0wzeUhJMHVJM0YwS2dqMTJ6bFpHM2JVQkhVNl9MOEFn?oc=5",
-        "theme": "小資族翻身術！測測你是哪種致富潛力股？",
-        "resultCount": 5,
-        "style": "唯美浪漫",
-        "description": "ETF的熱潮反映了現代人對財富增值的渴望。這個測驗透過模擬不同的投資情境和理財習慣，幫助使用者了解自己的財富累積策略和潛力，並提供趣味性的個人化建議，讓他們對自己的財務未來更有方向感。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【小資族翻身術！測測你是哪種致富潛力股？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "「AI對決街頭畫家」遭炎上 蔡阿嘎道歉：AI無法取代真人 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNOWdxMEtfaVROSFRKRmhVbFNTMFlHa3N6Z0lMdWJuY2d5bFJaOVM0VklwVFBOWWxnOS1HZHotcG16ekItNjd1UTdITXRXV1dKNDlLbWlKMjdhSHRSN0xHQ1c3SGVmWUt4VjVtSkEzWm1OcHA0UldyT1V0RkItR3NDREZNUGI1c1lRUzBFbkgwUTVJU3NKT0Q2YUNSdVVnSjBXdm0yeWhnSjB6MDJKYTBPa1ZYNnRDdFVhQmtxOUF0dUNmb21JZkZzV056dDRyRlZmbTRkT2V5WVFCU1F1R1B0ZG1ISG55bVIwa0VhbF9OVmR3OWZiWURHM0VDVkFPWF9aYU1XLVdGWWh5Rlo0R3JVcC16S2d1am9sc0lxRWdkdGt4TFJZd0NxYmVxWTd5UlYxVVBoNFNKb25hdE9ITzdRWFJzdTRSRGtsVWVneg?oc=5",
-        "theme": "AI時代來臨！你是哪種人機協作大師？",
-        "resultCount": 6,
-        "style": "霓虹賽博",
-        "description": "蔡阿嘎事件凸顯了AI與人性的衝突與共存議題。這個測驗能讓使用者思考自己在科技快速發展的時代中，如何看待AI的影響、如何平衡效率與溫度，並從中找到自己在未來社會中的獨特定位與價值。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI時代來臨！你是哪種人機協作大師？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "米哈遊公開桌面陪伴軟體《BSide：Olivia Lin》 由美少女「林離」彈鋼琴、回信跟你互動 - GNN 新聞網",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KdU92X2RPd05vTGI1ZkdUWUhIZmNrRTd2alBiMEx4OU5uMm5nX0g5djM5d0FpQjc0RkYzeVcwS29mbUY4d08yZjlPZzUyUTRqSTNqNjgtRmc?oc=5",
-        "theme": "你的專屬虛擬戀人會是誰？測測你最渴望哪種陪伴模式！",
-        "resultCount": 5,
-        "style": "清爽動漫",
-        "description": "虛擬陪伴軟體的興起反映了現代人對情感連結和個性化互動的需求。這個測驗能讓使用者探索自己內心深處對陪伴的渴望，無論是希望被傾聽、被鼓勵，還是尋求共同興趣，都能找到最符合自己「虛擬伴侶」類型，增添生活趣味。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的專屬虛擬戀人會是誰？測測你最渴望哪種陪伴模式！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "世足賽》梅西一人包辦阿根廷5進球！外媒點出奪冠隱憂 - Yahoo運動",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNOXJucGFodUdZSlpTT1JFSzFOU0twOVBMUEpaX2pNTzBrVHo1emFQcEFBcmpqQ2YyWnlUSGhScWE5OUpOcHplTUVidnlNT21MaTZBckFCczFGM0lSZ3ZHVk5meHhmZ0VMdGhiRml3ZDRQckdCMjVWSmxZNWtXRThubk5mci1rTmxVTzdEekJubjJKdHNUTm1xVm5CdnJRMF8yQ3czU0UzLVFmeTRVZFZPYjF3cnZleExFUmRHYmdUczc1WThEb1RhZHFwcHZGc1JJc2FhbjNwZ2RoREVaQ0dCVnZSdnV6Mjc3UExnV3lMZ3NobDAzX3VfQmpfODJ0M0xvcDhMdHBWTUJqS0I0ZDZtMHdSdzNxcFRlQnJneUZGcDgteFNUTDVhZ3MzQkR1REo2dDY5c05yUloyMzJRQ2NjUlJyUHZYZ2RhcHJZX05HTTU3Y2VzTW5OVkRrbjlBdw?oc=5",
-        "theme": "你是球隊的哪種致勝關鍵？測測你的團隊角色和領導風格！",
-        "resultCount": 6,
-        "style": "美式波普",
-        "description": "梅西的超凡表現與阿根廷的隱憂，體現了團隊合作與個人英雄主義的辯證。這個測驗透過球場情境的模擬，讓使用者了解自己在團隊中扮演的角色和潛在的領導風格，無論是獨當一面還是協調合作，都能找到自己的最佳定位，並思考如何在團隊中發揮最大價值。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是球隊的哪種致勝關鍵？測測你的團隊角色和領導風格！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "MLB》棒打洋基！痛擊102億塞揚王牌 台灣怪力男李灝宇先發敲安 - 自由體育",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IeDVua1BseEVRRFllSDd4MmN3ZGtSVlZ2ajdSS1FkTXJrbnVxYlNKdGFPbjhBUnAyUFVTTlVvc2pRbk51NTFBQml3TFpIR3l6dEdPMnZBUHhqbnNGQjg4SNIBZkFVX3lxTFA5R1U0UjlEWThaSzdSekNGVlhmTnpGRFVmaUdFRDV1SjJuLVpueWpjdERTOGhuZDMxeUQ3S2ZSdUdNVHd2YTctTURhY19HdnExUDFVX0lqZUdTaHQtUTBpNmY3UzV2dw?oc=5",
-        "theme": "你是逆境超人還是穩健高手？測測你的潛能爆發模式！",
-        "resultCount": 5,
-        "style": "懷舊報刊",
-        "description": "李灝宇棒打洋基王牌，是典型的以小搏大、突破重圍的勵志故事。這個測驗將引導使用者檢視自己在面對挑戰和機會時的反應模式，是選擇全力以赴、一鳴驚人，還是步步為營、穩紮穩打，幫助他們發現自己內在的潛能和突破方式。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是逆境超人還是穩健高手？測測你的潛能爆發模式！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
       }
     ]
   }
