@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-07-02",
+    "generatedAt": "2026-07-02T04:45:04.960Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "中國推民族團結法上路！美14議員炸鍋 促國務卿出重拳反制 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPbldLUXRWY0drM3BLVndSUnFic1VWU25GdXpuaVRQWE5Bb3dKZU9oV0JwUWc4c19wQTViRmpic2FiV2FUY2M3Wm40aUFPRVJRejJVa0lCMkNkcnNkOTIwWFVxeXJqOWZKaGNYUGNhTWktMTRpWHJvYmQxamxHX3B3T3J3TjAxeGFKQVp5MmZVajROaHd5LUY5aFhTVnJEQlZoVlFDSjJpVWw0TVdMMWdEcTJnSTAwcW5hSnJGMUIxVzU2cWVuVUV2MWJidGs2ZURZRUdFZjU0T0NEaEk4RnJDeE5KajJYWFA0aFBrRlFweVhqSjNsY1dWT3hFOWE5SEo0eV8xZmJiNmE1aVdUbGwtTFUwNE9mdDI3Ql9sdVpna2pEUWxta2hHQUpFVEh3T2RwYmdfbFBDeE5menF1bmRBVzBGQmRaQVh3bVg0Vnl2RnUxRjZtOHZ2aDM5Rnktd2QxNEMwS19WeklhQktIX0ZvZXB2Qm1OZ3hn?oc=5",
+        "theme": "「民族團結」VS.「自由反制」：你在國際關係中的「衝突解決」人格是？",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "現代人面對複雜的國際局勢，往往有不同的價值觀和應對方式。這個測驗將以國際政治衝突為引，探討使用者在面對分歧和挑戰時，傾向於採取何種「衝突解決」模式。透過情境題，讓使用者了解自己是追求和諧共處、堅持原則反制、還是靈活應變，增加對自我價值觀和行為模式的趣味洞察。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「民族團結」VS.「自由反制」：你在國際關係中的「衝突解決」人格是？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "賴總統指員山子分洪後內湖少淹水 蔣萬安喊蒼生為念：極端氣候同面對 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jT1NEZDNjZUY5dFQwbjFiUWJLLXF0b0HvSnNWNkhiZ25DQmQ4SUQ0NEhUR0JEZDlfajFnUV9TSmxSa3JQajc0ZjNCWlRPdG9M0gFWQVVfeXFMTWdqQzFiNHFQd0tCMTNkTXhCTFRjVWw0VGphYU13U1NOOGg5dGFWS2J3ZEdXS0pUREQ1VEVvLUNQSXpoWC14QkxtYzVUM0V2VUlKZXNKNUE?oc=5",
+        "theme": "面對「極端氣候」挑戰：你是哪種「防災應變」人格？",
+        "resultCount": 6,
+        "style": "自然原始",
+        "description": "極端氣候事件頻傳，人們對災害的預防和應變能力日益重要。此測驗將以氣候變遷下的應變情境為背景，探索使用者在面對突發危機或潛在風險時，會展現出哪種「防災應變」特質。透過模擬生活中的小挑戰，讓使用者了解自己在壓力下的行為模式，並反思如何更好地應對未來的不確定性。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【面對「極端氣候」挑戰：你是哪種「防災應變」人格？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【自然原始】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "晶片股拖累！美股收黑「費半跌逾6%」美光重摔10% 台積電ADR跌6.98% - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxObDE1cF9xdlJSWTdTbjZIWVc3ZFNMRUd1VDFWTlhLNjJTa29jVWpvaTNCTjF5c3lwNmJxcHBIZEFFN2NlTnBXQWdLSEMzUlp2SnBGYm9JczZyaEVNdFVROUdPNUlfUXdNaW1uV2tPSDJnb2I2UkM1RC1PcDFSdEZ4MVdYWG9NWWE1LVE4UF93UDViTE5vYlR6QzJFbkFmck1pY05MdzE5RW9rVG5ZNTJ4dTJrZ3JZd0hsYkZoM0Fxcmw2V1lvb1FKUm5MM3BVYUVDOUU0NlVsVTZhUmdvQXJuWnBfRFlJUQlfcGctNlNNdXVFelRqcU45QkN3dGVsX1d6UXh2NVZvSVIyZWY2YlpoMTRLREpCZjJHWlhBTlNIY3NBR0c5NEg4akVkSkQtWHQySEdNOTVWcEZza3F5M3FJODlud1JkZURDeUx2cWcwUUZkem9NbmUwd2FMdmNzUkp1bTliTmFn?oc=5",
+        "theme": "股市「血流成河」：你是哪種「熊市求生」投資人格？",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "股市波動是常態，面對「費半」暴跌的市場情境，投資者的心理素質和應對策略至關重要。這個測驗將透過模擬投資決策情境，幫助使用者探索自己在市場下行時的投資人格特質，是敢於危機入市、選擇止損觀望，還是保持冷靜分析。測驗結果能提供有趣的自我認知，並或許能啟發對個人風險承受度的思考。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市「血流成河」：你是哪種「熊市求生」投資人格？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "蔡鎮宇毆郭明鑑、國泰慘賠10億成最昂貴一課…李長庚率隊鞠躬致歉：不浪費一場好危機，啟動全面性體質檢視 - 今周刊",
+        "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOHJBV1N0MDhXVTV5aXhRMENEeDIwR0x5R2VMVWdyUm1OMEpFWnhFV0lKbEJlRVdTMWNRcXZfLWprcWF5U3FlUW82SjlrSy1UX1M2STNVS1daelp0clZxR19qVEVGRU9ldWpjOVdBdm9mZUhhUlpOd3hVUmdfc2I3bA?oc=5",
+        "theme": "從「慘賠十億」到「轉危為機」：你是哪種「職場危機處理」大師？",
+        "resultCount": 6,
+        "style": "奢華宮廷",
+        "description": "職場上難免會遇到「慘賠」或「危機」，如何應對考驗著個人的專業與情商。此測驗將以企業面臨重大損失與公關危機為情境，探討使用者在職場上遭遇挫敗或犯錯時，會展現出何種「危機處理」能力與態度。它不僅能提供趣味的自我定位，也能讓使用者思考如何在壓力下將「壞事變好事」，從中學習成長。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【從「慘賠十億」到「轉危為機」：你是哪種「職場危機處理」大師？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【奢華宮廷】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "「AI出現局部泡沫！」 富邦金羅瑋： 投資已從熱潮變成豪賭 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijANBVV95cUxPT3Q4dHVsaWdWd0w2a3NVMzhheGtpaUtVekpER29OZVdLUGVEV0RHeDJ4TXNsRFMxYU9FZTlPeVpzcU5UbDVPOGtsWkl3QWZ2R3JEUlJ3WFFxX19UTzhtRjV3d2dQODhqQ0JpR21FbWJXSzBrRm1CWHdTMXVSS1NvVGRSc1BiTGZ4UlQ3eFVsbGRTYnU5dWMtUHllUlR2fFldlRldlY0hrcWc3M1lHU2pVVjN0SnQwLVR6UEFQanZXWWFnVDBJRU1aVjhYSkdvSDM3ZXB1VWMzcVlNZkFiYU9KX1VGZFVxM3ZwQ0dWSGV1T1BFSno4dTBJekpQVDZ2Zk1tWjRUc1FPNklvZWdlS0lBbVVHeFl3ZmVtbDZST1VxdFFrUllubDZqRk5PbEt4QnBHXzE5VmxEcS1lelF2a3dsOWZJcENwUWFPT2M4aVRpRzg4NHR1Z0tIbWxIMHowbkhwSFJRaDNfcXRCRzZXd2Z4djRoOGR1VzhkTlNldnlQeUpzQk04ZTNrTllYZ0M?oc=5",
+        "theme": "AI熱潮變「豪賭」？你在科技投資中的「趨勢判斷」人格是？",
+        "resultCount": 5,
+        "style": "復古像素",
+        "description": "AI無疑是當前最熱門的科技話題，但同時也伴隨著「泡沫化」的隱憂。此測驗將圍繞AI投資的熱潮與風險，引導使用者思考自己在面對新興科技趨勢時，是傾向於追逐熱點、保守觀望，還是能洞察其長期價值。透過趣味情境，讓使用者了解自己在科技投資領域的「趨勢判斷」風格，並反思如何在機會與風險之間取得平衡。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI熱潮變「豪賭」？你在科技投資中的「趨勢判斷」人格是？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【復古像素】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "川普投資大公開！加密貨幣年賺445億元 平均每天80次股市交易引關注 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMioANBVV95cUxOeTVjMGZMVmRvdEZaUmd1b1A3ZVAzd1hzNDJucEZrWUdUNzQ0X3JzN2xVWjRyNHJvUXJNNWxEYTR6X0pkSHhmcThuZGQyb3Vvb1ptTzM0VzJFa3Qyc2piRzZBWGJ5UVVUVkVVZkprTV9SWjhkRnhGbGdSTW9uMXh0ektpMklYZFQ1cV91T2tDb1RnWU1HZHBVWHk5bzJPMGRzMDZ4QkN5d2U5NVJxRjJ2TnJCRDN6djMwaF9IaTBwLTRKSlZrMjNObTgyRWJwTG9zcGJ4Mk1UVWczQ2s3SmNVdGctQUhxRUpqZ0JJZ1NWREphRDBGLXZ4ZWJPdmJodXRTbnpwYWRuYmNtRmFhNV9KbEpGMEdhTjJPdHpEQ1lGcVV3SmFpNVU2TTFsb04zMVJwc3cyVUQyQmFaNm95MV9BcFY2bG5rM2hQQTZleEFMbUtld2JfWHBvUFRua3hIMHA0T3NVYnhIR2xYdHZ1aGRDTlhrMENiLWJtYm96U3B4R1lzVHZYN0V0OTBCc1JLVTMzRk1vZ1ZaSlJIbzA3ek9vQg?oc=5",
+        "theme": "像「川普」一樣日賺80次？你在「財富累積」上的「狼性指數」有多高？",
+        "resultCount": 4,
+        "style": "美式波普",
+        "description": "川普作為話題人物，其高頻率的股市交易與加密貨幣獲利引發廣泛關注。此測驗將借鑒川普這種極具「狼性」的財富累積方式，引導使用者探索自己在金錢觀念和投資策略上，是偏向積極冒險、追求高報酬，還是穩健保守、風險規避。透過有趣的提問，讓使用者了解自己的「財富狼性指數」，並思考哪種理財方式最適合自己。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【像「川普」一樣日賺80次？你在「財富累積」上的「狼性指數」有多高？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      }
+    ]
+  },
+  {
     "id": "2026-07-01",
     "generatedAt": "2026-07-01T05:10:09.188Z",
     "ideas": [
@@ -588,56 +660,6 @@
         "description": "延續世足話題，聚焦於「英雄時刻」和「逆轉勝」，引導使用者思考自己在面對挑戰時，如何發揮潛力、創造奇蹟。提供一個趣味且勵志的自我探索機會。復古像素風格能喚起經典遊戲的英雄情懷，增添懷舊與挑戰的氛圍。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【關鍵時刻，你是哪種『逆轉英雄』？測驗你的抗壓性與奇蹟製造能力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【復古像素】"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-24",
-    "generatedAt": "2026-06-24T04:49:56.653Z",
-    "ideas": [
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "【娛樂】愛到底1／不畏婚外情罵名 粿粿未離婚頻進出王子豪宅 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNMC1tUGYyTzNZYWdyNjJtM2VVZHNpcm5sczdQMlpzay1tN0FCUTRlQVFHczFzLWJsWjk2VzNvVkQ2Zmg4VjN5MWtydTNQOW11TjVEMkM0VmkweHpub2p2dFFxUVFOQVVRZHdjbkM5cDlYMG5NN1NTYVA0dm1OZU1SVm1WSVVzbkFVMTQzZkU3cmNQOUlLTldaVXZhbXJHVzRWNGM0cSEtdHNJMGJYWGMwMUNpcTVNQjg4NkIxbkx0SWMyaVRLbUYtUFd6cUVGdXU4MWg2cWJkOGhvSkdHNGRxa2FrOWJGWTg2QjVBUVRxSmQ2aHFjRE1WRm1tQU5jM3BYVEo5a1c4QjJEMlhQSDlsZjFUYnlJTTgxNlphLUpkTURFeUt2RDlfVUJEZHpjS29xSTFyQU1pWk43eFA3RzBpbGNiRkNURkZkaHR5QWZPQmY5WGxlZDJQQ0pfcGdTV1U?oc=5",
-        "theme": "測測看你內心潛藏的「戀愛反骨指數」？",
-        "resultCount": 6,
-        "style": "底片膠卷",
-        "description": "這則娛樂新聞揭示了公眾人物在感情中的複雜選擇與社會評價的衝突。此心理測驗將引導使用者探索自己在愛情中面對道德、輿論與個人慾望時的態度。測驗結果能讓使用者了解自己是屬於為愛不顧一切的反骨靈魂，還是謹守分際的保守派，帶點窺探隱私的趣味與自我反思。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【測測看你內心潛藏的「戀愛反骨指數」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【底片膠卷】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "【娛樂】噓！劇亮點／張孝全怒吼蘇慧倫「妳超噁心」！「欠妳的那場婚禮」5關鍵揭婚姻殘酷 - 噓！星聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Vd3pBb2M5RllGWktSRkcyNkUtaE5rX2pkOHNPbkM2ejcyMGd5OHRQeXAxeW5iSVU5SjMxOWZoZVlYNTdvd1pGZEp0WVJ5R1dhbDl4MkMwRUFXQdIBX0FVX3lxTFBLYWFKS0ZqSzZndDh2d3lkMHNoeDFBeC04MUlTbGZSUnlwTEpZMkNQQjhRSXZlcTkyaXc2MjQzZVhEbkdUa29yVXR6aGJGdTFsVDh6ZU9LMVNRa2MxdlNz?oc=5",
-        "theme": "你的婚姻（或感情）潛藏著什麼「未爆彈」？",
-        "resultCount": 5,
-        "style": "驚悚懸疑",
-        "description": "這則戲劇新聞以其激烈的情感衝突，點出了婚姻中潛藏的「殘酷」與「未爆彈」。此測驗將透過情境問題，讓使用者檢視自己在長期關係中，是否也有未被言說的怨懟、期待落空或不願面對的真相。測驗將結果化身為不同類型的「關係未爆彈」，提供使用者一個刺激又帶有警示意味的自我探索體驗。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的婚姻（或感情）潛藏著什麼「未爆彈」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "【財經】52檔千金股剩8檔紅盤！台股早盤殺千點 台積電聯發科成重災區 - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMimANBVV95cUxNVnRCNi1uRWZmYXdCNlNudlhTTEtraW5ON0pfU01NdS11NlZORWNaYTBIbmtva2VqZXZxMmZzTXJ0MVpzeklTX1FGWnRTQlFTNFZrLXkwcElkVnZFY3k1eHB5MU9saGZnUkhjWEUtQnJKWGF2UTVkcFlEcVcwWElIVXhVM0h4VWJYWVBOdU1uc2h2dTNmbEk4SVZGdDFvSlM3WTctNExFRTlzbEZ3bmM2WUJ6b29jNUpPakFxUVdBOWZ3d043TFFJb3JJZVhmU1VRSzlWYklNRGVxNldrUmtXRjJHZWRPM2staVBzTkxUMzRGcFJMRjAzZ3hKR1dyT08xWmxieWN3d291dFR5djlyODhyU0VsS25ickpjMGJ3b1E2V0FIMXlmVS1zcGNod1dDMkZ2OG1XS1NJd3RMbFpPYk1ob0N3SEQ1RkphbzNOeUJzTTZXam5qcGtSQzdVTmxzVnd2eWpjYTRMbzJWMW9Pc1VVMXhTUjQ2MS1CdzZnTTZJRzVjZTd0eFhETjA2Y3AzbFhtOTh4elE?oc=5",
-        "theme": "股市大崩盤！你是哪種「投資倖存者」？",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "台灣股市遭遇千點重挫，高價股淪為重災區，這類財經新聞總能牽動人心。此測驗將模擬股市急遽下跌的壓力情境，讓使用者評估自己在面對巨大財富波動時的心理素質與應對策略。透過測驗，用戶能了解自己在投資風險中屬於哪種「倖存者」類型，提供一個既能檢視自身財務性格，又具時事話題性的互動體驗。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市大崩盤！你是哪種「投資倖存者」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "【財經】韓股遭遇史上最大跌點！盤中大崩盤觸發熔斷 因議員想課「未實現收益稅」？ - UDN",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIT1RoOThPcFlWUU9WTnl2U3Vub055Ty11eFN4eURNd0NocndBQTNqZlhINWhkQnJXRmszamJ2VFJfS3pyZVg5c0JRRjU2ZFY0clHSAVdBVV95cUxNbnNaS2Y5V0FRdmo0QmtKdG5JYzJ6N1JqSzBEbU5wMXU3Z0J6T1hKY3BLWWxCWFM1SGw5dG1lSXZLbmhIblVaWUxfWk5tSXA2VnlSNFZEZUE?oc=5",
-        "theme": "如果你的財富被「政策」突襲，你會是哪種「反應者」？",
-        "resultCount": 5,
-        "style": "懷舊報刊",
-        "description": "韓股因「未實現收益稅」提案而遭遇大跌，顯示政策對市場的巨大影響。此測驗將探討當個人財富因突發政策或不可抗力因素受到衝擊時，人們會如何應對。測驗結果會將使用者歸類為不同類型的「政策衝擊反應者」，例如積極抗議者、快速撤離者或冷靜觀望者等，提供一個有趣的角度來思考個人在宏觀經濟變局中的心理韌性與決策模式。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【如果你的財富被「政策」突襲，你會是哪種「反應者」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
       }
     ]
   }
