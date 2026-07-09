@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-07-09",
+    "generatedAt": "2026-07-09T04:35:55.864Z",
+    "ideas": [
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "〈美股盤後〉川普稱伊朗協議「已結束」標普收低 輝達、博通領軍費半漲超2%",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCWHNWWm9EbkpDd2RTQ2ExVGd1LTJHVVJ0d0ZkWjU4eS1TMTZDcUxBUTdVMTBreFBnMWZGNXd0aXc3NEVGZzNFMEwwT056NlE?oc=5",
+        "theme": "川普一席話，股市風雲變！你是哪種「亂世投資家」？",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "此測驗透過國際政治與金融市場的連動情境，模擬使用者在面對不確定性時的投資心態與決策模式。能幫助使用者了解自己的風險承受度、投資風格，以及在資訊洪流中如何判斷與行動，帶來自我洞察的趣味。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【川普一席話，股市風雲變！你是哪種「亂世投資家」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股盤前／美伊恐再起戰火費半強彈！台指夜盤漲164點 台股拚延續反彈",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPelV3MGNXRkMwZzR5bXBUQXhfZTZhVURDcDVaUEtjYUFBSEtrbHlrSHRNSnBBX2R3Sl9QNURRY3FTV3BIaWhzQ1VjOHJHWVJRMGFwcXN1QUkwSkk2bVgyUjNxOUxXSlM2Z054WVNXZzJOR1hPRHhNN3c1VVdHQ3BRbDNodHpJX1JjbXJMNkFLTVNwNVRYNFltQWtNNnFWTHpaOFhuRUt1T21pZkR5TUFVdURZWVUxNHJMLUZjdDg4RG9BVzVkbVRxVlNFcDNQR3ZKYWprdENadGNmbk5OQmJTc0syNDlEcnlUMUFvQjVsdGVpcTVBcThZelJNUXlMTU1jQ2todW90dEt1bmE0WXlBT0N2d3N4TGNWZzdaSG1ZSjBYUVdMdTJHOWZ5aWxEUWsydC1YT09tSWhWU09ZR0JsdHI3M08tMzZwNy1EZHYwQkxBS2kwLUM1ZVdDLV9zWjNJSnd4RGsyenhCME9JRGxDU2k3Zk83WnBZQWZ0UXVGVHBwTWhnb2I3cXZYNWVqcVZUMElPc2NSN0M2b1dZR0F2V0ZLRmMwVjE3aURUVV9KRTZnSjliNFg5aEl4NTNrcGpK?oc=5",
+        "theme": "美伊戰火一觸即發！你的「抗壓指數」在股海中有多高？",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "藉由地緣政治緊張情勢對市場的影響，測驗使用者在極端壓力下的情緒管理與決策能力。讓使用者認識自己的心理韌性，並學習在市場波動中保持冷靜，發掘潛在的投資盲點與優勢。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【美伊戰火一觸即發！你的「抗壓指數」在股海中有多高？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "世足》埃及哭喊被做掉 申訴法籍主審",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQeFF2VzhNMUlGcldaV3ZuQVZNS1dlYWFqYnV0NlVXM3Q2NnF4MXNmODBfLXdZRk5Va19xdEFmRnpHYWNoZUxSd1pSZ1FuRzM1MHh4Z2M5QWo0Sl8xOG5Ra2pNaURVVU9wRlpRZ3ktWHh3QlNfaGkxTEM5SEVqZUVVYXpOX1hhUkxneWJrYi16SzJ3TnZUR25CSnI0V3pjMjZSWnYyNnN0b1h6TkdlNXUxdXIzTGI5Z2VGSVZKcmNBMmtrV2lua2lKcVV2SW9hSmotR2xjR05FMHB2NENPcEY1a0pjUTlnQi1nbDdJcVdvNjF2TXMzX3BrNDdpVmpRbENLR3lNZzBqcW1FTzU0V2RYY3loNzA?oc=5",
+        "theme": "世足判決引爭議！你是「正義出擊」還是「佛系看開」的球迷？",
+        "resultCount": 7,
+        "style": "清爽動漫",
+        "description": "模擬體育賽事中遭遇不公判決的情境，探討使用者面對不公平待遇時的情緒反應與處理方式。幫助使用者了解自己的「正義感」傾向、處理挫折的能力，以及在群體爭議中扮演的角色，帶來共鳴與反思。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【世足判決引爭議！你是「正義出擊」還是「佛系看開」的球迷？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "世足》8強隊伍出爐 各隊最新奪冠機率出爐！",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vZ3pjMDVOaGJYM2kwSTVxWXVhWk9iTExqdkhnTl9YdWFlM0wwVE1fcHBsOTBnVWVhWlZveEZFUTJqNUVTbXByVDRqVDJ5SjE0WGlubVE4c25FaWhjWmRrTdIBZkFVX3lxTE5vUDI5eE5nX3ZLdkNJUGt6WGpBckFiVzdyYkRoOTYyaF9zMHVoQnpmWk8ydDZhUG1jOWI2a1Q3YkpGMEVZNEhiSk8yQzBBWW1uckJLNjhQcFRNWjIyX0JGeEFpQng4QQ?oc=5",
+        "theme": "世足8強奪冠分析！你的「勝利者特質」與哪支勁旅最相似？",
+        "resultCount": 4,
+        "style": "美式波普",
+        "description": "結合世足8強隊伍的特點與奪冠機率，測驗使用者在追求目標時所展現的個人特質與策略。讓使用者對應自身潛能，了解自己在面對挑戰時是採取穩紮穩打、出奇制勝、還是依靠天賦，帶來娛樂性與激勵效果。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【世足8強奪冠分析！你的「勝利者特質」與哪支勁旅最相似？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      }
+    ]
+  },
+  {
     "id": "2026-07-08",
     "generatedAt": "2026-07-08T03:57:33.518Z",
     "ideas": [
@@ -566,56 +616,6 @@
         "description": "這則新聞直接觸及市場恐懼和泡沫破裂的可能性，引發了人們對財務損失的焦慮。測驗可以探索使用者對風險的感知、他們是傾向追隨趨勢還是謹慎行事，以及他們在市場熱潮中做出理性決策的能力。這提供了一個及時且相關的反思，關於財務審慎，以鼓勵自我評估其『市場生存本能』的方式呈現。",
         "id": "idea-6",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI泡沫化危機？你的『市場警覺』雷達有多靈敏？測測你是哪種投資求生者！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
-      }
-    ]
-  },
-  {
-    "id": "2026-06-30",
-    "generatedAt": "2026-06-30T04:49:16.558Z",
-    "ideas": [
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "以台積電熊本廠為標竿！李在明向三星與SK會長90度鞠躬致意 - 自由財經",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rcEpwLUluSlJ0QkJMUkw3N0o3R213c3BPdjR2cVIwMnZvbDRKZmJfUkloclV3bUtZejhFTE1xTUd1MXJ0NWQ5WDNYeG9fWkhEYTJ6akVodEFJeHJrNXRR0gFkQVVfeXFMUFpPYWlOd1dSbHVsRldhMC1BV1M1N2twUFRIS1BIOGpkYUJvdTNOWVFWb19HTWM2Z2NoTkRfWUJQdlBSLVJrSHVEU19CUEtSZTlwX2FxZFFETndZVV8yT0YxbWZwXw?oc=5",
-        "theme": "你是哪種商業策略大師？從李在明的鞠躬看你的職場致勝之道！",
-        "resultCount": 5,
-        "style": "極簡質感",
-        "description": "現代職場充滿競爭與策略，這則新聞中李在明的鞠躬行為，不僅是企業政治，也反映了面對強敵的態度與野心。這個測驗能讓使用者透過虛擬的職場情境選擇，探索自己在面對競爭、學習與合作時的潛在特質與應對風格，找出自己的「職場致勝之道」，提供實用的自我認知與趣味。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種商業策略大師？從李在明的鞠躬看你的職場致勝之道！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台股早盤漲逾1300點突破46300點 台積電上漲105元 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONG51TUdfTElKdUM0S2wxLWliS2t0anM3Y3JDT1BoRW1UTkl6QlFtMllPYXNqOWExSW1RYi1zM0ZnRjhGU01neld3bS13Q2R0dExva1M5bm1rTlprQ0dheHk0ZmU5Q0JCek5MREN0MmFnV2hFUGFaTmo5cWVnbzNNTTA0Y0hRWjhqMU5KU1liUmJGSFB5VzF4ajFoaGtiY2M0LUVhOE1nb1N0ZjExLVhJRkE1TFFXdlFaWnJHMnRKNU5uTW5uOWk3M2NtaE10aTRTWmpNQjZDOGVmOE9JQmpNRE5tN2Q3elFlZVN0dHB1anRrYjRpM0ozYWRZZnFvWEE?oc=5",
-        "theme": "台股飆漲你跟上了嗎？測測你的「財富體質」是哪一種！",
-        "resultCount": 6,
-        "style": "美式波普",
-        "description": "股市的波動與財富的增長總能牽動人心。這則台股大漲的新聞，激發了人們對投資與財富的好奇與渴望。此測驗能讓使用者透過模擬投資情境，探索自己在金錢觀、風險承受度、投資策略上的潛在偏好，了解自己的「財富體質」，在娛樂中思考個人理財態度。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【台股飆漲你跟上了嗎？測測你的「財富體質」是哪一種！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "捲入高階AI晶片走私中港澳風暴！ 上櫃飆股「青雲科技」遭搜索發重訊：全力配合調查 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOaVh6TlBzTmtoUlFLbHZVMmlPenV5U2FkWjNia0l5b2JvTklkQnVjUzA3ckxqMVlMblVSOEhzRjZPRlc3VXR4X3dqUU1JZ0pyQWcwVW42d1hyaWZ4bFVTQk1INDRTLUw1MzdHbm41NjNrenB3aEVqOWQ0R1NzdTJVMy1ubnpIUkNTazczOFZ3T0hUMjZLRHotVWc5Rko4T0dfV0Z1NF9hakhkeVJmRl92MXJYZ0wySXZMWGRPQXE4a09yRXZFSWpQc09PcFA3dER1TGh2S3Y1bTV6Ym44Yl9mVkVkRndTOExzekNyX1B6MzJoMndzcHVaWWx5TmVtc2F4WWI4RDVuWWw3ZlMwc3dibDZIQTJWZmI4T3RCN3BfZGVJazdiRkVMTVRTUG4yR0t1RFhNUjRyY2V4SnFINXV4SlFOanNlRC01Nzk5azZrMEQ3akFVYjJBQkVfZ2JuWFNsMFVEWVNNWGNkWmZ5bXFqbzFiYUU0R3BYWGZ6X3NZelNreURheEtmbWxvejdUaURFbTVlQmtMMDRuclB3LVhmajVMQkJsR1o5MXJDcUtPX294WlZhWU0wSTY4VWJxRDJBd3lfNm9oV2tSemhHTWpaTVdiOWJBMGwwZk1ncnJNM1dUZ0dENXlB?oc=5",
-        "theme": "AI晶片走私風暴！測測你的「危機處理人格」是哪種類型？",
-        "resultCount": 4,
-        "style": "驚悚懸疑",
-        "description": "高科技產業與國際貿易中的灰色地帶，往往充滿著利益與風險。這則AI晶片走私的調查新聞，帶有緊張與懸疑感。這個測驗能讓使用者在模擬的危機情境中，測試自己在壓力下做決策、應對挑戰的風格與傾向，了解自己的「危機處理人格」，在刺激的氛圍中自我審視。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI晶片走私風暴！測測你的「危機處理人格」是哪種類型？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "聯發科ASIC商機再獲看好外資目標價顯升至1萬元- 新聞 - MoneyDJ",
-        "sourceLink": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYV9jZE1kZmljcDlKR1h1UXBJdFc4N05uc0lDWnl1a0lGU2hpMGNQRlI2eWZaWTZyM3hlVzR0b24za3h3VVNMeVNGYVdXckZfYUlhY1BqWlFJZjMwVW5ybXpQNTRWNUJscU90dmZyUlpRR1Z4RTd1ZVpjNVgxcksyT3JYYWo0ZTltenFxZmdKWGFOQQ?oc=5",
-        "theme": "聯發科ASIC前景看好！測測你的「未來潛力指數」有多高？",
-        "resultCount": 7,
-        "style": "霓虹賽博",
-        "description": "科技進步的速度超乎想像，聯發科在ASIC領域的潛力，象徵著對未來趨勢的掌握與突破。這個測驗能讓使用者透過對未來科技應用、個人職涯發展的想像，探索自己在創新思維、適應能力與前瞻性規劃上的特質，了解自己的「未來潛力指數」，激發對個人與科技未來的無限想像。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【聯發科ASIC前景看好！測測你的「未來潛力指數」有多高？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
       }
     ]
   }
