@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-07-16",
+    "generatedAt": "2026-07-16T03:51:04.617Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "毒油案不滿地方搶快？蔣萬安重話了：卓榮泰應下台 賴總統向全民道歉 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15SHR1WlF5OVJZRXdDMVQzZlpSZzlQRFp6OWt5Y1k0SVB4dTZMcEJ4aUpFa2dNX2h0Um1SYUtRNmRUS2lkMmRlaWJiVE9mVUFsWjNB0gFYQVVfeXFMT0ZuR3J5akh4dUFSUW00VUFFTWpzVC1wLWstaDhMN01MTFk0ZXNLNTRQSDlCdWZ1ejZBM0RscFhpX1Rlb2ZhcWdvSzNNZ0loVlJZTmx1TXo3LQ?oc=5",
+        "theme": "危機處理大考驗：面對輿論風暴，你是哪種政治人物？",
+        "resultCount": 5,
+        "style": "懷舊報刊",
+        "description": "本測驗以政治人物在面對重大食安爭議時的發言和決策風格為靈感，讓使用者透過情境選擇，測出自己在壓力下的應變類型。趣味點在於將嚴肅的政治議題轉化為個人性格分析，讓使用者反思自己的「政治手腕」與公關能力。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【危機處理大考驗：面對輿論風暴，你是哪種政治人物？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "佀廣洋退選難止火！萬美玲政治路被燒到 詹江村：影響藍選情 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNSFBZN3Z3eTVHcjZRS2E3a1ZQSlhseDJzSEdxWlhnTEttRnNkbkpDWkZZY1BJQW9pUnEzZFpON0g3Q0FyMmF2WWgxZHRmR1Q1blpRdDdOLXZ2Rk1Jb3ZqaHpJUnRKS09meFFtYk5OUm5ZMzg4VVlpaVdKbmVjYmdOUFpEWERPWGdYcXFqd056SUh0OGdIcDRaaENQUHQtQlAxRDlTNlFSYVctR09XVTBEcEp4LTEwdjh2RzNQd0hmU1ZzeS1KNHJKOGpHdWhXVWtJRXNCZDN0bHRxS0RydVpBa3VlR2ZtT3hPbmhFM05QRDVidXVaSnMyR0dwSWpITlYwMEs2UTZKRnZhWmlaMDBvYmItU3ZDY2JTRjA2dnYwV3kzclcyNHlsb3BjT2JiUUlTaHpYYnc5UXdDY0REMmhUOFZmNW5mOEpFV1hWQTRxS2pqdEdkaVJhMTZKLXV6T0ZCNDlTRVRjZDhJWjdFWTJUZ1lxNzVlb19wME1qbUo5ZEFPMlE?oc=5",
+        "theme": "政治風暴來襲！測測你的「政壇求生術」：你能在危機中全身而退嗎？",
+        "resultCount": 6,
+        "style": "廢墟美學",
+        "description": "透過模擬政治事件中的選擇，讓使用者了解自己在面對複雜人際關係和輿論壓力時的應對策略。測驗能帶給使用者一種「角色扮演」的趣味，看看自己是否具備在政治洪流中保全自身的智慧，甚至化危機為轉機的能力。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【政治風暴來襲！測測你的「政壇求生術」：你能在危機中全身而退嗎？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【廢墟美學】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "跨國離婚官司卡關！女星直播到一半「突崩潰落淚」 失控畫面全被拍 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikANBVV95cUxNWEQ2UjNnSEZITnNoSFNvQjJvcFRWWmJkYVh2dWZUQ3VSNnpJcFVxSWZXajJkd09kREY3Z3VsSTZqc21xSmtUZERzWWg5MWJ6OUNLSHE0UWh5djdoamhqMmdNZTEwT29CcVZmTXVjaUVZRDFzY3dhZWhOTElfZzUtNkxZWjk1X1VQN2ltUXpFRUkwRzVPeS1FTmwtRm0xQTNUa0JYOGJZVExfaDlkYUl0YW9lTkZOcVFoMVl2M1AzTVhOQmY0NFpoVi1YcnRxVUl3OVhZeVF5WEI0TEtOMFhZVnp2ODJnTnB4NVQzakdyVW1vT0VOdmZacmZhNkF3Ry0xU0xxZnA1eUY0YU16dllRYmQtc2tRMVBPUW0zdEU1b3dSQmxVdTNkbWdoNUZJOWx2T0V3QTg1WWsyUlFxX1NHa1ZJNUQwM1k0SjJjeWpiZjVOeV9hY0dqMG54X25jR2U1SlBwQ0xrOXJHdVV5N012T0FBUG4xYkthSGNNakJfTXN6bWtucFNCeU55cnVsWlhu?oc=5",
+        "theme": "直播人生大考驗：你的「情緒失控指數」有多高？",
+        "resultCount": 4,
+        "style": "唯美浪漫",
+        "description": "以女星在公開場合情緒失控的新聞為靈感，模擬在面對巨大壓力或個人困境時的心理反應。讓使用者探索自己面對情緒崩潰邊緣時的處理方式，以及如何在壓力下保持內心平衡。趣味點在於觀察自己在極端情況下的表現，並與公眾人物的經歷產生共鳴或反思。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【直播人生大考驗：你的「情緒失控指數」有多高？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "做縮胃手術暴瘦19公斤！50歲劉曉憶突發聲「快失業了」 驚人慘況曝 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNV3p5LVREM2ZqaGdPMFdhMVVJZURGMF9Tb0NGelBIVF9VbmFPbGNCUC02VWpqQ2N6SUlZcC1YeUVGUkNCNllqZmk1Q3VKc01TYjhWNUtwOG1YbklyMm9Mem1hQlhKTWhhdWVGUTJreUJuQi1KbFNpM3h4MkNXZkxWY0l0N3gzV0RNd0pKa0xxVGtKb2JodWVWTEN4cmRSOXF3dGtNbnFUZlZEcnNqajJpVXVwZnc2YjdyVnlTeXhWLTVSRVlwVFlRSTlCb2FRLV9naEJfcF9yS2p0cE5MWjdHX29vWDFwQjFqMTZ4bFRVUGNwSnZzRW0zWjN6MmZRdUlMMHdWMVhVQkNHZGRMYjBoMWtzT1Y5akhhVDdvWmV0RXlZX2pUYld6d2dtT25pN181MWVpWXM4T2lmVEw2LWRCRjBtZVlRZS1ISGxQVlRWOG0zRVJjUGjLXBNanZSMVg0T3RKUUY0SzhPQ0ZOVmk1ekFIcTRvQmo2Sjc1OXVBNGFaa0RvTw?oc=5",
+        "theme": "人生轉型挑戰：你的「事業危機應變力」有多強？",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "結合藝人經歷，讓使用者思考在人生面臨重大轉變（如外貌改變、職業困境）時，會如何應對各種挑戰。測驗旨在幫助使用者探索自己在面對困境時的潛在應對策略，從而獲得啟發，並以輕鬆幽默的方式探討嚴肅的生涯議題。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【人生轉型挑戰：你的「事業危機應變力」有多強？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "〈美股盤後〉通膨降溫標普連二紅 費半跌逾2% 美光、SK海力士ADR崩超8% - news.cnyes.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IY3dCb1pYY0YwWlBzQzlnb1QxV2YyYWZPVF9RN1hxN1JQSnNLYVJBNXFkSUpOajlHdGs4VjFmS3N0bUNwcE13RW1RSjUyNEE?oc=5",
+        "theme": "投資市場風雲變幻！測測你的「股市心理素質」：你是哪種投資人？",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "透過模擬股市漲跌情境，讓使用者了解自己的投資心態和風險承受能力。趣味點在於將複雜的財經資訊轉化為個人特質分析，讓使用者在娛樂中學習對投資的自我認識，並思考如何應對市場的瞬息萬變。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【投資市場風雲變幻！測測你的「股市心理素質」：你是哪種投資人？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "路透先曝關鍵預測！台積電尾盤爆7千張大量 法說會前留下想像空間 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZmI2UVk0dUZGdHlReUhLd3VPZk9vTjZTWHBXR2VuaTlGUTRHeHNkeGkydGtkeklxRDJwczAxWS0tRjBWS09FbkxUbFFubW1Kd3FZb0xNdS1XQUdXbTZIamtQZnF0M2piUE42Y3hxUXhxeThTTzRiTWhYcE9ESWlJd1FrT2tzSjBMZEVwT1QybEdjY1BzWUZ3amg0TFJodHFMVHUyYXRqUmRDTm5TTU1neGxLR2NsdGR0TTZ4N29KSkpmRmpQZ1VSUUFzZk9Ca1lFNTlVVURfeXpYLUZ2aV9lSXVaVE1oRnNGT3lHRHhWX1JERnpUd0RMbldJS202UURCM01rY2pKdXk1a0UxVTNLdHFHZWlUeURrTTNCSE5mVEVsOFhzem1DQ0xNdw?oc=5",
+        "theme": "台積電法說會前夕！你的「財富預測能力」有多神？",
+        "resultCount": 7,
+        "style": "霓虹賽博",
+        "description": "以台積電法說會前的市場預測為背景，讓使用者模擬如何在不確定性中做出判斷，並評估資訊對投資決策的影響。趣味點在於讓使用者體驗「預測」的快感，並檢視自己的分析能力和決策風格，看看自己是否能抓住潛在的財富密碼。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【台積電法說會前夕！你的「財富預測能力」有多神？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "30年前5百萬美金續命輝達 黃仁勳攜次世代晶片見恩人 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQd0lzeGdpYzNqWHNIRmNuUnFiM2dxWjhUa3ZReUtIanlwVzBoU2hVN045ajdmbXlZMVBwa0tKUllTa0JxOVZ5UWgwSUpYNVp3VmF1ZlY2RkwzLVhmRGRvYkRpWEsya1VoYjgwY2dMczgzUm1pU3hWbXZfY3dobm9Za3YzNHJURUp5bUtTUml3cTRaNzR3RU0zcXh3S29ZcHdnczhvSkZzejVaQzdjR0R0VzgzaTJCd0VRZDZZQzA1VjZ4QkE3cHZpbzFPbGF6cVA0cUNfbU1UbldnU0dwUEJnTHFWdmh1azF2eV9RbU1GeHNqXzhXRkxIaWtkbHRJckZDLXZEUzZNTkpzel9nTFNINWNMSlVmb0N3YWhjeEdNdXhFeWw2NENvaWRxcEE0R0Q3OEdxc050WklaWWFUa1FDd083cGhucHlPbS1NVk5RYXFkUGjMb3QyVjhiWW5jRTlwZkF2empHZjA?oc=5",
+        "theme": "創業路上遇貴人！測測你的「伯樂雷達」有多靈敏？",
+        "resultCount": 5,
+        "style": "極簡質感",
+        "description": "借鑒NVIDIA創始人黃仁勳的故事，讓使用者思考自己在創業或人生關鍵時刻，會如何選擇合作夥伴、辨識潛力，或成為他人的貴人。趣味點在於探索人際關係中的「助人」與「被助」角色，以及對未來潛力的判斷力，看看自己是否能成為下一個「科技巨頭」的推手。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【創業路上遇貴人！測測你的「伯樂雷達」有多靈敏？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "副教授秀AI展覽照網全歪樓！學霸正妹擁頂級外貌被肉搜 本人發聲了 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YU1E2STB3SVQ0Z3JubHNWSFlJYUtVQ21RTlhkN0R2dUF0Q05LdkZDOGxwUG9TMUt1QVJZaHVQeE9rYXJqSWtYVUFqS2RxY3NVcGhR0gFYQVVfeXFMUFNwU2VWQUVTbkpfM2VPME9IdE50Y2j1RUMwNWl2S0wyWEp5X0xPTVlrZVhiWGNzTjJja2NsdFB6Y3BId1NKczNtc2pBak5GeTZLRzZIZ1RYUg?oc=5",
+        "theme": "當AI遇上顏值！你的「虛實辨識力」能識破多少AI美女？",
+        "resultCount": 4,
+        "style": "科幻冷冽",
+        "description": "結合AI生成美女與網路熱議話題，讓使用者測試自己對AI與真實界線的判斷力。趣味點在於挑戰使用者對美貌與真實的認知，並反思AI科技對審美觀念和社會互動的影響，看看自己是不是一個火眼金睛的「數位偵探」。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當AI遇上顏值！你的「虛實辨識力」能識破多少AI美女？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      }
+    ]
+  },
+  {
     "id": "2026-07-15",
     "generatedAt": "2026-07-15T03:47:04.526Z",
     "ideas": [
@@ -544,34 +638,6 @@
         "description": "結合世足8強隊伍的特點與奪冠機率，測驗使用者在追求目標時所展現的個人特質與策略。讓使用者對應自身潛能，了解自己在面對挑戰時是採取穩紮穩打、出奇制勝、還是依靠天賦，帶來娛樂性與激勵效果。",
         "id": "idea-4",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【世足8強奪冠分析！你的「勝利者特質」與哪支勁旅最相似？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-08",
-    "generatedAt": "2026-07-08T03:57:33.518Z",
-    "ideas": [
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台股崩跌千點！台日韓股重挫 謝金河預告「必出大事」示警：1類ETF小心 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxONklwVXFFODhOX2VuZDlvWWtsNkxidURTTExWV1RfdWp0UTFyUmxOamgyYTRDNENsa253M2JpZ0hIcFM1MW4tT1l6akxlc21SVDkxOTB6NmZUQ1MwQkljVFdPRjBoTEJmeEFaazJLaFBEU1BDWW1KV1g4R0QxOERLNVU3YjE2ajRZSi1rZmZOQkdrbkk1YnUxQlRka0lVYjhUSnVIUzBDUlpDVFB0QlRzY3N0NHI1bi1UVWlXNUh2ZENhU2pISXphclV4VFc4NGpHRXE1LVFxRTdnQk1VUG94Sl8wRDlfN0FlS3FQNnZTbV9EcTlDcS1peGQwMWREMzhmZ3otUGw0N1dTWi1tZk8zanhQV1NxVlM2akRhTWZvaVdOZ0hPbGFTc1ZPZndTR1F4NElhbHVYUGVKZi15SEdnd3AxMzNJN0tMcWNQb2xBaDBELWpUekZmR1NYU1laNGotdDE5b1RHYWNrMXp0?oc=5",
-        "theme": "股市血崩！你是「危機入市」的王者，還是「割肉出場」的韭菜？",
-        "resultCount": 6,
-        "style": "搞怪幽默",
-        "description": "這則新聞反映了股市崩盤時投資人普遍的焦慮與恐慌。心理測驗可以從投資人在面對市場劇烈波動時的決策模式切入，例如是選擇逆勢加碼、停損出場、還是觀望等待。透過情境題，引導使用者思考自身在壓力下的投資性格，並以幽默、具記憶點的結果（如「恐慌拋售型」、「逆向操作型」、「佛系觀望型」等）來呈現，讓嚴肅的財經話題變得輕鬆有趣，增加社群分享的意願，同時也讓使用者反思自己的風險承受度與投資策略。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市血崩！你是「危機入市」的王者，還是「割肉出場」的韭菜？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "美股收盤》油價漲、晶片股領跌！費半跌近5％ 台積電ADR下殺逾4％ - 自由財經",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80MG9lMnk1d2otLVlTcnNWSHQtUmRSa05ZVnJtUnJiemV3Wm51ckJhQk5FNWowQ3NvYm1uY202YUxkUC1zWEFQMHgxR3pGZDlGNGV2bEJCMUVmU2toM3lB0gFkQVVfeXFMTUMzbFVhdDlrWG9KemIwV09melh1WTNXTzVTcHVtTzZTQlhHc2gxTHpfLXB6aW5TQXdzRjZ2VWI3WU1JQjY5ZnpTS3ltSzJ4bWFnX3g0eXkyblBtN2VjNmdYT29kWg?oc=5",
-        "theme": "油價噴發、晶片崩盤！你的「市場敏感度」指數有多高？",
-        "resultCount": 5,
-        "style": "霓虹賽博",
-        "description": "這則新聞凸顯了全球經濟中各類因素（如油價、科技股）的相互影響與市場的複雜性。心理測驗可以圍繞使用者對不同經濟訊號的關注點和解讀方式來設計。例如，你會更關注能源價格的變動、科技股的興衰、國際政治事件，還是宏觀經濟數據？測驗能幫助使用者了解自己對於「市場趨勢」的敏感度偏向哪種領域，或是哪些資訊最能牽動他們的情緒或判斷。透過「霓虹賽博」的視覺風格，營造出數據流、高科技感的氛圍，符合財經資訊快速變化的特性，讓使用者在酷炫的互動中，探索自身的市場洞察力。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【油價噴發、晶片崩盤！你的「市場敏感度」指數有多高？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
       }
     ]
   }
