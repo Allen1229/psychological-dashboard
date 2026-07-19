@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-07-19",
+    "generatedAt": "2026-07-19T04:05:55.268Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "林秉宥接棒吳崢噴毒油「驚句」 游淑慧封：最佳提油救火隊 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPWEdJUHdrOXc3cC0xVkRsSUNnekZUQXh5bHk2ZnN0QnpkbTNZSFZvTFJiYmhDMUdqZFh4UHoxZmczVkVDTHlSaDhvV0xYV1ctMVZXbGltenpIYWltX0FLLUNzSUhoVnlDbTRKNzl4dHpKSWZtRnFkQ3FRaDBlZHNnNHhLa3JkZUttNlotM2ZTbUdaelJBYWlNVkpneFJfbGhJZ0cxeVhGR0lYXzV4djNpUTByNU5aZEdwMU1YY04wSk1LZG5jZ1NTeVZvb1dnSE5MbEZ4V3lsN0FqMmpDRnRjN3VyZmt2MnN4YlVJNDVoMnlnOV9EZXNkSmc2Z0RsT0x5dHl2aGZYRE13UmZxTWFlcjlwZ1JyNzFJcWlzc25aRkdaMjIxSk9neFJtWGNmZmJxSm9NOFc2UWtRZTZoTm9qZWpUQm9WNGt2aUZzOXF3SFYwaFYzQzNqeXcyRlpjVms2eVd0eWsyZ0IzSGc?oc=5",
+        "theme": "危機處理大考驗：你是哪種「提油救火隊」？",
+        "resultCount": 6,
+        "style": "搞怪幽默",
+        "description": "政治人物失言風波總能引起大眾共鳴，這個話題討論的是「火上加油」的行為模式。測驗可以透過情境題，例如職場衝突、家庭糾紛等，分析使用者在面對危機時，是會成為「神隊友」還是不小心「提油救火」，讓使用者在幽默中反思自己的溝通與應變能力，並提供趣味化的建議。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【危機處理大考驗：你是哪種「提油救火隊」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "聯電榮譽副董事長宣明智送醫開刀 高虹安：希望他平安、早日康復 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96QkVxSTJjZFZ1eTFQS2NmSGJLZUtWcnY1bk16WFYzU2MwSGpZNnBYdUgxeXFxNEdZQUtGYjd6TXRIY2hXUEstdnBaLXJPQnQ00gFWQVVfeXFMUFZlUkxocU4tWnh3UmM1RDJYRk9VQ1VOcFM4NHQ1bG90UnhsbGpROFVlbUUyZmdET2dfdGdyb0hfSWtlQjdsRmI1RDNVOHRvdk44RGFFQXc?oc=5",
+        "theme": "你的「健康守護力」指數有多高？測測你在生活中如何照顧自己與他人",
+        "resultCount": 5,
+        "style": "溫馨水彩",
+        "description": "社會名人健康狀況總能引發公眾關心，顯示大眾對「平安」、「健康」的重視。這個測驗可以從名人健康事件出發，引導使用者反思自己在日常生活中如何照顧自己及身邊的人，探討其「健康守護力」與應對挑戰的心態，鼓勵正向的自我關懷和社群關懷。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「健康守護力」指數有多高？測測你在生活中如何照顧自己與他人】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股重挫2953點「史上第1大」 蔡明翰：送分題出現了 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPQjJJX2x1NUFCUU85Vk9uWGVCYkRpSHpfYVVJWjNZY2hZNWNtNEtCTUVvTk1UNkJXcXY2LURhVFNwWndvSjg5WkFhNUFQVTRRWXRVRng1SlhUbjVWNEVDbG1HOUlOMzVLNXZoTEh2N0psWlFKUktGR05zWjgxZ205T0YzUWZyRmIzbkVaaDJJNTNYTURpVnN0dUZkX20yN0Q2TjZvT2tZVXNvSzVTczJOX0d3alhvbXg0cW0zUnZCSndKdnVRT2ltZXRLbXBvc2Iwb1kzRl9LZlk3cTFxc2pJTEJFbHhnS0tqN2lKWFYxY3RYLVFtMmowUzNFUnFkbXRGbGxtcmc1bzAySEd3TkZKR0g0QnlSLVk4WmhxcjdYejlKQW9mVDV1ek9udGNONnpXUC1pbHdZYkJqVUlyUlE?oc=5",
+        "theme": "股市大跌是危機還是轉機？測測你的投資心態與風險偏好",
+        "resultCount": 7,
+        "style": "科幻冷冽",
+        "description": "股市重挫牽動許多人的情緒與判斷。這則新聞點出「危機也是轉機」的觀點。心理測驗可以透過模擬股市波動情境，讓使用者評估自己的風險承受度、投資策略和情緒管理能力，揭示他們在金融市場中是屬於「恐慌退場」還是「伺機進場」的類型，提供趣味性的投資人格分析。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市大跌是危機還是轉機？測測你的投資心態與風險偏好】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "下班國際線》台積電最大對手竟是自己？美國廠搶單、台灣晶片被迫打折，施俊吉揭「左手打右手」危機 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQQ3pLX1VLMk9ITVFRLU5hMFYzZUhaZ0lRQXNoZENGM0dTdWN0ajB-ZDZFYUtvUHV3ZFNYLTdENnpLbjZJNnB6U1lfQVVyQ05DSm9EajBmaGExcVQ3RlJsV2oxMFdOeGtXU1A1SFkzRzZ4b3o4WnlVbG11OGI4LUM0dHpHT2V1b1BGSFJ4ZmZSVW5nY2tXc3lfU2pxem1TQkNza0JOMU12UzdMUEJQQTkyaXZ0Sk9LemhGUzFGa25IRVFDTllTVFZHczhtYmxPMkJjcjNGTW1NZjVuZkdrUkpubTdWaHdnenc5Y0syRXhvQjlGYUh1V1FQVnlMdS00Rk9YRTZiUnpYWmFvWjloS2tNemhqNTNaNkZEM2pPak04X05MQ2RNeXNSbHRrY3JnTEw0RlM5a2l6YmNUM0hxazlqMnVvR2RiVVItRktRa2p0bnhXb2IyOVdLc3ZNV1ZuZzBhRWtVZXFLTWc0emhFNnJSUHBUOXViNWFudnMxVXZEZkx6ZmRJZHFrWnp2d2RNY3EtcGFoRTYxV1FRM29NUVkySzFKMWtsYTNRaGdibEVuUjZON1R0c20wVzNaQzhxcW9od3k5bEN4WlEyT1BEcW1Bb092dTRISDd2SmE4Rm1aQnVXZGRU?oc=5",
+        "theme": "你的「內耗危機」指數有多高？測測你是否常陷入「左手打右手」的困境",
+        "resultCount": 6,
+        "style": "極簡質感",
+        "description": "台積電「左手打右手」的自相競爭困境，反映了在複雜環境中可能面臨的內部矛盾。這個測驗可以將此概念延伸到個人生活或職涯，透過情境題分析使用者在決策、目標設定或人際關係中，是否也常陷入自我設限、內耗的狀態，幫助他們了解並改善「自我內耗」的模式。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「內耗危機」指數有多高？測測你是否常陷入「左手打右手」的困境】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "移居日本沒想像中完美！視網膜揭「3大缺點」…傳個「好」竟等30秒：以為沒海底電纜 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNYjJHV0VMMVJkSmVQTXFKWWlVMmZMR0FXUWp0a0JQdEViVnVLbk9pZ2pwSlVsRjlQc0hJSk5WMGFrWDRHMVRnaWc0OUFLOVhKZkRlM1N0WTdmMFI4UFR2V0tpa1FyWHd3cWZBUXhOVkJKR1RDR3YtN2o4NVhEZTBaLXpNbjNuQ0VJWFNzRG1CcW5ncmgwQ1lPVFY5Vi1qaVJucFNHS3JjT1NlNkgxODZwWDBOOElHeWtOM09YU05IOW1LWUJtYWUwUkw2QmJTTEFvOG1pSVJ1b0dieE1IeXhmSldTMWxIbnNTN1BEWnRYZ052LVFuMkhWM3ZGVmt0Umxzc0pzd2xUOG5fcmxCOG5PcUhwbmYwdEhYTThCdUtTSDBpd3JyRTMwWi1iZ1RUNWJLcGZtWDZoamNIU0YwTFZGV1Bsa1ZadTlTb3c?oc=5",
+        "theme": "你的「理想與現實」落差有多大？測測你對完美生活的想像與實際應變力",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "許多人對於移居國外有著美好的憧憬，但現實往往不如預期。視網膜分享日本生活的「缺點」，讓此話題引起共鳴。心理測驗可以透過探討使用者對「理想生活」的期待與面對「現實落差」的反應，分析他們是屬於「浪漫主義者」還是「務實主義者」，並提供如何調整心態、從不完美中尋找樂趣的建議。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「理想與現實」落差有多大？測測你對完美生活的想像與實際應變力】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "真的不想用iPhone、三星了！眾改買「1牌」崛起：免1萬2、水準高 - NOWnews今日新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82Y0RPUEpBaVQ3RmxjWlE5QzZqbTI0dmFtenJJLWhlQjhCSFpPQm1ERDFGYmdlZ0NIRUdfX1ZuLXRlX0RsdDVURDVveGLSAVJBVV95cUxPU1ZiVmdfUTNDVjgyV3hhRUFFclFEMFRSZmxVQjRQM0tFOVFWeE5wOHFuT0FNaXZjLVBNYWl1SU1ySV9pZGNZMXJqbmpuSFowX2Zn?oc=5",
+        "theme": "你的「消費叛逆指數」有多高？測測你是不是一個不盲從主流的科技探索者",
+        "resultCount": 6,
+        "style": "霓虹賽博",
+        "description": "現代消費者對於品牌選擇越來越多元，不再盲目追求主流。這則新聞反映了人們對高CP值、非主流品牌的探索。心理測驗可以從科技產品的選擇偏好切入，延伸分析使用者的「消費價值觀」與「叛逆指數」，探討他們是屬於「品牌擁護者」還是「新興品牌探險家」，讓使用者了解自己的消費行為模式。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「消費叛逆指數」有多高？測測你是不是一個不盲從主流的科技探索者】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      }
+    ]
+  },
+  {
     "id": "2026-07-18",
     "generatedAt": "2026-07-18T03:44:00.983Z",
     "ideas": [
@@ -522,122 +594,6 @@
         "description": "阿根廷晉級四強，將迎戰英格蘭，這不僅是兩隊實力的較量，更是心理素質的考驗。這個測驗將以世足賽的緊張氛圍為背景，讓使用者思考自己在競爭場合中的表現，是偏好「穩紮穩打」的策略，還是「出奇制勝」的戰術？測驗結果會分析你的球場競爭人格，無論是面對工作挑戰或人際賽局，都能幫助你了解自己的應戰風格。",
         "id": "idea-6",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【世足四強開戰！你是『衛冕軍的沉穩』還是『挑戰者的銳氣』？測測你的球場競爭人格！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-11",
-    "generatedAt": "2026-07-11T03:55:51.776Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "明天有颱風假？ 氣象署最新風雨預測 13縣市達停班停課標準 - 聯合新聞網",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tTTUtekpHMkNqMzRrMjJacElYU21wb25vT1BnVjl2TGdCWDY5NEFQV0FZUTVJZHJmODUza0ZNZkxEYjBjb2M3eDNkRTA2dlNv?oc=5",
-        "theme": "颱風天，你是哪種「生存人格」？測你面對變動的真實反應！",
-        "resultCount": 5,
-        "style": "搞怪幽默",
-        "description": "颱風假是台灣人每年都會關注的話題，它帶來的不確定性，常常激發出人們不同的應對方式。這個測驗能讓使用者透過颱風來襲的假設情境，探索自己在面對突發狀況、工作／學業中斷時的真實反應和潛在人格特質，例如是積極準備型、隨遇而安型，還是只想放假型。趣味性在於能引起共鳴，並帶來自我發現的樂趣。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【颱風天，你是哪種「生存人格」？測你面對變動的真實反應！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "「巴威颱風暫被陽明山擋住」台北市風雨最劇烈時間曝 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTmhIRHRlMlJOenduLTVNRGZtTDFXRDdmQUt4QVo2bERKaGpYcU5mcDl3QXRFT1R2WXQxT0xkNTVjNy1tVE9GanJ2MVlOeDZWMmx2WGh0c0xtMExwaXdIdGVOdHJYOXRnOEtBQ192VGllYVdyWm84Z1F3OXFhYVNVTFU0YWEwSEY2R3FkT2dKSXRSV19BaDRUUWRJb2pBNWFUZUk5Tmc4VUlKX19manpyUTc4LWNlQ1Z4b25kai03bXdxZzQzYmJTb1NvVUZ3ZVVBZFJDelhlc2c2X3RpcGljRi0wWE14RzI3cG82WmktUWZ2LUpRYnJzM29FNC1tT2ozZlBrc3lyTTBXSGRvRkY1UFQtc1hyamZZNlprbnphb3pLRHllZWlfQjZ4ZExmTFVHWFdmc2xOckVnUXZaU3dmWVp2TjZxVHNtY3ZmVk9LVnVCNUQyQldtcG9yWlQ?oc=5",
-        "theme": "陽明山擋颱風？測你是哪個「人生擋箭牌」類型！",
-        "resultCount": 6,
-        "style": "奇幻魔法",
-        "description": "新聞中「陽明山擋住颱風」的說法充滿了趣味與想像空間。這個測驗將此意象延伸，讓使用者思考在生活或職場中，自己會扮演什麼樣的角色來抵禦挑戰或保護他人。是像陽明山一樣堅實的依靠？還是靈活變通的策略家？透過情境假設，讓使用者發現自己在面對壓力和困難時的防禦或應對機制，提供輕鬆有趣的自我解析。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【陽明山擋颱風？測你是哪個「人生擋箭牌」類型！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【奇幻魔法】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "NMIXX今晚唱不了！巴威颱風逼高雄巨蛋演唱會延期 12日場次還有變數 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQRWpxbDBZMGVwNFBaUllTMkFPRmF5ajBIUlRKY2Jxeml4czlCYzVOcU0xUTJXcXZCNzktbFRkU0JqOVd0T25iOVFoemVid09fdWoyVzczVERvY0cweEJUbnJ0SjNYMjMyM0VTcjhuSG44ZlNaU0Ewazc2dHVUdUdBaUZGVWx2MzVydXJLMUwwOTlyUVdOcDJoYm5KVkxHdHp5UlVSNlA0dWNYa29LUkZKa2c2aUUxek5LNVFMVDY3YV9TNy15bzQ0MmpiQW9zV3hNWUxORUowX2VPUWZ2TE4xVXdBOXlqeFpoUHF5YWZaRVFoN0t2MG9ZWTJwVlVOMWtfTngzSzkzbmh5bmczU0JPalRZM1dvcVFIZFhmeUtLNTMwMmxaSDRYdUZoTFV3a0lib2hyZW9lQ2p1MXFYdnZKOXVDVElBNGRiVjZPMmh3RXNWZ0xwanV2aWFxdmU5R0VsNUVtWndadk9qYWdQOWU1ZURuVURwQzJ1LS1Ud3VNSUIycUhiODFsaENzTHRYdHdxd0libHByMA?oc=5",
-        "theme": "演唱會突取消，你是哪種「追星心碎指數」？測你的情緒復原力！",
-        "resultCount": 5,
-        "style": "唯美浪漫",
-        "description": "演唱會延期對粉絲來說是巨大的失落，這個話題充滿了情緒張力。測驗可以透過模擬演唱會取消的情境，讓使用者檢視自己在面對期待落空時的情緒反應和復原能力。你是會默默流淚的忠實粉、立刻找替代方案的行動派，還是會抱怨但很快釋懷的樂觀者？測驗的趣味在於連結追星文化，提供一個理解自己情緒模式的機會。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【演唱會突取消，你是哪種「追星心碎指數」？測你的情緒復原力！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "香港天后放大絕！「一張票看2場」還請來劉德華 鄭秀文解鎖26年神曲 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMihwNBVV95cUxON2RFNGF1RDdSRFJnWW4tOG1rcWZ6cDkyR1J6V05MX2o4Y2VKMHJLdUd1UGhZa2tkNktBWUNfUHc4V25GTWktS3dYeDBZS3NIT2hkOVZYTkh3YUd1OWZzcm9HX195bXFlYUVvdVphb3R1eGMyM0Vuck5aMVJvRUYzTVBzNmw0TVlIVEstZTVwZTRQcVNrQWZjcFlDNVZfeXpwd3U1eTJnald0cTZTaGktdm9HZjBPZjcwc3lXVVE0TlQ2RU1OQ01pQU03S1h5X0hQUzNKOFNGSkM0aURRc2ZhYUZGcU9zbGRhUzdCV2ZvcXFNc040T1pmaDVuSHc0S0ZTQXBrMjBDeXB3YjZZaUZPLVVPQ2RLWWg0b21zYU5JLXNCNXBiZnFWV0IwaHp2WG5tOG5waFAzT055MjRpSEtHRjV1azVxcUppdW5JcnhmaEdlU1BFYUR5OTlwMHBvZ0xiU0RFdUlaUGN0RTVTUUlpTUp1aFdpMmtYMHRFZC1pWm1iMmpGSHR3?oc=5",
-        "theme": "天后級「放大絕」！測你的人生「驚喜製造機」指數有多高？",
-        "resultCount": 4,
-        "style": "奢華宮廷",
-        "description": "鄭秀文演唱會「一張票看兩場」並邀來劉德華的驚喜，是極具話題性的「放大絕」。這個測驗可以從這個概念出發，讓使用者探索自己是一個多麼善於製造驚喜、給予額外價值的人。在人際關係、工作或生活中，你習慣給予意想不到的福利嗎？測驗能幫助使用者了解自己的慷慨程度和製造浪漫、驚喜的能力，趣味性高。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【天后級「放大絕」！測你的人生「驚喜製造機」指數有多高？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【奢華宮廷】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "〈美股盤後〉SK海力士首秀飆近13% AI股回神 標普那指收紅 - news.cnyes.com",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zWEVSQlFFSkRKODhxWHROaFRkcHV4dDl4TUlLOFliR2dMOHVrYi04dlVhU2hSRmpWMjBrbWtvVjliTEVLWXhNWno3MnZ3UUE?oc=5",
-        "theme": "AI股狂飆！測你潛在的「投資野心家」指數有多高？",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "財經新聞中的AI股狂飆，代表著市場的熱點和投資機會。這個測驗可以將投資決策情境化，讓使用者評估自己在面對市場波動、新興科技概念股時的態度和決策模式。你是追逐高風險高報酬的冒險家、穩健佈局的長期主義者，還是觀望等待的保守派？測驗能提供對自身投資心理的趣味洞察，同時結合熱門財經話題。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI股狂飆！測你潛在的「投資野心家」指數有多高？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台灣人賺爆！富豪資金全流向這1國 謝金河驚：592萬人口竟贏1億大國 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNWVkwUEFOVExkYjZCR2dtMFdrdmZkcmc0ZDdHWWZucGNXTlVMdzFUbjFyNDZES2FjVkExZ1dTRnFLbzU1UTFTb1NFYlNpQmh5MXc4TXN0c1MwNXkzMXgyOEZaVGc5blkwdVBMNzRtRVgzM215X192RlkzYzEyTk9fZHJrYlY1SlRBbGxCZkZ1NXVuUjRhOGg5LXJ5U1VKZDhIempCNWdYWXd2MFlPR3YwYU1jMGQxSHdVMlZxakVCR2hxNWlHVnFiZms1NjFRRGxHOXZZUWxuMHpPREMybWRoSVBpam9HY1NYLUVGVFFnblhVSGtzUHkzbXRoX3RUT1c2OFRTQjlYcVRNT0UyX2pJQllYekUzNWJ3THRoWWpfdXQ5T2lJTFg3M0JIQXVOOElTME5GcERsVW5GWFladVVhSTZ1QV9RajBLUlFwQ2NqUTFzNS1fcXFLQlJyR3p2TDNDTDZVbXUxOXU2aG1sVXJqRHhTeTcydDNKZk1laTQwTi01bU1tVVY3Z2RPTXM1SW1ubHktWVhR?oc=5",
-        "theme": "全球財富流向大揭密！測你的「富豪思維」是哪一型？",
-        "resultCount": 5,
-        "style": "霓虹賽博",
-        "description": "這則新聞揭示了令人驚訝的財富流向現象，引發人們對財富、國際經濟的思考。測驗可透過情境題，例如如何看待跨國投資、資產配置、或是對財富增長的看法，來分析使用者是否具備「富豪」般的宏觀視野和決策模式。你是保守為上、穩中求勝，還是敢於探索新興市場的先鋒？趣味在於引導使用者思考自己的財富觀和格局。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【全球財富流向大揭密！測你的「富豪思維」是哪一型？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "台股衝5萬點！專家點名「4檔真AI股」拉回即買點 「這2檔」現階段千萬別碰 - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOSmdHVDNrRUpmcl9NN3BrbXZFeks4WFV1V3F1WXdMLWRGdk9MZ2F3Zklac0lMZjBLeGdVNzhPZ25JQVhRSGEzNm51TlRDd3F3bkRWb2NmTG1nS3d0WlFqSjNsRE44NmxqbnFGMnRvTXgyejEtVG1KVU5lOVQ4alA4RHk1UEhiMkNxT2NuSm1HWWJ3eVhIajI5clNRemljUzVlc2xQTGc2ZG5TQXRKNFFES3diVTJyVTU2eGpicDlYOXdKT0liR2NzYW5iRk9wV1kzc2dMampwdkJUQ1IzM29WdEctVlNlcUpwaU5OT0U1aWRwMnJtLTJMM3p5Sm9qdUZGZ2hLZGZRWGFNRUNCX1VZUVQ2VWtVeXFtWUc2S0VHNnd3MDN2LUtiV0pLRDM4YjRTYmxoWlNGSnp6ZWZrVk1nNDUzUlU4ellVVmo0?oc=5",
-        "theme": "AI股淘金潮！測你分辨「真假機會」的投資雷達有多靈？",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "在AI概念股熱潮中，如何分辨真假、避免踩雷是投資人關心的焦點。這個測驗能模擬股市投資情境，讓使用者評估自己對於資訊的判斷力、風險承受度以及對趨勢的辨識能力。你是盲目跟風的「韭菜」、深思熟慮的「分析師」，還是能洞察先機的「價值獵人」？測驗結合熱門財經與科技議題，提供實用又有趣的自我檢視。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI股淘金潮！測你分辨「真假機會」的投資雷達有多靈？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "Meta大手筆擴大AI資料中心投資！大摩看好「這三檔設備股」、花旗同步喊旺 - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQRjdmNkQwUENTSmJmWnV6SHZhUUh1ZGd4ZG9UZElYRUhpd1JvakxDY3NfU1FLZlRhV3BHaVZjUFpENnk3RDNpRTUxU2c3YUh5cmwyU1hQRDM0MGFkSHN3WktjVkgtSmI2Y0lrdXdhM1RKNmNyWVkyNzc1dlZwYmRrRWFtOFF6dW9KUEdYdTdIZFZldUFlRGVjQmwwTDZwTVZidzF0VTNMeFYxT0E3TnJmUUFTcVZpdzFRS085ZDZxbjcxcDhiZ29CSFhoM2F0V1U0Q2g0WC0wS0V1YVhjMFhMc3ZOTWdaU1Y4MEtzc2YtVy15M2VlQnY2ckZCNmo2TmhvV2pSTkRQczRpWlA2amZlT0szWC1MOGVKWFdZNVd1MFJIQmZ4MzlLclpjMEo5T3dVYzZMbjhLd3QyYkpmTF8yNHBmdjdPb1lsZFV1ay02aDZVc1lLX3JUWDJjUWpXcmNhdWl5SFlqbWZaMHRoUV80WUZkOXdaNEMtMkk4bV9FRHBXWGQ4YkVMUnV2aEY2ZmpsYklyNndzTWVXa3hQOGEzSU5GdXhRaGM1UU8w?oc=5",
-        "theme": "Meta重金押寶AI！測你是「佈局未來」的哪種戰略投資家？",
-        "resultCount": 5,
-        "style": "霓虹賽博",
-        "description": "Meta對AI資料中心的巨額投資，預示著科技巨頭對未來的宏大佈局。這個測驗可以將其延伸為對「長期佈局」和「戰略眼光」的測試。使用者會被引導思考，在個人職涯、財務規劃或生活決策中，自己是傾向於短線操作、穩健成長，還是願意進行大膽的前瞻性投資？測驗旨在幫助使用者探索自己的戰略思維模式，並結合時事展現趣味。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【Meta重金押寶AI！測你是「佈局未來」的哪種戰略投資家？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "世足賽／梅里諾替補上陣115秒就進球 西班牙準絕殺比利時晉4強 - 聯合新聞網",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vVVlka2U0NnN2S2xLZjBTMTltV2xrcXQxZC1uc1l3b0hrQl9aM0gwWkJaMnB4SC14SlJUd0ROX1NqLTZ3dlBUTHI4ZEhMMHVWamJB0gFYQVVfeXFMT2hfN2Y3ckI0c0VkaVhjeXp3cmFhMkUyeE5IT2o4a1ZMTXB0Y2dNYURSX0FBeTE1eXY1TWg1V3JvVUltNUdGY3RpdVdVN1hzS0s1ZW9XVVhOQw?oc=5",
-        "theme": "臨門一腳定勝負！測你在「關鍵時刻」是哪種絕殺型人格？",
-        "resultCount": 5,
-        "style": "美式波普",
-        "description": "足球賽中替補球員在短時間內進球「準絕殺」，是極富戲劇性的瞬間。這個測驗以此為靈感，讓使用者思考自己在面對生活或工作中的「關鍵時刻」時，會展現出何種特質。你是能在壓力下爆發潛力、冷靜應對，還是容易緊張失誤？測驗結合體育賽事的刺激感，幫助使用者了解自己的應變能力和心理素質。",
-        "id": "idea-9",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【臨門一腳定勝負！測你在「關鍵時刻」是哪種絕殺型人格？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "溫網》連2年4強不敵辛納 老將喬科維奇坦言還不夠好 - 自由體育",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VOTVhRUhWSTNISlZQbmIyMndWVjIweWEtYncyYlowSW4xVHhORzVSbmRUN2lkbTY4QUdwdHlxU0d0NkFVajVtS3NrZFVpVUpyaXZEZGpubDk3cmpQNkRkdNIBZkFVX3lxTE1CM2dCY2pEZklCRjl3d2hlYVpOSlJOVE1Zcm53b0YySDZOVWhla3ZkRUQyTU1PdmNRU0dBYTZqVHF6MExBRmJGdWZ1LVN3bllnRkNFV2V2OXpRSWpBcnFIRFY1ejVSUQ?oc=5",
-        "theme": "喬帥認輸「不夠好」！測你面對挫敗，是哪種「求勝者心態」？",
-        "resultCount": 6,
-        "style": "極簡質感",
-        "description": "網壇傳奇喬科維奇在溫網失利後，坦然承認「還不夠好」，展現了頂尖運動員的自省與求勝心態。這個測驗可以引導使用者反思，在面對挫敗、失敗或未達預期時，自己會如何應對。你是會沮喪放棄、從中學習並快速調整，還是會更加努力證明自己？測驗提供了一個機會，讓使用者探索自己的心理韌性、成長思維和自我激勵的模式。",
-        "id": "idea-10",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【喬帥認輸「不夠好」！測你面對挫敗，是哪種「求勝者心態」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
       }
     ]
   }
