@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-07-23",
+    "generatedAt": "2026-07-23T03:57:35.354Z",
+    "ideas": [
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】台股開高走低平盤震盪 台塑集團帶頭衝 「三寶」領軍噴7% - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNN1FDcUlMUVNWTG9fZVB6X0FkckRkSjZmZko2RF9JLWRkVjVWVHhNaFpET0s0T2c2Vkk4Vl9HazRGRjFCVWxMSlBIOWZLTVJCTF9oVWtUSjNDdTlvMThlcFBnUTkteXYzVTJfcnNXUzE2aVRqOWVGWEhRMlhRd0JfUkJxdUROUkt5MW1waExCdFRENWV0UTI0dXFxSWRzUFZFSk9XamtTdjJTNi0xOENHQ3RibzMyWm9jSzV4ejFaMmkwYXEzbEtKdWlzbnRLdUFEVFFUcGFwS0NZcXhyaW5kS0hvOWJhcndRTHM4WGxGZ0FDdFJUckxCX29xbzhxSlg4Mml1VkZuRHpDWC05ZTVvXzNhR3lfOU9EaFVnek02SjR3UTc5U2RBaDRJTllGUXhZOFU2MU9aV1BoRGI2Sy1rNDdWTEpCeEhzSkotUGtpcDRkSmtPeXF5bW1POEJtaWZtYjZiMTJiQVE?oc=5",
+        "theme": "你是哪種「股市精靈」？測測你的台股投資人格！",
+        "resultCount": 6,
+        "style": "極簡質感",
+        "description": "這則新聞揭示了台股的震盪與特定族群的強勢表現，如同市場中的多變人格。我們將股市波動、個股選擇等情境轉化為生活決策題，讓使用者透過測驗，探索自己在面對機會與風險時的真實反應，是屬於「穩健守護者」、「趨勢追隨者」還是「冒險開拓者」。這不僅有趣地連結了金融脈動與個人特質，也能讓參與者在娛樂中反思自身的決策模式。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「股市精靈」？測測你的台股投資人格！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】〈美股盤後〉油價飆升 標普那指收跌 投資人靜待科技巨頭財報 - news.cnyes.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wY3hMSzU5MEpfOUs0LTFqa3lsQVRKakZKc3pPTEZyZkt5NVFJeWNHcElYSTIwQkpCN3kwYXJURkpmZTVZeXlqSWVvUmNJMGs?oc=5",
+        "theme": "全球變局，你的人生「投資組合」是什麼？",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "油價飆升、科技巨頭財報前的靜待，這些全球性的經濟脈動，反映了人們面對不確定性時的焦慮與期待。此測驗將這些宏觀情境轉化為個人生活中的選擇題，例如面對突發挑戰、規劃未來職涯等。透過測驗，使用者能發現自己在複雜多變的環境中，是傾向於「分散風險型」、「重押潛力股型」還是「危機入市型」，藉由趣味的分析，引導使用者思考如何「配置」自己的人生資源與心態，以應對未來的各種變局。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【全球變局，你的人生「投資組合」是什麼？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      }
+    ]
+  },
+  {
     "id": "2026-07-22",
     "generatedAt": "2026-07-22T04:00:37.929Z",
     "ideas": [
@@ -566,100 +594,6 @@
         "description": "結合AI生成美女與網路熱議話題，讓使用者測試自己對AI與真實界線的判斷力。趣味點在於挑戰使用者對美貌與真實的認知，並反思AI科技對審美觀念和社會互動的影響，看看自己是不是一個火眼金睛的「數位偵探」。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當AI遇上顏值！你的「虛實辨識力」能識破多少AI美女？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-15",
-    "generatedAt": "2026-07-15T03:47:04.526Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "新竹音樂教室命案嫌犯遭開槍制伏 警：當時屋內有6大、4小受困",
-        "sourceLink": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQdW1WLURjMEpOLWpHandqcXFEZC1ENWFRX2xvbW12ZFRtSVlLY2puNWVUNEszYnJDcW9yR3dZTlFsSGlKdnlZbVF5Y1ZQUkRSN0sxSDJPQ1czOUgyTnN5QjdlaGIwLUJvWjF3bm1zNDd4ZGFOaFlJV2pWS0JsWUdDNUtTYUM1QlJJZm5BVVgzUEVlell6OXMyU1k3WjNLX24xVnRjVXBlb0hpYTFiOGRKdTNOZHRjSHhMdVJuY3JNeG1qOC1ZRmN6TlRkZUMtUmNER0NXZ1l5UWkwa09rNmdIWTJxVEpnb0VWMzlYcEJEb3Fwb3NYY3BaQ3RUblZmSUpLcDNxTGFOOW11NVFBcmZDTTJmazYwanpUTm5tUjY4U1duWTFJbkdZeXFKcnRQX21sTkxOY2R2dm5kZ2V0ZU9xSnY1elhReS0xTjFJVkVMTktKMXNWc2FqQkwxUzR2TTB4eVdrb015eC1MSEljWl93VUhKTko1cGVoWXdITGhZZ0gxVU1LRWc?oc=5",
-        "theme": "當你身陷困境，會是哪種「危機應變專家」？",
-        "resultCount": 5,
-        "style": "驚悚懸疑",
-        "description": "靈感來自新竹音樂教室的緊張對峙，此測驗能讓使用者模擬在面對突發危機時，會如何展現個人的應變能力與判斷力。透過不同情境題，探索自己在壓力下的思考模式與潛在的解決問題特質，並了解自己屬於哪一型的「危機應變專家」。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當你身陷困境，會是哪種「危機應變專家」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "批佀廣洋紈袴子弟 王世堅：沒有國民黨提名也可能選上",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ScklpanBwMFU3WGM1ZWdvV1RjV0V4bll1ZkNkSThYUVNZMmFsWlRtMDBQSC0ydDd6VDFZWXpJSXAyYnE1VnJpeFhYN1o3T2owaFRn0gFYQVVfeXFMTUZBNEF4MW1ET3o0MVFHeXljVHpIa0ZkMURYTTdYQ09hU3kzb2NLR0lwOHFONVBJNHgwT1BNTFlxUGt0VzNHRkNGRzJDVi1iTWZENHRoNEs0Mw?oc=5",
-        "theme": "你在團隊中是哪種「嗆辣直言者」？",
-        "resultCount": 6,
-        "style": "懷舊報刊",
-        "description": "借鏡王世堅直言不諱的風格，此測驗旨在探索使用者在職場或團體中，面對不公或爭議時會採取何種「發聲」方式。你是否敢於挑戰權威、堅持己見，還是更傾向於策略性表達？測驗結果能幫助你了解自己的溝通模式與領導潛力，並帶點幽默感地將你的風格與政治人物連結。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你在團隊中是哪種「嗆辣直言者」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "遭方駿轟寵壞兒子神經病！狄鶯首出面公開打臉：我舅舅已經走了",
-        "sourceLink": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQRms1cjdHaU55MURoR0RaVFhkdTdVX2xKOGxDMmswUUkteHxiRDEzc1VmV01aT2QwYXF6MkFTQXVodUFwYnRPeWNIZ1hTeUFZVWw2b3Z6T0xzSXV0OXRzOFpIWkJrWHNkSDVTa0t1UWZOM0dTRXZTQ2dCWjFyckNFZmh0bnZOdG1zdllkVlN0NHZUS195Y3RCTy15ZFJ1WmJLaTEydTl5T19jU3E0LVJfTGhIMmlzOFd3WnhkX3liSHpvcDJoZVgtSklWdzZ1WTd5SFdpdkVtR1VJOGE0R1ozNWJmblVtQndNWm5RSm10cjJuRlZUNk1vd0lCZG5MbGpBSFV5aGR2QWJVa0tqb1pRX004NmtPZkUwcnE5Z2o5dGJSS2l4ZjM2dzAydFlOMFBaTEFDT0RvQ241QXZES0ZGN2NfTERmR255UGhvNTYxZl95alJGMUI0WW55MzE3NDV2c3NZVjc1TURqdFlZRHltSGJKa1JibHhCMnFSd0dXNXZyNDA4ZElBaTBXVW1SN2l1Wmo1djBNMExhUQ?oc=5",
-        "theme": "面對「親友爭議」，你是哪種「神隊友」或「豬隊友」？",
-        "resultCount": 5,
-        "style": "搞怪幽默",
-        "description": "狄鶯與方駿的隔空交火，反映了處理親密關係爭議的複雜性。此測驗讓使用者模擬在親友間發生爭執或被外人評論時，會如何應對、維護親情或處理公眾輿論。測驗結果將以趣味方式揭示你在家庭或親友圈中的角色定位，是那個總能化解尷尬的「神隊友」，還是不小心讓事態更複雜的「豬隊友」。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【面對「親友爭議」，你是哪種「神隊友」或「豬隊友」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "38歲金秀賢復工帥照曝光！連換3套造型凍齡像大學生 品牌老闆「1句話」惹哭鐵粉",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQeXdvTkstZzRYU0ljSlNic0Z4RWw0TGdDbjBfMnh1Y0t2RWZJdWxOWldSWHZaWVRLZ1R4M2xxVUtnS1RRV1NtUXFfMTlqS2dYTGNkamx3aFZ2V3RvVG5lR2lORkN6QVNzTE9ROTk4cjlCdEZjcTlQRFVZcG1FaG9VY0Z1bnk0WXo3VU9jQVNod0NJQnVaTDgtMWZGVFZYclpOSkw0X1RUckJwelFoajdIUzJGY0RuLWNBRTFDTE1fWVlIT3pCckk2NzhRVlpGaXMzQ1E2dVJkUVBMVkdLbmh1VmZ5Zms5STVGQnlqY0NxWnhPSUxOR28yOGh5cjhKMUg0SWdCVzhUSkp5T0lBYTVKU0JQaDN1UnUyWUE2cUJvWGpCdVd4XXV2N0VYcXY0d2RYcXp1Y2hBRVdoYWI4cmFhbWo2Wm53M3FqYmp6NmFqODljMGs0c0RvNXNvTU13ZkhMaUlYbV95SE9TY0NRWG95YUw0UzJIN2podU9mU0wwTlRTaXVURGtFMmFON3BVLTZsVXZ1MFhfWi1tNzJOcERUcXJIVTVRT2pwRy10MFFzWkRXOHdNNmVxZlQzeFRIUjY0VG9nMXhuVXg3eVlmZ2t3Sk9B?oc=5",
-        "theme": "你的「凍齡魅力」指數有多高？測測你的不老心境！",
-        "resultCount": 6,
-        "style": "清爽動漫",
-        "description": "金秀賢的「凍齡」顏值和品牌老闆的暖心言論，激發了人們對青春永駐和個人魅力的嚮往。此測驗將探索使用者在日常生活中，如何透過心態、穿搭或生活習慣來維持「年輕感」與獨特魅力。測驗結果將趣味分析你的「凍齡指數」，以及屬於哪種風格的「不老型人」，讓你在追求外在美的同時，也發現內在的活力泉源。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「凍齡魅力」指數有多高？測測你的不老心境！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "〈美股盤後〉川普撤回荷姆茲20%過路費 通膨降溫助美股收高 IBM創紀錄暴跌25%",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5heWh5aTFlYVI4T241Z2liVFVGS2NRYjNHWFoxaGg0MzFBN0F3UGd3MFVsemxEcTRDNHJoS0NJak9sOE1Ldkl3cjdiQlNDTXc?oc=5",
-        "theme": "當市場風雲變色，你是哪種「投資性格」？",
-        "resultCount": 7,
-        "style": "科幻冷冽",
-        "description": "從美股的漲跌與川普政策的影響，看見市場的瞬息萬變。此測驗將模擬多種投資情境，讓使用者評估自己在面對市場波動、政策變革或公司巨變時，會展現出哪種「投資性格」。無論你是保守穩健還是大膽冒險，測驗結果都能幫助你更了解自己的風險承受度與決策模式，為你的財富管理增添一絲趣味洞察。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當市場風雲變色，你是哪種「投資性格」？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "史上第6大跌點！台股重摔血流成河 專家示警：台積電很難大漲",
-        "sourceLink": "https://news.google.com/rss/articles/CBMihANBVV95cUxQVFlycmExV3hpb1ptZVJGbWtmQy11T1h0S19oOU9qVHJZUTcxaDlWdi1VWXVUUVhQeHIzNFNoNTQyMlVQMjg0LWZ3NGRNdF9SX3doQkJJSVJyN3B4Z29aVHItOG1CcHdubXl6UEdnVFpNR0dVSUxLWUl6c29BUUszM1dCOEo2NTNHRTJDaURSTEZ2NTkxWGpKR2pXMENUNVpYZDdWcF85RUZyTjA1bEpRMWVtdlF3Q3VGMFRPYUdWU3Byb3YyWnM1blBfMThYNm0wcE5zUXkxNmhrSmFVeEF5NGpfNHBTLXN6VWlqbWNtSV93V1FZb2QxTW1HZ1NTdXpkdzg4aVNYazdJQURwUXVBdzllRGRyNmZMLWxueFZoSmJhSU5fSDBaN0JiYzlXMm1JWDRuaXRWMHVxMV9rSFVVZXVzc21xcVFvZ3ZmZk0tTnlBY2dDdWZJTmgwV0VYNU1vU21iT2ZvcjBoLTVrVkUtSGpYMmk5NlMzZUVScUZQaHROZUJI?oc=5",
-        "theme": "當市場「血流成河」，你是哪種「股海生存者」？",
-        "resultCount": 6,
-        "style": "廢墟美學",
-        "description": "台股「血流成河」的慘烈跌勢，考驗著每一位投資者的心臟強度。此測驗將深入探討使用者在面對市場崩盤或重大虧損時，會如何調適情緒並做出反應。你是不畏恐慌、尋找機會的「逆向操作者」，還是謹慎保守、及時止損的「風險規避者」？透過測驗，你將更了解自己在極端市場下的心理素質與應對策略。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當市場「血流成河」，你是哪種「股海生存者」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【廢墟美學】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "世足賽／西班牙2比0踢下法國 隊史第二度闖冠軍賽",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NV2VlenZwb1VlSUs0SjZoampKc3ZfLVQ2Mlp3ZFU5N3hhbDBqcVlhT000QklGNXNkSXpSMVRsbEVyeVpOV0ZYeU5YZklxTF9lUU1j0gFYQVVfeXFMTlBac1llYXp2aVlkdzBfaW0yamo0VzN5bG11MVIzZ0hvN0cxUGdsdHppUkVTYldiVDcyeEhCVngzQ2VyM3RPYm1zMnM2TXZ2Wlp4YnJRWmFjWg?oc=5",
-        "theme": "你的「團隊勝利方程式」是什麼？測測你是哪種致勝關鍵！",
-        "resultCount": 5,
-        "style": "美式波普",
-        "description": "西班牙隊在世足賽中的勝利，展現了卓越的團隊合作與致勝策略。此測驗將透過運動情境，探索你在團隊合作中扮演的角色和個人潛力。你是那個運籌帷幄的「戰術大師」，還是衝鋒陷陣的「關鍵射手」？測驗結果將幫助你發現自己的團隊定位，並激發你對追求共同目標的熱情。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「團隊勝利方程式」是什麼？測測你是哪種致勝關鍵！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "世足》挪威返國跟9萬球迷慶祝同樂 哈蘭德抱奇特公仔引發熱議",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VTFZFRTRNUjZZbThpOS1uVXcxVndYNE1qeFdERGUtOXpqUTdFdWcwVWppYTNpRGp0S1pPX3JjZ3dPZXJIbGJYcC1kNFc3TUJrSlZLSG1jaEVId0dHWjhhbtIBZkFVX3lxTE9GLTJtOFBXN3hvYTloTkhtZnBoOHNTdjFfekpJLUk1ZEdpS0diMUJlS3luSEhUZVplMVBHSFZ4ekpuVW1rcFRIUHF4dlNjS21sV3pTNTQ5M0kwMHlkYWZ6c1hjOTRDQQ?oc=5",
-        "theme": "你的「勝利慶祝模式」是哪種？測測你的社群焦點指數！",
-        "resultCount": 5,
-        "style": "搞怪幽默",
-        "description": "挪威隊球員哈蘭德與球迷的熱情慶祝，加上他懷抱奇特公仔的有趣畫面，成為媒體焦點。此測驗將引導使用者探索，當你達成目標或獲得成功時，會選擇哪種方式來慶祝與分享。你是一個喜歡高調狂歡的「派對動物」，還是更偏愛低調內斂的「內心豐收者」？透過測驗，你將了解自己的慶祝風格，以及在社群媒體上成為話題人物的潛力。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「勝利慶祝模式」是哪種？測測你的社群焦點指數！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
       }
     ]
   }
