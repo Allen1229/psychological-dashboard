@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-07-25",
+    "generatedAt": "2026-07-25T03:52:39.119Z",
+    "ideas": [
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "美股收盤》晶片股疲弱！費半下挫逾4％ 台積電ADR跌近3％ - 自由財經",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pclZfeWM5YnZEZkVUbXdCUXFaaVI0UjRIcmpOdU5KNGlJOVhuWkRWa1YzT2VjVmJzY05aVDF2c0d4dm5uUHJFS2c2bW9qRldBRnlFcUZpdTZfRS1YY3JZ0gFkQVVfeXFMT3NwdFM3bDlQaUY4OTl6eHJSakNZX1B1QUtrZ21yZEIxbWJPSU51N1lOcEF5QzhuUE9oMHp1bDdBMkgtM2o3WUNwTzh0X0pWOTRWRF9KM0t0UjRMVGxYZmIzQXdXWg?oc=5",
+        "theme": "美股震盪，你的投資心臟有多大顆？測測你是哪種市場情緒反應者！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "美股市場的劇烈波動，就像一面鏡子，映照出每個人對風險與機會的不同反應。這個測驗將引導使用者探索自己在面對市場起伏時的心理狀態與決策模式，是冷靜觀察型？激進追高殺低型？還是保守觀望型？透過趣味情境題，讓使用者更了解自己的投資人格，並在其中找到共鳴與樂趣。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【美股震盪，你的投資心臟有多大顆？測測你是哪種市場情緒反應者！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "批評歐盟「掠奪」美企 川普擬展開301調查 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZl8wblZPbzNrdFEyMHFSaU52Vmp2aURKckRQZTEtRGdjRENQT0h5Z1U3bU1BbDFYeFp3UXYwS3ZTTllSOWw5azM5MnY0ZXpZSWZUbGQ2Mm5GUEFaYldqVXVxQlB1WFQ0d3hKcE9sczhNOHFmcEhlTDNnODhzV29CaHFFdmZSSFJvalpvQkU0aXR6RTNUa0FQMVRZMFk3bFh5dmQ3NDVEeWNNZXZqYmV2UmQtcmNEdmNtNFQzUE5Ha2JlLWx2VklmWnNCSFhzT1BiY3IzU184Tm8tY1pQcF9Ga2xpaG9QcWVOS0lfQjJ3QTFfUDlMS2xaZnpKdmpVaklSUWVod2NjdWdYbV93bm9B?oc=5",
+        "theme": "川普301調查！全球貿易戰升溫，你是哪種商場談判高手？",
+        "resultCount": 5,
+        "style": "懷舊報刊",
+        "description": "川普揚言對歐盟發動301調查，國際貿易緊張關係升溫，這不僅是國家間的角力，也是商場上談判策略的縮影。本測驗將模擬多種商業或國際情境，讓使用者在決策中探索自己的談判風格：是強硬派、務實派、協商派還是策略派？藉此讓使用者了解自己的溝通與策略特點，並在其中獲得啟發與娛樂。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【川普301調查！全球貿易戰升溫，你是哪種商場談判高手？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      }
+    ]
+  },
+  {
     "id": "2026-07-24",
     "generatedAt": "2026-07-24T03:56:53.857Z",
     "ideas": [
@@ -500,56 +528,6 @@
         "description": "藉由法國隊在世足賽失利後士氣低迷的狀況，探討用戶在面對重大挫折或目標未能達成時的心理應對機制。測驗將透過情境題，幫助用戶了解自己是傾向快速振作、沉澱反思，還是需要時間修復，並提供不同類型的「挫敗復原力」結果，讓用戶能以輕鬆幽默的方式自我檢視，找到重新調整心態的方法。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當「奪冠夢碎」時，你如何重拾士氣？測測看你的「挫敗復原力」有多強！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-17",
-    "generatedAt": "2026-07-17T03:51:23.600Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "中聯油脂致癌物超標案 卓榮泰：深感抱歉未能掌握完全且真實資訊 將追究行政責任 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQaDllTHhWNVpOU2I2TWI0UnpFcGliUlM2ejc3VVNPcWJvUHdDcVJDWFZUd002VmdhRXRrSVhOZlNhYzV5X2ZvNmMwYTJHV0tFZHBBTGluOVgxbGZScjZOM0dSVmlWakk2UGJ4MV9NVjRRZXlOUkwyUjlraElvNU8weU5DRnBxbzlCN2hRUGZ2QnFiT2JJalBPNUFUalRub3g3R1RPbTI5X2ZnMkotLUVSRklOa05sdUhXaGdwYVpUUWE2WmhMNE1QMTlNWldDWE9STndaQ213aGZyTUYxOFVpdzdiNTExM3kyeHltMjZhNUxaSnNIREtkcXRPMDJkYTd1SVZ0Ukh0WlpnVm9yTVRQVy1MNGI5V3kwUmdULVVndG5rU2Z3S2lMTG5rWTFCbGJUQVNEOGlCYTlHdzlPZ0l3U0E1UGVSU2J6YzFpQUN1TEdVdmZQM3d6UVdrOFo1QzlvcVB2YlNZUkN4Z0xJdi1HaFB6SkhJcnpxLThkMlNBVm9VUG15RzZfNG43OW5BLUFmWkdGWm12cDVGRmZsZWdXbVl6VU44aTBNNW9HXy1wakplWkdNNFItWGVDR2JSc2dfc2xOMVhqMTdLek1zdmJYRUt2RWRQelpQcGR6MEdNTVYyV2NlYks0VHNXSGpWancybE4xS3dCekNjbWlCOG1qLVhBcm5Odw?oc=5",
-        "theme": "你的「食安雷達」有多靈敏？測測你識破生活潛在危機的能力！",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "中聯油脂的食安事件引發公眾對食品安全及資訊透明度的疑慮。此心理測驗能讓使用者透過模擬情境，評估自己在日常生活中對隱藏危機的警覺性與判斷力，從「資訊判讀者」到「危機終結者」等不同結果，提供趣味的自我認知，並提升對食安議題的關注度。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「食安雷達」有多靈敏？測測你識破生活潛在危機的能力！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "香港警方搜查獨立書店文總布置「我是書店店員」標語力挺民主自由| 文化 - 中央社 CNA",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kekljM2l3T1NkdWgwNmg0U2Z4cy03VS00NkRtNUN6clM1RjNabUlEZEhfTDF3YUpEVHViMG9FZVdnenRiN1BwM1MtWDJNeTZuNjVDX1RLMC1GMG04MnMw?oc=5",
-        "theme": "當世界只剩下你，你會是哪種「信念守護者」？",
-        "resultCount": 4,
-        "style": "懷舊報刊",
-        "description": "香港獨立書店事件凸顯了為自由和信念挺身而出的重要性。這個測驗藉由歷史上或虛構的壓迫情境，讓使用者探索自己面對挑戰時，是會選擇妥協、暗中支持、還是挺身而出成為旗幟人物，連結個人價值觀與社會事件的意義。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當世界只剩下你，你會是哪種「信念守護者」？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "世足／阿根廷恐遭禁賽？賽後舉政治標語 FIFA要查了 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOWmRhR0hJS2JLWnpWQ193TFVSV1lBbjdlai1WM0NZUXMtZmdieE50S2pMLVlVcF96a1d1UXJnR2tfR2tWQk9fVUNlU3EwLXRsRjZaeXpkV3BTZE0yUTV2bjJHUGhKZ3FtS3J6aVlPbEtNRUtsVEhZbllPX01ZTkJQMkZLbk1LdV9meC1vaGEwRmJmMndLWWhvUmxSbXM5M2hUSkF2OG9SSG9ud2NQUnoxVlNPRlRFdHFmSHU4ak54SExLU3Y1V3lTaVdNQmhseDh3ZEpqWW1LZ0FRYzBvN05JYUZQRmlnUVhjckluc21mbkh0Q1VScGtmM25NNS1TUmRkM01SWHBROEJlZ0RNbWhjVkQyMmxpQks0SjhKbkhmb3ZtY1NuUXdEQ0VWdjlkSWNxNElWeGhvYnBIdFJsUTN5bg?oc=5",
-        "theme": "球場如人生，你是哪種「邊界挑戰者」？測測你願意為信念衝撞多少規矩！",
-        "resultCount": 6,
-        "style": "美式波普",
-        "description": "阿根廷球員舉政治標語恐遭禁賽，引發關於體育與政治界線的討論。此測驗讓使用者思考在追求目標或表達自我時，會如何在既定規則與個人信念之間取捨。從「嚴守紀律的策略家」到「為自由而戰的叛逆者」，呈現不同的人格特質與處事風格。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【球場如人生，你是哪種「邊界挑戰者」？測測你願意為信念衝撞多少規矩！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "又老又傷又缺天賦 勇士拚命找詹姆斯到底還在堅持什麼？ - UDN",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aY3hLMDJ6REJubWdHVWc5Vkt6dkhLY3RXdjl2cGRHYTZRNXVKUUNFdmp3N0EwOEFuX0F6cFl1VVV1T0g0Vk9nLUVvN0lSZHVETDFR0gFYQVVfeXFMT2Z2eU1pWi03ZWFnQUtvSWlDS1VST0dCMVU4VU9jOUZDbEI0UDFiVWJ4aExidzVtWkxsVG4xdXRITThmeEFxUWVlcDdNM2NnMTVoMGc5UGhYVg?oc=5",
-        "theme": "你的「人生賽季」還在堅持什麼？測測你克服困境的「韌性指數」！",
-        "resultCount": 7,
-        "style": "自然原始",
-        "description": "關於LeBron James即使面臨年齡、傷病、天賦質疑，依然奮鬥不懈的討論，觸動了人們對「堅持」的共鳴。此測驗將探討使用者在面對人生挑戰時，是靠何種內在驅動力持續前進，揭示其韌性來源與抗壓能力，提供「信念型」、「智慧型」等結果，引導使用者思考自己的堅持之道。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「人生賽季」還在堅持什麼？測測你克服困境的「韌性指數」！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【自然原始】"
       }
     ]
   }
