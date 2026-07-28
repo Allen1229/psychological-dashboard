@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-07-28",
+    "generatedAt": "2026-07-28T03:50:23.131Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "藍號召8/1上凱道「反毒酒駕」民進黨籲立院盡速完成修法",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOMnllc0JqV1FuZFhrMVFXQ1FhYVRTdGlnVjlqZkg3Q0x0YktFazA3dGR4RUpBZGtVUmVPazI2VFE5aGNnWl84MVd4YmxJUTRlUmY3WXpubHhkRVA4WVNRaXBhZ1lPTmQ1d0dTSVoybzUxbUE3dGh2SEpZY3hSWUpIYk5LZ3htTm4teTMxZVBLUnV5NXVMWDFwV3A5cDBfMDd1RFJGbmZIRmZjUS01RWRHWHNMT3p5RktaQ2YzOGc3M2lQX1c4Uk1zOFowTFZCd1JQTlEzRllOa0tEVlNfSlljRHhjMGxDcjdzU1pscl9DWW5Pbk82X3hIVXZWQ0Q4WlZMUDhmZ24wNEhHQ05xN2l2ZVRyb3Fwdm1ROWVQNEUxaGh5NVdmQ1lDMTdUbUpkRTBTQWtQN1NsZWFtQkdXeU55Xy1tQU5mUzJyRzN6QTh6UmRfaHJ3S3BTam84WUZ1VkZDeVE?oc=5",
+        "theme": "你是哪種正義使者？面對社會議題你如何表態？",
+        "resultCount": 6,
+        "style": "懷舊報刊",
+        "description": "該話題涉及社會正義、公共安全與公民參與，能引導使用者思考自身在社會議題中的角色與態度。測驗可透過情境題，分析使用者是屬於積極行動派、理性分析派，還是以身作則派，讓他們了解自己在面對社會不公時的反應模式，並帶出對議題的關注與反思。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種正義使者？面對社會議題你如何表態？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "被查水表也不怕？萊爾校長製作人再推影片「油萊油去查水表遊戲」",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaS01Ed1FSSFkwTWI1YXdfaWtvX3hBRVVROFhHS2hBUHZrSjNBRTdheWwtTVRYb3F1VlRHVVpqUmVpa3lESWRhRXIxQ0FYT3NaU0Iw0gFYQVVfeXFMTXB6T1pLTHhzSmg0S2puVmh1NGpBYjNyaWttVE0xT0o4M2pmUkE0UW5DVGNqVjI3YnpiTFVkNVdrOTRHVmVjTDZKNFp3b3NyRG1FN2pDWEp1bw?oc=5",
+        "theme": "你是網路迷因製造機？測測你的病毒式傳播人格！",
+        "resultCount": 5,
+        "style": "搞怪幽默",
+        "description": "該話題結合網路迷因、諷刺文化與創意內容。測驗可以透過模擬網路情境或內容創作選擇題，分析使用者在網路上的表達風格、對爭議話題的態度以及創造病毒式內容的潛力，讓他們在娛樂中了解自己的網路人格，增加分享與互動性。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是網路迷因製造機？測測你的病毒式傳播人格！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股盤前／油價回檔費半續弱！台指夜盤跌708點 台股今開盤恐延續修正",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPRkhDejdNbWtieUZ1a3htUG45cUlkeWs5TDlKU1N5V0ZBYVFURmhKOG1OYUM1S3BkNklLZzFHYjQ0RkdMdl9NVk96ZFM2Y3FBNmNDX1ZHZ0VHX0JCbmw5VTl2NXJ6aGVyZjgxSUdhQUNZZGVYRjd6VXJCTXdob3BsdEpaRWZ3bUIxbWFhUXNvWTdHQWMyZEtmMERMVHFCTU52R0NZZWFXcmtEOVVZRTJmeVM1RzVLWHlSWkNFd3QwdDZqQ1pEa1I0R3ZuVEFoWUotQnBMRlM1aUYwdzZ3SmRxa2std1Q2RkdSbWNleTIwbUhhMWdna254REQxMFlrU2tlY3RMU3p1UnNlY3gzMlNQMzlTRzM1SlpPN0RjVlVrLXRScnV5cnRJdXgtWTFrNFZySmo3WDdQbFNtaUJFbjQwdkhIaEJyNGpWM3Fya2RPUDlRR3RiQ1BGNE1ZU1Q3UGVwR0pLU0x3NVNtRTJCUXdOeVJYRFVSQUw0U2ZkQURIeC1XVW1qVWpETzNvRTdoWjZ4Ymg3U3U2Z0FibHpOYlAwT2xpM2Jwc1BhREhN?oc=5",
+        "theme": "股市震盪，你是哪種投資人格？測測你的風險承受力！",
+        "resultCount": 4,
+        "style": "科幻冷冽",
+        "description": "該話題關乎金融市場波動與投資者心態。測驗可設計情境題，讓使用者模擬在不同市場狀況下的決策，從而分析其風險偏好、投資風格與情緒管理能力，幫助他們更了解自己的「投資人格」，並在面對市場變化時有更清晰的自我認知。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市震盪，你是哪種投資人格？測測你的風險承受力！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股拉出逾600點下影線 外資回補80億元偏愛群創、聯電 三大法齊買金融股",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kRDh0aHBJTGxXLUp2QjJ4V2tZbGI1RlZLZW9uOGZMVjlkVVQ0a2ViVngyZXJFT1U0bmwtNzQwQU5Ma0J6b3RYWFN5T3FSZEk?oc=5",
+        "theme": "從台股反彈看你的「選股直覺」！你是趨勢追隨者還是價值挖掘者？",
+        "resultCount": 6,
+        "style": "極簡質感",
+        "description": "該話題展現市場反彈與資金流向。測驗可透過分析使用者對不同產業前景的判斷、對新聞資訊的解讀以及投資組合的偏好，揭示其潛在的選股邏輯與市場敏感度，讓使用者在趣味中洞察自己的投資潛能與偏好。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【從台股反彈看你的「選股直覺」！你是趨勢追隨者還是價值挖掘者？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "輝達內鬼現形／盜賣AI伺服器案情升高 輝達經理涉放水助中取得B300晶片遭收押",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPWUo5S241Z3l0c2xfcFB4MjFOTmUxVFdRdVZyejA0MnMxSXN5VF9EbkROSHJDWWtvSGlnNTJCamxDUlY0d1NXcVJmNDFDcGZaZTBWZ0tZTzM5U1VBV3FIbzBJc1JTVGxTTjk5SWFuSVMyZU9JQUx3TThoa1hxWG42Z3l4eUROWWltNzE5X09DTXY2eU9DWk5kTThvVWYzSHlDT1lCSUpDQm9hZG54bk8wLTQtdE16T3IzWHl4VWExUEY3X2U3OE1hcWtudTZXZC1DWlo5ZmxQSmNGZzItSDVaQ3ZOYTJOMHpBTHJRUXg5VVVYeW9OWGVreWNhWkxEd1Zqdjd5dlExYnZlV1Vsd2kyY0NjOFNJaEcyeW1haGE5VjdiM0Roc19laVNuc2c2AXVrd0ZHMVdhc2NDbnRMREFNdzhGZzRBSlEwemdYWkU0V2REOVVHX3EzdDZIYUd2TGctcG16RUxqTGxFS0UtUTBwMXBCS1lrMkpNZVBHRXBiajBYTUNxS1ppRVRJM3dRZ0RUUTRPOVRGTnRiQnB2OU9XQ3M1TloyNDFvbEFxVWdXb1ZMcTdTUi1mU2xWbTlmajc0dUpCeXRyTW0zRjZJdC1qOF9n?oc=5",
+        "theme": "你是科技間諜片的主角？測測你的「職場求生」與「道德底線」！",
+        "resultCount": 6,
+        "style": "驚悚懸疑",
+        "description": "該話題充滿科技、道德與懸疑元素。測驗可透過設定職場倫理、國家安全或利益衝突等情境題，測試使用者在壓力下的判斷力、忠誠度與道德觀，讓他們在緊張刺激的虛擬情境中，探索自己的職場人格與應變能力。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是科技間諜片的主角？測測你的「職場求生」與「道德底線」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "不是AI！一票人早上出門驚見「飛龍在天」 真相曝光",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPY1NYWVhSYm8xNnZWaFRNQkI1Q1dXRXZLdy1zVjR2a1kwRGJaRjZyTFZZYmI3aHJWbG9Id0xZdXEwSlk0dGZhYWQ4RE9MU0VYWFdVNWJIZ2tES0lzTGF6TTJMSlp5cV9zRzlMNkhnUFpVb21JTjBBXzVIb2Q0d3pxN280OHVRMFQ0V05nUnR2SHJGc2o0RjZXTHJIeDRySDJ2MEJjckIxeTA0RmhQNm1aY0gzRmxiU2xpdGFkTUh3V1k2R3JUdVRIWUE4ckNpb0VWTDEzZE1Ga0x1OVVndVlCLTd4cGJIbjg1ZmQxWVJqLTY3Q243Wll6Z3FucVRFaDlzeXhWVnJhd3hYM1FLc3BsRFUzSklGQ2pCRS1IZklCelZfWkpRMHdySDdmUmFiOFhRSEE?oc=5",
+        "theme": "你是「眼見為憑」還是「追根究底」？測測你的觀察力與求真精神！",
+        "resultCount": 5,
+        "style": "夢幻蒸汽波",
+        "description": "該話題結合了視覺錯覺、大眾好奇心與對AI的討論。測驗可設計多種視覺情境題，引導使用者判斷眼前的現象，分析其觀察力、理性思維與想像力之間的平衡，趣味地揭示他們如何解讀世界，以及對未知事物的好奇程度。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是「眼見為憑」還是「追根究底」？測測你的觀察力與求真精神！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【夢幻蒸汽波】"
+      }
+    ]
+  },
+  {
     "id": "2026-07-27",
     "generatedAt": "2026-07-27T04:25:22.992Z",
     "ideas": [
@@ -456,100 +528,6 @@
         "description": "《天堂》之父開發AI與人類平等的MMO遊戲，開啟了對未來遊戲體驗的無限想像。這個測驗能探索使用者對於AI在虛擬世界中扮演角色的態度，例如是否願意與AI隊友並肩作戰、AI敵人是否能更具挑戰性等。透過情境選擇，讓玩家預想自己在這個創新遊戲世界中的定位與偏好，滿足他們對科技與娛樂結合的好奇心。",
         "id": "idea-6",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI遊戲未來式：你嚮往與AI共戰，還是獨霸一方？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-20",
-    "generatedAt": "2026-07-20T04:25:43.602Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "【國內】藍白真的要確定？竟喊725上凱道反毒油 民進黨團回應了 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQazVzYVN4Y3hHbWlXel9weWZUMUdLZi1DQ0JsbmgyRnVGcUVRVlRRRHVET1h4WXUzS3BmcDMyRFAtdUxCX3VfNGdacjNqZXFvbGE3U0UwMHNqZkdsUzRjMmVRcmFwa2NjMThyOUVXNGwwbGJxM1I2NXlFb2daVWg0RzhUR2dVV2ZfTnlxTm9KTllkcXNEb1JFVWhvMWdiQWVjNWNRd2xfZ2VyRjFyT3c4VHh0UXNIX2NTbjAyRFVuMHpza2R3TENsTks3bXlWbjF5aWRhQXB2cndSUlZweFdxdFJpaFlVcnFsSWl5bmJrVFZ3TkNlcm5OYXdEQ1BQWUVmUnFSNF9iNTI1NV9QRU11dXJFYXBOYkxiOHNSUU15TUtBSWdCOWF0SklqVUVuVDVBb080LVZuNF9selRZeTBONjBfdEpnTW9MclhaLTlRb2d4S0hVN2JETlV0c1M3N0dONkE?oc=5",
-        "theme": "你的社會參與DNA是什麼？測測你面對爭議事件的表態風格！",
-        "resultCount": 5,
-        "style": "懷舊報刊",
-        "description": "該話題涉及政治立場與社會行動，激發人們對於「如何表態」的思考。此測驗能讓使用者探索自己在公共議題中的角色與參與程度，從熱情發聲到冷靜觀察，揭示潛藏的「社會參與DNA」，並以趣味方式呈現面對爭議時的個人風格，引發共鳴與討論。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的社會參與DNA是什麼？測測你面對爭議事件的表態風格！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "【國內】北中部8月演習斷網 民眾炸鍋 - 中時新聞網",
-        "sourceLink": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxWHVJNVJXeWxvajJ0SjRwa0tvWmNySWx1U3VKX3N0VGJkUUo0X0ZZblR3a2hhUVZVRkVPUmtXM1R1X0VyTzNSTGwwWmNQRlpRYWc3YVd2aC1Ta3VTNDBSaF9uNVFiSVhWUElJ?oc=5",
-        "theme": "當網路突然消失，你的「斷網生存模式」會是哪一種？",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "現代人對網路的依賴極深，斷網演習引發民眾強烈反彈，正好反映出人們面對突發科技中斷時的真實反應。此測驗能讓使用者想像當科技生活被抽離時，會展現出何種應變能力和心理狀態，測出他們的「斷網生存模式」，既幽默又切中現代人痛點，引發廣泛共鳴。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當網路突然消失，你的「斷網生存模式」會是哪一種？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "【財經】台股盤前／美股續跌賣壓收斂！台指夜盤強彈877點 台股跌深有望反彈 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMitANBVV95cUxNVVd1azY0N3BTa2MzamM1NHdPQ1Q5bDJZdTZQYjFvdDQ3aFkxRDRyUVY4Z190cUFnZ1ZteEphMUNyYXZrM2lrRHBMNEJRQUpQMllLbGc2TThrSlc2RzVTTGpTSksxLTZYR2N6VFNKS2VEUVZoSlVyLXVERExNRUdXdnlKTENSQ0N0aERfbmZsa2VGRklSeGpnUGlXZkY0UU9iTXdnYmhaRkp3X3hlTzRGWlJHQlEzVTNlU2pfaXdPTmRVaXR0TU1qM2xEcmxQNDY4Y3FZTlA0V1E5RWVjdlZtWTI1M0VoSE9lNzZhaEVYeDh1a09Jd2lvbFh6NHd2TGNJR3lsR3JzamF2S0hmcm1ZelNrXzF3UTFRdDc2YnBqOE1Iaj1KU1I3eVYzVU5ZQlYtX3YxakJBaVVRRjRJb2tjZlNiaVhvcFprUUw4d1hOaW9YcDBHOGFVNmNvZVBRMDRvaTBuanRYRUtGREk3MU5raVhNaVg5VEhaaWpxUEg3SWQwcF85Nnl2dzhHT1ctNTdRZy1FY0F4QmcwQnZnMVBDX2kwR1huN2swLUt0SUxTOTFRMUdS?oc=5",
-        "theme": "當股市大震盪，你的「投資人格」會是哪種神獸？",
-        "resultCount": 5,
-        "style": "極簡質感",
-        "description": "股市漲跌牽動著許多人的情緒和財富。這則新聞描述了市場波動後的反彈，正好能延伸成測驗使用者在面對風險與機會時的「投資人格」。透過具象化的比喻（如神獸），讓生硬的財經議題變得有趣，幫助人們了解自己的投資傾向，並從中獲得娛樂性與一點自我認知。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當股市大震盪，你的「投資人格」會是哪種神獸？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "【財經】全民槓桿夢碎！三星SK海力士帶崩大盤 30多萬個帳戶被券商強制平倉 7月迄今規模逾78.5億台幣 - news.cnyes.com",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iSlhTS2R0Nnd2ZGpoOGd2ZVU5S0s3X0gxU1FwN2czc0l6WFltZjY2VlIxUGpUUWx0bHRXSGNvUEtLVGZhWGRGVlpvaHNhbDA?oc=5",
-        "theme": "你的「財務夢想抗壓性」有多高？測測你會在哪種情況下夢碎又重啟！",
-        "resultCount": 6,
-        "style": "廢墟美學",
-        "description": "「全民槓桿夢碎」這句話充滿戲劇性，觸動許多人的心弦。它不僅關於金錢損失，更關乎夢想的破滅與重建。此測驗能讓使用者審視自己在面對重大財務打擊時的心理素質與應變策略，探索是選擇跌倒後再起，還是從此保守，既能引發對投資風險的反思，也能提供自我療癒的趣味。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「財務夢想抗壓性」有多高？測測你會在哪種情況下夢碎又重啟！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【廢墟美學】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "【科技】AI晶片股全面回落修正 分析師拋1關鍵：仍看好台積電 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNRGc1ZU1id0VHcWdJRUdFY1hmMW9KRG1LVFpCVDdCWXBqVFk0dnhaSXktS0tiZVhtSWdScERPY2IxREowWTliMC1fVmNsMFltV3NwZ0o3Vmt3V242SUZDODBac3ljZ19WcmtkbTVMSnd5NUZ4Q3NfMzZkbUFVeUNFdE5vUXVVSUtrUnd2cGUtM0lXQjRLeEVNdVFsak5BWUxSbXo1eDBYemtwSGxJYVhieFpfTGxMVmJWcDFTbnhQX0dRYkVpUUloX1BJelNlNDNkNEpKWjE3VkVzTTlZemNxYWtCVXktVnROeU5KQ3FGeGJBOVMwMmJXSnhYcExXaEJRbUwwTGs4R1ozSlB1NmVfdXlJLUc2Q1RPOWxXdUFHVzRpbTI0UFJnWjJYMFJ6SjZ1MWQ5b012dDdEdlM3TnVtT2JTU2tqdEVGWU5GU3l1T3Jkb21aaXc?oc=5",
-        "theme": "你的「AI時代生存指南」是哪一本？測測你與人工智慧的真實關係！",
-        "resultCount": 5,
-        "style": "霓虹賽博",
-        "description": "AI晶片股的波動反映了科技發展的快速與不確定性。此測驗能讓使用者探索自己對於AI浪潮的態度與期待，無論是樂觀擁抱、謹慎觀望還是懷疑批判，都能從中找到自己的「AI時代生存指南」，不僅具備時事性，也能滿足人們對未來科技的好奇心，並提供有趣的自我定位。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「AI時代生存指南」是哪一本？測測你與人工智慧的真實關係！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "【科技】台積電、英業達、緯創穩盤！ 「奪魂巨」續跌被動重災區 台股上漲400點 - 東森新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4WHlqMjFLQUVTOFpuajZCS1ltLXpsWmNkelA1enYyeldSQ0Rra25HdmdZdVRvaWJyaG93bUdpYXAtcGpWWkpZTEpQajc0eHVFQ1c3Q015Zw?oc=5",
-        "theme": "你的「人生股盤」是由誰穩住的？測測你在挑戰中的核心支持力！",
-        "resultCount": 5,
-        "style": "奇幻魔法",
-        "description": "這則新聞以科技股的穩盤與重災區的對比，生動描繪了市場的動態。將其延伸為心理測驗，能讓使用者探討在面對人生挑戰或壓力時，是扮演著穩定的核心力量，還是容易受到衝擊的角色？透過比喻不同的股票特性，趣味化地呈現個人在困境中的「核心支持力」，既具共鳴又富啟發性。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「人生股盤」是由誰穩住的？測測你在挑戰中的核心支持力！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【奇幻魔法】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "【體育】世足》賽後大場面！阿根廷球員情緒失控 竟揮拳毆打對手 - 自由體育",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE0zcEljbld3WURjLVpEMW1Bd2hJN0tFRllXQXQwYUZxMElIVTNveU43X3M4UDJGRFRJbGY3RmRFZUV1UU0zMXRrR1dWUXBFQnk5S2xUOGFCOXJ6cEp2MkpNYdIBZkFVX3lxTE5QNC1NeFB5eDBhRVN1QTVqUWhveEJPelZ0Z0dPQ21NVXVpbXhjRnppNHgtS2hMSk41dVc1WjZjeVFIUU9UbElqZkllUzVGelhPb2EwOHJKbHVRbWNkbTBNWkhDVHNGdw?oc=5",
-        "theme": "你的「情緒控管球員卡」是什麼等級？測測你在壓力下的反應！",
-        "resultCount": 6,
-        "style": "清爽動漫",
-        "description": "球員在世足賽後情緒失控，揮拳毆打對手，是極具話題性的戲劇化場面。這正好可以延伸成測驗使用者在極端壓力或競爭環境下，情緒管理的能力與反應模式。透過「情緒控管球員卡」的概念，讓使用者以幽默且具象化的方式，認識自己在高壓情境下的真實反應，增添趣味與自我反思。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「情緒控管球員卡」是什麼等級？測測你在壓力下的反應！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "【體育】梅西哭了！悲情告別世界盃 冠軍、金靴、歷史進球王全飛了 - 壹蘋新聞網",
-        "sourceLink": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MUURyYm8xRTZER2s3NVg0QlBBVm1VVXJ0SDBKS2w4QXVpT1Nxb0hOWjRwdzFOOEVTeTZ1OFFZRk9xSmV2eXlUQ2pBZXJnSW5QcXZMSGV1UHFrMWxfYnB3cm9xX3NvWnM0bVYwLUNVWjFsQUo0bC1lYktsVUNWUQ?oc=5",
-        "theme": "當夢想擦身而過，你是哪一種「悲情英雄」？測測你面對挫敗的復原力！",
-        "resultCount": 6,
-        "style": "溫馨水彩",
-        "description": "梅西作為一代傳奇，其悲情告別世界盃，失去多項榮譽，是一個充滿情感與戲劇張力的事件。這則新聞能引發人們對「如何面對挫敗與失去」的共鳴。此測驗讓使用者思考自己在夢想破滅、努力付諸東流時的反應，揭示內在的「悲情英雄」特質與復原力，提供情感連結與自我探索的趣味。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當夢想擦身而過，你是哪一種「悲情英雄」？測測你面對挫敗的復原力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
       }
     ]
   }
