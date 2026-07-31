@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-07-31",
+    "generatedAt": "2026-07-31T04:04:57.843Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "內幕／蔣萬安倒閣說惹議！藍委嘆「有點飄」",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQY09EcXF4TzNDR0NOTnpXNW1fSGFWX1dQRGxDQjJKb2tKR2d2ZEhfVVVNc0pqRmJVbmd4THJyQXY2TkluZWhPdThfakN0VW1pRmMyT203R0ZiZVY0YzJVN1lITHZ4dkx2X2NFQ21IS3BOZ01aOGJSNmJLQ2FVbnZ5b3ZnU0xMMmxiTnR1eThwYnJSU28zZTM1d1RNWjdmSDVvLWt4TnRKNTFTOEs1N2M4a1FYM3VkVGo4bi1ZdDVtQlVYaW02d1FwUnBNY0RjVjZJVnlpRGw4djBJaEo0VTBKYzZzbkNfSU5wc0lQYnN5azh1S3hZcng2clpMLTJTYVhlZXRpUDMyYjlPRUpoNXpzUDFlYUdDU1E?oc=5",
+        "theme": "測測你的「飄」指數！你在職場或人際關係中是個會讓人覺得「有點飄」的人嗎？",
+        "resultCount": 5,
+        "style": "搞怪幽默",
+        "description": "蔣萬安因「倒閣說」被藍委形容「有點飄」，此話題充滿趣味與八卦性，且「飄」這個詞彙生動具畫面感。心理測驗可從職場情境、人際互動等面向切入，探討使用者在言行上是否也容易給人「飄忽不定」、不夠穩重的印象。測驗結果能提供幽默的反思，讓使用者了解自己在他人眼中的形象，並帶點自嘲的趣味。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【測測你的「飄」指數！你在職場或人際關係中是個會讓人覺得「有點飄」的人嗎？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "黃偉哲開戰了！出大招公布蔣萬安深偽AI音檔 內容全曝光",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxObDVqRExoQVBUYlhYOXhvWGpIZjhhZkFLX1lnNndvR1EwR1c5M25zVHlmSnd6UVAyenNzNUFhMXFyWjdvNDdEZDRQQ0ZnYTlvcHlFNHk2MTlfcVBleVdmUTd5RGdqZzF0X2RpTjlDM2JtRm1mOUpMZmpNYmNQN0pETHlVX1JOTjJXX1czSUhoN1ZNbkhsOVNScC1NanFjOTRWYXhSOFhrUHd1cE5yU05pNVk0dFkya3gzaWZIMHA2RS1WRlUzc3BZcWgwWERRaVhjcnNPZ0VyTGIyNXRnSGVnWmNpQUwxOTZYM3l0WUxXVTBPTkEzX2Z5RngtTG1xWHJqX1hKaThWTG5zeWZOTEJiOTZqYUpXUk1FT041a0Z6Zm9UOU92MmlvRXF3MXlEUkhSa3RRQXBJNC1WNUdacmxydzlPTHhpb1dOV1E0X2hRTjVhWnRlWnlILV9xZ3V6dkRSQ2t3TTBHV1ppOHVX?oc=5",
+        "theme": "你的「假新聞免疫力」有多高？測試你識破AI偽造訊息的能力！",
+        "resultCount": 4,
+        "style": "霓虹賽博",
+        "description": "深偽AI音檔的出現，凸顯了現代社會資訊真偽辨識的重要性與挑戰。此測驗可設計成情境題，例如判斷新聞標題是否為農場文、分析影片或音檔的疑點等，讓使用者測試自己對於假訊息的抵抗力與批判性思考能力。在AI技術快速發展的背景下，此測驗能提升使用者對數位內容的警覺性，並帶來實用與趣味性兼具的互動體驗。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「假新聞免疫力」有多高？測試你識破AI偽造訊息的能力！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "班艾佛列克參加益智節目「抱走3200萬」 展現金頭腦獎金全捐公益",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingNBVV95cUxOUGpZVmhCbXZCNjNONkVGVHMtNXJ6bDkyX2p2dFktMVJ6eS12ZkZKdWpwN293YWFXUjNtQ2xxQWh1OGx0a3I3UTdIQUlzbmlQOFlwUXA3MnBBUkpFYU9xNGRtenhBaTJhcDhuUDFZVS1NQUlFb2hBZl9rU3ZFbVpLSUprbkh5c1lXSXR2SDVVbXFLeFlSLV9JSDl0X3FxTTBzc2d4dF9sYzZPMHNaSVJ4WDJhVDBtUTFCVXFRNl85c21YS241WmxBYVJRNUZneVhhZWNicUllY3lTRHpMMWVQb1pJUkgtMGxqUWtuSTFYbEJjUWI2MmNkSWZXRjJhYzVQSm1seGtoSnNObVltVm1PZVplbHhySkc4a25rVDRoTHVzR19ORmk3NVlqMWYtSVBjVEJPeGQ5MkVES0VQUE5zXy00OXlWUGNWNkJjMTFxX2ZRV21PM0pjVURnNHphbTFONnRWcjNBR0pobDlMLUhhTXJBRWlaS0thVExzN3daUW1DN1I3UHpFR3I3RmRqOEJTbTMzTmdCNHRWeU1kaEE?oc=5",
+        "theme": "你的「益智慈善家」指數有多高？測測看你的知識與愛心能為世界帶來什麼！",
+        "resultCount": 6,
+        "style": "極簡質感",
+        "description": "班艾佛列克在益智節目中展現高智商並將獎金全數捐出，完美結合了智慧與慈善，為社會帶來正向影響。此測驗可以設計成情境題，讓使用者思考在面臨知識挑戰與道德選擇時的反應，例如會如何運用自身的才能或財富。測驗結果不僅能反映使用者的聰明才智，也能探討其潛在的奉獻精神，帶來正向且有意義的互動，同時鼓勵更多人將所長用於公益。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「益智慈善家」指數有多高？測測看你的知識與愛心能為世界帶來什麼！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "爸爸離世後抽屜翻出一疊鈔票 邊荷律得知真相鼻酸：這輩子都會在我身邊",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPTDlTa2tjNFlnM0VSZHRUbGtVVW8xU0ltekMwNUtud3lhOV9peTB0Ylk2X2o4U29IV0NPMEZVdU8wd1VWWjFPeU5RdjVsaC1kZzhTaFZjdHBFRXVxUVBpUGpTcVRaS1kwbjAyU3NQa0tjalVPZ3gxWXBlQUwyeWNEZ2lNUDFOUTVGeldxQzlqN1EwRTRFWDcwR0I4YTlROUtHUVppeE9vVGk5NW1uOGJLVmN2bUpIYTZ3MlJpejlUc1VNWHZSdWZOVzdOQkFKc29ETFl4Wm9iZUNEODYxRGUxS2dEd09JQ2szbjJRdWVOQy1OSW81bUVscG03T09xRnl5bGY5N0NqVnY5NC1jcWNUSkstQmJkSWFSU08yVldVNFBGWjh4c1dJZEYyOHR0d0FhY2FVLWIxcW5SN05CYzhBVlI4WFgwc0NEVERGT0pJMmZPVzlJa3BLcmJDdHc5eGhjUktmMWZZRGxmOGdGdXJWNUVVMktIbmg2VWJWVTJLMEYtbGVWeDNFTDhUMVRTLWlNV2lHVy1EdjEtbHVQSktJVDF5eWRpbnk3MjE3R1EtTm4zU1pES2ltcHFDQW1yZlE?oc=5",
+        "theme": "你最珍貴的「回憶寶藏」是什麼？探索那些深藏心底，無可取代的愛與羈絆！",
+        "resultCount": 5,
+        "style": "溫馨水彩",
+        "description": "這則新聞觸動人心，講述父親離世後留下溫暖的「遺產」，是無形卻意義深遠的愛。心理測驗可從生活中的點滴、與親友的互動、珍藏舊物等情境，引導使用者思考自己珍視的回憶與情感連結，並探索自己如何將這些無形資產傳承或體現。測驗結果能帶來溫暖與感動，讓使用者更懂得珍惜身邊的愛與回憶，並反思愛的存在形式。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你最珍貴的「回憶寶藏」是什麼？探索那些深藏心底，無可取代的愛與羈絆！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "微軟帶頭飆漲15%！美股收紅「費半強噴逾8%」 台積電ADR大漲7.64%、台指期夜盤重返41K",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQREp4QlZDS3hhcVNITjNDYUhUUmxjR1FVdkZmZjVPX2FLeDVzTVFwXzFXOWZabUszWDlKYXFsZlBidm9fazBDeGVRclNKdGZHdTUwUVpOdnhXVDNwaExMV2l3VHdvU09ld2Nid2JRYm1KeXpFMUwzTTZ0cTlGLWEyeG5HelRBUDQzTjg5Tm5VSXNLQl9IT255TVRvS3lkRGE1RVBubWEtc2RoSUM3S1NBV3BqemRTQnhXdHMtdlNtRDNhVnZfc19OenVUekpHOUNibE9MU2FEajU1c3VVWUFzMTViZ0M5UXdsUXpvbnJCZWRHc0lzWVNyWEZRZXl5UW1lZUU4NXo3UDNzVTFBU0Q3MDJ1YjZEcTVCSzFWmS1wM2ptaEstTmphYjE4TjJyT2VZQ2VweTRUcS1RRDJUZEVEaWpzWndhcGh6MmFhVjlJOVdHNzBQM1lOTVhGSlo?oc=5",
+        "theme": "你的「投資人格」是哪一種？測測看你該抱緊微軟還是勇敢追高？",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "科技巨頭帶動股市飆漲，財經話題總是吸引大眾目光，且投資策略與個人性格息息相關。此測驗可透過情境題，模擬投資決策過程，如選擇標的、判斷進出場時機、風險承受度等，藉此分析使用者的投資偏好與人格特質。測驗結果能幫助使用者更了解自己的「投資性格」，提供初步的理財思考方向，並增加對財經議題的參與感，讓嚴肅的財經資訊變得平易近人。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「投資人格」是哪一種？測測看你該抱緊微軟還是勇敢追高？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "郭哲榮1億進場0050引熱議！網揭背後算盤：比幾百萬廣告更有用| 存股族愛ETF | 股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtcVMzTURRMHpBR3cwRXYtbGhrcTUzMXBkOW9tVzBHRlhfSkpvTk5nbHUzSW9PMGMyVVlfVHhCWlJJNDl4VXBGR1hhMXNOTU0zWFkw?oc=5",
+        "theme": "你是「存股族」還是「波段王」？測測你的投資策略能否讓你成為下一個財經KOL！",
+        "resultCount": 5,
+        "style": "奢華宮廷",
+        "description": "郭哲榮以億元投資0050引發熱議，不僅是財經事件，更是一場「影響力」的展現。此測驗可探討使用者對於「高風險高報酬」或「穩健長期投資」的偏好，以及是否容易受名人效應或社群風向影響。透過情境題，引導使用者思考自己的投資哲學與溝通風格，並將結果連結到不同的投資名人或策略類型，既有趣味性又能引發對理財觀念與個人影響力的反思。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是「存股族」還是「波段王」？測測你的投資策略能否讓你成為下一個財經KOL！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【奢華宮廷】"
+      }
+    ]
+  },
+  {
     "id": "2026-07-30",
     "generatedAt": "2026-07-30T03:45:16.323Z",
     "ideas": [
@@ -500,34 +572,6 @@
         "description": "此新聞聚焦AI產業的蓬勃發展與高科技公司的成長潛力，非常適合發展成探索使用者對新興科技趨勢敏銳度與適應能力的測驗。測驗情境可以圍繞AI應用、科技創新與未來職場等，讓使用者了解自己是屬於對新科技抱持觀望、積極學習還是引領潮流的類型。結果能帶給使用者對未來趨勢的自我定位，充滿話題性與趣味。",
         "id": "idea-4",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【面對AI浪潮，你是搭便車還是衝浪手？測測你的「科技前瞻力」！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-23",
-    "generatedAt": "2026-07-23T03:57:35.354Z",
-    "ideas": [
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "【財經】台股開高走低平盤震盪 台塑集團帶頭衝 「三寶」領軍噴7% - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNN1FDcUlMUVNWTG9fZVB6X0FkckRkSjZmZko2RF9JLWRkVjVWVHhNaFpET0s0T2c2Vkk4Vl9HazRGRjFCVWxMSlBIOWZLTVJCTF9oVWtUSjNDdTlvMThlcFBnUTkteXYzVTJfcnNXUzE2aVRqOWVGWEhRMlhRd0JfUkJxdUROUkt5MW1waExCdFRENWV0UTI0dXFxSWRzUFZFSk9XamtTdjJTNi0xOENHQ3RibzMyWm9jSzV4ejFaMmkwYXEzbEtKdWlzbnRLdUFEVFFUcGFwS0NZcXhyaW5kS0hvOWJhcndRTHM4WGxGZ0FDdFJUckxCX29xbzhxSlg4Mml1VkZuRHpDWC05ZTVvXzNhR3lfOU9EaFVnek02SjR3UTc5U2RBaDRJTllGUXhZOFU2MU9aV1BoRGI2Sy1rNDdWTEpCeEhzSkotUGtpcDRkSmtPeXF5bW1POEJtaWZtYjZiMTJiQVE?oc=5",
-        "theme": "你是哪種「股市精靈」？測測你的台股投資人格！",
-        "resultCount": 6,
-        "style": "極簡質感",
-        "description": "這則新聞揭示了台股的震盪與特定族群的強勢表現，如同市場中的多變人格。我們將股市波動、個股選擇等情境轉化為生活決策題，讓使用者透過測驗，探索自己在面對機會與風險時的真實反應，是屬於「穩健守護者」、「趨勢追隨者」還是「冒險開拓者」。這不僅有趣地連結了金融脈動與個人特質，也能讓參與者在娛樂中反思自身的決策模式。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「股市精靈」？測測你的台股投資人格！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "【財經】〈美股盤後〉油價飆升 標普那指收跌 投資人靜待科技巨頭財報 - news.cnyes.com",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wY3hMSzU5MEpfOUs0LTFqa3lsQVRKakZKc3pPTEZyZkt5NVFJeWNHcElYSTIwQkpCN3kwYXJURkpmZTVZeXlqSWVvUmNJMGs?oc=5",
-        "theme": "全球變局，你的人生「投資組合」是什麼？",
-        "resultCount": 5,
-        "style": "霓虹賽博",
-        "description": "油價飆升、科技巨頭財報前的靜待，這些全球性的經濟脈動，反映了人們面對不確定性時的焦慮與期待。此測驗將這些宏觀情境轉化為個人生活中的選擇題，例如面對突發挑戰、規劃未來職涯等。透過測驗，使用者能發現自己在複雜多變的環境中，是傾向於「分散風險型」、「重押潛力股型」還是「危機入市型」，藉由趣味的分析，引導使用者思考如何「配置」自己的人生資源與心態，以應對未來的各種變局。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【全球變局，你的人生「投資組合」是什麼？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
       }
     ]
   }
