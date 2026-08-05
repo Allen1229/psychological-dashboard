@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-08-05",
+    "generatedAt": "2026-08-05T03:47:28.108Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內政治",
+        "sourceTitle": "【國內】台糖油品部賣的是汽油！盧秀燕遭黃偉哲打臉他補刀：馮京當馬涼- 政治 - 自由時報",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzRlJVS043bUtEZzNqWFUwcG51RzRiajZla2xld2tvb2dkLWY4V1htMEdrRDY3MS14akZqUUlTV05GZlc1c1J0cDBXVDRwVlRvRzNHaTJWS1QxUkVWTDhwN3BKTlBWUE5MMlE?oc=5",
+        "theme": "你的「常識雷達」靈敏度有多高？從台糖烏龍事件看你是否也容易「馮京當馬涼」！",
+        "resultCount": 6,
+        "style": "搞怪幽默",
+        "description": "這則新聞關於政治人物在公開場合對常識的誤判，引發了幽默卻有影響力的政治話題。這與人們在日常生活中偶爾會犯的「馮京當馬涼」式錯誤產生共鳴，也讓人們樂於檢視自己的常識水平。透過心理測驗，可以探討使用者對日常事物的判斷力、對細節的觀察力，以及是否容易憑藉直覺做出假設，提供一個輕鬆有趣的方式來反思自己的「常識雷達」是否夠靈敏。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「常識雷達」靈敏度有多高？從台糖烏龍事件看你是否也容易「馮京當馬涼」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "國內政治",
+        "sourceTitle": "【國內】評沈伯洋競選主視覺 高嘉瑜被趙少康問「怎沒邀妳去？」尷尬回一句 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikANBVV95cUxQM0l0TktpNm5mT0xvZ0Vpc19SM3JFT09OM0JDTWgxVUl0OG94MmpxQUJQVk1Wb0ZNeGN6ckgxN3p0Q0czUFp5UGpBbDM0bFFqMHBUMWkwNUlUXzV2dy1JVHBjYk9YSVNFRHlzeEpKREprZWJtYmZMRjFlQUh6RldsanFsODJJQzB2cjZHTi1DY0FQTFk5dVJUSkI1QktCMkc4ZFhvT0xSOS1fLXRVdmlFZTlVbl9IaWI3LWllSDNqSVBNSEhHWFFzVnNldGttaG5JMXl6N21GbGJTVDJwYVFrWjg3NnpVb3ZMOVlGZC1sNTN3cWNTT0Zsb29rVTNEOWwybVhZTGZ3d3NuRXU5N3FVc25hekhQMTdlZEtXc2xJdGVvTVVoRHZ3b2hZcWV0T2tOQWFoVHlwc3MzcXVISUExMGs0S3NZSG16WHBDTHE4NExPV0R6ZUplTzdrNWtBanBCNEJQRkk4bjdiSnAxZ2JBSHhsaEJkcHh4a0gwcV9pUVpTQlFBb2RUN3JZMTBacm9Q?oc=5",
+        "theme": "當你被問到尷尬問題時，會如何神回應？從高嘉瑜事件看你的「社群應變力」！",
+        "resultCount": 6,
+        "style": "搞怪幽默",
+        "description": "這則新聞捕捉了政治人物在面對尷尬社交提問時的反應，這種情境在日常生活中也相當普遍。基於此，心理測驗可以探討使用者在社交困境中的應變能力、溝通風格以及處理尷尬的策略。它能提供一個有趣的視角，讓使用者反思自己是傾向於機智幽默、誠實以對、還是巧妙迴避，從而了解自己在人際互動中的「社群應變力」。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當你被問到尷尬問題時，會如何神回應？從高嘉瑜事件看你的「社群應變力」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】〈台股盤前要聞〉台指期夜盤一度飆逾1300點、緯創加碼台美越擴產拚AI - news.cnyes.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ybGxRRWFQd0J0d0dSd0NRalQ4RUVFeTRxQU9FTDhNeHc5SnhNRHFuV19tMFExelhYX0hJSk1YMnZGV0NRVF80alBsUE5UZ28?oc=5",
+        "theme": "你是衝浪手還是穩健派？從台股飆漲看你的「投資性格」與AI商機敏銳度！",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "這則財經新聞結合了股市的飆升與AI產業的擴張趨勢，反映出市場的快速變動與新興科技帶來的商機。心理測驗可以藉此探討使用者的投資決策風格、對風險的承受度，以及對新科技趨勢的敏感度。它能幫助使用者了解自己是屬於勇於追逐熱點的「衝浪手」，還是偏好穩健佈局的「保守派」，並對自己在數位時代的商業洞察力提供有趣的分析。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是衝浪手還是穩健派？從台股飆漲看你的「投資性格」與AI商機敏銳度！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】8月ETF配息旺季! 股民等AMD財報 台股震千點收跌25點 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPa3VscnFBQWZwVFdMeEk0LTRnNGhiZG5STG5pZ1dudE5kR3JBYTE5eTMwUHJRUm5wcnlHV2NYRDJMZ01oMkRhM1Nxd0JMQVVzZVdZR0pNY09udjhBdVpHZ244UkpLVXJ2Zk5fWkczeDRfT05fdzFNSWQwczkxblhpN2dpb2JsQ3BUOUpNbEJaYU5sYUxjRVFDLVNTZGJDV0KdVdqczlsMUtoTHZTbGVqT0c2MGZsLUl0dnZZaXdtUzRoYURadGo3bDJadWZ6eHpNd3NnLVdTMFU2SUpaMUd6T08tNk02VzZpRktPV2h1SFdQdzFPdFNCLVBzNVV2R1IwLXJjZzlIUjFJbzVJX1I2QjgybTg3ZkpIQ1l5b0lCTFRXUjRkcU1YaUE0SnR5ZnJ1RktMSG1xLTB3c2ZSOVViUWN3?oc=5",
+        "theme": "你是「股息定存族」還是「成長捕手」？8月ETF配息旺季，測測你的「財富累積策略」！",
+        "resultCount": 6,
+        "style": "極簡質感",
+        "description": "這則財經新聞結合了ETF配息的穩定收益與個股財報（AMD）及市場震盪的不確定性，反映出投資者在追求收益與承擔風險之間的權衡。心理測驗可以從中切入，探討使用者是偏好穩定現金流的「股息定存族」，還是追求資本成長的「成長捕手」，以及他們面對市場波動時的心理素質。這能幫助使用者釐清自己的理財觀念與風險偏好，進而優化其財富累積策略。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是「股息定存族」還是「成長捕手」？8月ETF配息旺季，測測你的「財富累積策略」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      }
+    ]
+  },
+  {
     "id": "2026-08-04",
     "generatedAt": "2026-08-04T03:52:51.895Z",
     "ideas": [
@@ -588,78 +638,6 @@
         "description": "無論在職場還是人際關係中，每個人都有獨特的潛力與價值。這個測驗將透過多種情境，分析你最突出的能力、特質以及可能被「發掘」的領域，幫助使用者認識自己的優勢，並思考如何在不同平台展現最佳狀態。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「潛力股」會被伯樂看見嗎？測測你在哪裡最有「交易價值」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      }
-    ]
-  },
-  {
-    "id": "2026-07-28",
-    "generatedAt": "2026-07-28T03:50:23.131Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "藍號召8/1上凱道「反毒酒駕」民進黨籲立院盡速完成修法",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOMnllc0JqV1FuZFhrMVFXQ1FhYVRTdGlnVjlqZkg3Q0x0YktFazA3dGR4RUpBZGtVUmVPazI2VFE5aGNnWl84MVd4YmxJUTRlUmY3WXpubHhkRVA4WVNRaXBhZ1lPTmQ1d0dTSVoybzUxbUE3dGh2SEpZY3hSWUpIYk5LZ3htTm4teTMxZVBLUnV5NXVMWDFwV3A5cDBfMDd1RFJGbmZIRmZjUS01RWRHWHNMT3p5RktaQ2YzOGc3M2lQX1c4Uk1zOFowTFZCd1JQTlEzRllOa0tEVlNfSlljRHhjMGxDcjdzU1pscl9DWW5Pbk82X3hIVXZWQ0Q4WlZMUDhmZ24wNEhHQ05xN2l2ZVRyb3Fwdm1ROWVQNEUxaGh5NVdmQ1lDMTdUbUpkRTBTQWtQN1NsZWFtQkdXeU55Xy1tQU5mUzJyRzN6QTh6UmRfaHJ3S3BTam84WUZ1VkZDeVE?oc=5",
-        "theme": "你是哪種正義使者？面對社會議題你如何表態？",
-        "resultCount": 6,
-        "style": "懷舊報刊",
-        "description": "該話題涉及社會正義、公共安全與公民參與，能引導使用者思考自身在社會議題中的角色與態度。測驗可透過情境題，分析使用者是屬於積極行動派、理性分析派，還是以身作則派，讓他們了解自己在面對社會不公時的反應模式，並帶出對議題的關注與反思。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種正義使者？面對社會議題你如何表態？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "被查水表也不怕？萊爾校長製作人再推影片「油萊油去查水表遊戲」",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaS01Ed1FSSFkwTWI1YXdfaWtvX3hBRVVROFhHS2hBUHZrSjNBRTdheWwtTVRYb3F1VlRHVVpqUmVpa3lESWRhRXIxQ0FYT3NaU0Iw0gFYQVVfeXFMTXB6T1pLTHhzSmg0S2puVmh1NGpBYjNyaWttVE0xT0o4M2pmUkE0UW5DVGNqVjI3YnpiTFVkNVdrOTRHVmVjTDZKNFp3b3NyRG1FN2pDWEp1bw?oc=5",
-        "theme": "你是網路迷因製造機？測測你的病毒式傳播人格！",
-        "resultCount": 5,
-        "style": "搞怪幽默",
-        "description": "該話題結合網路迷因、諷刺文化與創意內容。測驗可以透過模擬網路情境或內容創作選擇題，分析使用者在網路上的表達風格、對爭議話題的態度以及創造病毒式內容的潛力，讓他們在娛樂中了解自己的網路人格，增加分享與互動性。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是網路迷因製造機？測測你的病毒式傳播人格！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台股盤前／油價回檔費半續弱！台指夜盤跌708點 台股今開盤恐延續修正",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPRkhDejdNbWtieUZ1a3htUG45cUlkeWs5TDlKU1N5V0ZBYVFURmhKOG1OYUM1S3BkNklLZzFHYjQ0RkdMdl9NVk96ZFM2Y3FBNmNDX1ZHZ0VHX0JCbmw5VTl2NXJ6aGVyZjgxSUdhQUNZZGVYRjd6VXJCTXdob3BsdEpaRWZ3bUIxbWFhUXNvWTdHQWMyZEtmMERMVHFCTU52R0NZZWFXcmtEOVVZRTJmeVM1RzVLWHlSWkNFd3QwdDZqQ1pEa1I0R3ZuVEFoWUotQnBMRlM1aUYwdzZ3SmRxa2std1Q2RkdSbWNleTIwbUhhMWdna254REQxMFlrU2tlY3RMU3p1UnNlY3gzMlNQMzlTRzM1SlpPN0RjVlVrLXRScnV5cnRJdXgtWTFrNFZySmo3WDdQbFNtaUJFbjQwdkhIaEJyNGpWM3Fya2RPUDlRR3RiQ1BGNE1ZU1Q3UGVwR0pLU0x3NVNtRTJCUXdOeVJYRFVSQUw0U2ZkQURIeC1XVW1qVWpETzNvRTdoWjZ4Ymg3U3U2Z0FibHpOYlAwT2xpM2Jwc1BhREhN?oc=5",
-        "theme": "股市震盪，你是哪種投資人格？測測你的風險承受力！",
-        "resultCount": 4,
-        "style": "科幻冷冽",
-        "description": "該話題關乎金融市場波動與投資者心態。測驗可設計情境題，讓使用者模擬在不同市場狀況下的決策，從而分析其風險偏好、投資風格與情緒管理能力，幫助他們更了解自己的「投資人格」，並在面對市場變化時有更清晰的自我認知。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市震盪，你是哪種投資人格？測測你的風險承受力！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台股拉出逾600點下影線 外資回補80億元偏愛群創、聯電 三大法齊買金融股",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kRDh0aHBJTGxXLUp2QjJ4V2tZbGI1RlZLZW9uOGZMVjlkVVQ0a2ViVngyZXJFT1U0bmwtNzQwQU5Ma0J6b3RYWFN5T3FSZEk?oc=5",
-        "theme": "從台股反彈看你的「選股直覺」！你是趨勢追隨者還是價值挖掘者？",
-        "resultCount": 6,
-        "style": "極簡質感",
-        "description": "該話題展現市場反彈與資金流向。測驗可透過分析使用者對不同產業前景的判斷、對新聞資訊的解讀以及投資組合的偏好，揭示其潛在的選股邏輯與市場敏感度，讓使用者在趣味中洞察自己的投資潛能與偏好。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【從台股反彈看你的「選股直覺」！你是趨勢追隨者還是價值挖掘者？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "輝達內鬼現形／盜賣AI伺服器案情升高 輝達經理涉放水助中取得B300晶片遭收押",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPWUo5S241Z3l0c2xfcFB4MjFOTmUxVFdRdVZyejA0MnMxSXN5VF9EbkROSHJDWWtvSGlnNTJCamxDUlY0d1NXcVJmNDFDcGZaZTBWZ0tZTzM5U1VBV3FIbzBJc1JTVGxTTjk5SWFuSVMyZU9JQUx3TThoa1hxWG42Z3l4eUROWWltNzE5X09DTXY2eU9DWk5kTThvVWYzSHlDT1lCSUpDQm9hZG54bk8wLTQtdE16T3IzWHl4VWExUEY3X2U3OE1hcWtudTZXZC1DWlo5ZmxQSmNGZzItSDVaQ3ZOYTJOMHpBTHJRUXg5VVVYeW9OWGVreWNhWkxEd1Zqdjd5dlExYnZlV1Vsd2kyY0NjOFNJaEcyeW1haGE5VjdiM0Roc19laVNuc2c2AXVrd0ZHMVdhc2NDbnRMREFNdzhGZzRBSlEwemdYWkU0V2REOVVHX3EzdDZIYUd2TGctcG16RUxqTGxFS0UtUTBwMXBCS1lrMkpNZVBHRXBiajBYTUNxS1ppRVRJM3dRZ0RUUTRPOVRGTnRiQnB2OU9XQ3M1TloyNDFvbEFxVWdXb1ZMcTdTUi1mU2xWbTlmajc0dUpCeXRyTW0zRjZJdC1qOF9n?oc=5",
-        "theme": "你是科技間諜片的主角？測測你的「職場求生」與「道德底線」！",
-        "resultCount": 6,
-        "style": "驚悚懸疑",
-        "description": "該話題充滿科技、道德與懸疑元素。測驗可透過設定職場倫理、國家安全或利益衝突等情境題，測試使用者在壓力下的判斷力、忠誠度與道德觀，讓他們在緊張刺激的虛擬情境中，探索自己的職場人格與應變能力。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是科技間諜片的主角？測測你的「職場求生」與「道德底線」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "不是AI！一票人早上出門驚見「飛龍在天」 真相曝光",
-        "sourceLink": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPY1NYWVhSYm8xNnZWaFRNQkI1Q1dXRXZLdy1zVjR2a1kwRGJaRjZyTFZZYmI3aHJWbG9Id0xZdXEwSlk0dGZhYWQ4RE9MU0VYWFdVNWJIZ2tES0lzTGF6TTJMSlp5cV9zRzlMNkhnUFpVb21JTjBBXzVIb2Q0d3pxN280OHVRMFQ0V05nUnR2SHJGc2o0RjZXTHJIeDRySDJ2MEJjckIxeTA0RmhQNm1aY0gzRmxiU2xpdGFkTUh3V1k2R3JUdVRIWUE4ckNpb0VWTDEzZE1Ga0x1OVVndVlCLTd4cGJIbjg1ZmQxWVJqLTY3Q243Wll6Z3FucVRFaDlzeXhWVnJhd3hYM1FLc3BsRFUzSklGQ2pCRS1IZklCelZfWkpRMHdySDdmUmFiOFhRSEE?oc=5",
-        "theme": "你是「眼見為憑」還是「追根究底」？測測你的觀察力與求真精神！",
-        "resultCount": 5,
-        "style": "夢幻蒸汽波",
-        "description": "該話題結合了視覺錯覺、大眾好奇心與對AI的討論。測驗可設計多種視覺情境題，引導使用者判斷眼前的現象，分析其觀察力、理性思維與想像力之間的平衡，趣味地揭示他們如何解讀世界，以及對未知事物的好奇程度。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是「眼見為憑」還是「追根究底」？測測你的觀察力與求真精神！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【夢幻蒸汽波】"
       }
     ]
   }
