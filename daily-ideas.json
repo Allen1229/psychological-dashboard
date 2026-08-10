@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-08-10",
+    "generatedAt": "2026-08-10T02:55:50.017Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "掌聲背後都是箭！王必勝憶陳時中選前夜「淋雨道歉」：是對事理的明白 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNM2ZZM3NVM2dIWjVoWmxDazFzSUVMNGtpbTNQVWhsNmdxX0I1enpIdkhMRWJRUFJDWTZhanhHWGNnMGhNQXB4NWIyR01wYUIzOTB1bjdDVUE5X1ZBZXV2aHktNVByemF0QnBiLTE4cWlxYTdmN1RfRFY0R3F6MjNwY0xCX0I2MUx6X0x6QXVFQjhNZzJfaXB0cVloNWNiWlZlQmtWcGVRVC1HMnNUVVZmQlFFQjRWeXNhREs4QjQwUUNhOVdVbUlzUmlRZmxwS0ZuUDF4a2xwMkp0SGJtSVBWVHpsaV9ad3lseFpXRmlrTkNaZEJvd3o2RjZqbXNydm03T1F3QjUzb3FCOURIV1pHaHlrRlhHakFpY3h2T0hdelRvQjhrRUw3R0lXWE9TWWlwUlg2dFZIYXFxRk42cTZuVXpLLWVJa05hU0Z0cTNWbkxFajl2Nm9adEVYUkRSMEFiZ0tkWE9QM0hIZWVTS0JLQUVmRTB0cm5XUnlGV01Qako1TmMzUXhXc2pRa251WlVvZ0RxdjhGcldxNnlXZlVwcFpzUHFfc0E?oc=5",
+        "theme": "你的內心是鋼鐵人還是玻璃心？測測你在壓力下的抗壓指數！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "這則新聞描述公眾人物在巨大壓力下如何面對指責與挑戰，以及展現出的堅韌。這個話題能激發人們對自我抗壓能力的探索，讓使用者透過測驗了解自己在面對逆境、批評或困難決策時，是選擇堅強面對、理性分析，還是容易感到受傷與退縮。測驗結果能提供有趣的自我剖析，幫助他們認識自己的心理韌性，並思考如何更好地應對生活中的「箭」。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的內心是鋼鐵人還是玻璃心？測測你在壓力下的抗壓指數！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "鬧大了！ 不爽配合中國 李逸洋缺席長崎原爆紀念式登多日本主流媒體... - Newtalk新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CZUZzOU1HWVlKNFpxWUd2S2RjWXNtWTY5U2wyTXdqS3BBcWtxaFlzMkFGQmJ4blVRdmk3V2kxREhxcXhleUswTDNFTWo0R1Awa2JmMGlyV1NaY2c?oc=5",
+        "theme": "當原則遇上妥協：你的『不配合』指數有多高？",
+        "resultCount": 5,
+        "style": "懷舊報刊",
+        "description": "這則新聞凸顯了個人（或代表國家）在面對政治壓力或原則性問題時，選擇堅持立場的重要性。這個測驗能讓使用者思考，當個人信念與外部要求產生衝突時，他們會如何抉擇？是堅守原則、勇敢表達異議，還是為了大局而選擇妥協？測驗結果將揭示使用者的「底線」與「原則性」，幫助他們更清楚自己的價值觀和決策風格，帶來自我肯定的趣味。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當原則遇上妥協：你的『不配合』指數有多高？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "神隱19個月復出！蘿拉發文遭酸「詐騙集團回歸」 她直球回應了 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQQjB6RXdWOWhSb0lMT1JuTkR4bmFXT250LVhMSVBRTnp6SnA5RG5QNzNDTi1ETldIWkgyWjlkUnhEbGt2cDhwbVVDSmRxTVhtTElqZnc5Z2c1NlNjMWJOMzhia1l1aXlXZnRPT3ZLQm5tTTFVOEh0V01JR1N3VVRlTFpBenU3RFBIY0FsWXdQb0Ezd0F1RVRSYVU3VjVPaVFqVE1WaFdaZzNWbndZMnhyblBjQk9vclYzMHZlWWFfVHlsUnhjMHZES3gydXhsRzZfYmplYXR1NFplcDd6SmNkWFF1akhsekN2TnNrYURhU1U0UWV3UEtZa2YzZzlmR3VaVXJPc01ZenFPdmd6MVEwdHFBbU5HUmJTS2JnOTZsbTRLMWdBamlsNjBRNVdIS2tLSHVkNXBKVU9zNk1BTkJhbGU4MnpGN1BBWHQxSTNLVXFWUURqTktLTHJNVXUyVGR1Q2xTaXBMUnR6R0U1ZzFOcGdkTFN0Q0ktMVE?oc=5",
+        "theme": "面對酸民攻擊，你的網路抗酸體質有多強？",
+        "resultCount": 6,
+        "style": "霓虹賽博",
+        "description": "這則新聞聚焦於公眾人物面對網路負評與質疑時的應對方式，以及從錯誤中重生的勇氣。現代社會人人都在網路上，許多人也曾被酸民攻擊。這個測驗能讓使用者反思自己面對批評和網路暴力的態度，是選擇「直球對決」、坦然接受並改進，還是感到受挫、選擇逃避。測驗結果能幫助使用者了解自己的「網路防禦機制」，並提供應對策略，帶來既有趣又實用的自我保護指南。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【面對酸民攻擊，你的網路抗酸體質有多強？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "和周子瑜、葉舒華一同競爭 台灣林莎首度入圍全球百大美女 - 噓！星聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vOGJPVnJFQ2hucXpBcW9Id3dyRVpINnR1dGdta0xVUTA5YlF6Z3FRWjhGVTNuRHhOVmV4V2drSVNBemd4YUhxTFJJRG1DTDVmeTJhcUlzNU84QdIBX0FVX3lxTFB0RHAza0xocnBhbkhXUUJadUoyZGowWkZOUzJWVW9nLWFmdk1LSnVQSlZSOGd3S1hOVGYxOHRvU2pQNUluSWd0YndLMFlsNlhYa3laUVZ3RXZHOW80WFY0?oc=5",
+        "theme": "你的獨特魅力是什麼？測測你在哪種人群中最閃耀！",
+        "resultCount": 4,
+        "style": "唯美浪漫",
+        "description": "這則新聞是關於一位台灣藝人入圍全球百大美女的肯定，凸顯了個人魅力和被世界看見的機會。這個話題能激發人們對自我價值的肯定與探索，讓使用者思考自己最引人注目的特質是什麼？是外表、才華、性格還是其他隱藏的魅力？測驗將引導使用者發現自己獨一無二的閃光點，並將這些特質與不同的「魅力原型」連結，幫助他們提升自信，享受被「看見」的樂趣。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的獨特魅力是什麼？測測你在哪種人群中最閃耀！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台指期站回四萬五 台股本周多空交戰、迎MSCI季調恐調降 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNcnc1ZW1MX2FPMlc0cTgtdXpCaHZQX2N0dWctVFRDS2mtejBTR3BMTk9oam1FZVpwSUZ6RHgyREV4eUFGSVRCZUJYb2xGNDlUZlpVUEFjS21DZHc4LUlfM2UwcGdueEo4bnNMWk5nZ20wdzJrRDBRVGtCWDlBU3FBSm5GRnpyZXZ3d3pKd2dyU1AyWXJaZDFFcXBJSzJSZUFFWXltV0VFM2JYakRPSVpGQUVHRmt2NmdYYkg0M2hWMW5tNkFEbUJsZjhnRUxGcEd6SmJEYkhJcnlaNnNoQjRvQXV0X2ZtZHBTb25hQjdiSVVTaS10Q1I3d1VCUDE5RlJkbWl2ZDBJNFRSN0ZNNkdPa3YzTVJnMEZWOFNTZEhqMTF5Um9JWFRMMWdlQW5FdlVnc1dKdTBMY3h6MnlJZVoyVXhBcDZVWW02TUpYb1U0UXpWd0wwV0JtTnUwaURWY2ZzUkt3?oc=5",
+        "theme": "你是『多頭衝鋒』還是『空頭避險』？測測你的投資風險偏好！",
+        "resultCount": 5,
+        "style": "立體拼接",
+        "description": "這則新聞反映了股市的多空交戰與不確定性，是投資者決策心理的縮影。這個測驗能讓使用者透過模擬情境，了解自己在面對投資風險、市場波動和重大消息（如MSCI季調）時的真實心態與決策模式。測驗結果將揭示他們的風險承受度、是傾向於積極進攻還是保守防守，幫助他們更清晰地認識自己的投資性格，帶來理性分析與趣味探索的雙重體驗。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是『多頭衝鋒』還是『空頭避險』？測測你的投資風險偏好！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【立體拼接】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股盤前／非農爆冷成利多送暖美股！台指夜盤漲736點 台股今反攻有戲 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQU1h5UWowRExFYXB4ZUNCS3lSUVg5X3g2OFIyQjBWcE5VNmxpWmFkQkU3eUJpVE1KVGh0NXJ4R1ZRREZ0a1JkdDVpMG8zUTAtd3labDQ1SlZ5d0U3V0tIOGpHWEdxVnVxQ280T3d4YzVrNWRxUW9DYjF2eGg3Unl0ZGkzcFRQNjhHZTMwQk9vZk9JdDRCMEFZRDhPM2ZZVndCSlNLWXZkWV9JVXA2Skh5dV93TEZ2YVQwY0RQTVctbFN6cnM5U3czMVI4RHpkXzZrOHFrd0w3TWZoX3pDSmMzZndpemdvLTVrMnRLTFlYZ0poX0NhN193ckg4UHk5R1ZEVTYyb1NnY1ZmUkljb1htMGtjRk9taXg5cmFiQjExVnNrZEY0Q2Nhd3AtTFNiOGdVc0ZrdTRoNzdaWE1ka1dyXzR1eER3Uml2MF9LYkVzTEc5NmdsUlFiQkcyeXo2Q0tOaS1hbjlYeFBVN0FxSkJET0x3RkszNWJtSHJ0WEpxNGxIRk83bmdXNFJvWVg2MHlsNTVGd1E3QjlrX0p5RmdXVW1BTlo1Mk10TWdCLTA4YUh0SGpCdDY3c0h1NzZGTVlo?oc=5",
+        "theme": "你是市場中的『逆轉勝』玩家嗎？測測你如何捕捉意外轉機！",
+        "resultCount": 4,
+        "style": "美式波普",
+        "description": "這則新聞描述了股市因「非農爆冷」而意外迎來利多的情況，展現了市場風雲變幻與抓住轉機的重要性。這個測驗能引導使用者思考，當生活或事業出現突發的「意外利多」或「逆轉機會」時，他們是能敏銳察覺並果斷行動，還是傾向於謹慎觀望甚至錯失良機？測驗結果將揭示使用者的「機會嗅覺」與「應變能力」，讓他們在趣味中學習如何更好地把握生活中的「反攻有戲」時刻。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是市場中的『逆轉勝』玩家嗎？測測你如何捕捉意外轉機！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      }
+    ]
+  },
+  {
     "id": "2026-08-09",
     "generatedAt": "2026-08-09T02:38:44.964Z",
     "ideas": [
@@ -500,78 +572,6 @@
         "description": "AI科技與市場競爭的激烈，讓「適者生存」的法則更加突顯。這則新聞點出在快速變化的環境中，如何保持競爭力並脫穎而出。心理測驗可讓使用者思考他們在面對挑戰、淘汰壓力時的應變能力、策略思維和風險管理模式，分析他們在AI時代會是哪種類型的「倖存者」，提供有趣的自我定位與省思。",
         "id": "idea-6",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI時代的生存法則，你是哪種「倖存者」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-02",
-    "generatedAt": "2026-08-02T04:08:03.495Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "5月早揪出致癌油！中聯廠長蓋牌壓不住才通報 他嗆：因盧秀燕8年都不驗 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNdk5LSm1PZEtUemo4eTVTX2JMVGFEZ2pBLW02MzI0Q3BOWjM4V2ltaTduaU5yTUN0MjM3NndyaUxfQWp2Qm9LRUs0WFR1U0lSdjhPVDdoeVpvczNBc2xPX0tMUjBjdzNEcnZFZXNwYk15MnZVcUl4RXBXd1JFYUh1c2huZE5QdmJCYzFMZ2MzTS02RlJTQkFyNVNzUDVuN0pzZ0tDTzN2dHUzdFdLWF9WeGVwWFB5T2tMTXVadjZ1N2RjVE9TZkctdWY5SVBjdW85Njd2R0l0SENEYWpiSTdBdENfNGhfS3pFQzhOaXktaTZBV2FESTlGakZESDE5UEdZVW9rMFZpaS1yeG1UaVNnSlhRenI4M1l6bHI2N2VlU0VWdWxkSmIzMU1zT0daVGV6RFBiTHFGNkdWVlVsdkZTODVqZk9scUJEaDFvTUhkOF9PLWZ0RFFjSnZ6NkhQV0YzdUd2MGR0ZXhIUTd3Q3JibkgwMmp4SGNMWTdHY1VZME5MbG5XWVowekJfMnlJcW81MFNFUUhXSGtHNzJjUFozOHVzb01ZVDBLREJHN2s3Y2Q2NXk0dFE?oc=5",
-        "theme": "「食安危機！你是能揪出黑心油的『食安柯南』還是『佛系自求多福者』？」",
-        "resultCount": 6,
-        "style": "驚悚懸疑",
-        "description": "此話題引發大眾對食品安全與企業良心的關注。心理測驗可從使用者面對食安問題時的「警覺性」、「信任度」及「處理態度」切入，例如：是會主動追查真相、積極檢舉的「食安柯南」，還是傾向相信官方、隨遇而安的「佛系自求多福者」。透過趣味情境題，讓使用者了解自己在食安議題上的心理傾向，並提升大眾對食品安全的意識與討論熱度。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「食安危機！你是能揪出黑心油的『食安柯南』還是『佛系自求多福者』？」】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "美重量級訪團挺台！美議員大讚台灣「GDP成長逾10％」　曝1數據全球羨慕 - 三立新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wbzh6eVNtSnhaMEUyYWY5QklyaUxQRDEycWRPRE55aGVZbkRIZ1k0TUZRcWdkOGNnbEFRYlRVMnh3dm1FWGJTQtIBTEFVX3lxTE9LZUpRNjJ5SGdlMzNiVjFpU1N5Yy1ya2pSSEFOWlVPWXdwOEEwVXRkOE5GMzVMbml5RXcyVnZsaXNMX1RFVXhjem1GVEQxNnh?oc=5",
-        "theme": "「你的『人生GDP』成長率有多高？測測你是哪種潛力股！」",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "台灣GDP成長及國際讚譽帶動國人榮譽感。將國家經濟成就轉化為個人層面的「人生GDP」，測驗使用者在學業、職場、人際關係等方面的「成長潛力」與「價值」。例如：你是屬於「高成長爆發股」、「穩健配息股」、「被低估的潛力股」或「波動型風險股」。此測驗能激勵使用者反思自我價值與成長空間，並以輕鬆有趣的方式連結財經話題。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的『人生GDP』成長率有多高？測測你是哪種潛力股！」】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "《九門》沒毀經典！10部超難得「續集沒崩壞」陸劇！這部豆瓣9.7分比《甄嬛傳》還高！ - BEAUTY美人圈",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01ZHJZQXdhemlucXN4cW1fUnltNXNGMmp0X3c1b0FUdXB2bDdUT0plVHdZbVNsLWM2dmRqR285Mk5hNGc5clB6OWFLdFLSAVJBVV95cUxPN2NjN2YtRVJkblliQ0owRFFUaE5ZVmFkNGRBUXhqQVFmS09ZeXhLeURvM1diTmI2X2xGdkltcXFJOVQwNmQwTnYtTHR5NHl3OVJn?oc=5",
-        "theme": "「你的『人生續集』會不會崩壞？測測你是哪種『神級續作』！」",
-        "resultCount": 7,
-        "style": "底片膠卷",
-        "description": "戲劇續集能否超越經典是觀眾熱衷討論的話題。這個測驗將「續作崩壞」概念延伸至個人的人生經歷，探討使用者在不同人生階段或挑戰中，是能「持續精進、再創高峰」，還是「原地踏步、甚至走下坡」。結果可能包括「超越經典的傳奇」、「穩紮穩打的佳作」、「稍嫌平庸的續篇」等，讓使用者用娛樂角度審視自己的成長與挑戰，引發自我反思與分享欲。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的『人生續集』會不會崩壞？測測你是哪種『神級續作』！」】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【底片膠卷】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "李千娜親生女兒22歲了！母女同框根本姐妹 超級凍齡看不出相差19歲 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMinwNBVV95cUxON185dGt4Nlp3SmpVTnBWbVNSdGcyQWN2NTlzdFY0NTJKNTBXbkZFX014X2FOcE40TEtEeklnYnNPMEI0RG05VWo4SDJ4RUpUekdzYUhURjV3WExZcERFVkZ1WUtESFRpZFV1VHRLcnM2V0JPME5RRGVrd0RxMVpxdnVKZU9ULTJvVXlwcEotNUJQRGFSRzJ0SmRfSEMtVVNNcTcyZlJmeUpVSF9xSHVLMzlVUlJqQzlOZ0ozeDlaUVVUMkF0RTJQekRpWWk3bHVOdnc1VGYwSkYteGhjMkhsa0JwY3YtU1lEM0xNSFBQX0VqRXQydWoyaGJ6UUY4aGVkTE44N0YtWWExOE9KLWk5b2t2X19oZmg1Zzd6SkhadVc4VXVtSWRUZFFyZ3NEdUZ0M0JmRi10eFhwMGJ3QVQ1SDhnUmEyMlE3bU5sYWVNX1ZQTy0xZUZHMS1hN0cxN1NHWnlEb3pVTjZsVWhvLVRTeW0yR0xjTUdvZ2ZhUlFpQUVVU2tqTDM5d2plVVkxLWFFVFNsbXU0VnhmeGVrZ0NJ?oc=5",
-        "theme": "「你是哪種『逆齡女神』？測測你的凍齡指數與秘訣！」",
-        "resultCount": 6,
-        "style": "唯美浪漫",
-        "description": "「凍齡」是現代人追求的夢想與話題，此新聞引發對保養、生活習慣的討論。測驗可從使用者的「生活作息」、「飲食習慣」、「保養哲學」及「心態」等方面，分析其「凍齡指數」與類型。例如：是「天生麗質幸運組」、「自律養生修行者」或「心態年輕凍齡派」。提供個人化的凍齡秘訣建議，滿足使用者對青春永駐的渴望，提升社群分享的誘因。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你是哪種『逆齡女神』？測測你的凍齡指數與秘訣！」】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台積電狂漲恐變拉積盤　專家喊「4檔黑馬先別賣」 - ETtoday財經雲",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Yc3d1aUZaWWNlRWtEXzdtdldCc0VwNURSaXNYUlMwLUttSGVwUUwxNFFSSXRlRU5HZTVOMlRSQzlLajg3c2xuaDdDYVFGbU1Ud0HSAVBBVV95cUxPTU43U2JJSnNYamtzcnVXRnFYMklVbWZiWl9CTUt5X1ZhODlVM2hDXzZvZnlkbnJSblBjNUtza3FYbGZleUdlcGE1VVBtR044Vw?oc=5",
-        "theme": "「你是哪種『股市黑馬』投資人？測測你的潛力股特質！」",
-        "resultCount": 5,
-        "style": "霓虹賽博",
-        "description": "股市熱門話題，特別是「黑馬股」的追尋，是投資者津津樂道的主題。此測驗旨在分析使用者的「投資性格」與「潛力」，從面對市場波動的「風險承受度」、選擇標的的「眼光」以及持股的「耐心」等方面，將使用者歸類為不同類型的「股市黑馬」投資人。例如：「精準狙擊型」、「穩健成長型」、「大膽冒險型」等，提供趣味性自我認知，並引導對投資策略的思考。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你是哪種『股市黑馬』投資人？測測你的潛力股特質！」】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "槓桿破裂爆恐慌！台股還有行情？謝金河全說了：全球8月看這2檔 - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQQXI1UG1QaUdvWGhId1ZuRmVLM2JEalBXVklic2hoalNwVGxWY0FVWXl5ajhnUFU0VDM2QjZXTmlNbERwckFNS1FwWDZsXzkyYUJrVkJTMjRabnJWNm9jaHRFanZoRU8zZS10aGJSR3B2WjZyZGlxYTdJVDk0TDdGRkNzSVpzNmdoeENWSUVVQ1RJOGlXREV6RkZtTGp4V0dkWk9kMUstOW9JVEtrSnk0emZUd045MGlCei1vQlBjQ04weFJhdzNBWDRsR3F4V19YY3hTMTJKbnlTMjhfRFotcDJzdW5ZNWlQMjJicXhzWTdSXzlNckEwU1NZa3k0amczMDlvOUxJUGlqUmJJZU4wamxRNVk1bjZlaG9KMkwzdDVwQ0s3LVFQdUxnYXlQYlNBVDg1MjRsM2VQOXJXeEZ0Y3dkd3RPUHBmbnVVYk40S3JfZFQweFRqYXpiS1ZnUVdLVlp2aVVHVVN5cTNjTmRKTE5vVUZIRUc5cW5QU1YxbHZRcnVRSVlmZ0dDU0VQQQ?oc=5",
-        "theme": "「股市崩盤你還Hold得住嗎？測測你是哪種『壓力型投資人』！」",
-        "resultCount": 6,
-        "style": "驚悚懸疑",
-        "description": "市場恐慌與波動是財經新聞常見情境，此測驗聚焦使用者在面對壓力與不確定性時的心理素質。透過模擬股市崩盤、投資失利等情境，分析使用者的「情緒應變」、「危機處理」與「抗壓能力」。結果可能分類為：「冷靜的危機獵手」、「穩健的避險者」、「易受影響的跟風者」或「情緒化的恐慌者」，讓使用者在趣味中理解自己的風險承受能力，並帶入對市場情緒的思考。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「股市崩盤你還Hold得住嗎？測測你是哪種『壓力型投資人』！」】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
       }
     ]
   }
