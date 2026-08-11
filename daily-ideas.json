@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-08-11",
+    "generatedAt": "2026-08-11T02:38:27.800Z",
+    "ideas": [
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "盤後／台股漲702點買盤回流 友達、群創漲停原因曝",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNWVM5bl9XVTYwQmpINDlLd3ZUcmFQTk81ZVZqSVloSldZVVBaeXJUQjZRdkhiUFlWeHBtQ3BCU2JjeS1GV1F3OXd2T2QtM3dyVWVyTXFWLWxNRkVDSkJnT204SVBOd2lGNk9sckdzako2Y2hMT3FiMndNUGFiLTVDekZSb3VqZ0d4czc1NVl6M0IzdmFHS19DR2ltTldJUk1OY0owRGJIY1FUc015TUpJYnZJZ0NKWGxSOW9Wb3dGLVFUN0ZfV1JnTnJYaUxFMkt3WnE4M0xYVVBBS2ZOb2lPZzJjak85UnpkSU9aMWFyeWxmRFQ1aEJaZXBrQ0N0UnZKV3BlQUZKZ0Y3bHBLNzI1N1dVZGU3NG9ndkNUemw1UHNlTDlGNjQ2ZFBFVFAzTjFUWjBlcS11OXJtUWRLbmVV?oc=5",
+        "theme": "你的投資性格是什麼？你是穩定型、成長型還是飆股冒險家？",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "股市漲跌牽動人心，人人心中都有一個對投資的期待與策略。透過這個測驗，可以讓使用者了解自己在市場波動中的潛在行為模式，是追求穩健獲利，還是樂於挑戰高風險，追求飆股。結合近期股市熱點，引導用戶反思自己的財商與心理素質，並提供趣味性的投資風格歸類，增加社群分享的誘因。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的投資性格是什麼？你是穩定型、成長型還是飆股冒險家？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "聯茂等18檔8/11打入處置 聯發科等49檔列注意股",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80S0YtR21ZQ3pia3pzQzZpYmRvbU5hWXY3RTdIbHdwdWpDMWpJcGl1R1hrTUk0dlVYS1lfM3NsUDRkTDFKT0lRNExvOW1EMzFIY3Ytd0lkdU42dFNoRl9N?oc=5",
+        "theme": "你的風險承受度有多高？在投資市場中，你是衝動派還是謹慎派？",
+        "resultCount": 5,
+        "style": "懷舊報刊",
+        "description": "股市處置股與注意股的話題，正好反映了市場中的風險與機會。此測驗能讓使用者檢視自己在面對潛在風險時的反應，是會選擇避開風險，還是敢於在「受注意」的標的中尋找機會。透過情境題，引導用戶思考其決策模式，是衝動追高殺低，還是理性分析後再行動，提供實用且趣味的自我審視。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的風險承受度有多高？在投資市場中，你是衝動派還是謹慎派？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "《成為塔防遊戲的暴君》將改編成遊戲！網禪公布《塔防暴君》IP 改編新作《PROJECT D1》",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1adm9mbloxb3ByZzdrZHItVjh5X2t0VmluU2FsOFgyQzNPeE45OGJmT3AzOFhJelI1VlhKbDdDN2JMamItVmtJN3JDY0lJaFJJN0c2NlRsdEM?oc=5",
+        "theme": "如果你是塔防遊戲的暴君，你會如何守護你的帝國？測驗你的領導統御風格！",
+        "resultCount": 7,
+        "style": "奇幻魔法",
+        "description": "塔防遊戲結合「暴君」的角色設定，創造了一個充滿策略與權力的情境。這個測驗能讓玩家代入遊戲角色，透過假設性的防禦策略問題，探索自己在面對威脅、資源分配及團隊管理上的領導風格。是強調絕對控制，還是更注重智慧佈局？測驗結果能以幽默的方式揭示使用者的決策傾向，增加趣味性和討論度。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【如果你是塔防遊戲的暴君，你會如何守護你的帝國？測驗你的領導統御風格！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【奇幻魔法】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "輝達揪華爾街六巨擘籌逾5,000億美元AI基建資金黃仁勳：沒一家拒絕| 全球財經| 全球",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wdFBwWVFTdjYyQURSTDV2NzhkWHh0Y1FfNUhfTkpMZC1JS0gyX3UwZWRyd19JSkFEQzczd2JQRlN1NlBiWUxUN1NmeUdaUl9r?oc=5",
+        "theme": "未來AI時代，你將扮演什麼關鍵角色？測驗你在科技洪流中的定位！",
+        "resultCount": 8,
+        "style": "霓虹賽博",
+        "description": "輝達攜手華爾街巨頭投資AI，預示著一個科技驅動的未來。這個測驗旨在讓使用者想像自己在AI時代能發揮什麼樣的作用，是引領技術革新、掌握數據洞察，還是成為倫理守門人。透過情境選擇，幫助用戶探索自己在未來科技版圖中的潛能與定位，滿足人們對未來的好奇心和自我實現的渴望，同時緊扣時下最熱門的AI趨勢。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【未來AI時代，你將扮演什麼關鍵角色？測驗你在科技洪流中的定位！】\n2. 結果數量：8，並請自行根據主題設定 8 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      }
+    ]
+  },
+  {
     "id": "2026-08-10",
     "generatedAt": "2026-08-10T02:55:50.017Z",
     "ideas": [
@@ -500,78 +550,6 @@
         "description": "當團隊面臨緊急狀況或戰力短缺時，如何快速有效地補強是關鍵。這個測驗將透過模擬各種團隊危機情境，分析使用者在緊急時刻是「快速決策型」、「資源整合型」、「穩定軍心型」還是「創新解方型」，幫助使用者了解自己在團隊中的角色與「神救援」潛力，提供團隊合作的趣味洞察。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【團隊「戰力告急」！你是哪種「神救援」隊友？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【奇幻魔法】"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-03",
-    "generatedAt": "2026-08-03T04:19:19.502Z",
-    "ideas": [
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "徐莉玲47歲高齡產子改變人生！林伯實砸11億挺圓夢 獲封「台灣美學教母」 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMirANBVV95cUxNU09pMVMzR051bFQyRWF4cUp5bEdUR1VYR1Y0dHd5ZFlCVGJYeUVwU2t6d1JJV0p1TV9KMmNxMFllZ3V0RHEwWmFWSGdJTW9vV2dWc2FGSHVINzB1YlhsZnhRV1RVSTZHMGRPQUMzMFRxNWFudW1NVVJCRS02X3VkbTQ4NjdZR3pOR0lJNnU5Tjc0WElnNTZIN01nTmxVdURfb1J5ZTBlNzJhd1F5VzY2TXlBalRYUUVDUW94NWNRYTN5U3NMUHcwX1duNmNJS3pFODB1YTZqakdleURPMEE4QUE0bFJFUGN2aXZzbjRPTU9HV181UjFhRS05eUpHZ1czS1pMN3dzNjBDYlJfUlhYNnJOWWtoU05ZTWpweTliTHlBSlJlb3A1aEY0aEVuUVZneV9lVXBpWUdOYmJ6eF9RME85V29IRFl5NEN5dGRPTUFoRWlrejQ3UXhWWkNMZmhkcHRPY1lfcEtkZkF3eDdOS09CcnItUzdVQ1k0UjNGQXNVTUplbW81UnNDTGh0Z0NXelJTU0kwYm9RbzZRNElPN2Zfbm9PeFhLdDBWUg?oc=5",
-        "theme": "測測你的「人生美學」：你願意為哪個夢想投入最大成本？",
-        "resultCount": 6,
-        "style": "唯美浪漫",
-        "description": "此話題聚焦於高齡追夢、人生轉型與龐大投入，最終實現「美學教母」的成就。這能引起使用者對自我價值、人生規劃與追求夢想的共鳴。心理測驗可透過情境題，引導使用者思考他們願意為哪些人生目標、興趣或夢想付出時間、金錢或心力，並分析他們的「人生美學」類型，提供兼具啟發與趣味的結果。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【測測你的「人生美學」：你願意為哪個夢想投入最大成本？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "曾沛慈奪冠人氣暴漲！舊片被挖「慘遭姚元浩狂丟球」網怒：太不尊重人 - 噓！星聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mVzdKbEtGQU1YaEFxQXpoaS01eWx2c0NfakhRTTJmRWZaVHc2MXBFa0d5cTdzbWpNSm5rNUVVZTFTYWNhUnFGamV4RkVZRjNQZEJFT0VoWDc4UdIBX0FVX3lxTFB0R3NxTmszRk1Kb0Q2OV9LLTNuNlNfeHBfbkhIM3FfbVUtV0NUSVZNRXR6a3IzSUN3aDZjb2M3alI5MF9mSk5NeF9SWDRXckE2MTUwUldIREM1Z3liaUww?oc=5",
-        "theme": "從低谷到巔峰，你是哪種「逆襲」人格？",
-        "resultCount": 5,
-        "style": "清爽動漫",
-        "description": "這則新聞涵蓋了從不被尊重到逆風翻盤、人氣暴漲的勵志故事。許多人在生活或職場中都曾遭遇挫折或不公，渴望能像主角一樣展現韌性並最終成功。此測驗能讓使用者代入情境，探索自己在面對困難、不平待遇時的應對方式與潛在力量，分析他們屬於哪種「逆襲」風格，給予鼓舞與趣味性。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【從低谷到巔峰，你是哪種「逆襲」人格？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "聯發科、日月光又漲停！ 華邦電、南亞科、國巨也亮燈 台股漲230點 - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPTXpDZDRBazI2ejFHWXAzek1aRjJVcnd2cHl0ZnhTbDhPaThSdnh5aldHVkcxY3NWMFhmOHI0MVROLVRHYTR5T09hQjJZWVdzRjJ0UFUtc21ETnJ1dmVBUWFJaXR2YWJ2aUw5MWtHa0I4b2xhSWFNd0Qxd2dJSkg0WGk2V2d3a3pGdjluVjgtQk9hcHpVSWF6V2J5ekVDd25DY0NHalhhQUtyNVhqQ2x0b3NEUkRzWW82VkZlakNxWkJESVF1VVdBVkpNbjJ6Z3d4M2JsdGdPY2k0VnA1R2hKaUw0eXo5Y19qd2FVSnFYLUMxMzdIOFRLa051ckRjLURCaW9WNDRrYnpuMGVOcmQ1OEtPQzlCOURWQXhveUVxNy1Ha2k3MGgzLWxpSDBUQzAwN3NhdWd2Mi1iYi1vcVBTYXctNFBxU2x0ZVdWSW9KeTU?oc=5",
-        "theme": "你的「財富雷達」有多敏銳？測測你是否能抓住下一個漲停股！",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "股市漲停與科技股的熱潮，總是吸引大眾對財富增長和投資機會的關注。這則新聞觸及了人們對市場趨勢的判斷力和投資決策的渴望。測驗可以透過模擬投資情境，評估使用者在面對資訊、風險和機會時的反應，分析他們的「財富雷達」類型，讓他們在趣味中了解自己的投資直覺與風格。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「財富雷達」有多敏銳？測測你是否能抓住下一個漲停股！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "「相信黃董年底就懂」成絕響！力積電黃崇仁辭世 開盤股價震盪 - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMirANBVV95cUxQLWZKZ29qZjlhaE9fVlR4d2oxNDFXM2w2azZsNUl6UFVnZTFNUG00NW5aWXVnQThGTzVJMGQzZzF1eGtpMWEwVjA0T3dPZmtfUXlIckVZSi1qZnM2Y2dBRm1XVk9uOVNwV2doTS11X2c4WWVaSWtvWE5QXzg3ZThSSE1QX0htMDlyaF8yMndha2lPQkVKckxvVlIwbXUtTkZRZmpMVXFkWmtoQXU2TVM5ZEd6NFRBT19sazFxZjFTSnlsQm5xMDhRNDBaS1p3MGlDeDFueXhqdllSQWdKNmMwelJxem5QQTNpSUJEWWExN1VhSDNBbm5wQXNaTXNGY0puZHc5cDFzQVFVbU04bXdqdl9pTk1LeG02cmt3bzNOR3ZTZ1hEWklrM25iVFJKZEtQV19Yb2NUakE4OXlLVHE1MVNXQjZyQm82X01QeVJZMUEyZmNUWFp6R3RkR3A2YW4zR19aNDh6algwWjFLN3hMb0s4VTgzWXFrMmhOWTU5d1d1a19IY0loMzhvNVVncjJCdUxXZGNpdi1XVUdPLVJrcUFYRi1hakFaTE5Sdg?oc=5",
-        "theme": "你的「職場影響力」有多深遠？測測你會留下什麼樣的傳奇！",
-        "resultCount": 6,
-        "style": "懷舊報刊",
-        "description": "企業領袖的逝世不僅是財經事件，更引發人們對個人成就、領導力與歷史定位的思考。這觸及了每個人對「留下什麼」的深層渴望。測驗可透過職場情境、價值觀選擇，引導使用者思考他們在工作、團隊或社會中希望發揮的影響力，以及他們會以何種方式被記住，帶給使用者對自我貢獻的省思。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「職場影響力」有多深遠？測測你會留下什麼樣的傳奇！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "外資狂賣台股1.6兆元卻沒匯走？專家揭AI資金去向：必定會回流台灣布局 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMirANBVV95cUxPZ1o2aDd0VEdyYzZmYlROOFRPWUp6TUZ5NnJzOUkwenVQVk1Mc3JaX0FraHJFWnBqejFxOVhFNkJ4LVhYNWtPTEVNLVh5SEkteXdmOGVQdVZ4aVRqN0ZCNTd1aVREckhZckliU3hNUzlzZGpBUnpUVmFVT1l6dmN5YkZpLW9rOE9BdnpaWHp0dV9FN3FiS2JVVHBXZV9iZWt3dGNXenhSUlNCaXVGVWdWfENWUnhld2pMZlYyTGQxVS1CUVQtV2F1Y3ZlVEQ0RGhYbHdwbTFfMEhoUmZUb3luaXdWakx3TWN4VXp6dk83YVRiYXVPcTlhYlZuMks5TkZEQnRPMkpBTi1iTERGQU1vVS1tMTc0LVltTDBEX3JuZFEwbVdBUklzS0hZeE9yVWxLc05LZzFTSGhGelkxZHJWUVdCQmJFQXJOVUpkbFVNaC1XbzctM3FaQTNUR2ZTdFFOOU1UTVVPcjZrNmticThYMGNLZ25IdkNaaFhyQW9laUNLazZzTnY1S1d5dXlTLWlJMHliWFRkTFNVcUJFQTBwcE9RX2FiZk5PUlJKdQ?oc=5",
-        "theme": "你的「AI投資眼光」有多精準？測測你是否能預見下一個產業風口！",
-        "resultCount": 6,
-        "style": "霓虹賽博",
-        "description": "這則新聞圍繞著AI資金流向與未來市場佈局，緊扣科技發展與財經趨勢。許多人對AI時代的機會充滿好奇，也想知道自己是否具備預測趨勢的能力。此測驗能透過多種情境，評估使用者對科技發展、產業動態的敏銳度與判斷力，並分析他們屬於哪種「AI投資眼光」類型，提供兼具實用與娛樂的體驗。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「AI投資眼光」有多精準？測測你是否能預見下一個產業風口！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "自身難保！4大AI股神只剩「他」存活 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbHYyR2k5Qy0ySFNZcFdDZGg4d3Y0NGw3Yjd4MWcyVHd3WWVDMlFzREgySS1CX04zcEJ0TTl1ZU44MzNCcUhrX3J2YWJ4MVRjQWlSVjAwRFdMR1ExUHNZTVpoWWN4TkdGWC1KYlQyWFN3ZnFJUlFqMl84ZVpBZ0Z0SjZxcVd2M29iWHZVZHRJR1FzRWRzVldUTXdBN1k1SmNscTFCWTgyQlRYd1JzMG5OVzJNVThwQVZPdnpIeXFPTVVHbGNvcDlVTGRKYjJZTk5vVnhEMkl5MlZ5Zmh4Y1BFcHFLN2ozZUdyVi0zMWEwbEFjVGNHUjN3N1NJLVdZT0xXaW5ITXhNMHFtMGs?oc=5",
-        "theme": "AI時代的生存法則，你是哪種「倖存者」？",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "AI科技與市場競爭的激烈，讓「適者生存」的法則更加突顯。這則新聞點出在快速變化的環境中，如何保持競爭力並脫穎而出。心理測驗可讓使用者思考他們在面對挑戰、淘汰壓力時的應變能力、策略思維和風險管理模式，分析他們在AI時代會是哪種類型的「倖存者」，提供有趣的自我定位與省思。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI時代的生存法則，你是哪種「倖存者」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
       }
     ]
   }
