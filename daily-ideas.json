@@ -1,5 +1,121 @@
 [
   {
+    "id": "2026-08-13",
+    "generatedAt": "2026-08-13T03:12:28.622Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "【國內】影／憲兵深夜光復橋阻絕演練 槍聲爆破聲大作、雲豹甲車出動殲敵 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85aGRpdnU1ZlVocDNuS3otb2VOOHFZeEhuNXk3UW9kSGgtU0RpM2xwZVRfNmV1NmgxZXNVWThzd2VZZUJmNjh3RFE3VTNBZTc0Y0HSAVdBVV95cUxPSXBJYjNReUR0RTVnWXpYZXJFNk9EVHQ0b1VQZllsYjlLWGtRcVQwNEljdHNUZjFGalJJZmNDdkc3Ymo4eWVmTnN3RWs0aGRvVGlmOW9kZTA?oc=5",
+        "theme": "當危機來臨，你的潛能會如何爆發？從演習反應看你的隱藏人格特質！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "現代人生活壓力大，面對突發狀況的反應能反映真實性格。此測驗以軍事演練情境為引，讓使用者代入想像中的危機，透過選擇判斷自己在壓力下的應變模式，進而揭示其潛藏的領導力、決策風格或協作能力，提供趣味性的自我探索。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當危機來臨，你的潛能會如何爆發？從演習反應看你的隱藏人格特質！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "【國內】2026防空演習注意！明天8/13「北部7縣市」實施，違規罰15萬元，網路降速時間/捷運+ 交通管制 - storm.mg",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZVk41Zm91d3FQVUo3RG1JWEFwVWhUUThFSmJQc0RFbGtiLUMySUlNdjFOY0FTTGpFWG91VDJ0NnFGcGJwcXdlZ0VJTDNYN3M1?oc=5",
+        "theme": "防空演習來了！你是不慌不亂的應變大師，還是想鑽漏洞的自由靈魂？",
+        "resultCount": 5,
+        "style": "懷舊報刊",
+        "description": "防空演習是嚴肅的國防議題，但其帶來的日常不便與規則限制，反而能激發民眾不同的反應。此測驗將探討個人在面對公共限制時，是傾向遵守、尋找替代方案，還是忍不住抱怨，藉由情境問答，分析使用者是個「守秩序的公民」還是「追求個人自由的叛逆者」，帶來趣味反思。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【防空演習來了！你是不慌不亂的應變大師，還是想鑽漏洞的自由靈魂？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "【娛樂】陳盈潔死因曝光！晚年多病纏身急救搶命 失智忘喝水導致急性腎衰成關鍵 - tw.news.yahoo.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNM2RmUXZEMW5TTXNJUjJxaERvTlFoNnBIdmlIOWRXNFRUYzItYlFVaW9UNEMxX3I2cmtyYkpyekpBbl8tcFRuaGFhQW1hMy1VUnd6azBqTkJoN3I2VzY5a3IwYld0SVhiY3Q0RjJVSnRlbkl2MFhxQ0Y0NUN4VzlEZVNLYnI2b2JRWHhna3kxNnlnbERYZ1lFaGdPUnNVODM4OXAxblZtTVJKV0dvZFNMdGZYamQzLUVnT2xiY0pLc1BCZUV5WU9FbThWSFRnTWVMQWNhR3pDbjEwZmFoQktSVWJMOFhRRHlPdGhnZ0txU3RzOGs2RG5wWW1LNFRENmhvX3VxTnAwd0RORVUwdmRXcjNEYlpIcTJLMUFKLTZWdHNncGlMaTdnaXBxVjFJdTFnX0ZRU20xTDd5V3lKdnY5Z3J4Q1lGWlNCYlZVVlg0NkxTV1RXdXZUbjhINXdIeUhGNko0UTg0RGNIeE5rdmZYUmJtWV83dnJKR2Q5YUNVY2JwWlFxM2FGUmltUXpma2M4RTVGWC1wSTNBVEpOVG92TTFpeThYbzVCcFRDU3NycGJneEJNUU1nVGR4VWpIMGxkN2w2anJKYzJWZw?oc=5",
+        "theme": "你的生活觀是「超前部署」還是「隨遇而安」？從日常習慣揭示你對健康的重視程度！",
+        "resultCount": 5,
+        "style": "溫馨水彩",
+        "description": "藝人逝世新聞提醒人們健康的重要性，尤其失智症與慢性病是現代社會常見議題。此測驗將透過日常作息、面對健康警訊的反應等情境題，引導使用者反思自己對身體的重視程度與生活觀，是積極預防還是隨性應對，提供一個溫和而深刻的自我檢視機會。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的生活觀是「超前部署」還是「隨遇而安」？從日常習慣揭示你對健康的重視程度！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "【娛樂】人氣日劇開播前換角！《夫婦日和》續集芙美子換人演…本尊訴心聲 - ETtoday星光雲",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90ZGdOaDNEM3BuNW50RV9EX1A4MFE1WDRfN3EyZlc1blQ4REtWZG9JbjRFQVV1R1lGZ2JyRExvWldYTW5ySU1kM1ZzYldnUdIBTEFVX3lxTE85ZEdFMG01eEpDMVFLSktqWERiTW5wbllmSE43d1pPRzNFc0pPaGswbVZwUk5yTlVibG0tYUpCbUtpamtUTVIwZnIxbEY?oc=5",
+        "theme": "職涯路上遇到「換角」危機？測測你在變動中是「逆風高飛」還是「黯然退場」！",
+        "resultCount": 6,
+        "style": "底片膠卷",
+        "description": "娛樂圈的換角事件，反映了職場上經常面對的突發變動與不確定性。此測驗以「換角」為引，設計職場或人生情境，讓使用者思考在預期之外的變化中，自己的應對態度與情緒管理模式，是能積極尋找轉機，還是容易感到挫折，提供對個人應變能力的趣味洞察。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【職涯路上遇到「換角」危機？測測你在變動中是「逆風高飛」還是「黯然退場」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【底片膠卷】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】台股收漲397點站穩45K 台積電漲20元 國巨又被殺下來 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPa0U0N0Y2ODRQbkNReTY5MTlPZ0xWT19LN1NESDd4RGx4U1YwSHowLWxRa0lkM05wYXRRZ1pWQ2RGc3h3QjZSLUh6TzlWOTJVQU9XUGxvcGFtTVNOQjZ4azRreTBFeDlEVzNLVF9BZDVUN3ZyRTNQWEhmZTJIdUtoWWoyWXZhdTFVNEZpM19oMHF0RzB2ZnRQYmFXclQ3QmFkVHBTcldnWEwzdWpuMHFIN0czbTFPSDVBdGlsaFd5NDJ4YVM5SkpLbXpWRFMxRm43eTdPRDdteHp4ZW9YSmU2UUtsMzlaZHBlcVZUd0RKVFUwVGQwNWlCSEh6OU0wUUNxZmF5aHFrZkZOUGxmc1NXUnZULXF0bUs0M2VqRXdBYjdsSzNLQ1R3QmhmaXRwdlVmbDQyT1NxUno3bnpRWVF6MWJMQ3U2azh0OUVUZw?oc=5",
+        "theme": "台股起伏像人生！你是「追漲殺跌」的衝動派，還是「穩健佈局」的價值投資人？",
+        "resultCount": 7,
+        "style": "霓虹賽博",
+        "description": "股市的漲跌牽動人心，反映出人們對金錢與風險的不同態度。此測驗將模擬股市投資情境，透過使用者對資訊的判斷、風險的承受度以及對漲跌的反應，分析其是屬於「積極進取型」、「穩健保守型」還是「隨性佛系型」的投資人格，提供趣味的財商自我檢視。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【台股起伏像人生！你是「追漲殺跌」的衝動派，還是「穩健佈局」的價值投資人？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】鴻海財報／第2季獲利創同期新高、EPS 4.27元 全年業績將強勁成長 - 經濟日報",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDMUJYaENfMkpsT3VJWEUwNTFwMUNQOW9PYWFSNlkyTnQweEs3VFF2WEk5SjZWcEFoTlBQVVZNY2ZlOHBsY2VTeHRlb1pIX3lJcFdId3BWb1F3Z9IBX0FVX3lxTE0taTl2N0czV3J1c0V6UnZZMm5lYmNXS2hHQUZWSmZFYTZoOFo4OGw5UEtPd1RDYTlxclVVNzNmS2Y2RDI4YXRwb2xrZlRDc3FfeEZwOVdGeXFrT2JEZGY0?oc=5",
+        "theme": "鴻海獲利創新高！你的職涯潛力是「爆發成長股」還是「穩健藍籌股」？",
+        "resultCount": 6,
+        "style": "極簡質感",
+        "description": "鴻海財報亮眼，象徵著企業的成功與成長動能。此測驗將以企業經營與個人職涯發展為連結，透過情境模擬使用者在工作上的目標設定、挑戰應對和團隊協作模式，分析其是具備「衝刺型」的成長潛力，還是「穩紮穩打型」的基石特質，提供有趣的職涯人格探索。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【鴻海獲利創新高！你的職涯潛力是「爆發成長股」還是「穩健藍籌股」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "【科技】鴻夏戀10年！鴻海喊「日本驕傲」 夏普前社長開砲 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQb1k2UDEyM2l6YmUyNmtESlloTWZ0MVdxbUdtWjRRX2tzUWJBTlduOWdjdWhqWHFqSjBSSjNqbG5LM1RKQTl6dGpaVFkxbEJ3bk9DMW5RbEFXSkExcFJfSVdienVGV1ktSFQwTEV0eEdsTEdZTzNpZERzeVF6bjUwS0lZUHRrcGtvSnhmYmtrNkNTcjlCU3dISWRFajdRRGk1anZkaWpVdVJEbTU5X2w3bmxoVVZmTnBGV1h0OWFyQy1xNS1OUlFzZnRGREFTMk00RElZbWhHSWRJclAzQVozTHFiOFpvVEpfTlhQNHhQSXMyTWZSSjVzMS1TMEw4RTNBR0pyQUNrendJMkUzY0xralV6bC1NWDM1Q3JiZW42bFR3Z0ZwdUdhN3cyb2xQV2s2T3c?oc=5",
+        "theme": "你的合作模式是「強強聯手」還是「貌合神離」？從鴻夏戀看你的人際協作風格！",
+        "resultCount": 6,
+        "style": "立體拼接",
+        "description": "鴻夏戀背後的複雜關係與情感糾葛，是跨國合作的縮影。此測驗將以合作關係中的挑戰與磨合為題，透過使用者在團隊合作、人際溝通、利益衝突等情境中的選擇，分析其是傾向「理性策略導向」還是「情感連結優先」的協作風格，提供對人際關係模式的趣味洞察。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的合作模式是「強強聯手」還是「貌合神離」？從鴻夏戀看你的人際協作風格！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【立體拼接】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "【科技】鴻海發布重訊 砸10億推關鍵布局 - 東森新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzcEpVQ3I1dlRud19hZFZ5dzBpRWg2T2dVcTQ3bzVucV9ueDg3M0NXVnZTeDNDemNYcXliX3IxOWpzaExZLW9fVGJnM3NCNHROdXhaVm5nMA?oc=5",
+        "theme": "面臨重大決策，你是「果斷出擊」的戰略家，還是「深思熟慮」的規劃者？",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "企業的重大投資決策，反映了對未來趨勢的判斷與承擔風險的魄力。此測驗將設計商業或個人生活中的重大抉擇情境，引導使用者思考其在資訊不完全、時間壓力下，是偏向「快速決斷」、「謹慎分析」或「勇於冒險」的決策風格，提供對個人決斷力的趣味分析。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【面臨重大決策，你是「果斷出擊」的戰略家，還是「深思熟慮」的規劃者？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "【體育】足球》梅西沉痛發千字文傾訴父親離去的痛苦 坦言萌生退意「不確定自己還能繼續踢多久」 - Yahoo運動",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOX2JyOWVlWEdOa09lZlM5U09Qa2R2MXhId1VYcjRmbHgzMFl5c3lhc0w1NEIyQWV0QnpoYkg0VUp3UUw1djFDbGRROS1FbkxGRUJVNnZWR1dIajJ6dGhlWC1ydlY4OTROaU9GUjBHMWdiNGQ4SGF0LWRmcDJUT3dMUXhsZWZUOExJMUczWFpsUkRQYWxyX0Radlhxd0JyRFFCTXZHbnZCeWFPTkZ0OVJkQWNTR0hfWjE0a0lTVFBsekJHbmlQTzBqTUZCaTQ3YTRUMU82dUFuLUZBRl9DNXAtQ05YVzR6THVWZzFRUFFVYmJHbG1rTktuNmg1NWgxQmk4VWpVX3hJS3BUdlR6LWFVUEtBT2lMSW9fN3dlMi1ZSVdDQzB5d0Nfb19oM3VIUm1WaFRMYUdkYnFoSW02TWJNYlVvZ19iUWZuZzdTU3c0UVliRXVOazUyQjc1QlBwNktsRjZ3RFpfbjVhOGpUTTU3SVBzdUhvbEh0ZXBndVhHaFk2U2N4LTVUcHlmY0hZM1E4VEVUc1pOWnNOQXhjWGwtSFJFSldUeEtJeWRLSW83Zk01Q3pfMmNMZFNRVWg4cHFKQ3lxalY1VVlqT3ltUGVkcDVaR2Q4MTVzLWIzNnN4a0RscFlOVG9tdmhPU3N2ZEFLWWZnNGV3azF2WUQ0NFBZZU1KWEVQWTdWVXEtZ21iTkxqSnVqb2VzaC1yY2h0a2sxOFQ1Q2Rja19GVlZGUHRNNzkwOGg4ZmVGQmNXeG5B?oc=5",
+        "theme": "人生遇到巨大低潮？測測你內心的「情緒復原力」有多強大！",
+        "resultCount": 6,
+        "style": "溫馨水彩",
+        "description": "體育巨星梅西面對親人離世的痛苦與生涯困惑，觸動了許多人對「失去」與「人生轉折」的共鳴。此測驗將透過情境模擬，引導使用者思考在面對重大挫折、悲傷或迷惘時，自己的情緒處理模式與復原能力，是傾向獨自承受、尋求支持還是能從中找到新方向，提供一個溫暖而深刻的自我理解。",
+        "id": "idea-9",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【人生遇到巨大低潮？測測你內心的「情緒復原力」有多強大！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "【體育】MLB／球速下滑成隱憂？ 斯金斯僅投5局遭換下！總教練凱利親揭背後真相 - Yahoo運動",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQME0zc0pBUUUzcGJ6TTZybEMzbWJNY3FGelFUdWN5aEVNTHJ0MnJZZm9rMnBXME13WkltekhDZWRHNDlfd1EteDVTcVRJNFptclplRTVfUWlNRVRHeWFXZVRVQ1lFN0tuLUFUTVB0M3dJOTBwcTVBSlR6eG85d1hIODFoR08xQ0xoMmc0TEFSSW56eEI3Y2l6Y2JlTzVDQW1pLXUyWXdlSmN1aENJTTdERFUwSGUzenBJQ25aWmFaVUs0bUlCRVhSVGtzaV90VW9ic0FOVEFNaTFZc0t6UHhJTDdid1J5OFo5WGZnSlpUd203QlgzVFEyWUhVYzVpenFXZFNwc1BCZ2p2aTlqTElPMUEyT01pZ2RiV3NuQnk2ZHp2dmc5ZVl6VzItYjMxTnktYzhkQ0tYZjJfSVlWZ3NIeGk2WEVMZ2tJejBrZlpJWnNOcXRLLUE5cHRxZ2doR3d3THRzdHhpanJDeUZUX3F6ai1zMlp1cm5sQjVjTU5mRGtNN3gyY1JIeWxOdHppRUtXVE1GSGYxdm9ZYnFMM3NfbHl1UUpJU0tIckRLX3pHV1J2Z0dZYnpfdHo5eTFiWnFZMjdSODJQQkg4SHM?oc=5",
+        "theme": "當表現不如預期，你會是「自我懷疑」還是「尋求突破」？測測你面對瓶頸的心理素質！",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "運動員的表現起伏是常態，球速下滑的隱憂與教練的換人策略，都反映了職場或人生中面對「瓶頸」與「不確定性」的挑戰。此測驗將設計工作或學習中的表現壓力情境，探討使用者在遇到挫折時，是傾向「自我檢討」、「尋求協助」或「感到沮喪」，提供對個人心理韌性與應變能力的趣味評估。",
+        "id": "idea-10",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當表現不如預期，你會是「自我懷疑」還是「尋求突破」？測測你面對瓶頸的心理素質！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      }
+    ]
+  },
+  {
     "id": "2026-08-12",
     "generatedAt": "2026-08-12T03:08:06.308Z",
     "ideas": [
@@ -522,56 +638,6 @@
         "description": "抓住馬斯克作為話題人物的流量，以及股市波動與個人投資判斷的議題。測驗能讓使用者將自己代入投資情境，評估其在面對市場波動和名人言論時的判斷傾向，提供個人化投資風格分析，具有高度的實用性和分享性。",
         "id": "idea-6",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【馬斯克一句話震盪市場，你是會在股海中穩賺的「投資天才」還是「風向追隨者」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-05",
-    "generatedAt": "2026-08-05T03:47:28.108Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內政治",
-        "sourceTitle": "【國內】台糖油品部賣的是汽油！盧秀燕遭黃偉哲打臉他補刀：馮京當馬涼- 政治 - 自由時報",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzRlJVS043bUtEZzNqWFUwcG51RzRiajZla2xld2tvb2dkLWY4V1htMEdrRDY3MS14akZqUUlTV05GZlc1c1J0cDBXVDRwVlRvRzNHaTJWS1QxUkVWTDhwN3BKTlBWUE5MMlE?oc=5",
-        "theme": "你的「常識雷達」靈敏度有多高？從台糖烏龍事件看你是否也容易「馮京當馬涼」！",
-        "resultCount": 6,
-        "style": "搞怪幽默",
-        "description": "這則新聞關於政治人物在公開場合對常識的誤判，引發了幽默卻有影響力的政治話題。這與人們在日常生活中偶爾會犯的「馮京當馬涼」式錯誤產生共鳴，也讓人們樂於檢視自己的常識水平。透過心理測驗，可以探討使用者對日常事物的判斷力、對細節的觀察力，以及是否容易憑藉直覺做出假設，提供一個輕鬆有趣的方式來反思自己的「常識雷達」是否夠靈敏。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「常識雷達」靈敏度有多高？從台糖烏龍事件看你是否也容易「馮京當馬涼」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "國內政治",
-        "sourceTitle": "【國內】評沈伯洋競選主視覺 高嘉瑜被趙少康問「怎沒邀妳去？」尷尬回一句 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMikANBVV95cUxQM0l0TktpNm5mT0xvZ0Vpc19SM3JFT09OM0JDTWgxVUl0OG94MmpxQUJQVk1Wb0ZNeGN6ckgxN3p0Q0czUFp5UGpBbDM0bFFqMHBUMWkwNUlUXzV2dy1JVHBjYk9YSVNFRHlzeEpKREprZWJtYmZMRjFlQUh6RldsanFsODJJQzB2cjZHTi1DY0FQTFk5dVJUSkI1QktCMkc4ZFhvT0xSOS1fLXRVdmlFZTlVbl9IaWI3LWllSDNqSVBNSEhHWFFzVnNldGttaG5JMXl6N21GbGJTVDJwYVFrWjg3NnpVb3ZMOVlGZC1sNTN3cWNTT0Zsb29rVTNEOWwybVhZTGZ3d3NuRXU5N3FVc25hekhQMTdlZEtXc2xJdGVvTVVoRHZ3b2hZcWV0T2tOQWFoVHlwc3MzcXVISUExMGs0S3NZSG16WHBDTHE4NExPV0R6ZUplTzdrNWtBanBCNEJQRkk4bjdiSnAxZ2JBSHhsaEJkcHh4a0gwcV9pUVpTQlFBb2RUN3JZMTBacm9Q?oc=5",
-        "theme": "當你被問到尷尬問題時，會如何神回應？從高嘉瑜事件看你的「社群應變力」！",
-        "resultCount": 6,
-        "style": "搞怪幽默",
-        "description": "這則新聞捕捉了政治人物在面對尷尬社交提問時的反應，這種情境在日常生活中也相當普遍。基於此，心理測驗可以探討使用者在社交困境中的應變能力、溝通風格以及處理尷尬的策略。它能提供一個有趣的視角，讓使用者反思自己是傾向於機智幽默、誠實以對、還是巧妙迴避，從而了解自己在人際互動中的「社群應變力」。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當你被問到尷尬問題時，會如何神回應？從高嘉瑜事件看你的「社群應變力」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "【財經】〈台股盤前要聞〉台指期夜盤一度飆逾1300點、緯創加碼台美越擴產拚AI - news.cnyes.com",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ybGxRRWFQd0J0d0dSd0NRalQ4RUVFeTRxQU9FTDhNeHc5SnhNRHFuV19tMFExelhYX0hJSk1YMnZGV0NRVF80alBsUE5UZ28?oc=5",
-        "theme": "你是衝浪手還是穩健派？從台股飆漲看你的「投資性格」與AI商機敏銳度！",
-        "resultCount": 5,
-        "style": "霓虹賽博",
-        "description": "這則財經新聞結合了股市的飆升與AI產業的擴張趨勢，反映出市場的快速變動與新興科技帶來的商機。心理測驗可以藉此探討使用者的投資決策風格、對風險的承受度，以及對新科技趨勢的敏感度。它能幫助使用者了解自己是屬於勇於追逐熱點的「衝浪手」，還是偏好穩健佈局的「保守派」，並對自己在數位時代的商業洞察力提供有趣的分析。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是衝浪手還是穩健派？從台股飆漲看你的「投資性格」與AI商機敏銳度！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "【財經】8月ETF配息旺季! 股民等AMD財報 台股震千點收跌25點 - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPa3VscnFBQWZwVFdMeEk0LTRnNGhiZG5STG5pZ1dudE5kR3JBYTE5eTMwUHJRUm5wcnlHV2NYRDJMZ01oMkRhM1Nxd0JMQVVzZVdZR0pNY09udjhBdVpHZ244UkpLVXJ2Zk5fWkczeDRfT05fdzFNSWQwczkxblhpN2dpb2JsQ3BUOUpNbEJaYU5sYUxjRVFDLVNTZGJDV0KdVdqczlsMUtoTHZTbGVqT0c2MGZsLUl0dnZZaXdtUzRoYURadGo3bDJadWZ6eHpNd3NnLVdTMFU2SUpaMUd6T08tNk02VzZpRktPV2h1SFdQdzFPdFNCLVBzNVV2R1IwLXJjZzlIUjFJbzVJX1I2QjgybTg3ZkpIQ1l5b0lCTFRXUjRkcU1YaUE0SnR5ZnJ1RktMSG1xLTB3c2ZSOVViUWN3?oc=5",
-        "theme": "你是「股息定存族」還是「成長捕手」？8月ETF配息旺季，測測你的「財富累積策略」！",
-        "resultCount": 6,
-        "style": "極簡質感",
-        "description": "這則財經新聞結合了ETF配息的穩定收益與個股財報（AMD）及市場震盪的不確定性，反映出投資者在追求收益與承擔風險之間的權衡。心理測驗可以從中切入，探討使用者是偏好穩定現金流的「股息定存族」，還是追求資本成長的「成長捕手」，以及他們面對市場波動時的心理素質。這能幫助使用者釐清自己的理財觀念與風險偏好，進而優化其財富累積策略。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是「股息定存族」還是「成長捕手」？8月ETF配息旺季，測測你的「財富累積策略」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
       }
     ]
   }
