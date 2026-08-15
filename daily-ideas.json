@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-08-15",
+    "generatedAt": "2026-08-15T02:02:49.710Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "誰挾持台灣民主？英國《經濟學人》專文批評的「自私政客」風波",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XMEpUVDdnR0JJd0RzSlRhRDNaY2U1bXFYLTFLUXE0SzZDQjE0cjdSY0NTN3FHSEl2N0JNNmczcmVMRklFMHpJWFQwdDRUdVJkcElqTXMtY1hwQ1RVQTcyeHZPUG92UdIBa0FVX3lxTFBDbW04bFpaaWJ fendwZzB4ZjRNVmpZN0JhOVlWUjlCYjlJMzFtMXhIekx4b2wwSzFuUEZWM0FQaVFuTFpnb3EtSmZHV1dHUmw1WEFnQ0dsTGZuS3h6Q3kyVnJ6R1JCYmxSVmpj?oc=5",
+        "theme": "「你是哪種政治動物？」測測你的決策風格與社會影響力！",
+        "resultCount": 6,
+        "style": "懷舊報刊",
+        "description": "該話題涉及對政治人物行為與民主本質的討論，非常適合延伸為探索個人在公共事務中扮演的角色及決策模式的心理測驗。透過模擬情境，讓使用者了解自己在面對群體利益、權力與責任時的傾向，並以趣味方式反思「自私」與「公益」的界線，增添參與公共議題的趣味性。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你是哪種政治動物？」測測你的決策風格與社會影響力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "明天雨更大！「西南風＋低壓帶」接力襲台 未來一週降雨趨勢一圖看",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdzI5OG85ZU5ja0k2akozZ1czdkRpcURzbHI5R3BNSl9ndTlsM25oRDVFTlB5aFdwakRsbDl5aGlUTTliT3FIc0NJelU0dGdJWERqdHZTZmFLVTRCRnlxMVJJUGgxdmRaT19xVS1oMlM2VmZaWlF6dG8taGtxQzVrZ3ZzRHZZdjZYczJQeUxmT29BUXZGVmRwWGpBNVM0cEpwZG1qX3ZDc2NJbTEzUUdnQnh1Njh2WFdETEtRQ3RqNHloa0ZFV0RRN0Jiaks0U3BlQnZuZml0MkI0QjBINEdOdEdna094T1JCMHFwMkRyTGJ6SmxhRHd6OFZpcVdXZFlxRFNYd21DczlaWGRReTIxaEFma1hiNEhteWt5NE9XeVZmdl95?oc=5",
+        "theme": "「暴雨將至，你如何應對？」測測你的壓力應變能力與生活哲學！",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "惡劣天氣新聞常引起民眾的關注與討論。此話題可將天氣現象類比為人生中的挑戰或壓力，透過測驗不同情境下個人面對「暴風雨」來襲時的反應與準備，揭示其性格特質、壓力管理方式及生活態度。使用者會想知道自己在逆境中的表現，並從中獲得啟發。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「暴雨將至，你如何應對？」測測你的壓力應變能力與生活哲學！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "零售數據疲軟＋中東關係緊張！美股4大指數收黑 台積電ADR跌近1%、台指期夜盤下滑85點",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOX2lyRlBPQ1N6YWVtTmpEM1JBcjE2Xzg1MTBJU050OVJ6U2gtbDN3RnhVdUFSTGZkM2xSZGE3c2RDOVNNWUJVRHRYM0lITlMxak1PUUhFMGJ4TG0xVWxpeEVZaVRId3ZZNEZTbWF3SDlTX2FiaS1GUVRXcDJHdm9BR0ZnemRuZm9KbnplMUcyZnd1MlIzOFdlX2dFM0dLUEhoREdkeWJhTjBfWnQzNldFeC1NaXRRZ3NVMHZzdXFaVTBZcHlpekdyX3pTS1Q3MThIRFVSeTViTDUwa0hsRFJ2b3REQl9ZTFJWSkFKU0tmTk03dXpqT0d6N2kwVFBOcGlXXzNNLWV2R1VPTjNiY1BzRzlUUURpZTN1eENKd1oybFd5U21WUEoxamhsNHFUYVJxOU55TGlrREtDVHRZakxoNWloQXhkMkdJOE9XVnR6SE9vY2VsUDhRMC1vb1I5b1FfaVROSXdFTkdidmJaLXdBQW5YaGFXYlczTk1mcnVBb3lFbktPNm85bE44N1ZpLVZxT0lUaV9sZThtMkVyZ1dJZUpGWXp1STVOMm84XzMxS0Rnblc5TkVYdi1PV01vTmFjUXZMaHhQMExiNkQyLWxqVFFUbUgtUzZ0Z2Jkb3lwYXJNNHkwRzNLcExR?oc=5",
+        "theme": "「全球震盪，你的財富抗壓指數有多高？」測測你的投資性格與風險承受度！",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "財經新聞中的市場波動與風險因素，可轉化為一個探索個人在財務管理及面對不確定性時的心理狀態測驗。透過情境題，讓使用者了解自己是屬於保守型、積極型或風險厭惡型，並提供有趣的投資建議，幫助他們在現實生活中更好地規劃財務。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「全球震盪，你的財富抗壓指數有多高？」測測你的投資性格與風險承受度！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台積電回檔、南亞漲停，資金換跑道了？",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPel9FVVJlYnhiaVZCS0xWcUdRZWZ3cHg4UFN5SWNJdXZ6dmstSGpNRDJIRlBRTTJDRHZpSkVZcG1wTjotVUFYMC1xd1JBOHBWZG5Lam5EdmZTZmxIRlNLU1YwZHVkeHFfYnpzbUpzZ1hGbjZqVzlVbXA4bXR6VnkzNGxDM3VpejRNSDM0?oc=5",
+        "theme": "「資金換跑道，你的機會在哪？」測測你的職場嗅覺與轉職潛力！",
+        "resultCount": 4,
+        "style": "極簡質感",
+        "description": "股市資金流向代表著機會的轉移。這個話題可引導使用者思考自己的職涯發展，在面對職場變動或新興趨勢時，能否敏銳地抓住機會、轉換跑道。測驗結果能幫助使用者了解自己的核心能力與潛力，並給予激勵或方向性建議，增加測驗的實用性與趣味性。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「資金換跑道，你的機會在哪？」測測你的職場嗅覺與轉職潛力！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "iPhone X正式走入歷史 蘋果列入「停產名單」不再提供硬體維修",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNakJyRnh0SEUzWm1tN0FMTzUyLVNUeEppa1dsN20wWWUwOTFuNXVqT2pxRk5jZjZ1dUJLM1B5MW4taWpFZl8tSWhzZ0x0bHE2NmtrQTJDYTVoQmJOTjlzTkNZTDZxRkJlZG84YkhvQW9tMFQyNHlEUVFfQ3ZBOWU1OEdlYXVjLXBsN2VxNXJaMU1yRUgzeDhGbE5WUzFKX1BqS05NMjUzRXZWcGhPZGJ6V212S0h6ZFNJbW9HWUxpZTBGcmV4RWZjLUVBOXlEWHFXbXJNSHpMQUVUY3J3Q0tKU05tMllaRnp3RGNWX283cl9WVF9HWllCUGlnR1poeTdBVEdhN3hyVlFnSk01QnVkc09PVkY0RWhKUnREM0lySTl3S0E3RUxuREIzQXVUYzJ3QUVwVzFUTzI5R1NzNTdIck50OXBUaTNtc0NpcHVqQW5YV3NEckhPcWdXVmVRdlNDWG9paHhSTHhqdw?oc=5",
+        "theme": "「你的數位戀舊指數有多高？」測測你在科技浪潮中的汰舊換新傾向！",
+        "resultCount": 7,
+        "style": "霓虹賽博",
+        "description": "iPhone X停產象徵著科技產品的快速迭代。此話題可延伸為一個探討個人在面對新舊交替、資訊爆炸與科技進步時的態度。測驗能讓使用者了解自己是屬於擁抱新潮、理性務實，還是懷舊守舊，並以趣味方式反思科技在生活中的影響力，引發共鳴。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的數位戀舊指數有多高？」測測你在科技浪潮中的汰舊換新傾向！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "表決前大轉彎！ 國民黨不凍結無人機預算634億元全數通過- 政治 - 自由時報",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwMFY0QnpNTGtWZEVnNVpSdlVKaGpGWUVDa3JxcFgzNlpTU0pzWHcyWEwzNmJabXRNNldpaExmLVUtOUhQVjBsWi05ekhHX01ac0p0WVBzR0Z6VlZpZzJLWm5iN0FJOHN2d0E?oc=5",
+        "theme": "「634億無人機預算，你怎麼花？」測測你的戰略眼光與資源配置能力！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "數百億的無人機預算通過，不僅是軍事科技的發展，也涉及資源分配與戰略考量。此話題可延伸為一個測驗使用者在面對重大決策或資源分配時的思維模式。透過模擬情境，讓使用者扮演決策者，測出他們是傾向保守穩健、大膽創新，還是注重效率平衡，了解自身的戰略天賦。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「634億無人機預算，你怎麼花？」測測你的戰略眼光與資源配置能力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "瓊斯盃》台灣藍5位職籃球員缺陣 主帥圖齊解釋原因 - 自由體育",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTFBtR0Q1Mlp1SkNqVU9QRjc3RWIzX1FxZXVKdGNGNVp0Z2FuYzhYZzRTWEtHa01QWFhtdDA5Y2ZpbUx0ZXJ0VnRTSm5RTExpbGZSc2pQd0RXVEVXYU1sWDRXUA?oc=5",
+        "theme": "「團隊少了大將，你會是哪種關鍵補位者？」測測你的團隊貢獻度與應變角色！",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "球員缺陣是體育賽事中常見的挑戰，考驗著團隊的應變能力與板凳深度。這個話題可延伸為一個測驗個人在團隊合作中扮演的角色以及面對突發狀況時的應變能力。使用者將透過測驗發現自己在團隊中是領導者、支援者、策略師還是氣氛擔當，從而更了解自己的團隊價值。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「團隊少了大將，你會是哪種關鍵補位者？」測測你的團隊貢獻度與應變角色！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "中職／獅隊失誤後能轉換成分數 後藤光尊：是把握機會？還是運氣好？ - Yahoo運動",
+        "sourceLink": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQNHJQWmFPdHVGUlpqbG01YzVDLTJvTVduUXZlSHhhS0NxR3hXaG53VndVM1lVanhaYkZxMEpMcDRZbC1hQXhUQ2RfSlh4bVU3RF9fUjVhWGc2R1U4UWJCTnVBNjlYT1J0WFY3MTc0ZGFmdE85b25XWFFRdm15dEtUejZ5cWI5MV9mRE9YVVB2NlJiVjdCaWxjZHliYjJfdTl2b0l3ZE82aTY3RGdDSDhSdFZCRTRWaEFEUVA5QzZWdzMtX1F0RmFyUGJqSURzWlJxRTIyX1JlcEhPaUVyYXJTeDdsRzQxYm9vWWFHdFg3MkdsTzAtODNUb2cwdjBoUVVzZXc4SWE1V1QtQ1JuWU1jVE95UGRtekZYaWpLWVBvTmtpcmM1RXN6YTFkM1YyYU5UUHEyN2FQdEFadjBQMjFEVGd6NDlEc2JNd3F2eExYNXcxRktPM0JKc3lPVlpHQnl3Wkp4c0w5R2g2WWk2Vi10R3NyX29BZlp5TTVDYzk2M1NxMXUxWWY4Y3BvTFZ0MmgxMjAzckx3Smd5RDV0Y0dJd2tiem5tdw?oc=5",
+        "theme": "「失誤變得分？你是創造奇蹟還是幸運女神眷顧？」測測你的機會主義與逆轉勝能力！",
+        "resultCount": 6,
+        "style": "美式波普",
+        "description": "體育賽事中，將失誤轉化為優勢的戲劇性情節，總能引發觀眾的討論。此話題可延伸為一個測驗個人在面對挫折或「失誤」時，是傾向從中學習、化危機為轉機，還是更相信運氣與巧合。測驗結果能幫助使用者反思自己在逆境中的心態，並發現自己是「機會製造者」還是「幸運兒」，增加趣味性。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「失誤變得分？你是創造奇蹟還是幸運女神眷顧？」測測你的機會主義與逆轉勝能力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      }
+    ]
+  },
+  {
     "id": "2026-08-14",
     "generatedAt": "2026-08-14T03:10:52.012Z",
     "ideas": [
@@ -610,56 +704,6 @@
         "description": "即使打線創紀錄，球隊仍吞下敗仗，展現了團隊合作的複雜性與面對挫折的現實。此測驗能讓使用者思考自己在團隊中的定位與貢獻，以及如何面對成功與失敗。懷舊報刊的風格能帶出經典體育賽事的歷史感與話題性，讓使用者在情境中感受團隊精神與運動家的韌性。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是團隊中的「關鍵一擊」還是「雖敗猶榮」？測測你的團隊協作與抗挫力！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-07",
-    "generatedAt": "2026-08-07T03:35:19.931Z",
-    "ideas": [
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台股狂噴千點散戶竟爆贖回潮 記憶體產能全被大廠包下 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPMllkU0ZyeWd6X2hFUHAxaE0zNTVsa1Zpb3l5aVprZmZuSW5FN2E3SkdfbjhvNWQ0OG5QY3FIZ0c0dmV1eF96dllLVkRBNmY4aUJieGdfVkFaVVhMN3hOcDFyWTl2LUVkWUlCNGREN2NvT1JFcUpHSTFGNWxKQmstdzkwdzIyYnZJVTlUMVdERlZjV2hQcDFrVF9wR1lad1Uyc0VsdEp5c2h4Z1FfZ0hWWFdMbDA3SXVSRlJPTU9fS1k3RERqUTZIMndQYnhQNGlCWHpvVXd2LWNuQW5VNU9XOTFXSkZRckVOLWstZWtPakRHbXNPWnp4cnd3c01QS1NkMkVnM1dGdlU1ZndxTldSNW1uRVpuWjBXaFQ1TWF1cjhzUC04QUw3bzh5ZU5FdFpPb2xZYXVnclhDdnhBYTZjcXVBRDJJeHAzOFBZcm9wSEFuUENSXzhVQnNsakZjVGI5bnpBNHNKSVJaTFlUZ2djUVlrSnA?oc=5",
-        "theme": "台股狂飆你卻錯過？測測你的「股市時機掌握度」與「財富錯過指數」！",
-        "resultCount": 6,
-        "style": "極簡質感",
-        "description": "這則新聞反映了投資者在市場熱絡時的決策心理，尤其是散戶因恐懼或過早滿足而錯失機會的現象。這個測驗能讓使用者檢視自己的投資性格，例如是謹慎保守型、追高殺跌型，還是深謀遠慮型。透過趣味化的情境題，幫助使用者了解自己在面對市場起伏時的心理反應和決策模式，並反思如何更理性地管理個人財富與風險，從而避免「財富錯過」的遺憾。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【台股狂飆你卻錯過？測測你的「股市時機掌握度」與「財富錯過指數」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "〈美股盤後〉油價走高拖累 標普收黑 道瓊跌逾450點終結連五紅 - news.cnyes.com",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aME9lMTNPdW9zSGJfTGdJTmJIQWNHVXdmMFZDX1FCdVhwdkx1ZkVNOUVjYlRuNDJfbW92cHlLRmF4T2Njd21KYm4yNzA3T0U?oc=5",
-        "theme": "連紅終結！面對突如其來的逆境，你具備哪種「情緒應變力」？",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "美股從連漲轉為下跌，反映了市場的不可預測性以及外在因素（如油價）對情緒的影響。此測驗將情境延伸至生活中，讓使用者模擬在面對突發的負面消息、工作挫折或人際關係變化時，會展現出哪種應對模式。透過測驗結果，使用者能更了解自己的情緒韌性、抗壓能力以及如何從逆境中恢復，提升自我調適能力。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【連紅終結！面對突如其來的逆境，你具備哪種「情緒應變力」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "隨時準備重返大聯盟！台灣強投鄧愷威太空人3A登板後援1.2局飆3K - Yahoo運動",
-        "sourceLink": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNTFRvREpZZEdGVjlNVVltSmdHTHZiTjNMMld0Q1Z5OWJ3TlRLM1FSamFEam9SODVZRGptZ1pBRXJmWVQxa1hVZ0hnMzNpenJjSVNUa1VyQ1FmaHJudG5vM0lPVDlOaTZ0Nkk2VEtma2FUX1hMT0Q5eUdpSVdqX1BRUGQ3cXpfOHhUdVdMeVVhTEpiZWxfa3NtR3Ntc1J0aHg5QnUxQ2wzRzlPQVBCSVY4SHJ2UjdVclVudzNtZUx3bmdLcl9wSmJ0cVpDaGdfY193U2VwbEhZSFpSbkRDdXV5WUNBUkVWVV91SlFnZ0d4V0JzVUF2MHFQaXAxb1Bid3lYVTBlbVIwM25RZ0c1Qm1UMjI1eXhvTGVlWG9MWkVHZHM5YXF1V0xTWll1ckFmbGVyVDFGNFIycFNSaDEwd3o5TVM1TnlYNDY3OVZCOFVMR3FCX1Y4NmRHQWM0MWx1ODhmTy1xZXMybGF0OXNQbmFGdjhJbXhIMGRrU2NYVVp1cTQtc3BvcldPZ0dtOEtYRjdHQ0JR?oc=5",
-        "theme": "你準備好重返「人生大聯盟」了嗎？測測你的「機會掌握度」與「潛力爆發值」！",
-        "resultCount": 6,
-        "style": "清爽動漫",
-        "description": "鄧愷威隨時準備重返大聯盟的積極態度，展現了運動員對目標的堅持與自我準備。這個測驗將大聯盟比喻為人生的重大機會或夢想舞台，引導使用者思考自己是否已為迎接挑戰做好準備、如何累積實力，以及面對機會降臨時能否即時把握。測驗結果將揭示使用者在「機會來臨時」的潛力與行動力，激勵他們在生活中也能積極面對挑戰、追求卓越。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你準備好重返「人生大聯盟」了嗎？測測你的「機會掌握度」與「潛力爆發值」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "日職》新庄解釋換下台灣新星孫易磊原因！火腿左投：還敢派我上去？ - 自由體育",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWGVnM2VaTVh6eFRGenRqNDY5bXVa0NVRGg4cTlXN2FmY0dWOVRtSFFZSENLSEtQUWNpQkZpSHktNGcxcjZ5X0tyTFYxa3R0RHYyRGYzR1kzM1owVk5pZg?oc=5",
-        "theme": "被教練換下場，你會是哪種球員？測測你的「逆境EQ」與「再戰鬥魂」！",
-        "resultCount": 5,
-        "style": "搞怪幽默",
-        "description": "這則新聞涉及教練的調度、球員的表現以及隊友間的互動（包含幽默的自嘲）。測驗將此情境轉化為職場或團隊合作中，當個人表現未達預期或被「換下場」時，會如何應對。使用者可以透過測驗，了解自己在面對挫折、被質疑或需要重新調整角色時的心理素質，是選擇沉潛、積極反思還是幽默以對。測驗結果能提供使用者關於情緒管理和逆境中保持鬥志的建議。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【被教練換下場，你會是哪種球員？測測你的「逆境EQ」與「再戰鬥魂」！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
       }
     ]
   }
