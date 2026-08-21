@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-08-21",
+    "generatedAt": "2026-08-21T02:11:21.168Z",
+    "ideas": [
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "坂口杏里認愛170公斤網紅「交往4天傳情變」 男友崩潰：我會壞掉 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPYTExQ290YmVUUDNtUFFTTm10Z1FxUTN5SWlfVW4wUDlHT0Y0T1JlcG9ucE1MVEp2dXlfaDZYdmhpRWlNSHRpUm5mTDN3eHp6dVY4a29hRkdQbW44QStiUm5Ud1BBbEwtMEhabTduc2dqSmgtLTJNQ2drMmRuTEs2UDhBYWI0Y3BaTl9VT3JwZXRlRTNNb0NBa05saGhrMHlvbnJzclJyVTF6Sk1uSzlDcGppRWhzS3Etd3VZd1RGX1lvRnE4V0Zvb19EQlM2OGVwNjR1emtUcWNIWUJrazBkZlFUMVhUWFJSaDdRcG9WZ05tc21fVU1tQUFYRDg5ZDNid1BzRm1KQjNhWUZJUU0wT01adTBTNUtZVF83MDVjUEFJZjB3X01IdzA3UFJ4X3JLV1l4ZzFNcTBlSkZyZ1dOZG0zMUJCUk5CZTV2U3I3VjREU2oxNXdIUjI4LXo4OXlvb0NDbjQxdk9JNEZYZm4yLVpiWWVycV9JZjFQw?oc=5",
+        "theme": "你戀愛的保鮮期是幾天？測測你的愛情速食指數！",
+        "resultCount": 6,
+        "style": "搞怪幽默",
+        "description": "這則新聞充滿戲劇性，觸及現代人對速食愛情、關係變動與公眾形象的看法。測驗能讓使用者以幽默的方式，探索自己在感情中的承諾程度、處理衝突的方式，以及對關係穩定性的期望，藉由名人八卦反思自身的感情模式。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你戀愛的保鮮期是幾天？測測你的愛情速食指數！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "蕭伊為「佔用公共資源」道歉了！停火Joeman捐款近20萬親自公開清單 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZ3hfRklta3oyTEgtN3E0WU04TUpHWTFETmpiVzU0VlZ0T3VweExUQ3Z3ekVOSHZPUW5DS2V4YzlqNHJMMlZwRlYwUHhxWUVXUnNNWVl0bFp1OWFJUnVkcmxGQnp3M2lfUF84aF91SHZEbDNEdVVHNmVaSDl1V041dW9tQUNBQTBvazAzNUpFZ2dITFFyQ3pZa2RkblFNN1JEMWZaMWFiV3QyUC1mQXR5X19XV3Z4T1F1VGtkS2tIWGZ6bEVPT0xrV20zZ0lLRjUtWFAzaUJIR2ZnQWQzTThxc1dORS1oY3VVVEhBZmpUakNCUE9wQzZaNE1lcE5WY2NRYktabTVnSmxmR0IxQ0ItQlNOcG41R0QtNm91d0YzUjNwX3NxdnNTNE1UMDU2SE8wanpmRzBybXdmVF9ZNkNlZHpiUXJMZVZFcTZKaEZiUElIYS1aVk9YdUVyZ2lySUZtMUlCajRtR0RySWJyc2c5OW9WT1hpN0l0N19jU0p1QTZ3UQ?oc=5",
+        "theme": "你也是公關危機處理大師嗎？測你面對爭議的反應模式！",
+        "resultCount": 5,
+        "style": "懷舊報刊",
+        "description": "此話題聚焦於公眾人物的危機處理與社群責任。測驗將引導使用者思考，在面對公眾批評或個人失誤時，會如何應對、承擔責任與溝通。透過情境題，使用者能檢視自身的公關智慧與應變能力，並從中獲得趣味與反思。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你也是公關危機處理大師嗎？測你面對爭議的反應模式！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "輝達融資5000億鎂後 受到威脅的它 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONUp6RXhMTEwzSEluVmR5c21MVzNXSVV4UW51cm8xX2tfWDNmc0VhcWNSQmt2OVcyaE4wV2hmSUxjZl83cVo1Y2pxNHJjWlBYRVVtd1RyY1E4MnZMS05PdjhrUVlVSkNETGEtVi1NMFRadmY5X25qSVpfa3FMQWk2QU13Ty1VTXRiNVlaUU0xVFZ3dXNHQTR4ei1uV2dicWVQWnVqUVdVQWxMMEtQOFZTeHZnQmVNSlVjMVpuWkF6ZlN5TmRPcldENDZ3U2pOUnNiWGpZei1Tbmg1Ylc2MVlPYlNMYXQ1S29mRUJ6Qldyb21iSFFBelE?oc=5",
+        "theme": "你在市場洪流中是輝達還是它的競爭者？測你的商業戰略性格！",
+        "resultCount": 4,
+        "style": "科幻冷冽",
+        "description": "這則新聞揭示了高科技產業的激烈競爭與戰略佈局。心理測驗將引導使用者思考自己在面對競爭時的策略選擇、風險承受度與創新思維。透過模擬市場情境，使用者能以有趣的方式探索自己的「商業戰略人格」，了解自己是傾向主導市場的巨頭，還是伺機而動的挑戰者。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你在市場洪流中是輝達還是它的競爭者？測你的商業戰略性格！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "貝森特救債市首戰失利 但還有「四招」可用 - news.cnyes.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CWXRoSDZaRDRrQTZFemRxejhTV1RBa0M3YjNqWTJNZklScHdjQ19ST2JlTlFKeHAxTDk4aTYxOTZGQ3dBejBqYV9vdmdBY0k?oc=5",
+        "theme": "你的B計畫準備好了嗎？測你面對挑戰的應變力！",
+        "resultCount": 5,
+        "style": "極簡質感",
+        "description": "新聞描述了即使首戰失利，仍有後續對策的韌性。測驗將探索使用者面對挫折時的應變能力、危機處理模式以及是否具備多種備案。它能讓使用者檢視自己的「B計畫指數」，並從中獲得啟發，思考如何在生活與工作中更好地應對突發狀況。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的B計畫準備好了嗎？測你面對挑戰的應變力！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "安華尷尬了？中企繞道大馬找算力 台灣1招卡到習近平AI夢 - 自由財經",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CMzRFOGhGa2huZk9WVFJnem94bFItVjgzZ0w5dnliQXFULWh5SFk0SHYwZXBfQzdEX2ZKeGUyVS0yckdCWWdMQ0VsOTlGTy00VnI4cjhyMzJpWTdQeFlB?oc=5",
+        "theme": "你的AI夢想會被誰卡住？測你實現目標的戰略思維！",
+        "resultCount": 7,
+        "style": "科幻冷冽",
+        "description": "這則新聞融合了地緣政治、科技競爭與國家戰略。測驗能讓使用者在模擬國際博弈的情境中，思考如何制定策略、預測潛在阻礙以及尋找突破口。透過此測驗，使用者能以趣味方式檢視自己的「地緣政治敏銳度」與「策略規劃能力」。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的AI夢想會被誰卡住？測你實現目標的戰略思維！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "瞄準機器人！輝達點名16家台廠 攜手合作物理AI - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQWkRhSlJuYkx3dkNpT3FFMmZUTk9HWU1LWWtROVhOVTdzQVZadWhBUUd4ejlVZG1zZEEtbUZGUlpQVzVQMUJvbjVoRC0yc3NtVHFVTnZGRjNpX3k3Smw5YUVFRzBGbFlrNWk1QmFwd1pyZV9TZzhuUjUycFA0RTVlOTVzQWh3VUdoNVdYQldoeUNFeUVGMXBOTWx0ZktPUjdXUUxyWWZBOW1ma1dDYmdVdWJwM1ZmTzdzWnF0b1lnNUN5TXhUVDVvMENkdndISm9ob29lVmFnekMzeXp5Y1RWbTlVdjAwYzZ1SkxPQnZYUmxkRUFQd0VFREdJMEN2TkhmbHI3bnp6Vk1CYmRNZDdkUURWb1dreU8wbzZwX3NwYmhPTGoxNExtVDBEdHZwYU9OT2tpMjBoUHVyLUk?oc=5",
+        "theme": "你是AI時代的夢想實踐家嗎？測你合作共贏的潛力！",
+        "resultCount": 6,
+        "style": "立體拼接",
+        "description": "新聞展現了科技巨頭與眾多企業攜手合作，共同開創未來的願景。測驗將探索使用者在團隊合作、創新思維與夥伴選擇上的特質。它能讓使用者以積極正向的角度，檢視自己是哪種「合作型創新者」，以及如何透過結盟達成更大的目標。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是AI時代的夢想實踐家嗎？測你合作共贏的潛力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【立體拼接】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "瓊斯盃》菲律賓洋將閉著眼睛罰球 SGA慘電中華藍43分出氣 - Yahoo運動",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNdmxtZ1Eyb1FMTzA4bk1VaFZzdEJyQXBJZ244UWpZcHkxbTNrdC1CbXljRUZVZDNUb21fU3hZZHVuYzR1dmM5SllkT09YR0RIQzBNZ0xjYzhfSzVvcTRPU0Q4OWxuaU1aTHVNRDhDMlVIcEU4cTJIQng3b0V5M0hGSjJJN2h4RE9IbVR1SWE5WkFwbThRQ1hJd1ZxX1lSMFo5dG0yVUVFYWhGUDFIUnRFV21VTHVmS1JieU5lb2xkN2tLSG1Td2xyM2JraW9TUS04QXE5cU1LUlZZTVJ1VDNmN2pRZEZ6eWREamhDdklfODUzajlqNmVIczBNaWNsdjc2Q2JrMGhsYzhmVE9kQmtmYVZuREV2Mkg2dFZVMWZydnZmaVBUT3hEZllMVFFGYXlDSkN3S2hSaXhVMjJkWGx2ekVtdmFWWlUydmE0ZTZzNjBmMFVTYWF5d09MemlRNU1hSHhQdXl3Nk9WOVNib0owMzBDd2NfbUdO?oc=5",
+        "theme": "你的自信能『閉著眼睛』達成目標嗎？測你挑戰極限的膽量！",
+        "resultCount": 5,
+        "style": "美式波普",
+        "description": "這則新聞充滿了運動場上的自信、挑釁與霸氣。測驗將探索使用者在面對挑戰時的膽量、自信程度以及是否敢於嘗試非傳統方法。它提供一個趣味的機會，讓使用者了解自己的「極限挑戰者類型」，並從中獲得刺激與自我肯定。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的自信能『閉著眼睛』達成目標嗎？測你挑戰極限的膽量！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "藍鳥5億重砲本季僅7轟、OPS低於平均 大聯盟前球星：責任壓力成考驗 - Yahoo運動",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitANBVV95cUxPMFFob2VvS2xkUGw5Qnd1WExKUVRHOTJ6VXRxNFJmaDVaajd0MXgzSEN3M2pqRHFDSkhDLTZqZ19tMFdzRllSampWV0UxcU93R25BUDF4X013Y2FpS19PcEpmeHVLZmlIbUw5MjY5MDZjWHZ5UndhR21ZLVNram5MdHk4WVdlaF96ZHg4b0hnQmU3TEZKLU5sWEpjTXkyd3BmYVh6RFJVZTZKYm9UU2p2WUFWYWlrb19PcXpoQWxmRGpHdWY0T0dsRVVpQUg4Ry1OdEJrWWZsQVlWbHlZS0tCQWJUU2lpN2lmLVo4enNmZV9VVVZiZHNnM3NsTlF5eG5SX2ZjaHExZVgxdy1KcDdJNlVhQWY5VTFfbENSbW1Qd0VjWFdIWS03UFVOcnFjTVdwSlFwcl9aankzVkdIcGloU1lnRTRjdUlBSWRGWGVIRE85Qi1LcmpCbWp6d1lJazlfTmpHNkJTRFhnM01mVTFpZUlsczFMOFM0QVRPMl9HeEdUY2NQbE9lcklaV21BR0NJTmh6c3NxZTc5M29LV0EtMldadVg0am1YMndDcUpvNmFJV2FG?oc=5",
+        "theme": "你是抗壓性超高的選手嗎？測你如何應對『責任壓力』！",
+        "resultCount": 4,
+        "style": "驚悚懸疑",
+        "description": "這則新聞探討了高薪運動員在巨大壓力下表現失常的心理困境。測驗將引導使用者思考在面對高期望、嚴苛考驗時的心理素質、抗壓能力與情緒調適方式。透過此測驗，使用者能檢視自己的「壓力應對模式」，並從中獲得如何在高壓環境下保持良好表現的啟示。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是抗壓性超高的選手嗎？測你如何應對『責任壓力』！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
+      }
+    ]
+  },
+  {
     "id": "2026-08-20",
     "generatedAt": "2026-08-20T02:05:25.595Z",
     "ideas": [
@@ -566,122 +660,6 @@
         "description": "台灣成功爭取棒球奧運主辦權，不僅是體育盛事，更是一場幕後的國際協商與外交勝利，充滿了策略與國家榮譽感。這個測驗以辜仲諒親飛爭取主辦權的事件為核心，探索使用者在面對重要任務、國際合作或爭取話語權時的個人特質與策略。你是「策略佈局型」的談判高手？還是「以情感人型」的溝通能手？或是「堅持原則型」的捍衛者？透過情境題，如「當你代表團隊爭取一項重要權益時，你會如何準備？」，分析你的談判風格、應變能力與對集體榮譽的重視程度，讓讀者能以輕鬆方式，感受國際競爭的氛圍。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種『國際談判代表』？測測你的跨國協商力與國家榮譽感！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【國風墨韻】"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-13",
-    "generatedAt": "2026-08-13T03:12:28.622Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "【國內】影／憲兵深夜光復橋阻絕演練 槍聲爆破聲大作、雲豹甲車出動殲敵 - UDN",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85aGRpdnU1ZlVocDNuS3otb2VOOHFZeEhuNXk3UW9kSGgtU0RpM2xwZVRfNmV1NmgxZXNVWThzd2VZZUJmNjh3RFE3VTNBZTc0Y0HSAVdBVV95cUxPSXBJYjNReUR0RTVnWXpYZXJFNk9EVHQ0b1VQZllsYjlLWGtRcVQwNEljdHNUZjFGalJJZmNDdkc3Ymo4eWVmTnN3RWs0aGRvVGlmOW9kZTA?oc=5",
-        "theme": "當危機來臨，你的潛能會如何爆發？從演習反應看你的隱藏人格特質！",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "現代人生活壓力大，面對突發狀況的反應能反映真實性格。此測驗以軍事演練情境為引，讓使用者代入想像中的危機，透過選擇判斷自己在壓力下的應變模式，進而揭示其潛藏的領導力、決策風格或協作能力，提供趣味性的自我探索。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當危機來臨，你的潛能會如何爆發？從演習反應看你的隱藏人格特質！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "【國內】2026防空演習注意！明天8/13「北部7縣市」實施，違規罰15萬元，網路降速時間/捷運+ 交通管制 - storm.mg",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZVk41Zm91d3FQVUo3RG1JWEFwVWhUUThFSmJQc0RFbGtiLUMySUlNdjFOY0FTTGpFWG91VDJ0NnFGcGJwcXdlZ0VJTDNYN3M1?oc=5",
-        "theme": "防空演習來了！你是不慌不亂的應變大師，還是想鑽漏洞的自由靈魂？",
-        "resultCount": 5,
-        "style": "懷舊報刊",
-        "description": "防空演習是嚴肅的國防議題，但其帶來的日常不便與規則限制，反而能激發民眾不同的反應。此測驗將探討個人在面對公共限制時，是傾向遵守、尋找替代方案，還是忍不住抱怨，藉由情境問答，分析使用者是個「守秩序的公民」還是「追求個人自由的叛逆者」，帶來趣味反思。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【防空演習來了！你是不慌不亂的應變大師，還是想鑽漏洞的自由靈魂？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "【娛樂】陳盈潔死因曝光！晚年多病纏身急救搶命 失智忘喝水導致急性腎衰成關鍵 - tw.news.yahoo.com",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNM2RmUXZEMW5TTXNJUjJxaERvTlFoNnBIdmlIOWRXNFRUYzItYlFVaW9UNEMxX3I2cmtyYkpyekpBbl8tcFRuaGFhQW1hMy1VUnd6azBqTkJoN3I2VzY5a3IwYld0SVhiY3Q0RjJVSnRlbkl2MFhxQ0Y0NUN4VzlEZVNLYnI2b2JRWHhna3kxNnlnbERYZ1lFaGdPUnNVODM4OXAxblZtTVJKV0dvZFNMdGZYamQzLUVnT2xiY0pLc1BCZUV5WU9FbThWSFRnTWVMQWNhR3pDbjEwZmFoQktSVWJMOFhRRHlPdGhnZ0txU3RzOGs2RG5wWW1LNFRENmhvX3VxTnAwd0RORVUwdmRXcjNEYlpIcTJLMUFKLTZWdHNncGlMaTdnaXBxVjFJdTFnX0ZRU20xTDd5V3lKdnY5Z3J4Q1lGWlNCYlZVVlg0NkxTV1RXdXZUbjhINXdIeUhGNko0UTg0RGNIeE5rdmZYUmJtWV83dnJKR2Q5YUNVY2JwWlFxM2FGUmltUXpma2M4RTVGWC1wSTNBVEpOVG92TTFpeThYbzVCcFRDU3NycGJneEJNUU1nVGR4VWpIMGxkN2w2anJKYzJWZw?oc=5",
-        "theme": "你的生活觀是「超前部署」還是「隨遇而安」？從日常習慣揭示你對健康的重視程度！",
-        "resultCount": 5,
-        "style": "溫馨水彩",
-        "description": "藝人逝世新聞提醒人們健康的重要性，尤其失智症與慢性病是現代社會常見議題。此測驗將透過日常作息、面對健康警訊的反應等情境題，引導使用者反思自己對身體的重視程度與生活觀，是積極預防還是隨性應對，提供一個溫和而深刻的自我檢視機會。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的生活觀是「超前部署」還是「隨遇而安」？從日常習慣揭示你對健康的重視程度！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "【娛樂】人氣日劇開播前換角！《夫婦日和》續集芙美子換人演…本尊訴心聲 - ETtoday星光雲",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90ZGdOaDNEM3BuNW50RV9EX1A4MFE1WDRfN3EyZlc1blQ4REtWZG9JbjRFQVV1R1lGZ2JyRExvWldYTW5ySU1kM1ZzYldnUdIBTEFVX3lxTE85ZEdFMG01eEpDMVFLSktqWERiTW5wbllmSE43d1pPRzNFc0pPaGswbVZwUk5yTlVibG0tYUpCbUtpamtUTVIwZnIxbEY?oc=5",
-        "theme": "職涯路上遇到「換角」危機？測測你在變動中是「逆風高飛」還是「黯然退場」！",
-        "resultCount": 6,
-        "style": "底片膠卷",
-        "description": "娛樂圈的換角事件，反映了職場上經常面對的突發變動與不確定性。此測驗以「換角」為引，設計職場或人生情境，讓使用者思考在預期之外的變化中，自己的應對態度與情緒管理模式，是能積極尋找轉機，還是容易感到挫折，提供對個人應變能力的趣味洞察。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【職涯路上遇到「換角」危機？測測你在變動中是「逆風高飛」還是「黯然退場」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【底片膠卷】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "【財經】台股收漲397點站穩45K 台積電漲20元 國巨又被殺下來 - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPa0U0N0Y2ODRQbkNReTY5MTlPZ0xWT19LN1NESDd4RGx4U1YwSHowLWxRa0lkM05wYXRRZ1pWQ2RGc3h3QjZSLUh6TzlWOTJVQU9XUGxvcGFtTVNOQjZ4azRreTBFeDlEVzNLVF9BZDVUN3ZyRTNQWEhmZTJIdUtoWWoyWXZhdTFVNEZpM19oMHF0RzB2ZnRQYmFXclQ3QmFkVHBTcldnWEwzdWpuMHFIN0czbTFPSDVBdGlsaFd5NDJ4YVM5SkpLbXpWRFMxRm43eTdPRDdteHp4ZW9YSmU2UUtsMzlaZHBlcVZUd0RKVFUwVGQwNWlCSEh6OU0wUUNxZmF5aHFrZkZOUGxmc1NXUnZULXF0bUs0M2VqRXdBYjdsSzNLQ1R3QmhmaXRwdlVmbDQyT1NxUno3bnpRWVF6MWJMQ3U2azh0OUVUZw?oc=5",
-        "theme": "台股起伏像人生！你是「追漲殺跌」的衝動派，還是「穩健佈局」的價值投資人？",
-        "resultCount": 7,
-        "style": "霓虹賽博",
-        "description": "股市的漲跌牽動人心，反映出人們對金錢與風險的不同態度。此測驗將模擬股市投資情境，透過使用者對資訊的判斷、風險的承受度以及對漲跌的反應，分析其是屬於「積極進取型」、「穩健保守型」還是「隨性佛系型」的投資人格，提供趣味的財商自我檢視。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【台股起伏像人生！你是「追漲殺跌」的衝動派，還是「穩健佈局」的價值投資人？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "【財經】鴻海財報／第2季獲利創同期新高、EPS 4.27元 全年業績將強勁成長 - 經濟日報",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDMUJYaENfMkpsT3VJWEUwNTFwMUNQOW9PYWFSNlkyTnQweEs3VFF2WEk5SjZWcEFoTlBQVVZNY2ZlOHBsY2VTeHRlb1pIX3lJcFdId3BWb1F3Z9IBX0FVX3lxTE0taTl2N0czV3J1c0V6UnZZMm5lYmNXS2hHQUZWSmZFYTZoOFo4OGw5UEtPd1RDYTlxclVVNzNmS2Y2RDI4YXRwb2xrZlRDc3FfeEZwOVdGeXFrT2JEZGY0?oc=5",
-        "theme": "鴻海獲利創新高！你的職涯潛力是「爆發成長股」還是「穩健藍籌股」？",
-        "resultCount": 6,
-        "style": "極簡質感",
-        "description": "鴻海財報亮眼，象徵著企業的成功與成長動能。此測驗將以企業經營與個人職涯發展為連結，透過情境模擬使用者在工作上的目標設定、挑戰應對和團隊協作模式，分析其是具備「衝刺型」的成長潛力，還是「穩紮穩打型」的基石特質，提供有趣的職涯人格探索。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【鴻海獲利創新高！你的職涯潛力是「爆發成長股」還是「穩健藍籌股」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "【科技】鴻夏戀10年！鴻海喊「日本驕傲」 夏普前社長開砲 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQb1k2UDEyM2l6YmUyNmtESlloTWZ0MVdxbUdtWjRRX2tzUWJBTlduOWdjdWhqWHFqSjBSSjNqbG5LM1RKQTl6dGpaVFkxbEJ3bk9DMW5RbEFXSkExcFJfSVdienVGV1ktSFQwTEV0eEdsTEdZTzNpZERzeVF6bjUwS0lZUHRrcGtvSnhmYmtrNkNTcjlCU3dISWRFajdRRGk1anZkaWpVdVJEbTU5X2w3bmxoVVZmTnBGV1h0OWFyQy1xNS1OUlFzZnRGREFTMk00RElZbWhHSWRJclAzQVozTHFiOFpvVEpfTlhQNHhQSXMyTWZSSjVzMS1TMEw4RTNBR0pyQUNrendJMkUzY0xralV6bC1NWDM1Q3JiZW42bFR3Z0ZwdUdhN3cyb2xQV2s2T3c?oc=5",
-        "theme": "你的合作模式是「強強聯手」還是「貌合神離」？從鴻夏戀看你的人際協作風格！",
-        "resultCount": 6,
-        "style": "立體拼接",
-        "description": "鴻夏戀背後的複雜關係與情感糾葛，是跨國合作的縮影。此測驗將以合作關係中的挑戰與磨合為題，透過使用者在團隊合作、人際溝通、利益衝突等情境中的選擇，分析其是傾向「理性策略導向」還是「情感連結優先」的協作風格，提供對人際關係模式的趣味洞察。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的合作模式是「強強聯手」還是「貌合神離」？從鴻夏戀看你的人際協作風格！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【立體拼接】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "【科技】鴻海發布重訊 砸10億推關鍵布局 - 東森新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzcEpVQ3I1dlRud19hZFZ5dzBpRWg2T2dVcTQ3bzVucV9ueDg3M0NXVnZTeDNDemNYcXliX3IxOWpzaExZLW9fVGJnM3NCNHROdXhaVm5nMA?oc=5",
-        "theme": "面臨重大決策，你是「果斷出擊」的戰略家，還是「深思熟慮」的規劃者？",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "企業的重大投資決策，反映了對未來趨勢的判斷與承擔風險的魄力。此測驗將設計商業或個人生活中的重大抉擇情境，引導使用者思考其在資訊不完全、時間壓力下，是偏向「快速決斷」、「謹慎分析」或「勇於冒險」的決策風格，提供對個人決斷力的趣味分析。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【面臨重大決策，你是「果斷出擊」的戰略家，還是「深思熟慮」的規劃者？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "【體育】足球》梅西沉痛發千字文傾訴父親離去的痛苦 坦言萌生退意「不確定自己還能繼續踢多久」 - Yahoo運動",
-        "sourceLink": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOX2JyOWVlWEdOa09lZlM5U09Qa2R2MXhId1VYcjRmbHgzMFl5c3lhc0w1NEIyQWV0QnpoYkg0VUp3UUw1djFDbGRROS1FbkxGRUJVNnZWR1dIajJ6dGhlWC1ydlY4OTROaU9GUjBHMWdiNGQ4SGF0LWRmcDJUT3dMUXhsZWZUOExJMUczWFpsUkRQYWxyX0Radlhxd0JyRFFCTXZHbnZCeWFPTkZ0OVJkQWNTR0hfWjE0a0lTVFBsekJHbmlQTzBqTUZCaTQ3YTRUMU82dUFuLUZBRl9DNXAtQ05YVzR6THVWZzFRUFFVYmJHbG1rTktuNmg1NWgxQmk4VWpVX3hJS3BUdlR6LWFVUEtBT2lMSW9fN3dlMi1ZSVdDQzB5d0Nfb19oM3VIUm1WaFRMYUdkYnFoSW02TWJNYlVvZ19iUWZuZzdTU3c0UVliRXVOazUyQjc1QlBwNktsRjZ3RFpfbjVhOGpUTTU3SVBzdUhvbEh0ZXBndVhHaFk2U2N4LTVUcHlmY0hZM1E4VEVUc1pOWnNOQXhjWGwtSFJFSldUeEtJeWRLSW83Zk01Q3pfMmNMZFNRVWg4cHFKQ3lxalY1VVlqT3ltUGVkcDVaR2Q4MTVzLWIzNnN4a0RscFlOVG9tdmhPU3N2ZEFLWWZnNGV3azF2WUQ0NFBZZU1KWEVQWTdWVXEtZ21iTkxqSnVqb2VzaC1yY2h0a2sxOFQ1Q2Rja19GVlZGUHRNNzkwOGg4ZmVGQmNXeG5B?oc=5",
-        "theme": "人生遇到巨大低潮？測測你內心的「情緒復原力」有多強大！",
-        "resultCount": 6,
-        "style": "溫馨水彩",
-        "description": "體育巨星梅西面對親人離世的痛苦與生涯困惑，觸動了許多人對「失去」與「人生轉折」的共鳴。此測驗將透過情境模擬，引導使用者思考在面對重大挫折、悲傷或迷惘時，自己的情緒處理模式與復原能力，是傾向獨自承受、尋求支持還是能從中找到新方向，提供一個溫暖而深刻的自我理解。",
-        "id": "idea-9",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【人生遇到巨大低潮？測測你內心的「情緒復原力」有多強大！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "【體育】MLB／球速下滑成隱憂？ 斯金斯僅投5局遭換下！總教練凱利親揭背後真相 - Yahoo運動",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQME0zc0pBUUUzcGJ6TTZybEMzbWJNY3FGelFUdWN5aEVNTHJ0MnJZZm9rMnBXME13WkltekhDZWRHNDlfd1EteDVTcVRJNFptclplRTVfUWlNRVRHeWFXZVRVQ1lFN0tuLUFUTVB0M3dJOTBwcTVBSlR6eG85d1hIODFoR08xQ0xoMmc0TEFSSW56eEI3Y2l6Y2JlTzVDQW1pLXUyWXdlSmN1aENJTTdERFUwSGUzenBJQ25aWmFaVUs0bUlCRVhSVGtzaV90VW9ic0FOVEFNaTFZc0t6UHhJTDdid1J5OFo5WGZnSlpUd203QlgzVFEyWUhVYzVpenFXZFNwc1BCZ2p2aTlqTElPMUEyT01pZ2RiV3NuQnk2ZHp2dmc5ZVl6VzItYjMxTnktYzhkQ0tYZjJfSVlWZ3NIeGk2WEVMZ2tJejBrZlpJWnNOcXRLLUE5cHRxZ2doR3d3THRzdHhpanJDeUZUX3F6ai1zMlp1cm5sQjVjTU5mRGtNN3gyY1JIeWxOdHppRUtXVE1GSGYxdm9ZYnFMM3NfbHl1UUpJU0tIckRLX3pHV1J2Z0dZYnpfdHo5eTFiWnFZMjdSODJQQkg4SHM?oc=5",
-        "theme": "當表現不如預期，你會是「自我懷疑」還是「尋求突破」？測測你面對瓶頸的心理素質！",
-        "resultCount": 5,
-        "style": "清爽動漫",
-        "description": "運動員的表現起伏是常態，球速下滑的隱憂與教練的換人策略，都反映了職場或人生中面對「瓶頸」與「不確定性」的挑戰。此測驗將設計工作或學習中的表現壓力情境，探討使用者在遇到挫折時，是傾向「自我檢討」、「尋求協助」或「感到沮喪」，提供對個人心理韌性與應變能力的趣味評估。",
-        "id": "idea-10",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當表現不如預期，你會是「自我懷疑」還是「尋求突破」？測測你面對瓶頸的心理素質！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
       }
     ]
   }
