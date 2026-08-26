@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-08-26",
+    "generatedAt": "2026-08-26T02:12:20.410Z",
+    "ideas": [
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "國寶級鄉村歌后桃莉芭頓80歲辭世 川普令「全美降半旗一週」悼念 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNeERXLV94OUNVRk9zVmNWV2xHdWlTblQzRTh4N2pMSmI0c2tKeGV2N3pzUG5kMEluNksxUmpBalpZYzZkUkZNaVY2dmxZeXVwU0FKbjByRllWbERRWXdsTFExZmh0eF9lQ1F1WG5xbWxtekxkdmk2MXRjblhKZG1mMU9WT1d6SmN1ZUFCR0lYMXdlTzdYMVhxaVQ5d3dLMEkwMmEyUmZBazVRMVhqWHUwWmlURU1pVENUY2lmZUFTOEJoZXlTNGNjdG9HaFBndkVoQlRWLU05dFJBWG5WWFYyenlNeUVyRU5CSW9KcEhHVHg2RE5zZEplNXlUbkwzQWs0bmdzeS1kLXNzZDFYdzNJbnNFckUwOXNLSzhJMUpQSVp4azJHUVVCX1dHb3RtVHIxZFlna2MxeWJ3YzRqb0FXb190b1ByZVJMV3ljRTFmeGR2Z1hkb3ZRZTZSd0k1WGRienZlb1FYX3R0Y1hxLWtPd2lSblZWMC1MbTd5OTRVdnRUV2dUQm1Z?oc=5",
+        "theme": "你是哪種「不朽傳奇」？測驗你的生命影響力與社會貢獻潛質！",
+        "resultCount": 6,
+        "style": "溫馨水彩",
+        "description": "桃莉芭頓作為國寶級歌后，其辭世引發全美降半旗悼念，象徵她對社會的巨大影響力。這個測驗能讓使用者思考自己希望在人生中留下什麼樣的印記，以及他們身上潛藏著哪種「傳奇特質」。透過情境題，引導他們探索自己的核心價值觀和對世界的貢獻慾望，最終揭示他們可能成為的傳奇類型，帶來自我探索的趣味與啟發。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「不朽傳奇」？測驗你的生命影響力與社會貢獻潛質！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "假面甜心敗人品／背後碎嘴三上悠亞、瀨戶環奈　揭祕河北彩花腹黑陰暗面 - 鏡週刊Mirror Media",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxY01XOXZqNmladjdkaGdSSE9ZMkFDSXNiLThvQnoxa2w4V1RjcGJfS1lqMnVFbXlPN1lsNG5qNm5weDJYc3F1ZDNiUzNwZllpdnM1aWg3VmdpNlnSAWBBVV95cUxOUVhLeElsOF80Mm1hTUdIbTBLNVBlVF9kQlFfd2dHVThUSy05X21Rbno0bURpOFBuTU10OHl0bUlacWhlMjhQckhlWm82ZmJveVhHNHlPNjFQRTNUYkwzR00?oc=5",
+        "theme": "你是社交圈的哪種「兩面人」？測驗你的表裡一致指數與人設經營術！",
+        "resultCount": 5,
+        "style": "驚悚懸疑",
+        "description": "河北彩花「假面甜心」的形象崩壞，揭示了人們在公眾與私下可能存在的反差。這個測驗旨在讓使用者檢視自己在不同社交情境下的行為模式，探索自己是否也有不為人知的「腹黑」或「真實」一面。透過情境選擇，幫助他們了解自己的表裡一致程度，並從中找到趣味，或許也能引發對人際關係的反思。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是社交圈的哪種「兩面人」？測驗你的表裡一致指數與人設經營術！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "美股收盤》輝達財報前終止連7跌！道瓊漲160點 台積電ADR升1.78％ - 自由財經",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZjQ5TFRVa3pUZ0tDM2JOZFFWVVZLbkM2bkdISzRsNnBPQjZITjA3a3hlR3JITWxHNWlGdC01emZkWDlGaDNwNk02dFZyRW1QSE53N0R6aU5GYTBUT3ZB?oc=5",
+        "theme": "你是股市裡的哪種操盤手？測驗你的投資風格與風險偏好！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "輝達財報前的股市波動，反映了投資市場的瞬息萬變與決策的重要性。這個測驗將引導使用者模擬投資情境，評估他們在面對風險、選擇標的、判斷時機時的反應。透過測驗結果，幫助他們了解自己的投資性格，例如是保守穩健還是積極進取，進而提供趣味性的自我認知，也可能對未來的理財決策帶來一點啟發。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是股市裡的哪種操盤手？測驗你的投資風格與風險偏好！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台灣新首富！　85歲擊敗陳泰銘、郭台銘 - ETtoday財經雲",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40T0NPc3dpMVZNVG1UQTRLS2RPcXAxbmZneERFTldSZHlPSGJ3M3NEeU1uazVlOWZCZzZPY1JfWWZRTUxUZk9oS2VUOG91THBpYmfSAVBBVV95cUxPcmE3cURaemcwam5NRkFoUXZORzR1WGtONFI0VW5uYURTOThFRGU0My04bDl5ZFVoUkQwQ1JBNER2U01TSlVFckJfbkI0aVd3TA?oc=5",
+        "theme": "你有成為「人生勝利組」的潛力嗎？測驗你的致富人格特質！",
+        "resultCount": 5,
+        "style": "奢華宮廷",
+        "description": "85歲長者成為台灣新首富，打破了傳統對成功年齡的想像，強調了智慧與堅持的力量。這個測驗將探索使用者在面對機會、挑戰和長期目標時的思維模式與行為傾向。透過分析他們的決策風格、風險承受度、人際網絡等，揭示他們身上具備哪些「致富」或「成功」的人格特質，提供趣味性的自我洞察，激發追求卓越的動力。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你有成為「人生勝利組」的潛力嗎？測驗你的致富人格特質！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【奢華宮廷】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "10萬變950萬！麻吉大哥兩天暴賺百倍 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSExKMlBWSWl2ZzdHeFBjdUttMG0zdUxxSVBoYU5rU1VSZHBwcWxLQmluLXlEV2J2LW84dmIyOFZwejIycTg1YjhHTlIyY3hhUDRSWWJoVnNRR3ROOG1aREtwN2Q1cm1lSGdHbHBaam9yYjRmM0o2bzJlVHRCb0dkYmxBaFVoc25vY1o1N3RxdlhIVDZWN1JtX0NKQzZ3T3UyYWdZYnFXZmhPcjYwSmdGTElrbWlIODhGbGhrOU9iQVdFNnMxUFRVV0ZuYzF0OEpoVWtCOFFITXZzUmxadExfVzZXMXNjbER0bHRvUE1zXzlGNkNQRGMw?oc=5",
+        "theme": "你是下一個「財富自由」的黑馬嗎？測驗你的爆富潛質與決斷力！",
+        "resultCount": 6,
+        "style": "霓虹賽博",
+        "description": "麻吉大哥在短時間內賺取巨額財富，反映了新興市場（如加密貨幣）的暴富神話與高風險特性。這個測驗將模擬多種投資或創業機會，讓使用者評估自己的風險偏好、資訊判斷力及行動果決度。透過情境題，幫助他們了解自己是否具備「暴富」的特質，例如對新事物的敏銳度、敢於承擔風險的勇氣，提供一個娛樂性、引發幻想的自我認知。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是下一個「財富自由」的黑馬嗎？測驗你的爆富潛質與決斷力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "別看扁我兒子的中文！ 趙建銘疑兒子趙翊廷中文造詣差「靠AI代筆」 陳幸妤怒曬母子對話截圖護子 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNdW1NUHpwamVWNnNHNm56N1JOOUluUmtRUENBamx0aDZhU2Q5NkFLVDNidV9RQVRVRjVaWEZYWGxObTF3b0RNaUpnMjVudGxiaXQ3UE02cnBRQWxHNVdpY080ZmlzckxVOEJ6NDN6d1dKcHBaVjRKR2x6NWxDUnFrSUlUcl92RzdObW9xRENoRkNlOW40Tk5raTg0bDNDSWhBT1F5cTRtWGhkSzl2NzB1Q1lHbmV5QjZOSnI4ZEl3VmoxdjJBRnUtdUVWbE5ldDZhSGFWSWR6OXUyOXRrb2xqcUNWVTU5WFdfUkhrb3R4MU1ZR1hSSy00bVEzNTM0Z3ozWUluOS1xLVJKSHptTW8taHp4WTEzMW9vX1ptY2dLZkY5T2RBTmxYVU5qTUFsd29DUDZOcFRWVl8weURMdUVmdWUyU1FtT1AwRlQzZDlkUmRNNlZwYnFuOVo2SnNVLWRvUk8tRTBkeUp6WlJ1V2NkM0Y3Q3pKSnpIR3NzOVc3RVRpSDh3NGhYa1ljZEpyRkNmNm1BelR4QXcyX3RYUHlkeXZtUFVCOVAtZ0gtMkVzTXhYbXhNV0hwOVhsWThxYkV5eWhFS1dMVy16N2NtVy1vZ2VxZ1hTZ1RoQkFXS0JlQ1dDOHJyaGprbzNoZ1F2SGFVMHRFUzIxMnRBMElzV210dVJfNDNjclpEMjNPbWI0bU0wbENucjM0bENhY01PelFaWTNWRlZtTkdrMm9WY1E?oc=5",
+        "theme": "你是「AI原生世代」的哪種使用者？測驗你對AI的依賴與創新指數！",
+        "resultCount": 7,
+        "style": "科幻冷冽",
+        "description": "趙翊廷被質疑使用AI代筆寫中文作業，引發了對AI在教育和創作中角色的廣泛討論。這個測驗將讓使用者思考在學習、工作和日常生活中，他們如何看待AI的應用，以及他們會選擇多大程度地依賴或融合AI。透過多種情境選項，幫助使用者了解自己對AI工具的接受度、運用方式和潛在態度，提供一個趣味性且具時事感的自我定位。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是「AI原生世代」的哪種使用者？測驗你對AI的依賴與創新指數！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      }
+    ]
+  },
+  {
     "id": "2026-08-25",
     "generatedAt": "2026-08-25T02:06:55.893Z",
     "ideas": [
@@ -621,78 +693,6 @@
         "description": "無人機概念股的狂飆現象，反映了市場的熱情與投資人的追逐心態。測驗可從使用者面對高風險高報酬機會時的決策速度、對市場熱度的判斷，以及能否抵抗「錯失恐懼症(FOMO)」的影響，來分析其「投資投機傾向」與「市場敏感度」。這能讓使用者在財經話題中，檢視自己的投資性格，提供刺激又具啟發性的娛樂。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【無人機概念股狂飆！你敢不敢「衝」？測測你的「投機心臟」與「追漲殺跌指數」！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【立體拼接】"
-      }
-    ]
-  },
-  {
-    "id": "2026-08-18",
-    "generatedAt": "2026-08-18T02:04:10.708Z",
-    "ideas": [
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "美光、SanDisk領漲晶片股 費半重返牛市 投資人對AI支出信心增強",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrWnpUUmJWTTNyTzlOeEFnSDZmdnFTYzQyM2FyNlFHUU1TaUdRODRuZHNyaVFRM0oyYi1yX0V4amZjUzIxaEt3el9qV19WYjA?oc=5",
-        "theme": "你的投資性格是AI狂熱者還是穩健保守派？測測看你該如何佈局下一波財富浪潮！",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "結合AI趨勢與投資話題，引導使用者探索自己的投資態度與風險偏好，在AI浪潮下找到適合自己的財富增長策略。趣味性在於預測自己在AI時代的財富潛力。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的投資性格是AI狂熱者還是穩健保守派？測測看你該如何佈局下一波財富浪潮！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "67萬股東哭倒！力積電除息、營收雙利多突遭小兒翻空淪賣超王「這檔金融」獲利創高拚第五大金控也遭砍",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxNSzE2NEd1R00yNUIyS1ZhLVlZQ2pneDZmZUNidl9FR28zU3lGcXRDWU1va250ZTM1UkZFWFZWX0I2U2xodWZkeGZLa0IyMDZHcWY0SHJXTFRxQXZQUHFUNHhHaXdLQUUzRHRFbWYyZGYwU0JMc3lDVTlxUmZnazIyYVpoeHZlbnhuWFI5N3pLWU5rdGxMRUVMQTdZSHlVbENnaUk4UlppeTFLSmRYczZTUC02eUVuYTJ4NE85N1FrR0dPRnR4Y1F3Qy1NRWFXeGFsTEtXc2VMYm9rbmJ0bDNqSkduX1UwY0F0bUFWRjdIODNxZjQwUzBTemV2SkVhNlVXbnZ3TjZ0aU5qT2gwdzVUckFIS2ZtMmNKbVRzeXpzYzk4eWtzRDdoQzFEVXQxLXloUWdibUF3bUtYLUh0clFlU1Q3bWpDamdwa014Z0tiUVlka20yQW5LamNGTTV0QVVoX1hxd3JEa1pzSVkxX3FzcGVZVkRTRVM5X3MxTkRQbVRKOTltXzdfand2WFRESVQwNXNEa3VzNmg4OE40SUhvV0hiVU1oY192UDNvQTIzRHJSS1pPSGs2Y2l5S21PaDhsZ0FIaW45NUxFeEthS2xXZmhBQnp0RlR2S3M5N1AxNGlvQ01meUhWcVRTTC1BaDIwQS1DNk9kVEpMeWt2aTU1R0ViSWhVN0hJVU4ybGJxSU9sMWlHUmJlZ24yWGRVYXJTdWl3Y2U5dVcwQVQ5dWVRM0cxaWZCdGxqX2hDUmw5MEFWZkstOHh1RC0ySXB3MTgzX29vYnhIcFIxb1U?oc=5",
-        "theme": "股市起伏如人生高低，你的抗壓指數有多高？測測看你是不是能從谷底翻身的股市狠角色！",
-        "resultCount": 5,
-        "style": "搞怪幽默",
-        "description": "以股民的「哭倒」情境為引，探討個人面對投資失利時的心理韌性與應對方式。讓使用者在幽默中反思自身的抗壓性，並學習如何在逆境中保持樂觀。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市起伏如人生高低，你的抗壓指數有多高？測測看你是不是能從谷底翻身的股市狠角色！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "明年再發1萬元！經濟成長創39年新高 賴清德：讓AI紅利全民共享",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQWFVPLWxaVmFOc2tVYzdtOVAyM3FMR0x4V1hDS0Y3UWhQYjFndHV1aWJCR0stbWZrNVdLdlBlRy04VjlwRFlPMmJ0XzZudDdkY09CVUczQ25Ca3BiUHljTHVJODdZOHRGaUIzSjNKMVJjMU5PRVNWdkVNd19ncWs4SjJnQ1k2V0ZkcHhiOTJ4SURMZgBZREgxMjdTUTFQakVrTlpBd2ZXdHhiMFh4XHRDRFN1MUQySllqZ2dDOUc1LWd0eDItWTJPenNUeFJ6ejFsR3NkRU1HQlhIVFJQRm9xNFZYMDBOU19DazEtSUtkZDhHQmMzMzJCYkhBbG1sWVpabm5GMXh2bHJfb1pEVkxqbldLcHhYdFIxeU9reWdzbFptX1RmZEtqUDVEV0RZeV9ISzZsWi1wSzljNzdPbnlwTG5QYmdETGFDWU51X3JhbVBUclFsbnJfXzVUNHFwMDZ1dHdEWlJ3RzdZUXh6ZGU5M1F2T0hXSWYxRzZnZG93?oc=5",
-        "theme": "AI紅利來了！如果給你一萬元，你會怎麼花？測測看你的「AI紅利使用指南」是哪一種風格？",
-        "resultCount": 5,
-        "style": "千禧Y2K",
-        "description": "結合「AI紅利」與「發錢」的社會熱點，透過虛擬的資金分配情境，探索使用者在面對意外之財時的消費觀、理財觀，以及他們如何看待未來科技帶來的機會。趣味性在於結果能反映個人的生活態度和價值觀。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI紅利來了！如果給你一萬元，你會怎麼花？測測看你的「AI紅利使用指南」是哪一種風格？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【千禧Y2K】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "台大資工系錄取大降12級分！ 校方推估：受AI影響",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNVFNxZW0wM2NwUDhVWU1zV2xLY1cyRjBiSXltcVpfc1lPQ3hFSXZpb1p1MGFaOXdxSGY5N3J1TC0tenBYUzFVZnktZVNVeHdtN09PNXB4SkZERm1SRWU3RmN2Y3lUcERyb180RmdaOTJVdEI2NjBDcnVTbTB5RFFzeEgtdzdCVElLeHhkU3dOMmppUlhTT1VoRmliNFZFVXlhNmZseENGaDVtYVlHanpyVnBrTUZiZVAxUDR1dzVMQzdISzVucEdrTGIxOVNONmNDaTh0NjBYamZxZlJUSDEwU1pYbXdKaktjRjJxQVkzRFdmUzV2OXQ5c1IzX0hJc3kzdFRMWlZRREhMR09TNnpEaGhuaVByZnNJZGRHdnVJNjM2a2RkOUJoeHlQTWxzd3JTajBV?oc=5",
-        "theme": "AI時代衝擊你的學涯！測測看你面對未來科技變革，是『AI領航者』還是『傳統守護者』？",
-        "resultCount": 6,
-        "style": "霓虹賽博",
-        "description": "以AI對大學科系選擇的衝擊為切入點，探討年輕世代或在職者對於AI時代來臨的態度與應變策略。引導使用者思考自己是積極擁抱AI帶來的機會，還是傾向於傳統知識與技能的深化。趣味性在於自我定位在科技浪潮中的角色。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI時代衝擊你的學涯！測測看你面對未來科技變革，是『AI領航者』還是『傳統守護者』？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "棒球／若12強奪奧運門票！林宗成喊「6搶1」照辦 韓國有望成另一主辦國",
-        "sourceLink": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQd3pIalMwcUZEQW84SGNNYXpiTm4tNFduOWw0UU1vSnZVaVNlNHQtejdoQmdoQnlvcmRtLWlTMmg2NjRCd3IxbXRWMzZZTDFPUnV4al9kRUVQMGlFZ2N6VEt2dkVzd2dSMzdmZUJEMWhsS3ZXOGlUN3VRSWhFSkR0OVpYLVFNZ3F0M1pQZ2tSaGNmakpDa3FORXJPMmFLbnRmTWVoTm92UkFVS1dJS2cxbEdvQ0NBUFJycXJMakZWNjR0a0VUY0xLdmU0UVZRWGZPZ0doNVNNMWhGWjl1UlBmVW9tZkJ3WHJ4bmRyZDBOOUpzcUZnWnRYZXlmUHdiZFpnM3MxYXBMTnoyaEtEVE5qQ2ZoQ1ZWOFJMeTJYRjE3U2JncllCSzB3?oc=5",
-        "theme": "你的團隊奪冠之路會是熱血逆轉勝還是穩紮穩打？測測看你在『搶奪奧運門票』的關鍵時刻，是哪種致勝關鍵人物！",
-        "resultCount": 5,
-        "style": "清爽動漫",
-        "description": "以棒球爭奪奧運門票的熱血情境為背景，模擬使用者在團隊競爭中的角色定位和心理特質。探討個人是傾向於衝鋒陷陣的英雄，還是幕後策劃的智者，或是堅實的後盾。趣味性在於讓使用者代入體育競技的氛圍，找到自己的「冠軍DNA」。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的團隊奪冠之路會是熱血逆轉勝還是穩紮穩打？測測看你在『搶奪奧運門票』的關鍵時刻，是哪種致勝關鍵人物！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "MLB／超越張育成！李灝宇只用2球敲單季第55安、56安 寫台灣首見紀錄",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZN1M4NmxNY0UxTG55bEo2bzhBRUVXd2poQnNBRWtmaUVOb0FxSWM0dHdJd2NzWHRDTnhBSDlzTDJGZXg3WTRnU2x5TXhkMVNZ0gFWQVVfeXFMTVJKdWlWSHRRSV9yM0prUFR1WEZ6RjVTQjB1aGszNkFNMnhiektJcFdhQ3Nuc1JabVB3UVNtdGVYWS1VOVVnVnYybnV6VUVodzR3ekh1U0E?oc=5",
-        "theme": "你是天生打破紀錄的『全壘打王』，還是穩紮穩打的『安打製造機』？測測看你的「職場/人生」MVP特質！",
-        "resultCount": 4,
-        "style": "美式波普",
-        "description": "以職棒選手打破紀錄的個人成就為核心，將其精神延伸至日常生活與職場，探討使用者在追求目標時的態度、專注力與突破極限的潛能。趣味性在於透過棒球的成就比喻，讓使用者發現自己在不同面向的「MVP」潛質。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是天生打破紀錄的『全壘打王』，還是穩紮穩打的『安打製造機』？測測看你的「職場/人生」MVP特質！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
       }
     ]
   }
