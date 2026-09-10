@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-09-10",
+    "generatedAt": "2026-09-10T05:13:41.049Z",
+    "ideas": [
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "蘋果摺疊機才亮相就變臉！新日興重挫逾7% 分析師：利多出盡 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNSU04cWtjcUJhSmJoWjhEZUlBdlVkNkd4S3BVcjRBX21CZFp1dTEtX1dCblBaa3VPamJNcW56Zk9ENVpQa19WNjZiZ3ZvQ1FzOHNBMVZwcDhsbV9xdEdMekU2ajhDT3RNUFE0MzZkdVJSYW44VS1BSHBkakVsQVpKMFBWWjl0QjlpczZqdFBFODF2UE1NRlFsOVg5WUhESnY1R0RBYzZKMWtLaW14VnA2ajRqTWZuTHc5TktjSHIyQy1VMVdjaTVELUw4NUlpajh4WnVmTEp5NmdySlpCQXRpY0lBR0NZa09FU1p2amd2alpIZEladzVoMENmT2dlR3F3SENVTV9sZnlzRkZJV1dOV3NKVjNoR1Q2bjJ5al_zd1hBd0pBT3hibWdyYUt5eWdLVkp3MnhENEd6aVhXLWI3aTh5NUNEVmZsVkxqZE9LM1lmUU5pazA0VkpkQlV5RUtfM3RyNll6NXFibDN5VXY5MG5tbEkwM0d6bVVYbGtiSnVjQldjZDB5S09BU0xTeVZTSjJpc2VR?oc=5",
+        "theme": "你的人生摺疊機，開合之間藏著什麼玄機？",
+        "resultCount": 6,
+        "style": "立體拼接",
+        "description": "運用蘋果摺疊機「變臉」與股價波動的意象，探討人們在面對期望落空或情勢反轉時的應對姿態。測驗將趣味化解讀你在壓力下的「摺疊」特質，展現不同面向的自我。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的人生摺疊機，開合之間藏著什麼玄機？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【立體拼接】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "伊朗南部連環爆炸 胡塞武裝逼近曼德海峽 布蘭特原油升破101美元 - news.cnyes.com",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yZHZLYUVjNmgwWU9tZUY0NDIzYTNXUC1ZSktKbFhYVkFJRGt2RXlwRmRWdDcxWDVXckthQlZzbzlQQWdhZzFRZWtZNmd1aE0?oc=5",
+        "theme": "面對生活中的『原油危機』，你是哪種應變型玩家？",
+        "resultCount": 5,
+        "style": "懷舊報刊",
+        "description": "將國際地緣政治與油價飆漲的危機感，轉化為個人面對生活壓力和突發狀況時的應變策略。測驗將揭示你在高壓環境下的決策風格，是冷靜分析還是果斷行動？",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【面對生活中的『原油危機』，你是哪種應變型玩家？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "摺疊iPhone Duo登場！iPhone 18 Pro、Apple Watch Series 12、AirPods 5價格、規格一次看｜蘋果秋季發表會懶人包 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNOXlfcllYWDVmUXlQcVZLRmhka2Q5cHpKSzB3clVTWFhCSzZJZHFhakdzbkJqQnFvRVc2aWl4MUtvT214Umw1LWFYYlpVSDZqQ0FyZlVEVXZmcFFPSmJzTmdybkVCTVBrUTVpMmlWUVZod3JzQVN3YmFTbUFpNlNPelczcEItTlJKMjU2S2ZpdTZVV29QMWRkTUxWb0RnZkw1LTAwZWdIWUN3cy1MVWY5blpaLXZfVlVKcDVSeWhLV1VYN0tPQkRJU2VJcnlLMUhDQllseXFCZzhjVjhSOHpzbjdXaWllUV85NWRJN2R3VERKSm9SQ01XcS1QSURVeDVnN3MtSWVHOGhxMmdhT0xxNmhBYUN6QWpGNTFVT0p0dnR0cnEySmpoUk1kV3MzZ0RsNV9BOTRSTFF6Qi1nc29CSjdlQlFMSHliLTVzTW4walJ5NTY3NzU3NHUycWdXbG13dnJMaXk3QmwtMFFEaGY5M2RWLUR0Z2pwQ2NzU3p3Wlo3QXRJNHNyS0tqNnRiVFEtYWNOUW5NakR4cjZJWk9fMzZhNlFrajN5VEswaVhFZmIwc2M2WWUxTHBMaTh1cFlhYWw3aVBoQTlwaUdheG8waGln?oc=5",
+        "theme": "你是哪款『蘋果新品』的代表人物？測測你的消費慾望與生活哲學！",
+        "resultCount": 7,
+        "style": "極簡質感",
+        "description": "結合蘋果秋季發表會的最新產品，將不同裝置的特色擬人化。透過你對這些科技新品的偏好與期待，分析你的消費態度、科技融入生活的方式，以及追求的獨特品味。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪款『蘋果新品』的代表人物？測測你的消費慾望與生活哲學！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "阿信也愛iPhone Duo！合體蘋果新任CEO特納斯 網一看驚：兩人同齡 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNN1NQSmlXb2V2R0ExcmNhWFZwdkE0enN2QklyVjVQbVlOd2t1aGl1T0ZaaFlURTE0T183eXBFYTN1cUIwTEVPMk9VR1NnTm8tcHdVTERGeWozUzNvWG9KZUEtYlkxNm1aVFFlRVhyNlJJSk9HUS1Kbi13djFzYUFEdmZ5OUJvRFQyNTRTY083YmwyOUwxeHBsc21TSjFqbjVkWFFoX3d0Q3BBNVYwUGNkbm1SUXNTSmlxVFFkZEZFR2E4U1FEYmRLVG4zM283R2I5NEhPbHpsdXlDQlNDWmJlajFIYkFQY2F3ZjZIVXRKRjM4NUZYMk1QbE5aMGtJMC1ReTZ6YjVjNTFFLUZ3S2NZQnRoZHJGV1J4S0FKMFY3VFN1UDVFVkhRQQ?oc=5",
+        "theme": "你是『科技潮人』還是『凍齡傳說』？測測你的社群影響力與真實魅力！",
+        "resultCount": 6,
+        "style": "千禧Y2K",
+        "description": "以名人阿信與蘋果新任CEO的「同齡」話題為靈感，探索現代人在社群時代中如何展現個人風格與影響力。測驗將分析你的「凍齡」心態、時尚敏銳度，以及在人際互動中的獨特魅力。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是『科技潮人』還是『凍齡傳說』？測測你的社群影響力與真實魅力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【千禧Y2K】"
+      }
+    ]
+  },
+  {
     "id": "2026-09-09",
     "generatedAt": "2026-09-09T05:14:22.759Z",
     "ideas": [
@@ -566,78 +616,6 @@
         "description": "亞運男籃名單變動，有選手退出也有新血遞補，反映了團隊在面對不可控因素時的應變與調整。測驗可設計成多種團隊合作情境，例如隊友臨時缺席、戰術需要調整、新成員加入時的反應，分析使用者的團隊精神、適應能力與扮演的角色。趣味點在於讓使用者代入籃球隊員，理解自己在團隊中是穩定軍心還是靈活應變的角色。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【籃球國家隊風雲：測測你是『團隊核心』還是『最佳替補奇兵』？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【復古像素】"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-02",
-    "generatedAt": "2026-09-02T05:02:13.657Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "傅崐萁鞠躬道歉PO文「總統府棄單，國民黨接單」！留言慘翻車：你們砍的",
-        "sourceLink": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNdUpvalFPUjFtNU13Z1NJdUVhbW94YTJtRGZMaS1FWHAzZ0tSVU1Jb0dRdVQ0eXlwOWJZNDIzZjAtbU9wdTcxVmlEUDY2WHNYZlEzeWE3OC0yNDQ3ajl5TkJweU5FdVh3bnNNS1d6VjlrNzZVQ2F4bEFWTUM5SERnV2Q3SDYwRUZCajRqN0F4SkQyT2YzZE1jRHA0OUdocllVWndoS19UM2tVVlVBaWNOWmwtdk5JUkZoNjVkNWlaSE1sRjAzMTBrbnZYNUZmNk43VERMaTRCTFNmaUVLQWhGUmQ3R1JYWDdkR1dIWUUyZXpMWnpDRTNfc2l6RUlWV0JKcGZfQXJWaXNJYkVPbXQ4MlB2M2VGQVp5NTh5OXc0cElyZG1HRGJlNjNLYk1qMnR6RDRKM0o0cjd6S3JWQ0ZVbTR5eUFsVjcwQzB4ZDh5OUUxMVFHLWxEN2tfZ0djQlVfMDdmelBZeFZ3M0x3MDNCNnd4T0NMR0VNOEdBVGh0UFRGemZGUXhfZzcxOGNWRU1MelJVQ3hKbW5uX2pWUWNv?oc=5",
-        "theme": "人設崩壞危機？你的『公關危機處理』能力有幾分？",
-        "resultCount": 6,
-        "style": "搞怪幽默",
-        "description": "該話題圍繞政治人物面對輿論反噬和危機處理的表現，充滿了責任歸屬、公眾形象與壓力應對的元素。心理測驗可以探討使用者在面臨壓力、批評或困境時的反應模式，是會勇敢承擔、巧妙推卸，還是直接「躺平」。透過輕鬆幽默的語境，讓使用者反思自己的「人設」在壓力下是否容易翻車，增加趣味性與自我洞察。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【人設崩壞危機？你的『公關危機處理』能力有幾分？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "蔣得立「免當兵」？蔣萬安：一年後會回來...也一定會盡應盡義務",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjQWFpSHF3WnVFcDV1am9qV3ZvQUVjVFFqOGRDOU5FS3U3TGJxRVI2ZmRSZmZlYmJsNXJOOFZOYlQtQThmWFJ4XF82YUxCU1Uz0gFWQVVfeXFMT0tVczlQU3ItQWd3X1dCVnBkS0hzNkNqT0paZWNsX3NleDdGcTZpelVQVXJlNjRYcV9zVkhlNWdDazRsdTh5RU92Wkd5V2ROSTQ2N2FVZnc?oc=5",
-        "theme": "權力與義務的天秤：你的『公民責任感』光譜在哪？",
-        "resultCount": 5,
-        "style": "懷舊報刊",
-        "description": "此新聞觸及兵役、特權、公平性與社會責任等敏感議題。測驗可引導使用者思考自身對於公民義務、社會公平的看法，以及在個人權益與群體責任之間如何取捨。透過對各種情境的選擇，幫助使用者釐清自己的價值觀，理解自己在「盡義務」與「享特權」光譜上的位置，提供一個反思自身社會角色的機會。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【權力與義務的天秤：你的『公民責任感』光譜在哪？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "快訊／台股不妙開盤下跌366點 聯發科不受影響漲165元",
-        "sourceLink": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNYUJ5Q0EwWXJBUS1paXNFZnhra2EyVVpqSDhybUx1VDY0SUhrbzZka3hBVzlUTHI2ZVBzOHpFTUZBRUZ1cHVzU0pvYnZPYmdEM0tDRjJYZWtJcGU3X0xrbnBHZEtsVWlISE9OaWZuNEtwZ2JYQmpDVzB2dzBuRFQ3SlFQWW44bWJnR3J4WjdPTWw1cE94SGZickZzUll0RDdldV9lX0pCd00yNHZ2OUlMTC1FMjkzQ18zbkNRX1h4SUtpYW1aeER0SzBBOWJMYnFGZDBHNmJZU0hYcE5aYkFxVlZoNjdQd1MtMlZ1SEw3TkR5dk9tQ19rVEZJaUNfNjhXYTJhalhvQTRGaEE5NUpmMmpqR1ZyN195TkJVR2hYSlVuaUYwUnFYQU9HYVpMLTVWVDRNQjlseGhEeVBRSlFTUHFtcFJLU2ExaDk0RWN3?oc=5",
-        "theme": "股市震盪！你的『投資人格』是黑馬股還是定存族？",
-        "resultCount": 4,
-        "style": "科幻冷冽",
-        "description": "市場瞬息萬變，有些個股逆勢上漲，凸顯投資中的風險與機會。此測驗能探討使用者面對金錢與風險時的態度，是偏向保守穩健的「定存族」，還是勇於挑戰高風險高報酬的「黑馬股獵人」？透過模擬情境題，分析使用者在決策、情緒控制和資訊判斷上的傾向，讓他們在輕鬆之餘，對自己的投資性格有更深認識。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市震盪！你的『投資人格』是黑馬股還是定存族？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "美股收盤》中東衝突再起！道瓊跌419點 台積電ADR走低",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0ya3JPdC1YcU1zc01BLUJUaWFwSUJUWnExMmhCRzNWN0Vmbk0yZ1I2ZmsyY0hsbWJFN1pmeEVMb3FJR2M1Z05iN1BTQlFZblhVYlVSTmUzR0tZM0pqUTlB0gFkQVVfeXFMTUFMRjI4QzhfQ1c2QXBTOEg3SFhMU21yd2hQTjJ4TDM3LTlyNmg0eTE1dm9KSDRfOEdUTnNJYm5JT0xNR3U4RUowOFRRUlBuWno4MnJxMWlXTEY2Y0NFUW5hWkdOTg?oc=5",
-        "theme": "黑天鵝來襲！你的『市場情緒指數』是恐慌還是理性？",
-        "resultCount": 5,
-        "style": "驚悚懸疑",
-        "description": "地緣政治衝突對全球金融市場的衝擊，揭示了宏觀事件如何影響個人決策。測驗將聚焦使用者在面對不可預測的「黑天鵝事件」時，是容易陷入恐慌、盲目跟風，還是能保持冷靜、理性分析。透過情境模擬，幫助使用者了解自己的風險感知能力與壓力下的決策模式，提升對外在不確定性的應變思維。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【黑天鵝來襲！你的『市場情緒指數』是恐慌還是理性？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "MLB》天使傳以40億美元賣了！外媒：他浪費大谷翔平和楚奧特巔峰歲月",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE5JU1JwUlBmT1l4QW12NVplS0pvMnJWYjZDVEYyVWtzVkZaNllKeWFyRjV3Q1MtOXhoVnJleldpX1lXVkhONnpXWEZVR1RqaThJMHlIWXpqUmdQcHVoZDBlcNIBZkFVX3lxTE9sdTd6b3hpQTJKWFFyUTlERktkbmkxRVFoT2VHQmxoZmUzb0R5MVV1eHpzd2oxeTlkR3M0NjNxNWNCZ0Y1UGhCOXAxMFpnRUt6akdhSGw2NHR0LUhfSlF6dml0LWw5dw?oc=5",
-        "theme": "天選之人被浪費？你的『伯樂指數』有多高？",
-        "resultCount": 6,
-        "style": "美式波普",
-        "description": "球隊老闆因經營不善被指浪費了明星球員的巔峰時期，這觸及了領導力、人才管理與潛力開發的核心議題。此測驗旨在探討使用者在團隊中是「伯樂」般的識才者，還是可能因決策失誤而「浪費」好牌的領導者。透過模擬如何排兵布陣、激勵隊友或規劃生涯，讓使用者反思自己的管理風格與對「人盡其才」的理解。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【天選之人被浪費？你的『伯樂指數』有多高？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "網球》驚悚！瑞典一哥挑戰賽兩度昏倒 許育修暖心協助獲肯定",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNMnRiU0tTbGEyZl96bmVvOUh1aVJMbjdEaGFtVkdaR09LQ21OVlFEYmstUFEzdlc4b0FvLVNfU2FvNWJTWU1kNVgwUW95QkhWeXRvRHNPbWNCSEktZWR2bno4UGhRV3hWbDF2ZGdxLXRIdm1fUURUN1NsWnJXcmUzcFBiX3NORVRpZXl4Ukg0SF9YQVlQemcxMjVKay1pUWpicUFKZ3RJNkN3Y1oyemo2STdDcDdQaExUTU9GNGdLOXVzRm5hN3pmQndVMEVKMzVBTFEtZ2gyeUZyZ0hwMWFaRURqMHNZYXhoQ0txTko5X2RrS3VZWGhsU3VMZnA1UGx1REhCQ0xsQ3p6VWpZeV9aS2M0SWNwUzFOZlE0aUhna3dGZVVEV2VsRFBTekZxbjl6MUpTMVZFQ1Z3Z1AtaFM4eUQ5WTBnNmxHLUc0U29PZDFLNjNBYlBPYU5DVWEtMnVNa1dpVnhubElzMkFqSmJfdng3d3JrUkVUaXZIMWwwTWo5Zw?oc=5",
-        "theme": "危機時刻，你會伸出援手嗎？你的『人道救援本能』有多強？",
-        "resultCount": 7,
-        "style": "溫馨水彩",
-        "description": "新聞中選手在比賽中昏倒，另一位選手卻放下競爭伸出援手，體現了人性光輝。此測驗將探索使用者在緊急情況或他人需要幫助時的反應模式，是會立刻伸出援手、猶豫觀望，還是傾向迴避。透過設計不同情境，分析使用者的同理心、行動力與道德準則，讓他們了解自己的「善良指數」和潛在的「英雄特質」。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【危機時刻，你會伸出援手嗎？你的『人道救援本能』有多強？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
       }
     ]
   }
