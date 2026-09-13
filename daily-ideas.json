@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-09-13",
+    "generatedAt": "2026-09-13T05:20:13.660Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "柯文哲對藍白下「病危通知」？點名3縣市恐遭殃：彰化大勢已去、竹縣難挽救",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNU2hCVmxMYnRtbTVHSEt0Q0t2bW1PRGZBVnc2cjE3MVBHNm5sd1hzSWlhYl9sdE5OYzgwQl9yQmtkZFRSc3VOUnhxWFlrNVpHdDNuTG1fTnEyVmtqZUdhb0oyMi1Fb1pZYUpNUWZCYlJjdU1FVkc0bWtGMk9fRlVvdVh2MERkREtNTVlXX2JyWUV2alFDa21YV0lNMXlWbEREbmV4VnpmUjU0QzlnRkdXVm50ajlsdHRnWmJoaWdaWnZVbVk5R1RIZlVKalhBckxFc2FTWFdRcXUwWlRUbzRiLVAtaTg1TExacW1YdTM0WUcyaFRTa3hhMHZjWTQ0RGR3d0ducVFZbHV0WG5zVlpzTWkwWHlNZEpfa3FuVkxnM3JfeDB3M0kwTDU4Z2gxdndxTno2d1g0Z2xRZ294c0l0Q0Jmd3RCbG5YUEU4YWlOS2hmRDNOVGFZX05KTGt5cENmVTh3Z0RYcy1FY0F1QjlVQkVvdTVjVUtLWGRMaVg3elRvN3A2WGJ0WXU0djJTRXJ3TENzaFFjQnNlVkNnSXNzd2VERlcxcTcyY0toOXYzSWRKbnVvUVE?oc=5",
+        "theme": "測測你的人生「病危通知」是哪一種？",
+        "resultCount": 6,
+        "style": "搞怪幽默",
+        "description": "這個話題充滿戲劇性，將嚴肅的政治預言轉化為個人生命狀態的「病危通知」，能有效吸引使用者好奇心。透過測驗，使用者可以幽默地審視自己生活中的潛在危機或需要改進的面向，並從測驗結果中獲得自我反思與趣味指引，增添互動樂趣。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【測測你的人生「病危通知」是哪一種？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "今高溫飆36度！明迎入秋第2波東北季風　下週恐有強颱「2預估路徑曝」",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Oc2JyNkFpTlh2ZmZhemVST014RVhIRkJSWG5LdC1UYXJRZG1tSWp1cmh6zTFaU1BENTBjbmh5bGx2NEZfWlFscNIBTEFVX3lxTE80Q09pSVFjZzVTb2xDa2RFUE84M1F4dnNiTzhtaE1iWU5YOVVQbW9faGFwYU5tZ19mNHMzOFhCbU1KVE5Ya3ZWaGtsMEs?oc=5",
+        "theme": "你的人生是哪種天氣型態？測測你的情緒風暴指數與應對策略！",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "新聞描述了劇烈的天氣變化與潛在的颱風威脅，非常適合延伸為探索個人情緒管理與壓力應對方式的測驗。透過將天氣現象比喻為內心情緒的波動，使用者能更有趣地了解自己的情緒模式，並學習如何像應對天氣變化一樣，有效處理人生中的「高溫」或「風暴」。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的人生是哪種天氣型態？測測你的情緒風暴指數與應對策略！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "U18亞青》非贏不可的戰役 台灣隊「火球男」楊曜丞掛帥先發",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYPFUWEFJX3lxTE1sQ1JoNXo4blRKeXAzLWxYY3dXSC1ia2w5TnowMkRsMzJtUjFoSkx0M3U4dE4yVlpqWnFYU043b29sS0R4ZElHc2xJOHl6dWZuTWRGYjYzTGxCYWZOZWRuOdIBZkFVX3lxTE5CNXVPcEFIRjVNU2Y0cFlXbTFNNXhBZXBzenVpN1JOWlJTT1M3RGR0WHVYVmFWb3hZcl9GYmFYNkh1aFRaeWFWdnZuVWQ0VUpqOEZ1RDBLdE8yd2F5MWc0bFJUNFNYZw?oc=5",
+        "theme": "你的人生關鍵戰役即將開打！測測你是哪種致勝關鍵人物？",
+        "resultCount": 6,
+        "style": "美式波普",
+        "description": "體育賽事中「非贏不可的戰役」和「火球男」的形象，非常適合延伸為探索個人在壓力下如何發揮潛能、迎接挑戰的測驗。使用者能透過測驗發現自己在人生「戰役」中的角色定位與優勢，了解如何在關鍵時刻展現自己的「致勝」特質，充滿激勵與趣味。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的人生關鍵戰役即將開打！測測你是哪種致勝關鍵人物？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "兩代女神同框！莎拉波娃親自頒獎 蕾巴金娜帶傷拚戰美網首度奪冠",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOajRWd2tGdTh5a05qOEM0VmhNN3pqNmdULXZCbUdEZlc3eHE4Q1htQVI3V2dPNVdVbGNROFQyMlhSb2hIUnBybk1qVTVHd0tBYTl1RVhHdmxZYWVHdGRzZUh2SlFNWk9OTEtoT01ybE1MWDJFM3pyX1lRVEZOeFNNMjI1ZFNtaEpmM19JNW9uSm5UNlNQQU5DWm84SVBiWEI4NnFfRmlKbURTZnZpZjltNmk1T1V5QXBlZ1FseU9tX2dzNEc5ZzJLTEE2TGNZd0ZzRWY0TVJ5djExTTYxejZNa2c4SFVrLXZaQmE2LUN1R1c1WkNJNXQ3YmdlX1VpczllUjZDajltTHdRSDVFVWxpcW14b1NQaUNqZ3pDcjRhWjl3QWt5aktzYjJ6dVN6aE9aV3lwOUFSTjl4QXpsQjVmN1BTLTJJQW11eVE3LWRoUU5iYkpmSjB0ZmJKSXEtVTBOcDJ4aWh3ci1ZQTd4aGxfSFlObmVLbTRZenBjdGg3U2FUX21DNHRWdlAwSjY1THU2bkNUTS11V3JWclJTT0U2bDRmQzhFeTRNVDdzQ1ZnVQ?oc=5",
+        "theme": "你是哪種「冠軍傳承者」？測測你的潛力與在人生賽場上的發光點！",
+        "resultCount": 7,
+        "style": "唯美浪漫",
+        "description": "「兩代女神同框」、「帶傷拚戰奪冠」的故事充滿了傳奇與勵志色彩。這個話題非常適合設計成探索個人潛力、毅力與成就的測驗。使用者可以透過測驗，對應自己的人生階段與目標，發現自己內在的「冠軍」特質，無論是新秀的崛起之勢，還是歷經磨練的堅韌，都能從中獲得共鳴與啟發。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「冠軍傳承者」？測測你的潛力與在人生賽場上的發光點！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
+      }
+    ]
+  },
+  {
     "id": "2026-09-12",
     "generatedAt": "2026-09-12T04:58:58.263Z",
     "ideas": [
@@ -522,100 +572,6 @@
         "description": "鄭欽文在美網實現驚人的大逆轉，從看似無望的局面中贏得勝利，展現了強大的心理素質與不放棄的精神。這個心理測驗旨在探索使用者在面對絕境或巨大壓力時，是否能保持冷靜、尋找突破口，甚至創造奇蹟。透過模擬高壓情境，讓使用者了解自己內在的「逆轉勝」潛力，提供自我激勵與娛樂價值。",
         "id": "idea-6",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【從0：5到驚天逆轉！測你在人生賽場上的「翻盤」指數有多高？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【奇幻魔法】"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-05",
-    "generatedAt": "2026-09-05T04:55:20.829Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "雨灌大台北 下週三東北季風報到",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNR2NjWktFLWlTSmluRWxqTDlVNXBmOEhuMXhGc3BQSkdSYmNjRmhGVmJnXzdJS1JlZmE0ckRrVm1YalNXTzhOUUdFSDhTQzJ2X3lPcXV5WllGOXFPR2otbWxVaTh2dXl4TXZDTmljZnRxWVMwbWY3T0M5VnRHb08tNHo4SzdNT3RkVWR3eHBCakQzdW5fU29vYWNDRDYwYkdsYmdjTWxIcWt5MkVzWkdzNUE2LVpUMG53N3ZIbnJnMjBTeUdncWhGU0ZKY1k5dTVsYnVNbk9MOGNic01PREZZVjhwT0UwYUdISWhyTzJnVnU5MXBVcWN1ckpYMk0?oc=5",
-        "theme": "下雨天你都怎麼過？測你潛藏的『天氣性格』",
-        "resultCount": 6,
-        "style": "溫馨水彩",
-        "description": "天氣變化對人們的心情和生活習慣有顯著影響。這個測驗能讓使用者透過選擇下雨天的活動，探索自己潛藏的個性特質和應對生活變化的模式，帶來自我發現的樂趣。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【下雨天你都怎麼過？測你潛藏的『天氣性格』】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "聯合報社論／代議政治被架空，直接民主遭沒收，然後呢？",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlUTN3bWpnQmQwZklfWVMtM3l1d0JFdTVwUHRBazN0dVE1SkJyZldfOUZDUk9KZFRuYi1TY3U4U3JxOWZoSFBIZXItN2d4dHpE0gFWQVVfeXFMTUdBMXFQNlFWV0xfY3JuOWVFUkxjLW80aHppc1Q5cG93cVpCcENTTG43S3dScjBiMFpPYjBHLUdCbTQ1MDc1QUhhNkJsWHlnZkZVMHNSSnc?oc=5",
-        "theme": "當社會出現困境，你會是哪種『公民領袖』？",
-        "resultCount": 5,
-        "style": "懷舊報刊",
-        "description": "嚴肅的政治議題可以轉化為探索個人在公共事務中扮演的角色。這個測驗引導使用者思考面對社會困境時的反應和行動模式，幫助他們了解自己的公民責任感和潛在的領導風格，增加對時事的參與感。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當社會出現困境，你會是哪種『公民領袖』？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "玩哏過頭？遊戲出題「籃籃胸貼」拉手喊檢查！徐乃麟遭批性騷怒駁斥 籃籃公司發聲",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JRmtJUVVQR0RVa194M3c5SV9VeHJlWVJHSDRCajVaV1laazhkcXlybkFfS0EtVFdJNGN6cWZtWVBsUzdva3E4djJYTXZQZDBDd2t5azFPYWpLZ9IBX0FVX3lxTE5OZjRHUFRsNVJzYzRhbEh3ZVhXUnRYa0R0R1pXRTBGY2ZJb0FnRldKeDVtSVpnbW0wNVpRRjZrYnB6MTlqNGIwaE5SNnZVMkZMZHZPVUE5dXYtOEtEUmRn?oc=5",
-        "theme": "你的幽默感合格嗎？測你的人際界線指數",
-        "resultCount": 7,
-        "style": "搞怪幽默",
-        "description": "娛樂圈的爭議話題常引發大眾對言行界線的討論。這個測驗將透過情境模擬，讓使用者反思自己在社交互動、幽默表達和尊重他人方面的態度，幫助他們更了解如何拿捏分寸，避免「玩哏過頭」，同時提升情商。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的幽默感合格嗎？測你的人際界線指數】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "羅志祥悄現身杭州！傳有望復出《極限挑戰》 官媒重砲發聲",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNzhzZmRfYWs4UVVuc2V1VTBVWWpPWTl6cTF5c3NQQzBvbzNlS0xQSWpoVWFra2xtU1NaZ0V4TlZNR3NQTHA4YkxYOWtWZ3pCRWFMeE1YaXNCc19kUG9XcVhQWmhidTRBV1puSUFESnk2bXRMZ2QxQTNpRlhZUUVaN2tWSlNsNXg2ejE1N0RDM1hZMEVNdFUzTi1oNGd2b0tJaGVMeGJibDFpMXZvUUhoOTJkMHNQcGNHZGZsS0pvRGpONmV0dVZBSHJmUThvdEoyVGQ1aXpiV21VV2FGUWtyZVEyMnd6NkFEcFRJUzNuSU1fUXJyMWJFdXI1RjdsZ19paEJJQWI3ZWt3Z0E4SUZOc1Z6TW5SNDEwZkRuWmRoc210allhSmozb3lCMWhESFAwcW9denoyay1DSDV5MEVMUERTcm0xMDlBQVpYYmI1ck9KQXhiREoybVVDU29zZk9hVFdLYUlWYlZkbEU?oc=5",
-        "theme": "逆風翻盤不是夢！測你的人生『復出』指數",
-        "resultCount": 6,
-        "style": "霓虹賽博",
-        "description": "名人復出往往牽動大眾對於「犯錯與原諒」的討論。這個測驗能讓使用者透過虛擬情境，思考自己面對挫折、爭議或低潮時的應對方式，並找出潛在的「翻盤」能力和策略，帶來積極面對挑戰的啟發。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【逆風翻盤不是夢！測你的人生『復出』指數】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "美國非農數據高出預期！美股3指數收黑、特斯拉挫近6% 記憶體類股暴漲、台指期夜盤上揚473點",
-        "sourceLink": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNMjR1bmt4VE1qdEVZZVNWaktvX0paNlV1cUEwV21CUmFHSWlMNUc1VFVsbVYtTWNQb3ROR3g1MzNfS1V0eVNFRWR3cmhfWWZkN3diNkpRSFBRVnFxNnMwaXFhVnNHa3JlYjh6TE5RVXNTblV6MEhIMVlNY1FnTkphZGhnMVUwLV9yUksyUkJyZmYxbHN5X0FpTWpTbEJzTVRpNU9OU2xGUDd5dEN2OEFfMGt6RXgtd3FPRThBdW1GLXl2Sm5SVFptU0FXWWhNWUdrejh3UWhreDUyWGxYTlpXYk5mU1dGMy14eGZXeGhOWm1fa29jWGVMTXh4bmVOdW13N2dRRVhlRHVJVnpGNWRqSzY3cVNJVEZUVDJ4al96QWNDOGJORUVkcEdib25CTGJlQXV6dmFnZ2JoUU9LV3ZBLUl6OUF3dHk2bzVFbzFmMVBtZ01pcVQ5VEs0VFNuZlBFQk1FZ2l4ZEN3RVF0ZEFJcHVoSmRXc1lKQnlTN1NLLVNfaUVmZml3dlpIV3ZxeGJ4a3VUcHpDczdwUjhUaHVJSXpaaFdsM3E0Xy1iMlNKRjVaRlBfWXZ1b1hBYjhJNmMyMkUtU2Y2MTBBMmtlTDMyVGhNejZYRVlEN2VPcjJhTjNUSDZDS0NlRjg2UDZWTjIwbjNQWi1zRkw2TmctVmJkS1g5TVpBWWxYT2hYMldkYWZ4N2ZuWTdF?oc=5",
-        "theme": "股市波動讓你心慌慌？測你的『投資心理體質』",
-        "resultCount": 8,
-        "style": "科幻冷冽",
-        "description": "財經新聞中的市場波動和數據變化，常讓投資者心情起伏。這個測驗讓使用者透過模擬情境，了解自己在面對市場不確定性時的心理狀態和決策傾向，有助於他們更好地管理投資情緒，做出更理性的判斷。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市波動讓你心慌慌？測你的『投資心理體質』】\n2. 結果數量：8，並請自行根據主題設定 8 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台股強彈收復5日線 日KD高檔背離風險未解? 股票不賣飛! 三大停利策略教學",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiywNBVV95cUxQUzlEMWdidENqYVdieWtvdVlPYWVSNTFKeGYwUXM1b2hjbnRfeHV5RlR3YW1ucHBCaFRWYi1DdTRvMkV1eTQ5ODlacHNZbjcyU2pDblQtWDRFQU1YV0liVnhNS2pWdjFKOGJ2YUtoSGRhYThTVVlXN2FmZjFNZW96TGJFeExtMkZHWGVaRUZKeFRuTnpobmxYU24zSGxSdjlES3lLcDNlVGhyS0hia0Z2SUxGMFY1dlpCZnBQVWp4THBoTUlYSVlVMzF5bWNpdUx3U2U3QjgwTkFDTUptMGdQWExBYzYzdVBYLVlmcXVRcGZxTjBVWTZGcXFDWFZ5T2p1Q0ZsZGRaNmJJeno5LVp5QS13MEozbk1yXzFnUGJUd1p5QzZfX0I4blBKRGo0b3k4S1hQVUgwT3hPODBGR2JjbTNicFJFbHdWaktiNVlNOGpMUUxzcW1TMU1Ddzk5VDBndXZnZ00xXzJ2bV93V00zc3VwNkhRWFpaVzFiWURVb0IwU2VjcnhKN0otRnNIU0NLdmpVQjMya2RITEVCdjhCamdQUXBaaERLMUd6UmVhdVBZRHQ5WnBVUDdmM0p6ZzlscUQ0eWxOd0k0TnM?oc=5",
-        "theme": "你是『見好就收』還是『貪心追高』？測你的停利哲學",
-        "resultCount": 6,
-        "style": "立體拼接",
-        "description": "股市投資中的停利策略是許多人面臨的難題。這個測驗以生動有趣的方式探討使用者在利益面前的決策模式和心態，幫助他們了解自己的投資習慣，進而在現實中做出更明智的選擇，避免「賣飛」的遺憾。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是『見好就收』還是『貪心追高』？測你的停利哲學】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【立體拼接】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "「台灣怪力男」李灝宇本壘攻防戰猛烈對撞提前退場！檢查結果出爐了",
-        "sourceLink": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQcE1ydTlkcFlFbXdPSmxmbU5WZ1Q0YUkyTm5na09LODM2X0VJV0JZMG5LMVV3amxJcHAycXgza0V4LWRNR2c0SnQ4M0FyR25NZXpiV2llUWhpZ3Q2bXFrczEwdFBtcllNNmhDTTNEa0FCQy1iSVFHZTlJTDVlRUw0MS0tVkd3TDk1Mi1iaFllck0yUnlWdm12UDI0YWw0X0VWTTRIYTN5YVB3MGxnV0NGb0ZWeGd5c2Rpc0xmSV9HQ0xjUWV1MnhWTEl2NktWNDVlZG9xazFtZmpVb25BZ3JVWVZKSXhtWFlxc2VkbVZZYjQzU1VwWVdpUnBzTWYyYTk4R1diWVV1RHdJYS16Z3VORTAzdzRiX2djYjRKNW5vcFVUd2kwMWpvM2FYekRjZHBXUjBuOC1yTlM3WlE4OGVQQ05adkdTY2NDUEJvbDE3WEFkZ2dUcGlLMEhsT3NYQ3R4aDFTNUVfUHoyRzhLeU9jNE53RnhwTTFDdGlXUVZ4WHM4Mlg0bkNIeEg1X2JCVDFhc0dZWlQtVXF1bnJuc2N3RjEtMXh0Vm1NQzNBLWtKcw?oc=5",
-        "theme": "在壓力與競爭下，你是會戰鬥到底還是策略性撤退？",
-        "resultCount": 5,
-        "style": "美式波普",
-        "description": "運動場上的激烈對抗和運動員的傷病，反映了人生中面對挑戰和取捨的時刻。這個測驗讓使用者透過模擬運動情境，探索自己在壓力、競爭和風險面前的決策傾向，了解自己是偏向硬碰硬的戰士，還是更注重策略和保護。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【在壓力與競爭下，你是會戰鬥到底還是策略性撤退？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "美網》詹皓晴女雙險勝威廉絲姊妹！再贏有望與謝淑薇上演台灣內戰",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGS1hkaDMzekRxM1Vudnk1ak9raTRxV1h3Xzg2bWc5ckxXa1hEeUFGWnByemZVS3doWnV1anVOVXlGay11NGpHWDBUZUJsbi12Q3VWMWg0SmQyb2licWI2eNIBZkFVX3lxTE9UNFFmREZYQ3lyYkRFTXVWTnF2SmtodlNvR1pRZXcyZjI0YVk2Vl9rY2t3cm1KaTROSzZRNUVyc2RqeVo1N1o0NjRoS2pNT21USEl3c3VNblplUFV3TGpaektfTEhBZw?oc=5",
-        "theme": "當『友誼』與『勝利』衝突，你會如何選擇？",
-        "resultCount": 7,
-        "style": "清爽動漫",
-        "description": "體育賽事中的「台灣內戰」或面對強敵，常引發觀眾對於勝負、情誼與榮譽的思考。這個測驗能讓使用者透過虛擬賽場情境，探索自己在競爭激烈的環境中，如何平衡個人目標與人際關係，帶來對「勝負觀」和「人際哲學」的反思。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當『友誼』與『勝利』衝突，你會如何選擇？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
       }
     ]
   }
