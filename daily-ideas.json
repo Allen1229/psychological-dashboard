@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-09-16",
+    "generatedAt": "2026-09-16T05:14:41.893Z",
+    "ideas": [
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台積電除息首日填息達陣！半小時內突拉5元 股利10月入帳 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMigANBVV95cUxQSHhfSGg5Uk9fdGhWd2pBYzlKanZsU0Z5YTBRUzdWWHpTYWM5Mkt6ZE4xVU1ELUViV3AxLUhvVXo3U2NxUWc2WnBwSzlITGNUMDFXTjlNSWwwS1JQSHc2cWJ3akFXTVBCZXJZdFA5R3dsQTRsbXg2Sk15YUp4ZXR4QkVTUmRENmF1UHRjMnBJZ2lMSTVVMGdDWXpLMFhlTGZQQUVTWjlWZ0lUc1ZSdmVFMWIyVFQzRjh0M01LTWtGYUs4YzlEZThIQjA4dy12MEVKemJWWG10Ul8tdnk3N3p4N051WkF6Q0N3UGl4TE9fU25fbzJKeXVTMUxldnNLeDBRSi1rcGFuU1NPTWIzMXZrSWFUMHFmQTd2enhtQmp4aGtPQXMxMEVGUWhGMU9FSjVSUjJoUkxfSWo1TjlIZW5GdW43QjhsbktfdUJGWDlMSk9rYndyUklmYUxockxpQ21KVXoyNWpIVGxDcjRVRkFZdDNyaURIVmRBQl9ORVJZR0M?oc=5",
+        "theme": "台積電填息帶來的啟示：你的財富嗅覺有多敏銳？",
+        "resultCount": 5,
+        "style": "極簡質感",
+        "description": "這則新聞凸顯了市場動態與財富累積的機會。透過心理測驗，我們可以引導使用者探索自己在投資理財上的性格、風險承受度及決策模式，是屬於穩健型、積極型還是潛力型。這不僅能增加對個人財務觀念的理解，也能結合時事帶來趣味性與共鳴感。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【台積電填息帶來的啟示：你的財富嗅覺有多敏銳？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "開心！漢測最終中籤率再提高 公開申購不合格數超過3萬筆 - 自由財經",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tVGhqN3RINmpEeE5xRkxZRmZPQTNFbVk3UDZ2RjB4dXF2NFQyS21nZ0JBRklZdW52SmJzNlRiemFDdkNYQ2xHVjh4Ymg5eGRrZW1SRkdyRlhENmtWY2hj0gFkQVVfeXFMTVRFUkVNbUZZbVphVzBUN3JjdElKanByNFFFQ1pYVlQtdlRhSDJrUWxDajU0bF9sdVg0b2l1QlNzZndqVy1VSWVOaE8yTDU1MTNYcWVONFhBLTBzX2p0LWw4cERvZA?oc=5",
+        "theme": "股票抽籤沒中？你的「好運體質」是哪一種？",
+        "resultCount": 4,
+        "style": "搞怪幽默",
+        "description": "抽籤中獎與否總能引起大眾的好奇與討論。此測驗可從新聞中「中籤率提高」與「不合格申請」兩方面切入，探討使用者面對機會時，是屬於嚴謹細心型、隨緣佛系型、積極爭取型，或是總與好運擦身而過型。以輕鬆幽默的方式，讓使用者反思自己面對「運氣」與「機會」時的心態。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股票抽籤沒中？你的「好運體質」是哪一種？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "Google DeepMind前員工：AI可能殺死所有人 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRjh4ZHNMcDRaNFNmWXVOLXFWRVBJMHVXMG96Qm1pSl9BM1dVZkZjNmUzUnc5UUhBLVlPWVZpd25NRnVhUHRzbDZKUFZCX2ZjeXd6dkZBVUY3cTl2aGVWY3liLUx3YXBHNnpEbzN6emM2ZGU2N3ZlVUxKY0ZjNDYta3B5WXJ5MTY4WGRGY2VpWFFuX2tDd3RESWwyRkVjTnJseEwzZWU0MFJKSnRkWVry_oUC-A7OIBiJ9_oY?oc=5",
+        "theme": "AI末日預言？你的人類存亡指數有多高？",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "AI可能帶來生存威脅的言論極具震撼性與討論度。這個測驗能抓住大眾對AI未來發展的焦慮與好奇，讓使用者思考自己在AI主導的世界中會扮演什麼角色，是反抗軍、協作者、倖存者，還是被取代者。透過戲劇化的情境，滿足使用者對未來科技想像的投射，並引發深層的思考。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI末日預言？你的人類存亡指數有多高？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "LINE 2功能快關掉！他疾呼：能救一個是一個 官方也示警 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUWY5WE5lalZRZTk5Y3JoVjdtTnBPLWVOYXo1ckRyY1lNaXFfZmNFNWdjZzl5QW41UkhEV0VPc1ZhdU1UX3JzWVpkS2ZEem44MEJaWXJXSm5yNWFhMXlJQmRfSzljTEF0NHB0dmhlRk51cW5hNFJ6dV9ybmNzUVpHSUdnN2NUVnYxTjZFLW15V3RRaEZnWkNMUzBZODBZTC1kbWZNOFV4RGpfN3NzU0NMREtFMkoxRVpSVXVQdE9TUUFCTUVXQnZFQmNoeDRqa1preXNkYk5Ua1JEcnVzYTdoT3FhZGZSM3YzdVpuTzQzdw?oc=5",
+        "theme": "LINE秘密功能沒關？你的數位隱私防線有多高？",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "LINE作為國民通訊軟體，其隱私設定的討論非常貼近用戶日常。這個測驗能藉由新聞中的「2功能快關掉」引發使用者對自身數位隱私安全的關注。透過問題引導，區分出數位防護高手、粗心大意型、佛系使用者等不同類型，提升用戶對個人資料保護的意識，並提供實用建議，達到娛樂與教育並行的效果。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【LINE秘密功能沒關？你的數位隱私防線有多高？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      }
+    ]
+  },
+  {
     "id": "2026-09-15",
     "generatedAt": "2026-09-15T05:17:49.194Z",
     "ideas": [
@@ -478,100 +528,6 @@
         "description": "明星運動員因傷勢或策略性調整而暫停出賽，引發公眾對其決策的討論。這個測驗可以將生活中的「關鍵時刻」比喻為比賽，讓使用者選擇在面臨重要決定時，是會選擇「堅持到底」、「適時放手」、「尋求協助」或「調整策略」。這能幫助使用者反思自己的決策模式，並在娛樂中獲得對個人成長的啟發。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【人生巔峰時刻，你會選擇「奮力一搏」還是「策略性暫停」？測測你的「關鍵決策力」！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【復古像素】"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-08",
-    "generatedAt": "2026-09-08T05:11:06.105Z",
-    "ideas": [
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "子瑜第1次獻給台灣！壓軸加入AAA主持 12月重返高雄世運「祕密武器」曝光 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMipANBVV95cUxQQ2JuNTZ6bWVNdGxPbUhGTEdjak1FaV8zbWdYdHBpakpENFZra3F6bEhzWkhLaDE0aVdYLU9TazYyc21neVZ5ZzNPOGliNEFoNTdQTHMyMDZ0NEhJVGo0OWwxTVloWWZ5a3NRcDNFSHNOZkRMcXFYM3IxQnR3Mm5ZOVZyVW5IbTgtYmhOUjlDZmY0bl84OUpmYkh4T0RTTnpucUxOQ3B5Snk0X2hkZW1BdXdYODNQaEVReVhWdVI5cmNnX1UxQ1hnbFA2OUNMdlVnQVVsWWRMMkhmakR6U3F1OEQxb3FVNjdwM0RyTFQtVlg1WkFwbHNEdHZJbS1GVTVVeFZJQ0VhakRGaHVvRzRPRWRkZ1paeldSck9ySUNfZHFBSjBfdjlrc25yYTl4ZGR0RUY0MEVOVVkzb1AwdXl0ZWhDSXdrZ19BVWQ4VFZJVjZ6ZFg1RlpJM0U0SWc5a2pCYjRrV2Q0Q2hzbURPLVhVYlhJWkF3WWtMeFFrY1VaZS1qR1ZkZjZQZHFQYndFbUtsRUk3YmtVdzVWYTJPRmoyWnBUMHQ?oc=5",
-        "theme": "你的魅力秘密武器是什麼？測驗你的舞台潛力與獨特風格",
-        "resultCount": 5,
-        "style": "唯美浪漫",
-        "description": "藉由子瑜首度擔綱主持並被譽為「秘密武器」的事件，設計一個測驗，探索使用者在不同情境下會展現哪些「不為人知」的潛力或獨特魅力。題目可圍繞新挑戰、團隊合作、個人風格等方面，讓使用者發現自己如同子瑜般，能在關鍵時刻展現耀眼光芒，為生活增添更多自信與趣味。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的魅力秘密武器是什麼？測驗你的舞台潛力與獨特風格】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "當地陪擦愛火／獨家！道奇主場秀恩愛　林倪安追愛美語教學富二代 - 鏡週刊Mirror Media",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92OE9fa2JqcVc3RXhxZFY4WEEtSWI2QWYycURPQjg2MHBkb3FYS0FtWTZBbUFqMDRKZV9Ka1hkUU1uVFNjQ0lYTHVxVVNXV091R3N2VXhzZ0h5OHfSAWBBVV95cUxQMUhjZTdKeDhyeW5zQXZUM39Gem9lR21ickdzUG13dzAzQXJrSHgzeDFZbmpreGNHNUlCY3lBaTk1UTJCcUhqVjQwYjcydw?oc=5",
-        "theme": "你是哪種愛情導航員？測驗你的戀愛模式與理想對象",
-        "resultCount": 6,
-        "style": "唯美浪漫",
-        "description": "從明星當「當地陪」擦出愛火的故事，設計一個關於戀愛模式與理想對象的心理測驗。使用者可以透過選擇在異地旅行、結識新朋友、面對感情誘惑等情境下的反應，揭示自己是主動出擊的「追愛型」、細心規劃的「嚮導型」，還是隨緣享受的「佛系型」。讓大家在趣味中思考自己的愛情觀。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種愛情導航員？測驗你的戀愛模式與理想對象】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台股大漲775點衝破4萬7！陳重銘揭主動ETF新選擇：0050新對手來了 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQaTM3TEFwSmEzZEpGQktTWUV4R1NLS3RqN0dfNHbudlpmcXZleENwSktFbXVWejRyWkRjQnd3YmNFLXdQS0lDRGFaSWRuYlBfLUdabW9Qb3pNNGNJZ3hGLVNrczZFZHJSNFVMb3BXZXdRMzZrT05VRmN0T05mSHV4eWlnN2RYNlRMaE5nTTQwWHpYdG5yTW5mRFhRckV6V19vS0h6eFh5b0hVNVN4NGF1ck1fLWV2b3dxdzZLM0ZFNFRmTEFfU0tQZ2xLdDR0b3JtOXRnUG9tVTR5bkl1Qk9mY2Q0b3l3c214Nl92NGZ5Vl9lTjR2NTR6d2hSNGt1d3lIUEV5R29uN015a1V5emxMM2ZlNTZ0TTVnZk1HdTJkU1FjclM3Qjd3S2tKTEU0STl1d3RjN0g4bTB1bE5OaWp3WlF4R3d6bHlONzQ1bW9XNWZzZTRsY2Y3US1pVkVVRXhRT2tpWVdxSU9ELU8xaTIwRmFiUnc?oc=5",
-        "theme": "你的財富DNA是什麼？測驗你的投資人格與致富潛力",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "股市大漲與新ETF的出現，象徵著財富配置的新機遇。這個測驗將引導使用者思考自己的風險承受度、對市場資訊的判斷力、以及投資偏好，進而歸納出他們屬於哪種「財富DNA」——是穩健成長的「0050型」、積極開拓的「主動型」，還是有獨到眼光的「潛力股型」。幫助使用者更了解自己的財務決策風格，並從中獲得趣味。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的財富DNA是什麼？測驗你的投資人格與致富潛力】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "漢翔拿下龐巴迪20年長約 躍一級航太供應商 供應鏈同步沾光 - UDN",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01bHdidlBPazZyc2RKS005RnJvOXhuSVhxcm5BTDZkT1NVaU1MT3BZeFUtaFZ2UnFKMklPZ3BXMG5PdHlrQk1ObnUwYlhPbTVm0gFWQVVfeXFMTk9IcGFOTGFpVWlucXBScnozblVNbGtqdWVtTjRxeUNZbkhVa0hKTXk5ZHkzeGUyUTRWTnp6MDJMRGs4aWxENDF6aTNwbXUtdGhGLXpqWlE?oc=5",
-        "theme": "你的職涯航線是什麼？測驗你在職場的晉升潛力與合作風格",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "漢翔獲得20年長約並晉升一級供應商，是職場上追求長期穩定與卓越的象徵。這個測驗將探討使用者在職場上的「航線」規劃，包括他們如何看待長期目標、處理合作關係、以及面對挑戰的態度。透過情境題，例如選擇成為研發者、策略家或執行者，讓使用者了解自己是屬於「穩健飛航型」、「創新突破型」還是「鏈結夥伴型」，從而在職涯發展上找到定位與樂趣。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的職涯航線是什麼？測驗你在職場的晉升潛力與合作風格】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "網爆料Google台灣將裁員30%以上？ 公司回應：相關調整工作持續進行 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiggNBVV_5cUxNdlFudTMydWk2cVczSWgtUXZ5bmV6ODVJSzZTZlQ1WU41dF8waGNDdHVDRjV1d0Zmbk81blY0MV9vM0JWXzNfSEJjZk5WWUo1eHIwTjJUQmFPbFdRVHVWRDB4Y0MzV2RWSC1QcUxGMkZLSTZXMklmVkdZUmJ4QzhReWVMdEVtWFFqcHM4WTJ4WTR3dENkM0ZaWjBCVkZra1JTSERxNlVSR0NpYS1FSU15eXdSa2pqZy1SRjkxUnRKZnV3SFBrVW5wcGpHYTZTRF90bXNVVWZMRjlkSFVGWngxRmFEakozc0tUVWFyZ1BkZGpXZ1ZveFpzTjUzc0Q0WUs1d2VlT3Q0VVpNSlA0NEZYdzZSelVCSEphampiWmdMbUgwWGF5dk43aFFrTWpPNUdMSHdoQW9TSlpDX2ZhdkxNVHBiUFp4UlJrdWRPV01yQUxNZElCUG03Ty1fMDdNUG54YnVlWW5KSzhRUTEzR1lRX2g2WG40cGFDNmRjT0s4dEtiQQ?oc=5",
-        "theme": "你是職場變革中的哪種生存者？測驗你的職場適應力與抗壓性",
-        "resultCount": 4,
-        "style": "科幻冷冽",
-        "description": "Google裁員傳聞與公司回應「調整工作」的現況，反映了現代職場的不確定性。這個測驗旨在幫助使用者評估自己在職場變革中的適應能力與抗壓性。透過模擬面對職位異動、產業轉型或新技能學習等情境，讓使用者了解自己是屬於「逆流而上型」、「策略轉型型」還是「穩健扎根型」等，提供面對挑戰的心理建設與發展建議，同時以趣味方式緩解職場焦慮。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是職場變革中的哪種生存者？測驗你的職場適應力與抗壓性】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "《上古世紀 S》首度曝光品牌識別與主視覺圖 預定 2027 年在 Steam 平台登場 - GNN 新聞網",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGYUN4T0Y2MjRDNk8yS0dYVmw2cWVheHdBNkhWeE1XVHJiZDJWOFJFVjZ3eU04cFBpWUZFeU1PZzhBdFpDREwwMHQtNW9NMDVrSExEX01TZzk?oc=5",
-        "theme": "你是《上古世紀 S》中的哪種英雄？測驗你的奇幻人格與冒險潛能",
-        "resultCount": 7,
-        "style": "奇幻魔法",
-        "description": "知名遊戲《上古世紀 S》的品牌識別與主視覺圖曝光，喚起玩家對奇幻世界的憧憬。此測驗將引導使用者進入《上古世紀 S》的宏大背景，透過選擇在異世界中的冒險方式、面對難題的態度、以及渴望扮演的角色，揭示他們在奇幻世界中的「英雄」原型——是勇敢的戰士、智慧的法師、敏捷的刺客、還是魅力獨具的吟遊詩人。讓玩家在等待遊戲的同時，提前體驗成為其中一份子的樂趣。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是《上古世紀 S》中的哪種英雄？測驗你的奇幻人格與冒險潛能】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【奇幻魔法】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "美網》謝淑薇與詹皓晴賽後未握手 「O妹」在旁見狀雙手一攤 - sports.ltn.com.tw",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTFBock9jTnlKOVIxd08wNzVEdUlCNlN6YW1VMkFxZWlDLVhvYXdfRjktbE5teEo1TUF6MTBRV0pyTVNlM0dnOGN2akt0SVJDd25QMmNzd0FLWFh2dWVLcUtCRtIBZkFVX3lxTE52R0MyQl9jRlRSWHZmdzJvYkZZN213alg2d21mbFF6NGtpX3dzWmhTM0RnRmg0QjhjR1dXT291Z0xwZlIzaFF0RV8wYlIwNmNOZWhSZjA5T1pybTN2dkdBU2F2MkRQQQ?oc=5",
-        "theme": "你在壓力情境下是哪種反應者？測驗你的衝突處理模式與情緒智慧",
-        "resultCount": 4,
-        "style": "清爽動漫",
-        "description": "謝淑薇與詹皓晴在美網賽後未握手的事件，引發大眾對人際互動與情緒處理的討論。這個測驗將模擬日常生活中可能遇到的尷尬或衝突情境，例如團隊合作中的意見不合、公開場合的意外狀況等，讓使用者選擇自己的應對方式。測驗結果會分析他們是屬於「理性溝通型」、「情緒表達型」、「默默承受型」還是「幽默化解型」，幫助大家更了解自己的衝突處理模式與情緒智慧，並學習如何在人際關係中保持優雅。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你在壓力情境下是哪種反應者？測驗你的衝突處理模式與情緒智慧】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "U18亞青賽》17歲左投劉任右狂飆156公里評價高！ 被看好有機會被大聯盟球團簽走 - Yahoo運動",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNTXJsdDJncHZpcUkwNkFfRFhuTHVxUHkyaDRUa1VJT0IySHZTdFNmR1pSc3oxdWFPUU9LN0x6NUxNLWROV2VNS3BBYXlmbFpxT3lnblJ6UHVVTTQzbnVDUHNJS0ZBOEY3STRLcTh6OE44VHpuamJLN3NYVXdrbEtaX2FxWGh0WUtjYkxCWFhNUW9TZTRaNHl6UzBubk5SWDFJNXhtX25mRkFGWkJ5b0ttMUZkOVk2RENaT0Y4WDhCcUQzb3ZYWldHc2VEdmlEX3czQXZmN21iam41QlpqNW4wMlBUOVUyT2VOOWNHRlhtSDB0M0lVT016ZHdEZ2xlOUhEVHlGQ0Q0bUN3QXpCOV9MTVpaTGtvc3k1ZUpkUHpsLTlrSTh0c3lib2lValZ1azZCdjlTbXRLVmoxYW0xU0VSTXhOSGJCUzhraFlzZUQ0TG9zLTlyNHpneVBaMTR4MHdkRG9UeW1kNnVqZllkR0E1d25vanRUYUo0b1VkdU11ajAyRURtdS1UWWNLOXU2LVEzMWtiTkVZZDltSHNocVRKTXFCaTY2OUFLWm5LR0lHQzQ3OXNyMVpLMnZubnVPeWx5YUxfTjBCUWN0dDYxMGV3?oc=5",
-        "theme": "你的天賦大聯盟在何處？測驗你的潛在優勢與未來發展領域",
-        "resultCount": 5,
-        "style": "清爽動漫",
-        "description": "17歲左投劉任右以156公里速球震驚球探，展現驚人天賦。這個測驗將引導使用者探索自己「天賦大聯盟」的所在——是學術、藝術、社交、創新還是領導等領域。透過情境題，例如面對學習挑戰、團隊合作、興趣選擇等，讓使用者發現自己潛在的優勢與適合發展的領域，並鼓勵他們像劉任右一樣，勇敢追求自己的目標，發揮最大潛力。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的天賦大聯盟在何處？測驗你的潛在優勢與未來發展領域】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
       }
     ]
   }
