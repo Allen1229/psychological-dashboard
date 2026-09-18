@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-09-18",
+    "generatedAt": "2026-09-18T05:09:22.280Z",
+    "ideas": [
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "央行一鬆綁房市、營建股開趴！2檔亮燈漲停 分析師：短線上仍先觀望",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPd0FuQzZMY05kSXlCQTVRLTdNRThENUtYY2VJT3R6VWtKSVgzUEJRajpUaWU4SEZUV2I2eFJ2WW91ZkN6TDU0TVZ0LW9ES2h4N21hWEh1RVJEcUROazliREtZNWJJYjBuM29kRU94RE5BcjBnSFdwcDVWZS1vdGswbzNJaGhYQ2VHOVNpRHlVM1BXRkszOGZiZEN5TThiY0Jicm5rb0NJeDZqX19zd0lFdjAwb3UwVjhCV2JiVnhleE0yQVlwT3FyUFZJNXpJUTZNSVpxbTZMVWE5WWFLSFRReUdqd1Z2VWpHaXIxZjluU0dKTFhCYW5jbTl4OEdUeW9aamk2TGwtQ3IxeEJucmhGMlkzaE5pQXR0XzBlNzVMYkVGSjJ5dDVZV015UjF0cGM2cGpwdS1TWUZkd3NERWYyUEg5UG02c1VqbEZxSU9kRXo2WWc3czFTbEdfUllaZmNyN2J1ZjNXejN5cmZvYUdLeXJaQV9UZlRuSUhIUjhtSUVUelhGQ29lWS1rTTFZMjNNZ2FNSWdNT3lGRE12dy13QTBuUE9CRU9TSUl1ajh2Nld1RS1lVTdicVhScGZveG5TOXhhOURR?oc=5",
+        "theme": "股市房市風雲變色，你是哪種『趨勢嗅覺』投資者？",
+        "resultCount": 6,
+        "style": "極簡質感",
+        "description": "這項測驗將探討使用者在面對房市與股市政策變動時的投資心態和風險偏好。它能幫助人們了解自己是屬於積極型、保守型，還是觀望型投資者，並從中找到趣味。透過模擬情境選擇，讓使用者發現自己的「金融人格」，並提供具啟發性的投資小建議，提升自我認知樂趣。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市房市風雲變色，你是哪種『趨勢嗅覺』投資者？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "日本央行料升息至1.25% 利率創31年新高 未來終點受矚",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01LXVoMm9qV3VWNzQ2WWdKVFY5LVlEamM1VGtWdGcwZjNrUVVyZ0g5dHkxX0FyV25wVVRYWjBBMGo2XzFUcXlDdFUzMTJTZk0?oc=5",
+        "theme": "日圓升息！你的『國際理財人格』會如何應變？",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "此測驗將以日本央行升息為背景，探索使用者對於國際金融新聞的反應與應對策略。是會抓住換匯投資機會、規劃旅遊消費，還是謹慎觀望、保守應對？測驗將連結宏觀經濟趨勢與個人生活決策，讓使用者在複雜的國際財經資訊中，找到屬於自己的「國際理財風格」，增加決策趣味與個人連結感。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【日圓升息！你的『國際理財人格』會如何應變？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "李洋亞運大考驗！滑輪獎牌庫沒了 5名將救火搶金（壹蘋10點強打）",
+        "sourceLink": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRTlBVmw2YlAyMXN2dFlKRWdTbFl5aEpxR0lYWUotb2dVSi1iREZYUFRFbVNtbVE1V2Q0Q3R3c05ZMmRVTnE2QUlkb1ZrbjVRVEVTbVJ0LWRkYXl0TlZmbGdHMUpoTjVxZFk4c0lKc2lCc0Z2YkV2NlRvR19zRDI5eA?oc=5",
+        "theme": "亞運危機四伏，你是哪種『團隊救火隊員』？",
+        "resultCount": 6,
+        "style": "清爽動漫",
+        "description": "此測驗將以亞運賽場上隊伍面臨挑戰、需要團結應變的情境為引子，讓使用者探索自己在團隊危機中的角色與應對風格。你是冷靜的策略者、熱血的衝鋒者、還是默默支援的後勤？透過模擬運動賽事中的壓力情境，使用者能了解自己在團隊合作中的優勢，並享受成為「英雄救火隊員」的樂趣。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【亞運危機四伏，你是哪種『團隊救火隊員』？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "道奇封王驚現「3兄弟」！山本由伸被夾中間 史庫柏親自認證友情",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aajRnbEw4ZTZWSmVLMWthaEw1VXd4Y3NLM3ktTDZJMTdPb0liM0UxLUR3aC1oUUlVdGhxS3BQaWJZVUpvLXFpQ2ZhWFdpdTdu0gFPQVVfeXFMTjhXWU1nWDJmeHI3VGM2Y1hIUnJSNFYwWVRacUZDbWFpRy1LV1NDMm9QYjM2Yjg5YVpld0hrbFJjWHJhY0VfTjJjTTQ5TGlzbw?oc=5",
+        "theme": "球場上建立的兄弟情！你是朋友圈中的哪位『靈魂人物』？",
+        "resultCount": 5,
+        "style": "溫馨水彩",
+        "description": "這項測驗將棒球隊友之間的深厚情誼為靈感，引導使用者思考自己在朋友群體中的角色定位。你是凝聚大家的「核心人物」、炒熱氣氛的「開心果」、還是默默支持的「守護者」？測驗將以輕鬆溫馨的風格，幫助使用者了解自己的社交特質，增進對友情關係的體會，並從中獲得共鳴與樂趣。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【球場上建立的兄弟情！你是朋友圈中的哪位『靈魂人物』？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      }
+    ]
+  },
+  {
     "id": "2026-09-17",
     "generatedAt": "2026-09-17T05:19:16.258Z",
     "ideas": [
@@ -456,56 +506,6 @@
         "description": "球隊處理退役球衣的方式引發球迷不滿，關乎球隊對傳奇球員的尊重與承諾。此測驗能讓球迷反思自己在面對球隊爭議時的立場與情感連結，並提供趣味性的「球迷DNA」分析，增加社群討論與歸屬感，深化對體育文化與傳承的理解。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「體育偶像傳承」：測測你的「球迷忠誠度」！當球隊做出讓你失望的決定，你會如何反應？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-10",
-    "generatedAt": "2026-09-10T05:13:41.049Z",
-    "ideas": [
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "蘋果摺疊機才亮相就變臉！新日興重挫逾7% 分析師：利多出盡 - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNSU04cWtjcUJhSmJoWjhEZUlBdlVkNkd4S3BVcjRBX21CZFp1dTEtX1dCblBaa3VPamJNcW56Zk9ENVpQa19WNjZiZ3ZvQ1FzOHNBMVZwcDhsbV9xdEdMekU2ajhDT3RNUFE0MzZkdVJSYW44VS1BSHBkakVsQVpKMFBWWjl0QjlpczZqdFBFODF2UE1NRlFsOVg5WUhESnY1R0RBYzZKMWtLaW14VnA2ajRqTWZuTHc5TktjSHIyQy1VMVdjaTVELUw4NUlpajh4WnVmTEp5NmdySlpCQXRpY0lBR0NZa09FU1p2amd2alpIZEladzVoMENmT2dlR3F3SENVTV9sZnlzRkZJV1dOV3NKVjNoR1Q2bjJ5al_zd1hBd0pBT3hibWdyYUt5eWdLVkp3MnhENEd6aVhXLWI3aTh5NUNEVmZsVkxqZE9LM1lmUU5pazA0VkpkQlV5RUtfM3RyNll6NXFibDN5VXY5MG5tbEkwM0d6bVVYbGtiSnVjQldjZDB5S09BU0xTeVZTSjJpc2VR?oc=5",
-        "theme": "你的人生摺疊機，開合之間藏著什麼玄機？",
-        "resultCount": 6,
-        "style": "立體拼接",
-        "description": "運用蘋果摺疊機「變臉」與股價波動的意象，探討人們在面對期望落空或情勢反轉時的應對姿態。測驗將趣味化解讀你在壓力下的「摺疊」特質，展現不同面向的自我。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的人生摺疊機，開合之間藏著什麼玄機？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【立體拼接】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "伊朗南部連環爆炸 胡塞武裝逼近曼德海峽 布蘭特原油升破101美元 - news.cnyes.com",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yZHZLYUVjNmgwWU9tZUY0NDIzYTNXUC1ZSktKbFhYVkFJRGt2RXlwRmRWdDcxWDVXckthQlZzbzlQQWdhZzFRZWtZNmd1aE0?oc=5",
-        "theme": "面對生活中的『原油危機』，你是哪種應變型玩家？",
-        "resultCount": 5,
-        "style": "懷舊報刊",
-        "description": "將國際地緣政治與油價飆漲的危機感，轉化為個人面對生活壓力和突發狀況時的應變策略。測驗將揭示你在高壓環境下的決策風格，是冷靜分析還是果斷行動？",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【面對生活中的『原油危機』，你是哪種應變型玩家？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "摺疊iPhone Duo登場！iPhone 18 Pro、Apple Watch Series 12、AirPods 5價格、規格一次看｜蘋果秋季發表會懶人包 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNOXlfcllYWDVmUXlQcVZLRmhka2Q5cHpKSzB3clVTWFhCSzZJZHFhakdzbkJqQnFvRVc2aWl4MUtvT214Umw1LWFYYlpVSDZqQ0FyZlVEVXZmcFFPSmJzTmdybkVCTVBrUTVpMmlWUVZod3JzQVN3YmFTbUFpNlNPelczcEItTlJKMjU2S2ZpdTZVV29QMWRkTUxWb0RnZkw1LTAwZWdIWUN3cy1MVWY5blpaLXZfVlVKcDVSeWhLV1VYN0tPQkRJU2VJcnlLMUhDQllseXFCZzhjVjhSOHpzbjdXaWllUV85NWRJN2R3VERKSm9SQ01XcS1QSURVeDVnN3MtSWVHOGhxMmdhT0xxNmhBYUN6QWpGNTFVT0p0dnR0cnEySmpoUk1kV3MzZ0RsNV9BOTRSTFF6Qi1nc29CSjdlQlFMSHliLTVzTW4walJ5NTY3NzU3NHUycWdXbG13dnJMaXk3QmwtMFFEaGY5M2RWLUR0Z2pwQ2NzU3p3Wlo3QXRJNHNyS0tqNnRiVFEtYWNOUW5NakR4cjZJWk9fMzZhNlFrajN5VEswaVhFZmIwc2M2WWUxTHBMaTh1cFlhYWw3aVBoQTlwaUdheG8waGln?oc=5",
-        "theme": "你是哪款『蘋果新品』的代表人物？測測你的消費慾望與生活哲學！",
-        "resultCount": 7,
-        "style": "極簡質感",
-        "description": "結合蘋果秋季發表會的最新產品，將不同裝置的特色擬人化。透過你對這些科技新品的偏好與期待，分析你的消費態度、科技融入生活的方式，以及追求的獨特品味。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪款『蘋果新品』的代表人物？測測你的消費慾望與生活哲學！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "阿信也愛iPhone Duo！合體蘋果新任CEO特納斯 網一看驚：兩人同齡 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNN1NQSmlXb2V2R0ExcmNhWFZwdkE0enN2QklyVjVQbVlOd2t1aGl1T0ZaaFlURTE0T183eXBFYTN1cUIwTEVPMk9VR1NnTm8tcHdVTERGeWozUzNvWG9KZUEtYlkxNm1aVFFlRVhyNlJJSk9HUS1Kbi13djFzYUFEdmZ5OUJvRFQyNTRTY083YmwyOUwxeHBsc21TSjFqbjVkWFFoX3d0Q3BBNVYwUGNkbm1SUXNTSmlxVFFkZEZFR2E4U1FEYmRLVG4zM283R2I5NEhPbHpsdXlDQlNDWmJlajFIYkFQY2F3ZjZIVXRKRjM4NUZYMk1QbE5aMGtJMC1ReTZ6YjVjNTFFLUZ3S2NZQnRoZHJGV1J4S0FKMFY3VFN1UDVFVkhRQQ?oc=5",
-        "theme": "你是『科技潮人』還是『凍齡傳說』？測測你的社群影響力與真實魅力！",
-        "resultCount": 6,
-        "style": "千禧Y2K",
-        "description": "以名人阿信與蘋果新任CEO的「同齡」話題為靈感，探索現代人在社群時代中如何展現個人風格與影響力。測驗將分析你的「凍齡」心態、時尚敏銳度，以及在人際互動中的獨特魅力。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是『科技潮人』還是『凍齡傳說』？測測你的社群影響力與真實魅力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【千禧Y2K】"
       }
     ]
   }
