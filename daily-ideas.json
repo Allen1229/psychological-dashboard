@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-09-19",
+    "generatedAt": "2026-09-19T05:00:12.999Z",
+    "ideas": [
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "央行為2026選舉放寬房市管制？第二戶房貸鬆綁誰受惠 吳淡如：放款仍有「硬指標」",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPamkxZXR5M2lpSkg1Z2x5eHYxRUg1eGM2V2FES0ZIRDB2NHhnMVJaVS1jdTdEbXZVSU1vQzdESXlYUDhxSGRzeHJuT251VFk1Z2pfMDBOS2c1ZkYwTTgtZkpkOHJabzNjX3ZwUzhDbU1KcTB6VHQ5UVpLY01MdnE1UTh5MlIxMTNDVnlrazROMkR3aFpOWkJUdmc0dFNCc1BDLXdPVTVIRWNSVi1ubmc2VWlTdHJ6VUJpTTZJLUlCZ0I5MERPakVMeHQ4SjE0X3JmZVdkRTdwUVJQSWQyWG90N0NwWnktR2t6dm5wUXktaGI2TU04Z3V5ZXA4X3Jzc1lvTzVPQnRxX3Q0bDA4Uy1TTFJtcmFIVmkyOS1MQkgybVp4Wkh4V3FZYWxzUlRmV1AyVUttMUhuazhSVXVJdV9ORmRONG81RWJWTGdLVUlEU2xlX1dlUVF6MHkyM29rX21GbWtHUndlQWlQZ29CcTU1NTdtM3RENnZSaHpkQ0NZX2E5N0dFYU9VSUIxdXVDVHByVnBxd19IZl8wMjM5MGZCZ3dtLTQxLXotNmpXdmlhd1QxSGhtZG1DMmxsbzdDbzJ2VlhhdGV0cVV5ZDE4TEZVZnZn?oc=5",
+        "theme": "2026房市風向大預測！你屬於哪種「房產實力派」？",
+        "resultCount": 6,
+        "style": "極簡質感",
+        "description": "房市政策的變動與個人置產規劃息息相關，這個話題能激發大眾對未來居住與投資的想像。透過心理測驗，使用者能了解自己在房產市場中的潛在角色與偏好，無論是積極投資者、穩健自住客或謹慎觀望者，都能在趣味中獲得自我認知，並思考自身的財務目標與生活方式選擇。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【2026房市風向大預測！你屬於哪種「房產實力派」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "美升息利空出盡！法人：台股震盪趨堅",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uNlhna1ZZVmZzbW5WZGNlNllqN2hoWWozWkVpdFk4ZURCTVpONjB2M1RaWnEtWUM5eW1BTEI4MGN0aEVDUGhNejdTTWE5NjZqNGdjSmRlRkV2UQ?oc=5",
+        "theme": "股市動盪你HOLD得住？測測你是哪種「投資戰略家」！",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "全球經濟與股市變化是許多人關注的焦點，尤其對小資族和投資者而言。此測驗能讓使用者透過虛擬情境，探索自己在面對市場波動時的心理素質與決策模式，是屬於「風險規避型」還是「積極進取型」。它提供一個輕鬆有趣的方式來反思個人的投資性格，並激發對理財知識的好奇心。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市動盪你HOLD得住？測測你是哪種「投資戰略家」！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "亞運／不是「C」！開幕典禮今登場 台灣代表團進場排序超振奮",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxMcGZUYTBCdG5pYWEyUXhvdE5yT3JuZ0Zua2dIbEw1SXBYYXFBcnNUOTJYdEh2cVUtTndGR1U3czdxbEhrQkx4VGM3N3o2WjFyaWJhY2N4MExUUHhjZmM3SllZTmRRV2NETGNKdkgzRGw0NW9CSXdoUzdIcHo1UUUxclI1d2MtNmxhYXFZTU9EbU1VQjlOX2F0TlBQVXVfSVZUa19iRTBaR0pkNkQ2NVV3emU4TG53RU9IT3Y0YkFfclFrQkRyWXRVZGRLTEp2a1hrMldXUzB3a293RXVDTFFOTW9UNm9tdjFmVVJDZTdsOUdWVUtCSmlvQ1diT2RKMHJIaTBxWHFVSF9CV3hlbmx6ZGkxbU5NUE1aSnNBaTgzcnJ4aGJ0VE5DOUsyX3BLWjY2dlhjVDNaUG5QNmYxRUhzNVR5TWk5V1JUN3h3bUJNZmRSekdhTy1zOUlnNGk1ZVJJaER2bjFLM0o0M3NvOXgyYUxtcmhITzQ?oc=5",
+        "theme": "2023亞運開幕！測測你是哪種「國際賽場之光」？",
+        "resultCount": 7,
+        "style": "清爽動漫",
+        "description": "國際大型運動賽事如亞運總能激發全民的熱情與榮譽感。此測驗讓使用者將自己的性格特質與不同體育項目的精神連結，幻想自己成為為國爭光的選手。透過結果，人們可以找到與自己最契合的運動家精神，增添對賽事的參與感和對運動員的敬意，同時也滿足對榮耀的渴望。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【2023亞運開幕！測測你是哪種「國際賽場之光」？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "MLB》台灣紀錄M1！李灝宇重返先發 挑戰僅次大谷翔平亞洲第2人壯舉",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE5JLWtXZ2x4a3ZJeUZqWXZQUzlzM3lqMm9mdzUzclVXdVBTeGJkTW9jVVJFVnRpd3l5S2ZsS1BIWURvamZ0RnBlVllRU3U4d3h3UXo3V2ZDbWFMUURza1Z1StIBZkFVX3lxTE5CcFZ1NmVucGI5ZzVMS1J1MzB2Y1dMZG9LVkFOeEJHRHBMNlF3RVBSZ0c4TE5ONHJIdFd2YVBXN1gtcXpvSlVmendfaE01ckdGblFfN2pBck9zcE9IWjIxQ3lUT09Edw?oc=5",
+        "theme": "直衝大聯盟！測測你的「棒球魂」最像哪位傳奇球星？",
+        "resultCount": 6,
+        "style": "美式波普",
+        "description": "棒球在台灣擁有廣大球迷，MLB與台灣球員的成就更是全國關注焦點。此測驗能讓球迷與一般大眾，透過個人特質與心態，模擬自己在大聯盟的定位。它不僅能滿足人們對棒球明星的崇拜與代入感，也能在趣味中思考成功所需的毅力、技巧和領導力，提升對棒球運動的熱愛與了解。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【直衝大聯盟！測測你的「棒球魂」最像哪位傳奇球星？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      }
+    ]
+  },
+  {
     "id": "2026-09-18",
     "generatedAt": "2026-09-18T05:09:22.280Z",
     "ideas": [
@@ -412,100 +462,6 @@
         "description": "明星球員的爆發性表現與團隊的連勝封王，象徵著成功與榮耀。此測驗能將這種追求卓越與達成目標的精神，轉化為使用者在生活或工作中的「勝利方程式」。透過情境選擇，讓使用者了解自己是傾向於一鳴驚人、把握大機會，還是更注重累積與穩健推進，從中獲得啟發與樂趣。",
         "id": "idea-6",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的勝利方程式」：當機會來臨時，你是把握全壘打，還是穩紮穩打？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-11",
-    "generatedAt": "2026-09-11T05:12:35.973Z",
-    "ideas": [
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "中天資深主播周玉琴突遭資遣 同事輪流抱著哭...1句話藏玄機 - 東森電視",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZRl9nVkNyMXF0bWl2aVZjTnNxMm5pcmp2RGdTNGM3T1F0ZTBvcDE1V09NWmFCcW1uX04xRkZoeV93aFVSamZXM0RB?oc=5",
-        "theme": "「職場生存指南」：測測你的「職場危機應變力」！面對突如其來的變動，你屬於哪種自救型人才？",
-        "resultCount": 5,
-        "style": "懷舊報刊",
-        "description": "現代職場變動快速，資遣、轉職已是常態。此測驗能讓使用者藉由情境假設，評估自己在面對職場變動時的心理素質與應變策略，並提供趣味性的人生建議，增加話題性與實用性，引發對個人職業發展的思考。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「職場生存指南」：測測你的「職場危機應變力」！面對突如其來的變動，你屬於哪種自救型人才？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "五月天阿信現身蘋果發表會曝原因！ 震撼公布「將有重大合作」 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMimANBVV95cUxNUFY5TlVJSWkyZzNRejI3M1VYYkR6bGRaU2VMeUprcnZ6aC1id0Njcy02aHhLRFBmRU96SFZJUURwMUNYUUthR1c3S2tZSW9UR2Ixak5zRVl1SEsteFdWQTdOWnY4WEF2cUF6MXMtNDc4bVhsWDJQemJjWUltY09hRVNuMWR5c0ZsbDZaOHFoWkVZZ2JxRVpWRDBydUZWV2Z3TE1JaHlvbmhFZEljWmdUMFN2Ny1KMEVqd05wdlZCek1KbXhyN3VmU3RrblE3akRzOHJFWlduZG5xMGRxXzBodDlScVQyOHliYTY4STJ5TFdSMUxOOC02eFJzbTl3aENHal80THQzdWN3YU03ZU81LUNZRV8yaVNqaHhoZm9PNEJ6bEdmbE9KT19pSzVvUjNoQ2RDZkdWRFlldWYzc3liU2YzUlpRYUR6aHFsQnBYNnpQTnRIdUp3akVCeHdDNjZkYTl3QXdRTncwREtlVkVDSEZZLXVVVnpyZlJpTVR5MlhucFRGaURyTXByNy1NbDFmeDNFTFZjdEg?oc=5",
-        "theme": "「跨界合作潛力大公開」：測測你的「隱藏版斜槓天賦」！你的獨特才能最適合與哪個領域擦出火花？",
-        "resultCount": 6,
-        "style": "霓虹賽博",
-        "description": "明星與科技巨頭的跨界合作，象徵著個人影響力與創新結合的無限可能。此測驗能激發使用者探索自身未被發掘的潛能，思考如何將興趣與專業結合，創造獨特的個人品牌，並提供趣味性的「跨界人設」定位，提升分享慾。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「跨界合作潛力大公開」：測測你的「隱藏版斜槓天賦」！你的獨特才能最適合與哪個領域擦出火花？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "美股收盤》油價飆破100美元！道瓊連4黑 台積電ADR跌近2％ - 自由財經",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vLW5aV3diOXpDQmlDalZxMjVfWi1BSDlhOVlReUFMRkhuZVYyWFE3NE1wZUFra0xNTkFOTGdtcHZtQ1pZQUJGc0pyX3AwZzdvcGotYnI5TEs5cFVMZkdj0gFkQVVfeXFMTTgtaXdZaWUwZkpIOGl0OFE3MExhMVJYeWZ2bFFhdWRidkF2VVN2V20xUUZXYk1uSHR2ZkZuM3p1SVBsM3Z0VC1YZkItRlV4QVMydk5YSjRTQkg1c3NoS083bDJvTw?oc=5",
-        "theme": "「全球經濟動盪」：測測你的「理財抗壓指數」！面對市場震盪，你是哪種投資人格？",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "油價飆漲、股市波動等財經新聞總是牽動人心。此測驗能以輕鬆有趣的方式，讓使用者了解自己在面對經濟不確定性時的理財心態和行為模式，並提供相對應的建議，增加話題性與自我認知，降低對財經新聞的距離感。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「全球經濟動盪」：測測你的「理財抗壓指數」！面對市場震盪，你是哪種投資人格？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "記憶體虛累累！南亞科、華邦電、旺宏齊下挫 惟「這檔」連拉2根漲停、晶豪科連5漲 - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPMXNYTnBGX21BUDI1SnVQeTYyQ3RtV0RXekNvY2xXQ1Y0UFZ6VlNyMnpVblBWWXRiV1JMU053elZtdU5peURDLUNvQzN5ckJfbk9RV3ZteC1xeU94TFpFR00zOUdPYlExdVcxQ3ZQRXFCZjdKd1EwQmVPbG1WRWU2ZXhvN1pLbVNBYnNCaUxrSHhKbHZ2YjMtVW9mRGdOTG9zT1RKQm1aYUZrZE02ZW51WUNHVS1wVmdMRTdOZ2FHa3FkNEpGfmVJUHo0V1ZMODBFdzFnUFp3Y1NQbGRSaS1IVkd3a0VZUXJfOTlwQnlTUUQtSDlPNGVNOHhobWE2QzhoLW5laDlId3JCNEFWcTdfcXZYX1BxcURjRFh1bjVrYTJpRVJpOFo2YkViY213Qnc5QXNTWGlqX1k?oc=5",
-        "theme": "「股市投資攻略」：測測你的「潛力股雷達」！你是否有慧眼識英雄，能從頹勢中找出下一匹黑馬？",
-        "resultCount": 4,
-        "style": "美式波普",
-        "description": "股市中總有漲有跌，如何在市場低迷時找到潛力股，是許多投資人關心的議題。此測驗能以趣味化的方式，引導使用者思考自己的投資決策風格，並提供「股海明燈」般的建議，增加互動性與話題熱度，讓投資小白也能輕鬆參與。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「股市投資攻略」：測測你的「潛力股雷達」！你是否有慧眼識英雄，能從頹勢中找出下一匹黑馬？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "超狂！「這公司」送員工每人1支iPhone Duo…剛入職也能拿 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOM1pOMzBObnBoQ0FjWXNvSTc1OUNoMi1wRU1xaWZ1UzFPcUR1MUx2eVo5RUhnRHc1QmhZVHExdUlZVFRrRmZKbl9CQW85akJtb3BTOXFFYlpuRFl4MzNZSm95UHR1Y0NhbTkyQmNmNC1uSXFKT3FKM3B6M0hLTUhUUl9ZWHhKcW1VMkNhM0FLdi1xUi03Q296c1BiZGpWbDRWeUozQzJyN1BfejZSam9IclV6ZXdMVDRyTzZBNkwxVjg1bE1Yd0hLcjBXNlBsbE8zS0ZpTHhYd2pMMnk0b0NPU3dxeUVnZllOWlNVQWxONkZyelpZR2t5a3VBMDE2Y0RjeXJEbmpZZG9LS0g5ZkRiekdjMTliTDJXNUpZYmFYSWFKYlRqY1RBc3RrRVE?oc=5",
-        "theme": "「夢幻企業大解析」：測測你的「理想工作福利」！哪種公司文化與福利最能激發你的工作熱情？",
-        "resultCount": 6,
-        "style": "奢華宮廷",
-        "description": "公司豪氣贈送員工最新科技產品，引發社群熱議。此測驗能讓使用者思考自己在職場上真正看重的價值，是優渥福利、工作彈性還是成長機會？透過趣味測驗，找到最適合自己的「夢幻企業人格」，增加分享與討論度，吸引求職者關注。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「夢幻企業大解析」：測測你的「理想工作福利」！哪種公司文化與福利最能激發你的工作熱情？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【奢華宮廷】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "Tim哥道歉了！萬人抽iPhone爆黑箱「僅84人合格」 揭真相：不敢再辦 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNMFc1RGlZVWRrX2pxN1VHWUQ0YndyV3dLYk9qNmYySVY3bm5DV0dtY3ZtRjZIUnJpLVhkbGZER3VwOHVwaVdiREloVjdHRFg5bwhoY0t3RUFYRlBhbEhiYmhGbUwybXpodWVSOWZBNzNxS3lBQ25sSkpsYnlOM0lPQ2NBMHI0WGd3Q24tVmJxVTFUNG5yZEwzYnJNSXh2V2czLW1xejdJR3Fnb3c2NmktRGVPc0ZUSUtNUmR1enJtbzhRVjNha1FucnN4MlQxWTJQcnlINkU3TVZRRko0ZldqcXp1WWh1R3JlZjZDcWxBdURfbWxlUmNtZW1CN28wNVYyWWtCb0RpT21WY0VUaUc5M0VfWXZLbjVMODVFRzBjNlJaamVDNVN3VzJ2VkVkWTZGT0pJWTQ2akJUNzFaMk1KcDBoQVo2MWpyUmxVQk9Nekd1dzVOR1VZLV9zVVJ1VzR2NUhj?oc=5",
-        "theme": "「網路社群信任危機」：測測你的「網路公關危機處理力」！當你的活動爆發爭議，你會如何「說真話」挽回信任？",
-        "resultCount": 5,
-        "style": "底片膠卷",
-        "description": "抽獎活動爆出爭議，引發信任危機，考驗主辦方的公關手腕。此測驗能讓使用者模擬面臨公關危機時的反應，思考如何在透明度與社群期待之間取得平衡，並提供趣味性的「危機公關人格」分析，增加討論與警惕意味，也提升社群對誠信的重視。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「網路社群信任危機」：測測你的「網路公關危機處理力」！當你的活動爆發爭議，你會如何「說真話」挽回信任？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【底片膠卷】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "籃協回應陳盈駿限動！保證「不再發聲明」強調：亞運比賽結束後說明始末 - Yahoo運動",
-        "sourceLink": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQc3dFZ1pFbW84cDBJQkxQYXJ4M1RURGcxYlpIRzM4VE5QRUlsQlEzOFdZV1BiYmhOTlJnMkp4RDF3WTdjeUhCcURMVVVnS3V6ZmY1eHR5SmI1VlBQdUdBVm1IVHJBTTdRMUV5OTI4azgwcVFhUVZhYmxna25ad3R2QktfNFZsRUZmV2xzQnhoN1lZLUVnWnBDbkZ3QldnVC04SWdIa0piTnB5YnVUNm9JcW04YkRfbUptNkFZOGxVVFhwaXlweFhuQkQwRG5GSXgtX3dURXd5dFBrb3pZcGVmUW84WFRBRi16eWlPamNUTE96Y3RMMW1BZlZ2dzdROFoxQlQxanNhd2xPWUoxTHdmaEVoTlUzV0ZfR3U2ZjhSSVlrMnpoVl9yZlM2TWFMVWFrdG5OMFhxWk9MNHVCdWlkWkJGQTZXZHV1LXlFOXVscG5iRjd4bURzV2lLMTliTDIwOTVMZTU4ZXgtdEpYYkRXRFlXNW5OT0VSWXBBSTF6TUwxREVqTDVVNEI1T2Y1aXpJT05PRHVmeG42YUhDbjBtc01Namt4UlJnVGhoUmU1VkFjUi1iaGRva1gwM1ZJdw?oc=5",
-        "theme": "「體壇公關大作戰」：測測你的「危機處理策略」！面對外界質疑，你是選擇即時回應還是等待時機？",
-        "resultCount": 4,
-        "style": "極簡質感",
-        "description": "體育界的回應策略引發討論，延後說明可能會導致更多揣測。此測驗能讓使用者思考在壓力下，如何選擇最有效的溝通策略，並提供趣味性的「體壇發言人」性格分析，增加對公共關係議題的關注，提升媒體素養。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「體壇公關大作戰」：測測你的「危機處理策略」！面對外界質疑，你是選擇即時回應還是等待時機？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "NBA》說好的退役球衣呢？快艇把保羅3號球衣給畢爾穿 - Yahoo運動",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOZmhmUnZkcE9nU0hSUzMxYUdpanUxb0JJSENSbW1fcjdfanBPb0w5R202Vng3MHpuSkRveEJjaE0xb0QwVmxWcllBTkExVU5Jcm9GdEFXbVFoWGRDQUlsa0V6WXVzRDBvZWpST3VOajA2dmtXUUxjTG03YjZkb2hzc0IzeXlVcFFMeDdSWXltQlo0a3BoekQzS2l3S255aG5kb0pCWkRSZVk3YWNqNkg2UkVDcWNYQ2hhMWE4c3ozNUpjRS1XYmV2ZGNuS09teHFYLXFhMmswb3FWcDFNQWlqbV84aUJ3ZnNQcGxrdC1aeXU3ckYwWmUtWWY0c2o3SVE4bzVySV9QcndsMEFhc0Rvc2pWTlFpS19wakZVdlVrLXpRZWdCZ1AyRjFwNlAzVE9hUUMwX3ZSeE5IUFZ1bm04WEF3S0hmV2xPa2lSZVZfTG5UTDVJ?oc=5",
-        "theme": "「體育偶像傳承」：測測你的「球迷忠誠度」！當球隊做出讓你失望的決定，你會如何反應？",
-        "resultCount": 5,
-        "style": "美式波普",
-        "description": "球隊處理退役球衣的方式引發球迷不滿，關乎球隊對傳奇球員的尊重與承諾。此測驗能讓球迷反思自己在面對球隊爭議時的立場與情感連結，並提供趣味性的「球迷DNA」分析，增加社群討論與歸屬感，深化對體育文化與傳承的理解。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「體育偶像傳承」：測測你的「球迷忠誠度」！當球隊做出讓你失望的決定，你會如何反應？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
       }
     ]
   }
