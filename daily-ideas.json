@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-09-20",
+    "generatedAt": "2026-09-20T05:23:16.958Z",
+    "ideas": [
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "中油財務資本額快虧空 明年恐具聲請破產資格",
+        "sourceLink": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPVE9fQ3Bab01LNUZ5eFp3VVdMVVpib3E4UjlwUnhXU09HdXdsOUVEOWphT09ZdDFzX1JqM0tSZ0RHNmQtc1BIc1BTYTQwMjB1d1JrNEk5SDNIbWpXcVBsR0ZtU01yYjVWUUZXOFFrM2NRV013bW1zUlRmNVhnbWhQR0Z4dEZHVDdmRGJpb256Y1dYMGx6NmNOdWk5UUctTUlzSTIzUmRkMGVFWDJyQTdwM1ZJWmxMUU5QcHd5VnJHVC1iOFl2VXVrTHZFem80R0g3Rk9XTHNra01kbF93MEhBd3VMazBuUERKMlV2VFFDQklmQXhtMFlPeUpybzJCdHBldHpwTm9BcmtpT3B4X2hiTDlfSFxuSHBtVWlRaExVOExDRGlRU19uSlhPdDJ0Y0VNYjBIc3R6cmtxcnczblFIT0JaTng?oc=5",
+        "theme": "你的「財務體質」是中油等級嗎？測測看你的爆雷指數！",
+        "resultCount": 5,
+        "style": "懷舊報刊",
+        "description": "這則新聞觸及了民眾對國營事業營運與個人財務健康的雙重焦慮。將中油的財務危機比喻成個人「爆雷」指數，能讓使用者透過趣味測驗反思自己的理財習慣、風險承受度與應變能力，在輕鬆的氛圍中獲得自我洞察，並對潛在的財務問題產生警覺，兼具娛樂與教育意義。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「財務體質」是中油等級嗎？測測看你的爆雷指數！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "記憶體漲價出現裂痕 陳俊聖：有人已開第一槍",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zZWxNZ0dsdFFUbnpFZXE5TDhsbWhEdkk1Z3hHbUpiZWgyMjJibmRUcUNfTjRicGJWOG1vYXJEdkYtT0Y2MDdIT2JmOFRVOS1WaElvN1lFYjBiQdIBX0FVX3lxTE1fMmpONzZvME9JWWF0UUVWeTZKdXpBQmJzNklXLWNEa2prRFhOTzMyMGNkc19Ia3dnTkZYSlpjRExlNkVBZWFtOEFIdTZYLWkxRktDcE9NMXdIQ0trYUxj?oc=5",
+        "theme": "記憶體大戰開打！你在商場上是哪種「開第一槍」的狠角色？",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "「開第一槍」這個詞彙充滿了膽識與策略性，能激發使用者對於自身在競爭環境中行為模式的好奇。測驗將記憶體市場的策略博弈轉化為個人在工作或人際關係中的決策風格，讓使用者了解自己是屬於主動出擊、伺機而動、還是保守觀望的類型，趣味性高且能引起職場人士共鳴。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【記憶體大戰開打！你在商場上是哪種「開第一槍」的狠角色？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "AI誤判中國船載核武計畫零件！美軍一度要攔截 知情人士：差點開戰",
+        "sourceLink": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOOTBHTmJjS0wzYWpSUTZQY1YtVXdGUXQyZi1zMldsR2hIOC1GODhGYl83SWF4TGZsV1UwcERQZndsRlZ5WS1mNGs4ZTF4NEE4cXVsaUl6OWN4NmRpOF9HcUVOWEM1OFVVTHp5NlVCZU5raW1FYktwN0VJa250LXNzZnhzT0dZWDZqYS1zM2t3YTV3QzFfT181LTE4czhpeVZJdXlfNmZvSWNvZDdyOWNJcUthVEJBSGZoZTVHZ2FkWHV4Zk9YaWppQ2U5Z3Zhd2RTczNPM0VwcEdVM3J3ZERTQXl2d1A1TjFMMEtLTkVOUzdIMV9SdzdjUzhIYnRfSzZaRzM3ZzJQcmdqcFZRa2xQWU5pZnIwakVuRzByczdvMVRSR1Vib1pIY1lrMS15aExKWms4U1hWNFFVMWRydXkwN0ZMNFFJcDBqalBud3NyN1oxTWRaNWJxekdteWEwdFM3TTljT0NMNkgzTFhWTGJINVdoRk81UnNfOXBiN0pxUTRGSGxUbExBYmNBbjM2VXlqSndR?oc=5",
+        "theme": "AI差點引發世界大戰！測測看你的「危機判斷力」有多神準？",
+        "resultCount": 6,
+        "style": "驚悚懸疑",
+        "description": "AI誤判可能導致戰爭的事件，極具戲劇性和緊張感，能立即抓住眼球。將此話題轉化為個人「危機判斷力」測驗，讓使用者想像身處高壓情境，面臨資訊不確定性時的應變與決策能力。這種測驗能滿足人們對未知與挑戰的好奇心，並在情境模擬中獲得刺激與娛樂，同時思考科技倫理問題。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI差點引發世界大戰！測測看你的「危機判斷力」有多神準？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "川普宣布成立「人工智慧部隊」！開徵AI沙皇條件曝光 拒絕替AI踩煞車",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UOXFTU1lyMmh4czJscjVmVkJYQlFoQmVvNm9lYVFaWUFsMjA5UWd2Y2hsaVYyNzRlcjh0bkVPaHB5TUtXRDNhSVBHYkt0NDNo0gFWQVVfeXFMTUFWazVYNUxFU0FXc2h5aF9fWVlSZWRvRXc2a0NSYzdEcDZSdHVNeE5HNTBjel9ZQ3lzdzFYc0lMSldRaGRSQWJFbkZHMjkwTjA4MHA1alE?oc=5",
+        "theme": "川普要徵AI沙皇！你是「AI加速派」還是「煞車派」？測測你對未來科技的態度！",
+        "resultCount": 6,
+        "style": "霓虹賽博",
+        "description": "川普這位爭議性人物與AI這項尖端科技的結合，本身就極具話題性。「拒絕替AI踩煞車」的態度，鮮明地劃分了人們對科技發展的兩種立場。此測驗能讓使用者探索自己對AI發展的理念，是傾向激進創新還是穩健保守，進而揭示個人的價值觀與未來視野，提供充滿討論性與反思的趣味。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【川普要徵AI沙皇！你是「AI加速派」還是「煞車派」？測測你對未來科技的態度！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      }
+    ]
+  },
+  {
     "id": "2026-09-19",
     "generatedAt": "2026-09-19T05:00:12.999Z",
     "ideas": [
@@ -390,78 +440,6 @@
         "description": "「兩代女神同框」、「帶傷拚戰奪冠」的故事充滿了傳奇與勵志色彩。這個話題非常適合設計成探索個人潛力、毅力與成就的測驗。使用者可以透過測驗，對應自己的人生階段與目標，發現自己內在的「冠軍」特質，無論是新秀的崛起之勢，還是歷經磨練的堅韌，都能從中獲得共鳴與啟發。",
         "id": "idea-4",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「冠軍傳承者」？測測你的潛力與在人生賽場上的發光點！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-12",
-    "generatedAt": "2026-09-12T04:58:58.263Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "宜蘭防豪雨、雙北注意大雨 北台灣氣溫回升 西半部午後雷陣雨",
-        "sourceLink": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPaEJSMmtGTHMwYVlHbGhoQ2hDb2tVZzBVZFdIb3pxckpQeWQyaHo4NFNncVhrVUR3anp6dlZxV09LTl9XOGtIZjFLU1NOcWpzNXowMUt3b3k1X25aaE55aGVsMFM2U0pnUGNUbHEweFVtYTF4eTkxOWhRTGlVWU5Hd2kwOGViTG5Lb0hPWDJTdW5jS0xRSTFNSWpzd0tjbm9fd1cwWUMya0VjaFhKV3pYN3FoLUkzcWgyUFFjejhUTDljTUw2ZWVWMFNOUFBxeHlkTGN6NkJzdlBoQzZxYURoSFAtYTZUNkdDR2M1akpCTHdwNWoyelJ3Z0RRVjIxdWtWT0xJQ1dUZlk1Snd5NjRoTVczNERwdE5vcndRWmloLVFqZmxxT0psbEh5WUxTQmpmTDlnRjYzWXRpb3pLdmh0UWlyS2JkUU1BVlEzNXdwMWc5VDJ6c21LM3p2MnNmNDI1ZWNVNEFGSUNHdHp0QjJYdVpNWGFXLWJrWlMzaXZvWHd6ajNHR3h6ODMxN09VVVhjWkt0eVh3NTNkZw?oc=5",
-        "theme": "「你的內在天氣圖」：測驗你是晴空萬里、午後雷陣雨，還是豪雨特報？",
-        "resultCount": 5,
-        "style": "溫馨水彩",
-        "description": "人們對天氣變化常有不同反應，此測驗能將個人面對壓力、情緒起伏或日常挑戰的態度，比喻為不同的天氣型態。透過選擇情境反應，讓使用者了解自己是屬於樂觀積極的「晴空萬里」，還是偶爾需要釋放壓力的「午後雷陣雨」，增加趣味性與自我洞察。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的內在天氣圖」：測驗你是晴空萬里、午後雷陣雨，還是豪雨特報？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "撐到最後一刻 卓揆終於副署無人機條例",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HaElhbXdBSGp1d0g4MmtrT0dJeHA0bXhuT0ZaWUNSOWJVcmthaVdvMTZUQzdFcl8yRlZyeng2NUJLOFFSVzhYWldoRmVjNl9z0gFWQVVfeXFMUEY0RnlmMUh3aDJ2RU03b0ptQmZOU2dYMkNmSVVIb1VLQV8wNDdub2JZS2hMcVBsdU90Um8yS00zYlVIbDQ2eUNEclNGU0JXTGxQSk9Yb0E?oc=5",
-        "theme": "「你的決策無人機型」：在關鍵時刻，你是精準空拍，還是謹慎盤旋？",
-        "resultCount": 4,
-        "style": "科幻冷冽",
-        "description": "無人機條例的通過，象徵著科技發展與規範之間的平衡。此測驗可探討個人在面對重要決策時，是傾向快速行動、精準掌握，還是偏向保守觀望、權衡利弊。結合無人機的特性，讓使用者以有趣的方式反思自己的決策風格，並了解其潛在優缺點。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的決策無人機型」：在關鍵時刻，你是精準空拍，還是謹慎盤旋？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "美CPI揭曉台股夜盤先殺後拉 升息機率逼近9成市場緊盯聯準會",
-        "sourceLink": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNTFBubGxoUVZiYzQ1Y3puazBkMV9TZjFjZVBFVkRtT0F0ZFNFY2dCWUZ4Q1ZZU0pzMHo2V3dGNUpJX3hXMHhtUmVsYzVvdk9EcXN3ZXY3dmlQRGJySTFKNFR5dWhtd1lpTF9GZE8yUzBqaFF4OVlwTVU0ejA0R1BuQU9uX0pnU1RWdTR4UlB2LUR2bUFYT0hyVno5UlByaFRTM0wyaV9CRWdnbTNvbXFaOFd1ZGZYd0dYS3Jmd2tmeUxSZmhmRVpNdno1bmpQTVliVk5TUGVGdmJwNFM0LWpxX2JkVkNQRldMMXlaazByazVpa0U4UUlSZzdGS0pHZVBpZzZ1T2Q2VGxwMlZsY0tGRWlpc1hHOEpMQTdGVm1hQ1Mybmd2UjlycVBWVjluV054TzE1UnJqZDdtVTBIUVRxMk9hTGRhd0hZeG5xQ2UzOXFXQThYbmJscHBEWU9jS2NFNzFDSXlldjVTeVUyRnEza0V1UUhjZG91LUczajdRUHpMYktiN2c?oc=5",
-        "theme": "「你的理財情緒曲線」：面對市場波動，你是淡定抱股還是坐立難安？",
-        "resultCount": 6,
-        "style": "極簡質感",
-        "description": "金融市場的波動常影響投資人情緒。此測驗透過虛擬情境，模擬股市漲跌、升息預期等變化，探討使用者在壓力下的情緒反應與決策模式。它能幫助人們了解自己在財務管理和風險承受上的潛在性格，提供娛樂之餘也帶來對自身理財觀念的反思。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的理財情緒曲線」：面對市場波動，你是淡定抱股還是坐立難安？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台股重摔 三檔金融及高股息ETF逆勢奔新高",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41YW9JcWYtdG0yeWVRd3dHY1NfQWpjLUVBTHVycElEUkVXZWdOT2JfOGFXUG4ybzlpbkFqNUtyT1YxNVVmdnAtTzB6ZnVaQkRpczh30gFYQVVfeXFMTVBuRTdqcXBJQ2dPdmltZXZIQ1VEZUtlTXZHdnV2dVVSbXVIUGNmcm04NlRYY0hNZ3FtQ0lhOXJMX1ZXUklkMFJFZTNqQ0NIWWNNZkpBZ0xkRA?oc=5",
-        "theme": "「你的逆風生存哲學」：當世界紛亂時，你是乘風而起還是隨波逐流？",
-        "resultCount": 5,
-        "style": "廢墟美學",
-        "description": "股市重挫卻有逆勢成長的標的，反映了在困境中尋找機會的能力。此測驗可將此情境延伸至生活與職場，探討使用者在面對挑戰或逆境時，是選擇被動承受，還是主動發掘契機、展現韌性。透過趣味問答，引導使用者思考自己的抗壓性與解決問題的能力。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的逆風生存哲學」：當世界紛亂時，你是乘風而起還是隨波逐流？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【廢墟美學】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "亞運男籃》可惜！陳盈駿轟29分、游艾喆10助攻 台灣不敵伊朗吞首敗",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WTXlzcnZvWV9BaGpMYTFzZHJIaDdXZHVXcHpoRXJidTJfeHAtak9iTGpKRHpMc0VraEFrQzNfZm1La3FqWFFsZE0yV2lUc0FzRUQtVWRUcmRwYXJYQ292UtIBZkFVX3lxTE1ScUJhMUtHYzVWcTNpcV9YVFNIRWszcmJFMXhaTUs2NVc2dlpLNUhmX3I5d1Fnd2VrSG5CemJSMnNBVWdqY0NKRG9WLU1qeFhMVGlEMk40NG5EMmV5SkNvMkc2N2lRZw?oc=5",
-        "theme": "「你的團隊角色測驗」：在團隊合作中，你是得分王、助攻王，還是最佳第六人？",
-        "resultCount": 7,
-        "style": "清爽動漫",
-        "description": "體育賽事中，個人表現出色但團隊仍失利，反映了團隊合作的複雜性。此測驗可將籃球賽場上的不同職責延伸到日常的團隊協作情境，讓使用者探索自己在群體中扮演的角色、優勢與潛在貢獻。透過角色扮演，增加趣味性並促進自我認知。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的團隊角色測驗」：在團隊合作中，你是得分王、助攻王，還是最佳第六人？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "MLB》道奇75億明星夯滿貫砲5打點大爆發！衛冕軍狂掃8連勝封王M5",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWV2o5eTNZR1hSbGRmcnpvX194M24xTVdCT0JFSlg0cEhxYnUzMjQ5Y1FXMmdzbUE4ZU1qMGtsT2hYY3g4LUx3MU4tT2hNcHdXUXJiRzFkaDE2RjBLMlNpSw?oc=5",
-        "theme": "「你的勝利方程式」：當機會來臨時，你是把握全壘打，還是穩紮穩打？",
-        "resultCount": 6,
-        "style": "美式波普",
-        "description": "明星球員的爆發性表現與團隊的連勝封王，象徵著成功與榮耀。此測驗能將這種追求卓越與達成目標的精神，轉化為使用者在生活或工作中的「勝利方程式」。透過情境選擇，讓使用者了解自己是傾向於一鳴驚人、把握大機會，還是更注重累積與穩健推進，從中獲得啟發與樂趣。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的勝利方程式」：當機會來臨時，你是把握全壘打，還是穩紮穩打？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
       }
     ]
   }
