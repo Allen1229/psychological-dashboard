@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026-09-21",
+    "generatedAt": "2026-09-21T05:25:29.236Z",
+    "ideas": [
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股早盤漲逾300點 台積電漲15元",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbUtfajc1cjVXaWpOZzdhZFBxdkJLb09ObzlzYzlZTXVEZzFqcWp2clpoVWtuVmVnZTYxdU1EWi1teWJzcTN6bUpEV3BEOVRVWm4wSHlXZWx6anpZTlNjbUt5akJRNk5zT0tIT09SVHZGRU1qYTNEcWlLdnFkQzZCcVN4ckJfX3FpcmRoZDBuUVNGazRYM2VZRF9aLWNlQ2RlbUo4alBXU2lVQW9WaHdPUXFKbW5vMFE4VDVSU2Z4OGJSdllxR3BXSFRNbUpzWXlDZUVmYmNDelNDN0VSdVJpa3AzdVZLR1hJVmVV?oc=1",
+        "theme": "你的投資人格，是哪種「台股明星股」？",
+        "resultCount": 6,
+        "style": "極簡質感",
+        "description": "股市漲跌牽動人心，投資決策反映個人風險偏好與財富追求。這個測驗透過模擬投資情境，將使用者的財經人格與台灣股市中的代表性明星股連結，讓他們在趣味中理解自己的投資風格，是追求穩健、爆發，還是其他策略，提供自我探索的視角。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的投資人格，是哪種「台股明星股」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "漲幅落差…新建案漲71% 營造成本僅漲29%",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyWks0UktvMTc4ZGNlNGFKR1pwMlZyMV95SUtySmQwdmgtcjlQMTY2VXNBcFkwYUtnSXBWM0Q3ZDdGMnFneHhuOWJxMm0tbUpD0gFWQVVfeXFMT1JFY0NDS3IwdC11b3laMmdESG4teGQ4MmFvalNHSFJscDBBSncxRElQeXhwbjRaRERYWUtrbXI2ZU0zWUg1U29VaWNqZXhaVm1WaG5ablE?oc=1",
+        "theme": "面對「高房價」，你的理想生活該如何「落地」？",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "房價議題影響每個人的居住夢想。此測驗旨在引導使用者思考在高房價壓力下，他們對居住空間的想像與實際生活選擇。透過不同生活模式的結果，幫助他們釐清自身的居住價值觀，找到實現理想生活的可能路徑，是妥協、創新，還是另闢蹊徑。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【面對「高房價」，你的理想生活該如何「落地」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "iPhone不用螢幕保護貼？蘋果高層「1句話」果粉反嗆：不敢賭",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNRmVmWmtXWWFsLWx2cllYYmNBbElyYlUwU1dyT0RmcEZLX2stNXppSHlUQnpZeFg5aXVwTXlNenZSN2FzdDZWdFh1SnNOVTczMVBjOVJyUmVZS3d2NVRHek04TXdvS2ZrdmZQU3I0NTJCUEV3NU1HaG54Y2RqV01kN3loOHp5ejl5bERkeFR5ZXpnUjkzZHNHb0R2eXlORzBHcUQ1M0hSOThONlZVMGd2UTVFa3gybzR0cnRjMDMxMi1SMVU2S2xIaUU4U1R4aUNObFg4bDV6OEMxbElHUHkxdWhJckxWbTBhbF9JRHRQbUVNSXJrVUhqMHlBZ2FVcmNFR2poNGRUWlVjVlBwejNYQWVuMW43ekpYM180SEgxSWRZckozSVBiMkpZa21OdXR5WWh6bk9CajZZOTVNNDFnTEQ4U1lvVUs4bWR4M055VGpidw?oc=1",
+        "theme": "你對待手機的態度，揭露了你的「生活風險承受度」？",
+        "resultCount": 4,
+        "style": "科幻冷冽",
+        "description": "手機保護貼的取捨，不僅是科技產品的使用習慣，更深層次反映了個人面對風險、財產與完美主義的態度。這個測驗透過對待手機的細節，剖析使用者的生活風險承受度，是追求極致體驗的冒險家，還是將安全感放在首位的謹慎派，趣味地揭示個人特質。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你對待手機的態度，揭露了你的「生活風險承受度」？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "新／Meta又出事！臉書、IG、Threads電腦版全當機",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNS2wzalAwZDE2YzhZOXVheEVfWVRweXpSaHc5eURtMGxON2xGZC1NZW1VdUEyWm9nZ2VJYV9sTm5tc1Fqczc2MXB0QlhIMzExUnB1N1lyU0N0NlVjVi1KRUhfTmNuUTBWbFdQUTk2TG9STmwtZVBmSDJVQnpSU1VGRkFvSTdxVkxSTzc3N1dfVWtjVE1WQ2JvZWkwQUVpVV9GWDRRTjhZWGhWWkxRNlRjWGVacnA4RUVLOFVLR2pkOGJVLVhvcXZQM0pYRVZFUEQ5QUNGdktSX2szZS1IUDUyRDQ1UGNIb2hnQWNmdmNwSUxoVUd5U3F0X0Fn?oc=1",
+        "theme": "社群平台當機，你會啟動哪種「斷線求生模式」？",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "現代人對社群媒體的依賴，使其當機成為一場小型社會實驗。此測驗能探索使用者在失去數位連結時的真實反應與應對策略，是享受難得的「數位排毒」，還是焦慮不安地尋找替代方案。結果將揭示使用者對數位世界的依賴程度與其內心深處的連結需求。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【社群平台當機，你會啟動哪種「斷線求生模式」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "亞運／棒球出奇兵！台灣沒派王彥程先發 韓媒震驚：想起8年前噩夢",
+        "sourceLink": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOcms0VFJjQmhtenFCb1ZLXzM0djd5RE9JbnhmSEZjOW1BU3kwZjlQSjFmZ3VNbktjUHN6a2RvMkFfZG1XajZDOWhoNi1MeU5hWFE5NkNobnhQemZlSk9Tenh6YXBqQkJtWDBLRUd4V2ZWZzR0ZlU0Qy10d0M2WmwtOVd6eGVlZjl6ZTlFc1NGZlpZUk45UzBhNlJDVmR6bnRfTHYyNU82T1NxSG5ueWo0alNTUVNUaXhXSzFhclRWWHltdExtSy1qYldmTGtnSlJDd2YyTUYyMXM5cnN1UDhsRUFZVmlJSEZ0Zm9TN0Foc1NHVHlLV2NBdjVOd1FqZmpEWWZmYVNSdE5KVVNYYTFaUmo3VUVqNUtqUjRLMVFIdnp2bHdmeVBaWGZ0TEdlcnFHdkVGZ2YtZmtRWEpCRm1rbzNXRUk3UGtKLWhvMnlsWDY0QjMtcmI1X2hrbnVId2dLeVUzVWZ1b3Vyc19Yb3JwSHpLUFozMnFzZ3NzVS0tNlhReVVsVW5hU1RaM2ZhRTJ4SXJram0yMXktRDg?oc=1",
+        "theme": "關鍵時刻，你的「逆轉勝」人格是哪種棒球奇兵？",
+        "resultCount": 5,
+        "style": "美式波普",
+        "description": "體育賽事中的「奇兵」戰術，總能牽動人心。這個測驗將使用者帶入高壓的比賽情境，讓他們思考在面對意外、挑戰和決策時，會展現出何種特質與應對策略。結果將他們的「逆轉勝」人格與棒球場上的關鍵角色連結，充滿熱血與策略的趣味。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【關鍵時刻，你的「逆轉勝」人格是哪種棒球奇兵？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "MLB》老虎確定無緣季後賽！李灝宇4打數熄火 美媒點出隊友守備瑕疵",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE5iZWVWaEFpUzZLWXltVmFhVmszMnR2QWYtc3JJWkZCdnJCc1NfMkZNYzhUSmJEYl95VXBGbElwQm1mNFhRdUQtRVBxbVcwTkpreHNyWlZ3R0Y4QzZhX1o4QtIBZkFVX3lxTE9hM2JvNGxOby1JSHZFdU9xVnZPZ2UxMmpnc3VSQ3VqLVRqUFVmUXE1WFA3TnB2cEdhWEcza3ZwQXNUX003b09EejBEQ2RsZEJEVjl1SWM2bzJNM1R4VlBpdVpTd3BHZw?oc=1",
+        "theme": "面對失利挫敗，你是哪種「運動家精神」的代表？",
+        "resultCount": 4,
+        "style": "懷舊報刊",
+        "description": "運動比賽中的挫敗與無緣季後賽，是考驗個人與團隊韌性的時刻。此測驗將引導使用者反思在面對人生低潮或不如預期時，他們的心理應對機制與行動模式。結果將其與不同的「運動家精神」連結，鼓勵他們從失敗中學習，展現積極向上的態度。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【面對失利挫敗，你是哪種「運動家精神」的代表？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      }
+    ]
+  },
+  {
     "id": "2026-09-20",
     "generatedAt": "2026-09-20T05:23:16.958Z",
     "ideas": [
@@ -390,56 +462,6 @@
         "description": "這則新聞描述了極端的高風險投資行為和「背水一戰」的翻身心態，極具戲劇性和話題性。心理測驗可以探討使用者面對一夜致富機會時的價值觀、風險偏好和決策風格。透過設定不同情境，例如：你會如何處理一筆意外之財？面對高風險投資機會，你會選擇梭哈還是穩健？測驗結果可以將使用者分類為「梭哈狂人」、「穩健累積者」、「機會主義者」或「觀望猶豫派」等，以幽默的方式揭示其潛在的「財富體質」，引發共鳴與討論。",
         "id": "idea-2",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【借錢、槓桿、賭一把！你的「財富翻身」體質是哪一種？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-13",
-    "generatedAt": "2026-09-13T05:20:13.660Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "柯文哲對藍白下「病危通知」？點名3縣市恐遭殃：彰化大勢已去、竹縣難挽救",
-        "sourceLink": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNU2hCVmxMYnRtbTVHSEt0Q0t2bW1PRGZBVnc2cjE3MVBHNm5sd1hzSWlhYl9sdE5OYzgwQl9yQmtkZFRSc3VOUnhxWFlrNVpHdDNuTG1fTnEyVmtqZUdhb0oyMi1Fb1pZYUpNUWZCYlJjdU1FVkc0bWtGMk9fRlVvdVh2MERkREtNTVlXX2JyWUV2alFDa21YV0lNMXlWbEREbmV4VnpmUjU0QzlnRkdXVm50ajlsdHRnWmJoaWdaWnZVbVk5R1RIZlVKalhBckxFc2FTWFdRcXUwWlRUbzRiLVAtaTg1TExacW1YdTM0WUcyaFRTa3hhMHZjWTQ0RGR3d0ducVFZbHV0WG5zVlpzTWkwWHlNZEpfa3FuVkxnM3JfeDB3M0kwTDU4Z2gxdndxTno2d1g0Z2xRZ294c0l0Q0Jmd3RCbG5YUEU4YWlOS2hmRDNOVGFZX05KTGt5cENmVTh3Z0RYcy1FY0F1QjlVQkVvdTVjVUtLWGRMaVg3elRvN3A2WGJ0WXU0djJTRXJ3TENzaFFjQnNlVkNnSXNzd2VERlcxcTcyY0toOXYzSWRKbnVvUVE?oc=5",
-        "theme": "測測你的人生「病危通知」是哪一種？",
-        "resultCount": 6,
-        "style": "搞怪幽默",
-        "description": "這個話題充滿戲劇性，將嚴肅的政治預言轉化為個人生命狀態的「病危通知」，能有效吸引使用者好奇心。透過測驗，使用者可以幽默地審視自己生活中的潛在危機或需要改進的面向，並從測驗結果中獲得自我反思與趣味指引，增添互動樂趣。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【測測你的人生「病危通知」是哪一種？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "今高溫飆36度！明迎入秋第2波東北季風　下週恐有強颱「2預估路徑曝」",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Oc2JyNkFpTlh2ZmZhemVST014RVhIRkJSWG5LdC1UYXJRZG1tSWp1cmh6zTFaU1BENTBjbmh5bGx2NEZfWlFscNIBTEFVX3lxTE80Q09pSVFjZzVTb2xDa2RFUE84M1F4dnNiTzhtaE1iWU5YOVVQbW9faGFwYU5tZ19mNHMzOFhCbU1KVE5Ya3ZWaGtsMEs?oc=5",
-        "theme": "你的人生是哪種天氣型態？測測你的情緒風暴指數與應對策略！",
-        "resultCount": 5,
-        "style": "清爽動漫",
-        "description": "新聞描述了劇烈的天氣變化與潛在的颱風威脅，非常適合延伸為探索個人情緒管理與壓力應對方式的測驗。透過將天氣現象比喻為內心情緒的波動，使用者能更有趣地了解自己的情緒模式，並學習如何像應對天氣變化一樣，有效處理人生中的「高溫」或「風暴」。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的人生是哪種天氣型態？測測你的情緒風暴指數與應對策略！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "U18亞青》非贏不可的戰役 台灣隊「火球男」楊曜丞掛帥先發",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYPFUWEFJX3lxTE1sQ1JoNXo4blRKeXAzLWxYY3dXSC1ia2w5TnowMkRsMzJtUjFoSkx0M3U4dE4yVlpqWnFYU043b29sS0R4ZElHc2xJOHl6dWZuTWRGYjYzTGxCYWZOZWRuOdIBZkFVX3lxTE5CNXVPcEFIRjVNU2Y0cFlXbTFNNXhBZXBzenVpN1JOWlJTT1M3RGR0WHVYVmFWb3hZcl9GYmFYNkh1aFRaeWFWdnZuVWQ0VUpqOEZ1RDBLdE8yd2F5MWc0bFJUNFNYZw?oc=5",
-        "theme": "你的人生關鍵戰役即將開打！測測你是哪種致勝關鍵人物？",
-        "resultCount": 6,
-        "style": "美式波普",
-        "description": "體育賽事中「非贏不可的戰役」和「火球男」的形象，非常適合延伸為探索個人在壓力下如何發揮潛能、迎接挑戰的測驗。使用者能透過測驗發現自己在人生「戰役」中的角色定位與優勢，了解如何在關鍵時刻展現自己的「致勝」特質，充滿激勵與趣味。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的人生關鍵戰役即將開打！測測你是哪種致勝關鍵人物？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "兩代女神同框！莎拉波娃親自頒獎 蕾巴金娜帶傷拚戰美網首度奪冠",
-        "sourceLink": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOajRWd2tGdTh5a05qOEM0VmhNN3pqNmdULXZCbUdEZlc3eHE4Q1htQVI3V2dPNVdVbGNROFQyMlhSb2hIUnBybk1qVTVHd0tBYTl1RVhHdmxZYWVHdGRzZUh2SlFNWk9OTEtoT01ybE1MWDJFM3pyX1lRVEZOeFNNMjI1ZFNtaEpmM19JNW9uSm5UNlNQQU5DWm84SVBiWEI4NnFfRmlKbURTZnZpZjltNmk1T1V5QXBlZ1FseU9tX2dzNEc5ZzJLTEE2TGNZd0ZzRWY0TVJ5djExTTYxejZNa2c4SFVrLXZaQmE2LUN1R1c1WkNJNXQ3YmdlX1VpczllUjZDajltTHdRSDVFVWxpcW14b1NQaUNqZ3pDcjRhWjl3QWt5aktzYjJ6dVN6aE9aV3lwOUFSTjl4QXpsQjVmN1BTLTJJQW11eVE3LWRoUU5iYkpmSjB0ZmJKSXEtVTBOcDJ4aWh3ci1ZQTd4aGxfSFlObmVLbTRZenBjdGg3U2FUX21DNHRWdlAwSjY1THU2bkNUTS11V3JWclJTT0U2bDRmQzhFeTRNVDdzQ1ZnVQ?oc=5",
-        "theme": "你是哪種「冠軍傳承者」？測測你的潛力與在人生賽場上的發光點！",
-        "resultCount": 7,
-        "style": "唯美浪漫",
-        "description": "「兩代女神同框」、「帶傷拚戰奪冠」的故事充滿了傳奇與勵志色彩。這個話題非常適合設計成探索個人潛力、毅力與成就的測驗。使用者可以透過測驗，對應自己的人生階段與目標，發現自己內在的「冠軍」特質，無論是新秀的崛起之勢，還是歷經磨練的堅韌，都能從中獲得共鳴與啟發。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「冠軍傳承者」？測測你的潛力與在人生賽場上的發光點！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
       }
     ]
   }
