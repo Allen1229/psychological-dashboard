@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-09-24",
+    "generatedAt": "2026-09-24T05:20:27.597Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "川習會登場 我方研判：陸邊打邊談恐要求軍售拖至耶誕節後",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xeUZrX2RkbWV0STNURThYdjRxdUllU09sZXdCcXhXQTEwRURTa1djQ0Y3VTA4X1N6Y3luSFJCRWFKLTBqYlRXcTg4cmFXeDk10gFWQVVfeXFMT1NSaHBFajdLbUhsamVoNFdid0tvbWh3dGw0SDMtekprRVJKUGpMOThnaUpLV1gtRjNjVERwcERhNHZkLXhKS2otMlJON1hndkpIZlBJNUE?oc=5",
+        "theme": "你的「談判風格」像哪位國際領袖？",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "這則新聞圍繞著川習會的談判策略與國際關係。談判是人際互動中不可或缺的環節，從國際政治到日常溝通皆然。這個心理測驗能讓使用者對照國際領袖的談判風格，了解自己在面對衝突、利益交換或協商時，是屬於強硬派、懷柔派、斡旋派，還是以退為進的策略家，趣味性高且能提供自我認知。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「談判風格」像哪位國際領袖？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "賴清德替黃世杰站台 卻猛誇張善政「好人才」 親曝2022年早知鄭運鵬不可能贏 | 蕭宥宸 | 新聞 - 風傳媒",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPT3pyWTQ5QjlQdS1TSkRQalFQZTUyQy1ZR2x0Rk1ua2tiMGs0Qmk5eVN3aHFUc3FIRzg1MjBsTkNnSXFLTm1BR0pTYXlfZw?oc=5",
+        "theme": "你的「政治EQ」有多高？測驗你是不是天生政治家！",
+        "resultCount": 4,
+        "style": "懷舊報刊",
+        "description": "新聞揭示了政治人物在公開場合的發言藝術與策略，即使是為對手站台，也能展現高EQ的應對。這個測驗能讓使用者評估自己在複雜人際關係或公開場合中，處理情緒和言行的能力，並對照自己在政治情境中的潛在角色，例如是城府深沉的策略家、直言不諱的改革者、圓融多變的協調者，增加話題性和互動性。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「政治EQ」有多高？測驗你是不是天生政治家！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "49歲陳建州、42歲網紅牙醫都心梗！全台14%有年輕中風基因 這指數比膽固醇危險 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNUnFpN3pVVEVmQjlYRllWdTBLdHY4aXVaSkZrYVJLMWdqemtCX2lTV3pnV0VuRXFfbHRrRm15N2ROTHR0VmM0dnJwWUsxeGVJUHJSTXIyMzBHYXBEZ2tJZ3ZqLWcxTm8tNElaWW14RUFRWjh1bWxFOHVzMEpaZThMejRaaU0zeklneFpfZlFuN1RqYi1WR0ZDcFVhN3l1RjRDR3d3dG9ZaDNQSTFkZWxIQkg3ajhKYVZxMDluN1VSZE92dWRlUkZhOWp3aXEwNlB3V2lvUmN2SUNxZm5GbjlHYUNrQy1GMjJGU0MxUkVWdmRkSXVvbnRuQk9fVXVnVUc3eFh4OTZrVEhiS2QyVHFmSnFFN3hPbUlzcE8zWWstUk51bi16MVlCY2NvWEFWWjQ2VjluZTR5UnFtZ0twbjVtWnk3TmZtS0cwM013YUE0STRZajdPeEQ0UTMyS0JwYlZSM2p0SW1WcE9MSndWMkJCUEo1TUpjRXJObC15TldLNFJKRGVmTTBWY3lsREQ2UVcxSTQ3TUJBS2NVYmd3RU11akE2a3o5YTIzNVp0R3duLW1HTm9qbU9pblc2ZU5fYkE5MlJzc01kd0Y?oc=5",
+        "theme": "你的「生活習慣」會讓心臟哭泣嗎？測測你的心臟健康指數！",
+        "resultCount": 6,
+        "style": "清爽動漫",
+        "description": "名人健康事件總能引起大眾對自身健康的關注。此測驗以較輕鬆但警醒的方式，引導使用者檢視自己的生活習慣，如飲食、運動、壓力管理等，並提供趣味性的健康風險評估結果（例如：鋼鐵心臟人、壓力山大族、熬夜夜貓子），鼓勵大家關心心臟健康，達到寓教於樂的效果。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「生活習慣」會讓心臟哭泣嗎？測測你的心臟健康指數！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "《挑情醜聞》火熱開播！青龍獎小編祭出玄彬「死亡凝視」　孫藝真親搞笑回應 - 噓！星聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mVUVaYkxKeXhNYmxxSGJIWUJ1UG5lLUV5M2V5R2lCUUJPVXJYSXp2aWpSSmtaNmZuM3JES3I0VVI4ajRCV0JORWxBVXhhcjdzX0hFLWJ4LXlxQdIBX0FVX3lxTFBfQXYxOFJVZk41RlplUWx0S1BISDZCUU1fVWlpU0E5VndNVk5DcTAtYUFzaS1TUzFEN0hxRkNsY3V4d2xOQUFkZlQ0aldLN05uWk9ya01IUHFTOE14dV9n?oc=5",
+        "theme": "你的「職場八卦」雷達有多靈敏？測測你是不是辦公室情報王！",
+        "resultCount": 5,
+        "style": "美式波普",
+        "description": "娛樂圈的「醜聞」和明星之間的幽默互動，常與「八卦」或「小道消息」連結。這個測驗能將這種對資訊的關注轉化為對人際洞察力的探索，讓使用者測驗自己在職場或社交圈中，對資訊的敏感度與處理能力，是屬於情報中心C位、八卦絕緣體，還是謠言終結者，滿足窺探欲並帶來娛樂效果。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「職場八卦」雷達有多靈敏？測測你是不是辦公室情報王！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股收盤／ 散熱、半導體設備走強！大盤漲357點 台積電漲40元撐台股 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNOVhrelVrVFVZdENpWUhrbmdyajY5Nl8xVFMzbGZxQ0lidE1HN0pwUjVpXzNqOVctbGU0WFBrUzRGSVdBczR0WDdnR0lhX3YwYVNscFMtS2dRblpYQ3B0SnN4S0dlSjZxZGh6REEyRGsxSUhCelgtWXoycUpxbEJPbTNycENRWXBoVERxSHp5UEJkZ3VtamVLalFqcWJ6R2gtNzFRRTNycDZ2Tk8tQnZCMXJZci1hUTMzdEhYak9KVHQtaV9NbzVlRm5yQ1NrbmJoYjJVYlUydWJhNU9VVmhBY3A3WVhnS0NMYlpYNEJnOU1RQllKaXA2ODN1OXdtLWNVNUFEWG5MVGxOZDdKdDh4VGRVVC1OOUtkWldBa3NleU51Q04yaHdVQmVIbHptVzAwcXo0aHZiZFZmWkZDMW1Bc01EekNTWVk4RV9pRUFsdkFPRDNiUWFmYkFsTVVHN0lLSlhsZGFfMWhoWkluSHBac1praEZ3UVh5TXo5Q2lPeFdqcU8yaHdhOGl2OA?oc=5",
+        "theme": "你是哪種「投資性格」？測測你的股市致富潛力！",
+        "resultCount": 6,
+        "style": "立體拼接",
+        "description": "股市漲跌和產業趨勢是財經新聞的核心。這個測驗能將抽象的投資概念轉化為具體的性格分析，讓使用者了解自己在面對財富管理和市場波動時的態度與傾向，是屬於穩健保守型、積極成長型、價值投資者還是短線操作者，並對應到不同投資策略的潛力，既具教育意義又有趣味性。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「投資性格」？測測你的股市致富潛力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【立體拼接】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股快5萬點！鄭麗文喊僅表面「台灣快爛掉」 謝金河反擊：妳低估台灣了 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNbE0tRGVZRkRIaUZBSUxndzh6bjFOU1dwcTgtbmwxcDBITFBDWDJQc3laMlFSRVQxWFo1dnhNN21GVTEwbkpQQm5jM0hxOU4xbmluZG92cjYzVm42MnMyYWlGT1J1TUprbzh6bDJyckFZZ0ZXS1RaXy1UV25lVGdiSEZtVmhRN2ZpQkVSSDRQTzBKdDZLcFI5c3Uxdmd0MUNob3F1MnRpYnVlU0VhTnBtYU9ZYVU2Y3dTM0dTMmpOOHJpUG9NUzlva2hHa0M2eUdNNzJ6NFJ5cHhXZ1hVTERJR3hRdlpxNERIT3RhZmdjb2jGd0I1SU1lbGZoLVZCN0FkUjJZMVZOSVVWVlVwNG82bGJyUzNfaFFXNkFUdWpNYzFoRmdOQ05oTy1XUDhpcUR2RnVuVmRHQ3ppbUJnbXVydlZCYW50eE85dTJjaERJTGZVbm1vVTBxdlB1S1lYRGYzX2FBVUxaZlRlTkdrZmJrUjZIOW42cTlmU3k3elVSYVNHY2RQUWFkOWk4RVBLQXd1XzFxV25IRzhLT0w2U3VRdFJmbDdKX1pUQkE?oc=5",
+        "theme": "你是「台灣發展」的樂觀派還是悲觀派？測測你的社會觀察家指數！",
+        "resultCount": 4,
+        "style": "懷舊報刊",
+        "description": "對於國家經濟發展的評論，常引發正反兩方激辯。這個測驗能讓使用者檢視自己對於社會經濟議題的看法，是傾向於看到光明面並提出解決方案，還是更傾向於指出問題並保持警惕。透過趣味問答，使用者能了解自己的社會觀察風格，並與新聞中的觀點產生連結，例如數據派樂觀主義者或憂國憂民改革者。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是「台灣發展」的樂觀派還是悲觀派？測測你的社會觀察家指數！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "潘健成真心話1》群聯遭酸「路邊攤」 CEO親上火線直球對決 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQVHd0MHRISTJ0NXZyM0llMkZOeGZYLXRzMl8tVFY4WjhWNUJPTGZKOEl0ZGtZWkNTSXVOc1pYWWRYOXlGMU9rZWVrS0JFYVNGcWNwZGw2MlByWVM3MGNuUlNUOG03dEdnTjgyVDhqUy00SGZMRDF1M3hJUzkwZGpab2IxSXBSeFlVQkVHakd1WmljV3pfek5vRGx5UV9FcXRjQUl1emZfRm9PWTRKdTExNTBBRUEwX2h4VzdsUm1PRVB1TXVRM2dXNkRIZVZXY3R2Z1YxcTBUUXhQVHhvSTFsdFNfemdkeXFvVWg1RlMyVm1jX0N6NElQUjl3OVVTQTlvbW4tTHpndHotOF95VHpCejY5aUVuT0Ryd2xvQkRpbzNyYWl3T1VDZmxwMlpiSlhKbHNzSVhPMTRYdFZmYTYxSw?oc=5",
+        "theme": "你的「職場逆境」應對力有多強？測測你的CEO潛力！",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "科技公司CEO面對負面評論並「直球對決」展現領導力。這個測驗能讓使用者評估自己在職場中面對挑戰、批評或逆境時的反應和解決問題的能力，並對照自己在壓力下的領導潛質，例如是化危機為轉機的霸氣總裁，或是沉著應對的危機公關，提供自我成長的啟示和趣味。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「職場逆境」應對力有多強？測測你的CEO潛力！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "全台首間 PlayStation 概念店進駐 CITYLINK 南港店 打造一站式體驗空間 - gnn.gamer.com.tw",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JR0RBRjB0UFdrLVAxSEZlT3lWYjgyMmVJWGVoVy1mNmhwWThjcUJfXzlTX3g4UWxpWmVCbWJoNHNaMnk2eF9tRDN2czBCcWRNWldGVUoxLWQ?oc=5",
+        "theme": "你是哪種「遊戲玩家」？揭露你的電玩DNA！",
+        "resultCount": 6,
+        "style": "復古像素",
+        "description": "PlayStation概念店的開幕強調遊戲體驗與玩家社群。此測驗能從玩家喜好、遊戲習慣等角度切入，分析使用者屬於哪種類型的遊戲玩家，例如劇情沉浸者、競速挑戰家、策略佈局師或休閒佛系玩家，滿足玩家社群的歸屬感，並提供趣味性的個人化標籤。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「遊戲玩家」？揭露你的電玩DNA！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【復古像素】"
+      }
+    ]
+  },
+  {
     "id": "2026-09-23",
     "generatedAt": "2026-09-23T05:08:23.873Z",
     "ideas": [
@@ -434,56 +528,6 @@
         "description": "模擬在科技產業中，面對供應鏈風險與高度競爭時的決策考量。測驗使用者在策略制定、風險控管及長期願景規劃方面的能力。結果將揭示使用者是「獨立自主的創新者」、「全球佈局者」或「危機處理大師」，提供有趣的商業戰略人格分析。",
         "id": "idea-6",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「科技巨頭」思維？測測你的戰略佈局與抗壓指數！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-16",
-    "generatedAt": "2026-09-16T05:14:41.893Z",
-    "ideas": [
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台積電除息首日填息達陣！半小時內突拉5元 股利10月入帳 - Yahoo股市",
-        "sourceLink": "https://news.google.com/rss/articles/CBMigANBVV95cUxQSHhfSGg5Uk9fdGhWd2pBYzlKanZsU0Z5YTBRUzdWWHpTYWM5Mkt6ZE4xVU1ELUViV3AxLUhvVXo3U2NxUWc2WnBwSzlITGNUMDFXTjlNSWwwS1JQSHc2cWJ3akFXTVBCZXJZdFA5R3dsQTRsbXg2Sk15YUp4ZXR4QkVTUmRENmF1UHRjMnBJZ2lMSTVVMGdDWXpLMFhlTGZQQUVTWjlWZ0lUc1ZSdmVFMWIyVFQzRjh0M01LTWtGYUs4YzlEZThIQjA4dy12MEVKemJWWG10Ul8tdnk3N3p4N051WkF6Q0N3UGl4TE9fU25fbzJKeXVTMUxldnNLeDBRSi1rcGFuU1NPTWIzMXZrSWFUMHFmQTd2enhtQmp4aGtPQXMxMEVGUWhGMU9FSjVSUjJoUkxfSWo1TjlIZW5GdW43QjhsbktfdUJGWDlMSk9rYndyUklmYUxockxpQ21KVXoyNWpIVGxDcjRVRkFZdDNyaURIVmRBQl9ORVJZR0M?oc=5",
-        "theme": "台積電填息帶來的啟示：你的財富嗅覺有多敏銳？",
-        "resultCount": 5,
-        "style": "極簡質感",
-        "description": "這則新聞凸顯了市場動態與財富累積的機會。透過心理測驗，我們可以引導使用者探索自己在投資理財上的性格、風險承受度及決策模式，是屬於穩健型、積極型還是潛力型。這不僅能增加對個人財務觀念的理解，也能結合時事帶來趣味性與共鳴感。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【台積電填息帶來的啟示：你的財富嗅覺有多敏銳？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "開心！漢測最終中籤率再提高 公開申購不合格數超過3萬筆 - 自由財經",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tVGhqN3RINmpEeE5xRkxZRmZPQTNFbVk3UDZ2RjB4dXF2NFQyS21nZ0JBRklZdW52SmJzNlRiemFDdkNYQ2xHVjh4Ymg5eGRrZW1SRkdyRlhENmtWY2hj0gFkQVVfeXFMTVRFUkVNbUZZbVphVzBUN3JjdElKanByNFFFQ1pYVlQtdlRhSDJrUWxDajU0bF9sdVg0b2l1QlNzZndqVy1VSWVOaE8yTDU1MTNYcWVONFhBLTBzX2p0LWw4cERvZA?oc=5",
-        "theme": "股票抽籤沒中？你的「好運體質」是哪一種？",
-        "resultCount": 4,
-        "style": "搞怪幽默",
-        "description": "抽籤中獎與否總能引起大眾的好奇與討論。此測驗可從新聞中「中籤率提高」與「不合格申請」兩方面切入，探討使用者面對機會時，是屬於嚴謹細心型、隨緣佛系型、積極爭取型，或是總與好運擦身而過型。以輕鬆幽默的方式，讓使用者反思自己面對「運氣」與「機會」時的心態。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股票抽籤沒中？你的「好運體質」是哪一種？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "Google DeepMind前員工：AI可能殺死所有人 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRjh4ZHNMcDRaNFNmWXVOLXFWRVBJMHVXMG96Qm1pSl9BM1dVZkZjNmUzUnc5UUhBLVlPWVZpd25NRnVhUHRzbDZKUFZCX2ZjeXd6dkZBVUY3cTl2aGVWY3liLUx3YXBHNnpEbzN6emM2ZGU2N3ZlVUxKY0ZjNDYta3B5WXJ5MTY4WGRGY2VpWFFuX2tDd3RESWwyRkVjTnJseEwzZWU0MFJKSnRkWVry_oUC-A7OIBiJ9_oY?oc=5",
-        "theme": "AI末日預言？你的人類存亡指數有多高？",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "AI可能帶來生存威脅的言論極具震撼性與討論度。這個測驗能抓住大眾對AI未來發展的焦慮與好奇，讓使用者思考自己在AI主導的世界中會扮演什麼角色，是反抗軍、協作者、倖存者，還是被取代者。透過戲劇化的情境，滿足使用者對未來科技想像的投射，並引發深層的思考。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【AI末日預言？你的人類存亡指數有多高？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "LINE 2功能快關掉！他疾呼：能救一個是一個 官方也示警 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUWY5WE5lalZRZTk5Y3JoVjdtTnBPLWVOYXo1ckRyY1lNaXFfZmNFNWdjZzl5QW41UkhEV0VPc1ZhdU1UX3JzWVpkS2ZEem44MEJaWXJXSm5yNWFhMXlJQmRfSzljTEF0NHB0dmhlRk51cW5hNFJ6dV9ybmNzUVpHSUdnN2NUVnYxTjZFLW15V3RRaEZnWkNMUzBZODBZTC1kbWZNOFV4RGpfN3NzU0NMREtFMkoxRVpSVXVQdE9TUUFCTUVXQnZFQmNoeDRqa1preXNkYk5Ua1JEcnVzYTdoT3FhZGZSM3YzdVpuTzQzdw?oc=5",
-        "theme": "LINE秘密功能沒關？你的數位隱私防線有多高？",
-        "resultCount": 5,
-        "style": "霓虹賽博",
-        "description": "LINE作為國民通訊軟體，其隱私設定的討論非常貼近用戶日常。這個測驗能藉由新聞中的「2功能快關掉」引發使用者對自身數位隱私安全的關注。透過問題引導，區分出數位防護高手、粗心大意型、佛系使用者等不同類型，提升用戶對個人資料保護的意識，並提供實用建議，達到娛樂與教育並行的效果。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【LINE秘密功能沒關？你的數位隱私防線有多高？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
       }
     ]
   }
