@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-09-30",
+    "generatedAt": "2026-09-30T05:56:57.466Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "地震！13:00東部海域規模5.9地震 最大震度花蓮2級 雙北有感 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOdkc0U3dQeHM1Ym1WQnZHQzN4eTY3Q1BDdXFfb0tzVDJ5WmU5a2c1SHQyaHdhRVBmS1pXbmxuY2MyOGFaYTJEWE5ka0N6amJCSVQzb29ieXdrbHctcWtIUjlGekh0SkhKdG1QaWZpaERqbTdaYldOX3RoYURDbVFSUWpxZWJaRXRVTTFDVjdGaUJEc0FXU0x5eEZHYlAzYTRKLVUxZ2pGLTlsdm1KeXcxQkd6WmNNMlk3OWhMcDhWVnVfeTdIN0VIYUhRWmY4eXFMTGY5UjFKQm5FT0liUHlka2libko4RjZIM3RfQ0pwcXRvSDRuZGRrd21TR0JYMWx3Y3B3bkVJd0xPb3k5ZWp3ZXQ5QzhNbDJKNjFpd3RWNWdmaDNMOHRTSDBVLXpodGNFXzJEUHFTWE9KcXZKRkhGVXJPRXVJekFMVWU3d0FmeDRlVFBZUlp1b0NtYzdoemNhNjZ6aVF1WQ?oc=5",
+        "theme": "「地震來了！你是哪種『危機應變型』人格？」",
+        "resultCount": 5,
+        "style": "搞怪幽默",
+        "description": "地震是台灣人共同的日常經驗，每個人面對突如其來的搖晃都有不同的反應。這個測驗能從使用者在地震發生時的直覺反應，分析他們是「臨危不亂的指揮官」、「驚慌失措的尖叫雞」、「冷靜觀察的評論家」還是「順勢而為的佛系躺平族」等，以幽默的方式探討人們在壓力下的不同人格特質，引發共鳴和分享。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「地震來了！你是哪種『危機應變型』人格？」】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "秋老虎要掰了？ 周末起天氣南北兩樣情 北東將急轉深秋大降溫 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ObFJXR1NwM1EtWm15QzVJeXdfdjkwMTFreVdEUkVTVlhESEl2SmVvaHlUMXp0ZW82ejJfdFFleUZ4dTRSM01mWndISWV2ZENL0gFWQVVfeXFMT2ViazNLSjRvVFQ1TFZOU2oxRlNfckFoczY0VW5YbEVsdFZaZEQ5dURfWFZ1OWJxMTU5VGx6cjNsS192cTRZbFVLelJfTGR5aEdwT3dXQ0E?oc=5",
+        "theme": "「天氣轉涼！你是哪種『換季症候群』戀愛體質？」",
+        "resultCount": 6,
+        "style": "唯美浪漫",
+        "description": "氣溫變化常影響人們的心情和生活習慣，甚至潛意識裡的感情觀。這個測驗將秋老虎掰掰、氣溫驟降的意象與感情觀連結，透過對換季衣物、保暖習慣、季節美食等日常選擇，分析使用者在感情中是屬於「需要溫暖陪伴型」、「獨立自主型」、「浪漫多變型」或「期待穩定型」等戀愛體質，讓使用者在趣味中探索自己的感情模式。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「天氣轉涼！你是哪種『換季症候群』戀愛體質？」】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "郭忠祐黃露瑤高調認愛！準岳父黃西田搶先曝喜訊 確定日期在10月國慶 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMitANBVV95cUxNaVJsMTVEdXBuNFJpdDZIMUNPNXZHelVtdmlJcHdxbDNUS0tqVnRNbU1BZE5VUld0WlEyVjZOdUxUd05sWTRwSFJaaVJRVG9IeDdWbWJxQU9DdW1HSjlkTDhmZ2c4cWZZRzRNMEs0RGM2Q0x0b3dPQ2d5VUtCR2JEUXo5dFFMNVpDV2xIM2s5M1BZRlVfUUx5VDU4YlE4YzJPYjZCZE0wVUkzTVhXZFd5bVlLN0x1OWNRLXJYWVpGb1dsMzZ1a3NfcmhkNUl3eHExSGVqdW56UkpnZHM4WmdiTjhxZFNNeW1lTm9nUHBRQjVXLVFpTG01Smp0ekR0LVJKaVBPSHpWdW9WWnlDRWNDRFpvSV9QOFhSZC1wdzVrNENRR3d4Y29Hbm52dDAtRzVQU1ZXZmVEekRsRjVaalROeUJLWkJZR2xsdjVmSzBHbWU2TXBDei01WU1Ca3EyVkhkV2p6TU1YOEFTSEpkTHZ3LVd2U2swTjFZM0JtNkRuRUVoRE9lbHBlbHVPVGpJVEx5dUROaFlLbjROMWFXWkRXMkV1SUpIa016Y1NKWFZDTWx2SVp0?oc=5",
+        "theme": "「長輩認證！你的戀愛關係是哪種『幸福模式』？」",
+        "resultCount": 5,
+        "style": "溫馨水彩",
+        "description": "藝人認愛是娛樂圈的常態，但準岳父搶先曝光喜訊則增添了家庭溫馨和長輩認證的趣味。這個測驗將焦點放在「被認可的幸福感」，透過使用者對家庭關係、伴侶互動、未來規劃等方面的選擇，分析他們在感情中傾向於「高調放閃型」、「細水長流型」、「家有靠山型」或「獨立自主型」等幸福模式，滿足人們對情感連結和被祝福的渴望。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「長輩認證！你的戀愛關係是哪種『幸福模式』？」】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "宋逸民、陳維齡突報喜「將離開台灣」！藝起發光未來動向曝光 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPTHpnOUpDbUpWdEFBZHpCWUxGbUIwOWtBejdLb0lUT2RrYzZBN0NuaVVtTk1KSExtbVpTWUVKdDJWcHhwN3hiVDB5QXhyRlRCYXZRckNVVU1LZEdIbWFIRURIZ1R5ZGlMY0NVLWowcUdPLXJLeU9fNGxSMjVrRUFZSURZdlZ6dTQ2VHAzTzh2WDc5S1BXYjQ1M2YwY1NMQUhTbWlUMVRRNE45NlpoSzdWV0dxdXo3V01kNTZpdjExWFZOU0RHLWxYUzhTMkxiaGhIRDV0RF93R1FsOF9mdHV5djNRQnY1OE4wRmgwUFpXNnJrQkN3NFpxVGlDUzFkYW5CSXZNLWF0RVVTQ3VPV1ltR1BhMzJKWmtBdFR1N3RNWWYwVTBGSWozSXFkRzNQbEkzR0dSYk5LdXEwelBqTzNRa2U0RjZHQm9ZMENtYjBYUEFpQ2VKc0RTOW9KdGsyMXE5QThGRUkyU0ZNMUhCTDdXR3RsMGtTejg?oc=5",
+        "theme": "「準備好『離開台灣』了嗎？你的『人生轉變』適應力測驗！」",
+        "resultCount": 4,
+        "style": "霓虹賽博",
+        "description": "藝人宣布離開台灣是個引人好奇的動向，也觸發了許多人對人生重大轉變的思考。這個測驗將「離開台灣」這個具象的行動，延伸為人生中各種「轉變」的隱喻，透過使用者對工作、生活、關係變化的看法和選擇，分析他們是「擁抱變化型」、「謹慎規劃型」、「安於現狀型」或「隨遇而安型」等不同的人生轉變適應力，提供自我探索的機會，並滿足對未知的好奇心。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「準備好『離開台灣』了嗎？你的『人生轉變』適應力測驗！」】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "亞馬遜入股 金像電先殺後翻紅 法人看多 目標價喊到「這數字」 - 工商時報",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44LUp6dUJaOW14aFNDbTBpOUVBTnd4ZlVITnJRVm93Y24tRjhZY3FPWEpNZ1g2WHVsRDJYYnZhRGVvX2doaHVyOXZrVnBqUzZhcVdodlZjQV9OSVA4WDg4?oc=5",
+        "theme": "「投資致富！你是哪種『市場敏感度』的投資天才？」",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "股市的漲跌起伏，以及巨頭入股的消息，總是牽動著投資者的心。這個測驗將金像電股價「先殺後翻紅」的戲劇性情節，轉化為對個人投資性格的探索。透過使用者對風險偏好、資訊判斷、市場趨勢等問題的選擇，分析他們是「保守穩健型」、「追高殺低型」、「數據分析型」或「直覺靈敏型」等投資人格，讓非專業投資者也能以趣味方式了解自身潛在的投資特質。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「投資致富！你是哪種『市場敏感度』的投資天才？」】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "美股收盤》公債殖利率飆高 美股多收黑、台積電ADR漲0.90％ - 自由財經",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NcVQ4Ym43cVVYVEJfUy0zeThjWnMxT182am9UNjhNYmxDQzludGZ0OHFiNmJNRkFCbEtfblVMS2dmZThkVEt1YUdTcWRLQjExbU5ZMEhLUkRKZVIzZ2lV0gFkQVVfeXFMTzdHYzB6Q1RUMHhhWlVjTGlqNlVTLThfVmlGbU5wN3NSemZFd25vRXpZZVV2b3JTNnpjRTlRdTVfT0xSTklwQ0hzQVZkTFlHVDYzWXpteWRpT0hDZmR4ZkVtdllhQg?oc=5",
+        "theme": "「全球經濟風雲變色！你的人生理財『抗壓性』有多高？」",
+        "resultCount": 5,
+        "style": "廢墟美學",
+        "description": "國際金融市場的波動，如公債殖利率飆高和股市收黑，反映了全球經濟的不確定性。這個測驗將財經新聞中的「市場壓力」轉化為個人「理財抗壓性」的探索。透過使用者對收入支出、風險規避、儲蓄投資等問題的選擇，分析他們在面對經濟壓力時是屬於「保守防禦型」、「積極進取型」、「隨波逐流型」或「佛系應對型」等理財人格，幫助使用者了解自己的金錢觀和抗壓能力。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「全球經濟風雲變色！你的人生理財『抗壓性』有多高？」】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【廢墟美學】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "衛冕夢碎！楊勇緯4強不敵奧運金牌斯梅托夫 將力拼銅牌 - Yahoo運動",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNOGpNWlBrR0syZmRhUmkzd2YwcVJqcDI4TldJamVyQ3hxWHNaNXJtMFhOTXBBM1Fqb3BHc3hnSXFxTU9NbDNuZXcxQ3NXTXA2amtnSnB4Szg2T1ZYbFFMVHZoR2E3MFRmS2hZb05GLUg5b3E5RjVPWjhHeTVFeEtvU0R0OG9WRVR2NlJLRl8wLWNPMlFMcFF0ek11ZFdRQlRtTFItZ3dyVl9sSldnamlSVmI1V0U4ZV9leF9MTW5jdnNzV1M5bTVVbmF1SjFiZFM0ZEM5ZUFsVXl1NzdPeFE2WkxyLTUtMDczU1dlTFdkaDVDNHNUcDRPSGltVzdkMU1qSnhBQ3BXVGVWOVVTaWd5Z1I5dmxTYXNMcHd4dUtsMUdWSlV5ZjBMb1Y3T0Qwc29RV2ZxTDZhNnI0QlYxWTh0a1gxMnQ0QnBNblF5Y1V0VTduZ2p5bVhPNlB4d2diUQ?oc=5",
+        "theme": "「從挫敗中崛起！你是哪種『逆境翻身』選手？」",
+        "resultCount": 6,
+        "style": "清爽動漫",
+        "description": "楊勇緯在比賽中雖衛冕夢碎，但仍力拼銅牌的精神，展現了運動員面對挫敗的韌性。這個測驗將體育競技中的「勝敗」和「堅持」，延伸到人們面對生活中挑戰的態度。透過使用者對目標設定、壓力處理、失敗反應等問題的選擇，分析他們是「越挫越勇型」、「策略調整型」、「自我反省型」或「淡然處之型」等逆境人格，鼓勵人們從不同角度看待失敗並激發正能量。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「從挫敗中崛起！你是哪種『逆境翻身』選手？」】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "MLB季後賽》萊斯4安2轟6打點、洋基火球王牌10K好投 條紋軍打爆紅襪先聽牌 - 自由體育",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE1tMWxHNVZBdEw5RExmeFNHRTA2Wk9oM3QxM3JvZFhKSng5UmdXX01fNXFURTNTSXUyRElwTWpYSUVvWkdUUEVqVFZ0ZnZETTVyVDVXWUlicHliM0NUZ3hMa9IBZkFVX3lxTE5aRUl3UWNiQktpNlV4XGdoM2ZkNXl1UGE1WUJKZFMwbkpfUXpRTkt6QnpSWkZ5ZnVKZGVlbEZKWEJPRkhBLXgxX1lLMjZ4M0p5T3dNeFNuOU5Fc01zVDhIQmV3aXdRdw?oc=5",
+        "theme": "「棒球魂燃燒！你是球隊裡的哪種『致勝關鍵』？」",
+        "resultCount": 7,
+        "style": "美式波普",
+        "description": "MLB季後賽的精彩表現，如選手的關鍵打擊和王牌投手的出色發揮，展現了團隊合作與個人英雄主義的魅力。這個測驗將棒球比賽的元素，轉化為對個人在團隊或職場中「角色定位」的探索。透過使用者對團隊合作、個人表現、壓力應對等問題的選擇，分析他們是「關鍵打者型」、「穩定投手型」、「策略教練型」或「啦啦隊隊長型」等團隊角色，讓使用者在趣味中發現自己的優勢和潛力。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「棒球魂燃燒！你是球隊裡的哪種『致勝關鍵』？」】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      }
+    ]
+  },
+  {
     "id": "2026-09-29",
     "generatedAt": "2026-09-29T06:10:43.698Z",
     "ideas": [
@@ -698,78 +792,6 @@
         "description": "余凱文奪得中華隊首金並在日舞台再創佳績，象徵著個人突破與追求卓越的精神。此測驗能引導使用者探索自己面對挑戰時的心態、追求目標的動力以及如何定義成功。透過趣味的獎牌榜角色設定，使用者能了解自己的潛力與特質，並從中獲得激勵，勇敢追求自己的「第一」。",
         "id": "idea-6",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【測驗你的「人生獎牌榜」：你是哪種挑戰者，能突破自我極限？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【奢華宮廷】"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-22",
-    "generatedAt": "2026-09-22T05:20:52.648Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "戴立安信民協會公布台北市長選舉民調 蔣萬安支持度41.7％、沈伯洋40.5％",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNeElqTHl4dU12dXk4U2U0cG40YkVsVFptM3hpNlM0MFVydGtHOEdNU0ZSUUdIZUoza3dhTXVKVW5FbHh1dGFWYnZaVEstU3Jla1dRd2hyZERwVmFSU0xseWRPSTlJMWcxb0Z0TjJHUlZBamlXZ2NTWTBweE1KT0JSRVdqTk5aQ29va1pPSDRfUEd3eTRtdUpVOHQwbFJTbmRhdkM4Zy1XSld0d3pZUVNXNm4ydkkxQy02YkdUT0RtOGRFWnZxZk1saWZEZVk1UGU3RTdfQUN0NlN2OEJZTTdDTC0yQmUyTFNwZF9zTjU0c3FmamJVd013TmlSNkJkNXFzdkZldEE1cXpPeDFEb1N5NUZad2xhN1ByM2RzY29IZ09BMUVvWkRBN0JGZ0RydzFDTXh3RU5sbVNYcUdfYV8teGhmQkFSS1ZKdmdUNVFZcm1MR1pPZ2U4ZlNZYnIxWG1adHo2Z081WkFsM1NJY1dmbTdtdjlncE5iLW9scERFcFBKblBaX05NU3JOaTJWZTA1TWFiaFJnRnJyNUZsVjk0aW9EWkIwR0NydmVSb1I5eWc4SDg5TU9Sbw?oc=5",
-        "theme": "你的「首都」人格代表是？解析你在團隊中的領導潛力與風格！",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "台北市長選舉民調反映了民眾對城市治理和領導風格的偏好。這個測驗可以讓使用者透過回答情境題，例如面對城市挑戰、資源分配等，測出自己屬於哪種「首都」人格特質，例如是務實的「效率市長」、富有遠見的「夢想家市長」或是親民的「公民市長」等。這能滿足使用者對自我認知的探索，並提供趣味性的角色代入感。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「首都」人格代表是？解析你在團隊中的領導潛力與風格！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "洪災周年／堰塞湖不斷成形...直擊學者深山裝「大地聽診器」揭秘",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83UU40eHl3VzdYemR3dE5lX0NnQkdtc09RRHRDMnZDOFF2MHpuWEdNR1ZHbFBVSGdyX2ZNTnRhdk1GTF9DeDYzaGtvUTZQMkxoMTdn0gFYQVVfeXFMT2FvUUtaVkFyc0YybEdnT0djSEV2dXVHWjd0VzV3blQwNG1pQnB5UW1xMWtwMmp4clpzbEpGT2ZhYkh4b3hTN1AtZ2hmRlJ3dnhRWGhUMGRyeg?oc=5",
-        "theme": "你的「內心危機」指數有多高？測測你是能預防未來的「大地偵探」嗎？",
-        "resultCount": 5,
-        "style": "驚悚懸疑",
-        "description": "堰塞湖與「大地聽診器」的故事充滿了探索與潛在危險的張力。這個測驗將引導使用者進入類似的「危機偵測」情境，例如面對未知的變化、壓力的累積，測出他們在面對挑戰時，是屬於哪種類型的「危機處理者」。這不僅能帶來刺激感，也能讓使用者思考自己在壓力下的應對模式，並從中獲得啟發。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「內心危機」指數有多高？測測你是能預防未來的「大地偵探」嗎？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台股早盤漲近900點 越過48600點創新高 台積電漲30元 信驊衝漲停21800元創紀錄",
-        "sourceLink": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOcmtDMF8tWExtWlJkZ1dXM1ltQVpPQzIzRlhMWVFwa0RwNnFoOHhfaElkR29Va251U3BQNVRyME5HVkJMeWI0SXBKOGRUR3JPV0pyclE4cTlSdmplXzZNRllKbGstYnhQTEJHTTZ4eHBTZ3l3NGlsNEJseTU3dmVYMG9IaWpnMEdheHVNb0VXa1NOaWhSZmNJQXgwbDBmSWU1R3Nqd0RJbkF4bm9MQ2htRFEyT0dldXgtMlNhcHdOM0NQTzM0MF9JVEdjS2g2Qmx0eFp4bmd6UnVZZE04U2JlWVZ3NkFwTXhSX3B1OVZNbFFQTEo2ZWlPdFlnUG9Xb09tdVB1LWxmUW5FOS1YW3hQcnNTMnZtaGlKYWZyWHhEUXlITldaUWRuc2g5YU54WUYwZjFQR3c4Nlc3VG5YNW4tQmxGYXBfeWFSTmZ0OUM5bE9OX1hQdU9MZTRqYkZyaXdRdmt0S1VOamh2OENHeTFEcjBxZ1V3WFpzNVJkX1RzSXNDZmp0d1Q0c3YzUjIxc0Y4ODY1QmlidEVsazNWY1J0UDNtcGU2bVZLTDNNWXhWVQ?oc=5",
-        "theme": "你的「財富潛力股」是哪一支？測測你的投資人格與賺錢體質！",
-        "resultCount": 8,
-        "style": "霓虹賽博",
-        "description": "股市創新高、權值股飆漲是財經新聞的熱點。這個測驗可以透過情境問題，如「你會如何配置第一筆獎金？」、「面對市場波動你會？」等，分析使用者的投資偏好、風險承受度及賺錢潛力，並對應到不同類型的「潛力股」角色，例如「穩健藍籌股」、「高成長新創股」等。這能讓使用者覺得有趣且與自身生活相關，同時提供一些對財富觀的趣味洞察。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「財富潛力股」是哪一支？測測你的投資人格與賺錢體質！】\n2. 結果數量：8，並請自行根據主題設定 8 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "昔日曾連虧10年！漢測掛牌首日破4990元登上櫃「三哥」寶座",
-        "sourceLink": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNZm00QUg0Y3VpcnVxSTJrcEVvRGJJV0RzVVVXTXpNTTVOSUxyOVpLOXRwMWpsRDVFY2czNlZ1NmUtM3V4NmUxRjZPQVdkZUVKNFp1MUZxUFVtSWZYdmVlV2pNd3ZTOXktdTFZb1FIdXc3UzVQYXNESDZJTEJoa2FQVVU3b3JKVTF2c1kzWml0MFNObVFlTzNKdVk1QmhJbWR0UHdEZkdSM0JEY2FSWmJ4YUZ5eVVhekZzSjJBbmU4WmFhTF9URzkteU1pNG5kRHlzY1dxUkNKTWFUZEcydzZaaGZiQkhDcXRCTS1zQjFsTDUzOE00QTZUbWdlT3BpS25JZ0JCM3MxS3RKalU5T2ZWbFl3LUs2dklxQU5ZTDhHajh3OTJBdi0zZTVGZ0xMQVZNX3VRSmNNVnRySXZNR1l6dVp2enI1OGNuTDE1ODR3VWFxTldtbHlOazN6dUo3U1kxTnJJNTBTMnN5Q1RRTUgwMmVicFJMMXg1VlRDLWgtNUk?oc=5",
-        "theme": "你的「人生翻身股」是什麼？測測你的逆轉勝潛力與堅韌指數！",
-        "resultCount": 7,
-        "style": "底片膠卷",
-        "description": "企業從連虧十年到股價飆漲，是一個勵志的「逆轉勝」故事。這個測驗可以引導使用者思考自己的人生低谷、如何面對挫折、以及最終如何成功翻身。透過情境題，例如「面對困難你會如何堅持？」、「當機會來臨時你會怎麼把握？」等，測出使用者的「逆轉勝」特質，並提供趣味性的啟示。這能激勵人心，並讓使用者在娛樂中產生共鳴。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「人生翻身股」是什麼？測測你的逆轉勝潛力與堅韌指數！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【底片膠卷】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "亞運棒球》中華隊對戰泰國 劉基鴻開砲炸裂擴大領先（不斷更新）",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOUW5lX2lMUjBRZWRLcUpaU1c4dE9yaW81MWJtWVBuSEdtdDg1R3NOa1JRenVrN0VGRG5MejRLZTVCX25pS3h4UkVzMzZGYkNzSFhQMW81MkU3WDFuOWFNT2JvYUxkV2dMMXZLdlZJN3hFVlVBeXdrc0M1ejF4NjhEai10WEtQcDNya3E5alViSWNpUUMzb3lFcDI0bWtQU0ZqMDBEcGplSmhXWnRkVGRwNDZFcWlGQXpWMzRBbTVsRklpbXpYWDBUVEI5bDB5YnhpX0tiM1VlRzNQRk1CRTdqaGxhWG5HenlsalhUQ2RNb1prek1FQWIwVl9teUhhMjA2bnhCSDIxcU40cWZZSnJzNVNhLUVmZHNnTU5qZklUbG9LeDBwV3o0ZV9ZUHFiSTdnTEp5WjNGRnN4NW5ESmxJOEU2U3FjVEp4WXhWdkFFZXZhVi02QUk1RE1OdkVnMVJPNVlBZzJkanFyMy1LQ3g2REJGQURiOEFtS2ZxclFWampCd1MyQjJVTVI2UFlVLV9yTG1OV0xLNUZhaXUzNVB0NFZmV2ZQV1VkelJIekktOUlhd0ZSdFlxWGZR?oc=5",
-        "theme": "你的「棒球魂」是哪種球員？測測你在團隊中的關鍵位置與貢獻！",
-        "resultCount": 6,
-        "style": "清爽動漫",
-        "description": "棒球賽事中的關鍵一擊，反映了球員在團隊中的重要性。這個測驗可以讓使用者透過回答情境題，例如「面對壓力會如何表現？」、「你在團隊中喜歡扮演什麼角色？」等，測出自己在團體中是屬於「全壘打好手」、「控球大師」、「守備鐵人」等哪種類型的角色。這能讓使用者代入運動場景，發現自己的隱藏特質，並享受與運動明星連結的樂趣。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「棒球魂」是哪種球員？測測你在團隊中的關鍵位置與貢獻！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "MLB》狂！李灝宇3安猛打賞、持續堆高台灣障礙 邁向大谷翔平壯舉",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CYzlvSzlxbmMzamM4QmFGbWVGZU9zaVQxTkttN3duVE5wSEg3MjdVMC1nNWxyeW5xUTB4aDBOTHhhYkh2N3lrdHp4WjFRaE1lRjlkYzVxM2h5bEdoWkxDedIBZkFVX3lxTFAycm90WWVvb0lxcjlSZ2hCeDkyMnRmZTQ1Z3dURVN6ZG11UjU0QTN4ejg0YklkbXhkS0xLcGNHdVpacDdIT19pOVhzTzA0bUFsNUNRNzRwUWxzeURoWjk5MGp6QlRkUQ?oc=5",
-        "theme": "你的「夢想MVP」是誰？測測你在人生舞台上如何突破極限、創造傳奇！",
-        "resultCount": 5,
-        "style": "美式波普",
-        "description": "李灝宇邁向大谷翔平的壯舉，象徵著個人突破與追求卓越的精神。這個測驗可以透過情境題，例如「面對巨大挑戰你會如何反應？」、「你最渴望在哪方面獲得成功？」等，測出使用者在追求目標時是屬於哪種類型的「MVP潛力股」，例如是「天賦異稟型」、「刻苦磨練型」或是「全面發展型」。這能激發使用者追求卓越的野心，並提供一個趣味的自我定位。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「夢想MVP」是誰？測測你在人生舞台上如何突破極限、創造傳奇！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
       }
     ]
   }
