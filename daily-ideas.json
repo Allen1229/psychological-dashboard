@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-10-01",
+    "generatedAt": "2026-10-01T06:30:01.828Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "遭酸「猶豫才跟進」免費營養午餐　黃偉哲火大回擊蔣萬安：要做不做好？",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVS3lZenRhRU8xU2Ztazh4Um1YaHVOR3p4Z3lvZThJa0I1SFB2UVBraElSUTlfakVuMnF0NjZqcWtBWEJqTXhIetIBTEFVX3lxTFBkU3c3SUFRN0U3Yy0wTjZ0OThpTEZNTFVVbEhjcXI1Tzc3LTBEcGtpMkptMmdtQW5KaWw5TmUzakFVd3Nsb1JtbkJkUXQ?oc=5",
+        "theme": "午餐大哉問：你的「福利政策」哲學是什麼？",
+        "resultCount": 4,
+        "style": "搞怪幽默",
+        "description": "這則新聞圍繞著政策實施、政治攻防與社會福利議題。測驗能讓使用者代入政策制定者的角色，思考自身對於公共資源分配、社會公平與民意壓力的看法。透過趣味情境，引導使用者發現自己是「效率至上」還是「民生優先」的政策推手，帶來輕鬆又帶有反思性的娛樂體驗。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【午餐大哉問：你的「福利政策」哲學是什麼？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "川習會一事無成！台灣「隱形大贏家」 學者：習近平把台灣牌打爛了",
+        "sourceLink": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOX0VPNmtiTTRGUWQySUY1UFhrYURDdkk5MkVMdjNYMGhFdENOcExiRlE2RzBaQ1dsaW1xOHVTdU1TSTN5d2gyY0pNcE9Wc29vWkJyTmRtcVl1R1Qyc3pRbzJ6b1VFQ3hpMFQxQVlfQUhRRl9qZVBPNmk3VEpxbFNQNFU2a3zLTnR0dXMwVHVXMFI5R2E3M2NiMXo4MDI1SjhiZGhldV90UkVBN3YzTS1zWF9QYW1ERUNxOHRBcVM2eTdGTVBwQmpkTUhPZlJBdWlCY0ZvVldHc3NSbGQ2N0RHOXRFTjF4a0J2ZEVmcy1CSHN5V25HTXRLZ29qRFZUb0xob3pWXzlSQmVvSWM2?oc=5",
+        "theme": "談判桌上的隱形贏家？測測你的「策略思維模式」！",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "這則新聞聚焦國際政治的策略角力與非預期結果，特別是「隱形贏家」的概念。心理測驗可以延伸探討使用者在面對複雜情勢、人際互動或商業談判時，是採取直接進攻、迂迴戰術，還是等待時機出手的策略。讓使用者了解自己的「局勢判斷力」與「應對風格」，帶來化被動為主動的策略趣味。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【談判桌上的隱形贏家？測測你的「策略思維模式」！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "迎光輝10月！台股漲逾200點守住4萬8 分析師黃紫東：內資開始布局第四季",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNS0pUT19nMlJrS29oM0NCaXFrcWVfZ1dHZnFpcGhMd1pYZWZwZHBFMjBPUFQ5ZWFUUmZ5VGg5bmNlSUtKWWk2cWdtSDJqVFdRS0ZwQjAtUi05QWtjLXVzaTZ3Z2R0SDFqNE9QS3JUUFNNZ2R5T24tdlNpNVR4cEw3aHp5aHN2OGoteTBQSjg1WkRjTWpsOGtLYTRtSlFsTjZtWlNGbkhWR2o0OHliU180QWpleU5rTjJIY2V0NDRPaHFHbldKSF94MDJZbjNqWGdxa1c1T3diaW5PNGZjbFdwSENXU2JDajBQckxKOTIwbnM1UnlmN0cyN0xTREVIU0poZWIzclZ0d2pqM01Eamp2am5wSUtVbEdFVDVMVHYtMS1lX3R1Tjd2MzBKMzRLZjI2NFg0S3VhdEVsRUQ1WjI5b0p3ZDcxY0NUdDBpLVBTVjY1YjVFZjJVVTVQYVJXUGZCcU41UGJOWHpKZVFGT2I3SWRJVVl0SjdkMjdtckFfbTFzRTVxODNuanVRdW9BVDJyU2dLa1NkWUFOcFZuY2dQaXJMd25NdDF2UHpkUWJ5S0d0QmdEdmVVZ1d4Qm1BQ1BmOENaVlJRM3pINldoU2pIRmxaNlRYZFY5MmhBQzRmc1hubGFKOWhLZFNLY3pMcXYxeFY0cHhQM3k?oc=5",
+        "theme": "股市漲跌我做主？測測你的「投資決策人格」！",
+        "resultCount": 6,
+        "style": "霓虹賽博",
+        "description": "這則新聞談論股市表現與內資布局，涉及投資決策與風險評估。心理測驗可以將使用者帶入「投資模擬」情境，讓他們選擇面對市場波動的態度、偏好的投資標的或情報來源。這能幫助使用者了解自己的風險承受度與投資傾向，無論是否真的有在投資，都能獲得一套獨特的「投資人格」分析，充滿趣味與實用性。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市漲跌我做主？測測你的「投資決策人格」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "勞動基金前8月大賺2.3兆 新制勞退分紅12.39萬元再破紀錄",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZMUxua3FQTEV0V3ZNeTlkX2hXWlFRZDU4OFlLVk03eWFjRlJZc1BneW5MTFJRdmFIb3NHUEZDcnRQOE15N21iWVRkRFp3SjVxWGhPWHd4ZkowSExsbFZZ0gFkQVVfeXFMTTN6NldlZXczRlFPRUN4RHlCS2p5Ym9jMlNNcGZzUDlnRTB2VnVQRlRRMXBfX29wWWR1ekN2NDJ2bjh5UXYtZmZfa2xLYUtOQTFheEVnNmtfN2ZJR2VjT1MxRjljdg?oc=5",
+        "theme": "退休金滾滾來！你是哪種「未來財富規劃師」？",
+        "resultCount": 5,
+        "style": "溫馨水彩",
+        "description": "這則新聞凸顯長期儲蓄與投資在退休金累積上的重要性，以及大眾對未來財富的期待。測驗可透過情境問答，讓使用者模擬如何在工作生涯中進行財務規劃、如何看待儲蓄與消費，以及對退休生活有何憧憬。這不僅能幫助使用者反思自身的金錢觀與理財習慣，更能以溫馨有趣的方式，為他們描繪出符合其性格的「未來財富藍圖」。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【退休金滾滾來！你是哪種「未來財富規劃師」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      }
+    ]
+  },
+  {
     "id": "2026-09-30",
     "generatedAt": "2026-09-30T05:56:57.466Z",
     "ideas": [
@@ -720,78 +770,6 @@
         "description": "PlayStation概念店的開幕強調遊戲體驗與玩家社群。此測驗能從玩家喜好、遊戲習慣等角度切入，分析使用者屬於哪種類型的遊戲玩家，例如劇情沉浸者、競速挑戰家、策略佈局師或休閒佛系玩家，滿足玩家社群的歸屬感，並提供趣味性的個人化標籤。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「遊戲玩家」？揭露你的電玩DNA！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【復古像素】"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-23",
-    "generatedAt": "2026-09-23T05:08:23.873Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "川習會即將登場！北京傳打「八一七公報牌」 施壓美方停止對台軍售 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMikANBVV95cUxOMDlPVThPZThpNDNEVnNueDkzTWcycDdaLUxMVWVlYWhVS2haMjUzVHlyS2RmMUI2azdVY2VaR1Yzc2szWEZaYzJMZEZ0SHFLbkxLSEFySFIxS0VwcThocElZSDJKeTYzYWZjV3lWS3F5ZEdCN2E5UDA5Y2xZRTIzeFBLQnJvMl9TSmJxY29GSHN4Z2J1dmdNa1gyWGkwcU5VWGNtelFqRHRHd3BsazNBVjJtVUozclRPcjRmVU4zdUd3c2U4VE9idzc5S1ByMjBsWnJmWlh0dWpxejhuVko4bC1MQzc5aDlCMDFaQUV6UzNyaWxOXzlfY2FxMGdrSXB6OXd3SWU4VEoxbHhrZ180RzZ6WWM5cXVZWGh3YmJBVHVndFJMcmhkVGJRZDFPNjNMMG9sQlZtM3ZZcVpZeXkzVjFoVGpld0gxVjJIcGF6R0N6RVpSOF9iamZlR245RTg2UVh1cUtWNS1UQ3QySnZ3Z3gxc3g0ZWF6cWZNUGRSQjFQVWVOMUFiY0oweng4S0pE?oc=5",
-        "theme": "測驗你的「國際關係」處理風格：你是哪種外交策略家？",
-        "resultCount": 5,
-        "style": "懷舊報刊",
-        "description": "此話題聚焦於複雜的國際政治斡旋與戰略佈局。將其延伸為心理測驗，能讓使用者檢視自己在面對人際衝突、職場競爭或生活決策時，傾向採取哪種「外交策略」。測驗結果不僅提供趣味標籤，也能讓使用者反思自己的溝通模式與應變能力，增添個人成長的趣味性。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【測驗你的「國際關係」處理風格：你是哪種外交策略家？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "力挺沈伯洋 「金峰滷肉飯」闆娘：祝沈市長高票當選 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOU3pBeXZmc3VVTTlmZDBVYmtQUThya3N0OXdlaFpJa05BVFhmRjZZdFBHOUk3bnRRVENRNW5BenRFM0EtdUlfblU3T0tQWXJ3Z0c5cGthbUNHQkl0LXJINDFUbU5lckVHSUIxM3p5Y01ycjkxLXN0bV83bTBmSHZHZzUtX0ZhU0FONVhZbkRUTG05Tk9LNWlaNXZsVzVpUTVLMHlManVpSlUyNmFmTG5pZGxCalhyWWUwMEdRaExYSzgtLVoyOERSVXVqaUhHX1FZeWUxbi1qZ0hRdlh0czVZMjBuWUdZczRNbG5hX2poeFZoRFI0R1lTenZJV280aG41YTVsd3RucEpjNkZFZWkxTEpycnFUWFZJOHdUSy00NUo4YXlpbmlPaXBlcWhRdm1QeEctckxQaU1vZHRxUzFfSVFQTjhrTlU?oc=5",
-        "theme": "你是哪種「巷口神隊友」？測測你的支持者屬性！",
-        "resultCount": 6,
-        "style": "清爽動漫",
-        "description": "這則新聞展現了地方店家對特定政治人物的堅定支持，體現了民間力量的凝聚與認同。將其轉化為心理測驗，能讓使用者探索自己在群體中扮演的角色，以及如何以自己的方式支持所認同的人事物。透過「巷口神隊友」的趣味設定，使用者能了解自己的影響力類型，並從中獲得歸屬感與樂趣。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「巷口神隊友」？測測你的支持者屬性！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "聯發科、創意股價繼續創新高 但台股見4萬8後外資反手賣超、台積電收盤反跌 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMizgNBVV95cUxONjBXX3VZZ3ZDb3luU3FuSXJzN0xPdHFSUGNWNEMxUVg0UmpmUDBIUWJ3Qk04MXVCY1hqbnAyYmFfRnd2ZE1NalFXdUR0VWw4QUhJTDFYTk92NUdxc3dZRXlSSlVSTW5VLVRKUlEyTXdCYmNYSlVnaTNzVGZlbWFUcHRJWklGajlNZDcyR2VndkZPcUcxWGxQcldNNjVydEdxWC1LZWhoZS1oVnlZNllvTkJjanlMRGpwa2RkQ19JbzdsTVhrZGVUckM2cXFmRmVja05KMzRkSGduUjg5QjNvcmpkWHJLckZabEhCYWlLdUkyVGlRbUZnX3UtV1pfTV9DQmhUMG5ia3Z3bnMzZWRkQ2Y1bTJ5aGdiZ3JGSVdlS2NES21aUnU2OHRsMWJQNTMzUnpjcktDWUF0d3ptZnZ0TkRXNjZFaFVEM01HVm9mQ0FhMXBsVWx0UHM3TW93bENSRDA1T3FfQWUxS0cxRnJEMy00cm1UYzFHc1BRZDhLOFF1cjlCYnBhbGRwVmV2anhkSExYM3ZCX2I0Nm55VWY0UnQ4bDhsbEd2RmJQZkdVOUMwdU9lNGFhUDVkTkpWN2ZVOGhOdFVza01TTDVSdnc?oc=5",
-        "theme": "測驗你的「人生投資組合」風格：你是保守派還是風險偏好者？",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "財經新聞中的股價波動與投資者行為，反映了人們面對不確定性時的決策模式。將此延伸為心理測驗，能讓使用者檢視自己在事業、感情或個人發展上，是傾向穩健保守，還是勇於追求高風險高報酬。透過趣味的投資風格分類，讓使用者更了解自己的行事風格，並在日常生活中找到對應的啟發。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【測驗你的「人生投資組合」風格：你是保守派還是風險偏好者？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "三大法人買超608億！台股震盪801點創雙高 台積電翻黑、聯發科創天價 - UDN",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhbFVmVmcyN3BHSlY3SXNVYV90OXh4S1Q4aGU3djJGZWZvTE5sMFN5VnQ4bWNROFV5VEVfcXAyY0laNG5ZQWZiMWplR240UE1B0gFWQVVfeXFMTm5ELTJwNDhRNE5URDdZMFotLWNpWTBlMmNwYmdIcEZYZzNQYzBER0pxek1oOXRQSGQwVTBFSzJEa1lMNmpzVE0wa2xIeXJGUGI0X2NST3c?oc=5",
-        "theme": "你是「市場大咖」還是「散戶心聲」？測你的決策影響力！",
-        "resultCount": 5,
-        "style": "霓虹賽博",
-        "description": "股市瞬息萬變，三大法人的資金動向牽動大盤走勢，如同人生中各種重大決策的影響力。此測驗能讓使用者檢視自己在群體或重要決策中，是扮演帶動風向的角色，還是更傾向於隨波逐流或謹慎觀望。透過趣味的市場角色扮演，使用者能更清楚自己在不同情境下的判斷模式與影響力。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是「市場大咖」還是「散戶心聲」？測你的決策影響力！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "亞運棒球》明預賽最終場對香港 台灣隊推台電郭子銓先發 - 自由體育",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsbUJRSWdYM2F6SEs2eTJXYjB0eV9fZTZWdHRQQ2pXWnFUV3JmMlUtR0hmaUFxLUpBQVpGNkROeFhuME1kRlRvM1ZObVZYMWg1V0VFRWF4NWo2Y2FzNkFrddIBZkFVX3lxTE10X0ZFdWxneklQSmMwUnRYSXNhZ1FYSWl0cDhhVWhmLUZNZGIxVV9iV0FYaC1ELXNiMmg3MDN0dHJJUThTN2ptdUdmdFVBQTZxS01MYmNYYWNTbVd1WS0yUFptTk5tdw?oc=5",
-        "theme": "測驗你的「團隊戰力」定位：你是球隊中的哪種關鍵人物？",
-        "resultCount": 6,
-        "style": "美式波普",
-        "description": "亞運棒球賽事中的先發投手選擇，關乎團隊戰略與勝負關鍵。將此延伸為心理測驗，能讓使用者探索自己在團隊合作中扮演的角色與貢獻，無論是職場專案、家庭分工或社團活動。測驗結果能幫助使用者認識自己的優勢，並理解不同角色對團隊的重要性，增加參與感與趣味性。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【測驗你的「團隊戰力」定位：你是球隊中的哪種關鍵人物？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "亞運／剛摘中華隊首金！余凱文登日舞台再寫第一 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOQWljWVVpV21WVE9MNTQ5Ny1oSkxfRk54NXZ3S3RlUWYyeXVRRzNzUVBTQXBpNVg1VmQ1T2lVRzBDekh0amxzVjBqVmN3YjZ5MVVPQ2t6Z1h2M2JhTUZKVVFZTzQ3NkFZSWpkY1dwZmxxVnVpWGhzR2tPeGRCUW9JSkh0SHRpTlcxUXU5TTQzMDBMaTIwbVpwRTlFSENBNG5XTGROVjNSb1psS1QxUVl3dnBTeldkZU53X3FpV1UwaXVSZ0ZRdzRxaHhpMVY2d1dhN2J4N21yaElmU0JiUXNzR011ZnRXcFo3VUZMdGhodW9lMUdJazZZUDRYZmMyeDQ4ZllWdnhDRV9TclpLa2JYUHlMeFRnOGFEWm1hZHhXSjFOQ0pZaXJVYk9QY1lCLTBrRVEyVGc4bUxKdw?oc=5",
-        "theme": "測驗你的「人生獎牌榜」：你是哪種挑戰者，能突破自我極限？",
-        "resultCount": 5,
-        "style": "奢華宮廷",
-        "description": "余凱文奪得中華隊首金並在日舞台再創佳績，象徵著個人突破與追求卓越的精神。此測驗能引導使用者探索自己面對挑戰時的心態、追求目標的動力以及如何定義成功。透過趣味的獎牌榜角色設定，使用者能了解自己的潛力與特質，並從中獲得激勵，勇敢追求自己的「第一」。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【測驗你的「人生獎牌榜」：你是哪種挑戰者，能突破自我極限？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【奢華宮廷】"
       }
     ]
   }
