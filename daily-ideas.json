@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-10-08",
+    "generatedAt": "2026-10-08T06:37:47.448Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "淑麗氣象／今寒露！明起變天了 國慶連假天氣一次看 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNekJxbVNOTHhHSzFpaVQwVmg2N1laYTM4dDIzRjBXR2pZMzkwYXNXN1J6Z0s5U2plR0FPR3VqLU5Da3gyVlZ0bXM3OERJdGRwbDZ6QkJxRE5iTFRDRXRBSVROR1g3Mk5sYjhYNG92LXNBdHREUnJOdkxBOWtDRU9ud1lSSG1pWTlaaEVvLUNzcnQxU3NONm9HWHRWbmZsb2QxUW9ha3c5MnRyeENmY1RXU253aWphNVJHUmFndl9MR3ZVXzdSTHdZdXBxeklPcGtGeVI5bXJ6MWU0MjQ5eXNKSERqZ3dwUEpKTzNNNVBlUFdEb3hxMXp2bkJLWU4wV1ZPR2JTOWRnMDBvdXhsY1ozZF9zVG1abmlyOHlFZmMwQmplR1kySUhHM00yRHVkR3JhRHBZVnNLZjNHd21ZbS0zY3dVYmk0bW1ibDI%3Foc%3D5",
+        "theme": "「你的國慶連假是什麼天氣？」測驗你的放鬆風格與能量類型！",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "國慶連假與天氣預報是民眾高度關注的議題。這個測驗能將抽象的天氣現象與個人在假期的規劃、心情連結，透過選擇不同的連假活動或對天氣變化的反應，分析出使用者的「放鬆風格」與「能量類型」，例如是喜歡戶外活動的陽光型，還是偏愛宅家充電的陰雨型，提供趣味的自我認知與社群分享點。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的國慶連假是什麼天氣？」測驗你的放鬆風格與能量類型！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "重磅建設啟動！蔣萬安宣布規畫松山機場遷移用做AI園區、住宅及公園 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jc3NmZWZXRmQ4elozNU9WSEl6QVF1MjNLT0pnNEMxeldHaTd0YUg4VXRvRmpVQkZIRkJ2YnpBanVfVWpKYzNVRXpnWmpRWmhHTzhZ0gFYQVVfeXFMTXR5VXc2WC16NDNaZmo2QnhlOEd6cHNVVGhHUnZ5NDN3Si1Qd1VOdFkxSzRZS2VZWWQwblFCRUNIS1VsX0dpdnlVZ2tiNWR4dHpYallTOWI4aQ?oc=5",
+        "theme": "「如果松山機場變成新都心，你會是哪種城市居住者？」探索你的理想生活型態！",
+        "resultCount": 4,
+        "style": "極簡質感",
+        "description": "松山機場遷移並改建為AI園區、住宅及公園，是個結合都市發展與生活品質的熱門話題。這個測驗可以引導使用者想像未來生活場景，透過對不同空間功能的偏好（例如注重生活機能的便利型、追求綠意休憩的自然型），分析出他們最嚮往的城市居住型態，引發對未來生活的憧憬與討論。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「如果松山機場變成新都心，你會是哪種城市居住者？」探索你的理想生活型態！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "馬斯克排除台積電主導蓋晶圓廠 陸行之:老馬期待神山技術移轉 但談崩了! - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOOF95d190OElNY1lwR19zU0U1b1JPUzFhbWNKbE9ZVEs2SnJiOExzUEszSUVYQTZZaWdqOUJxT1JCZXRBaHN6ZDJWbWJ6X2FwRDl4cGM3NmFIaFJzTDhwdVhxcWZPVnI5cXJGdEpONzFMMTdqY05nZEtPTTNkdHo3eUNQUjQwMDdGd2tGV1FXaHRSS28yalhrNWRBWXY0ZzMyY3hpeWVKTHlOLU4xS0hqeDB3djJSbnJZeWVYemE1dnNjN1pCY2NUTlg2ZnBQeW9QQWI5cHFxUWFLRUtHaGtYZFVFX2FRUDB1MUUwLXpKVVczVzN6RlFPWEJsUjZNMnRWZm9ud2hKbmxqbF9yS3F4NGdtdVh4cW9CM1ZQUzliSm1xbmdYbVk2SWhRY2hpM2ZWdkl4aElVcW9vOEhBWjF1aXNCMGNlV0VPYWkxZUppNUZpMzd1T1dzRVhIMVp2UlNzTU9rUFJlMzNhY3l3RnpUZ0VBS2VzcVZmczRBcm5SMVU3UVdzVmt2YXphdDliTUFVc2toZ0VUMXlkWTMtNDVrUV9sM3dEbnFwWDU3T0FhUThDd29HaWZvQ3JXcG5hQVB0bHV2ZFhNbkRBdms?oc=5",
+        "theme": "「你的商業談判風格，像馬斯克還是台積電？」測出你的職場決策模式！",
+        "resultCount": 6,
+        "style": "霓虹賽博",
+        "description": "馬斯克與台積電的晶圓廠合作談判，象徵著全球科技與商業的頂尖對決。這個測驗將商業談判情境轉化為職場決策的縮影，讓使用者透過對風險、合作與目標的態度選擇，判斷自己在職場上屬於哪種類型的「談判者」或「決策者」，例如是追求突破的創新者、堅守原則的實力派，還是善於斡旋的協調者，提供幽默而實用的職場性格分析。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的商業談判風格，像馬斯克還是台積電？」測出你的職場決策模式！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股50K差臨門一腳！法人揭「四道東風」 台積電法說助攻後市拚53K - 工商時報",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rcDVKbk1uVEY4UkdReHlIUVRPTmNHc3htRUFnTGZBR0o0ZWdoTC1FVUhuWzI0c2gxTDRHNjlFU3FjdlljMnpqMUdvcGdXWVNHUWF3ZTZ6VnBqVHlUckFV?oc=5",
+        "theme": "「台股上50K，你的投資心態是哪道『東風』？」測驗你的財富累積策略！",
+        "resultCount": 5,
+        "style": "極簡質感",
+        "description": "股市大盤點位與法人預測，是許多股民關注的焦點。這個測驗將抽象的「東風」比喻為不同的投資心態與策略，讓使用者透過選擇投資偏好、風險承受度及市場判斷，來了解自己在財富累積路徑上屬於哪種「風向」。這不僅能提供娛樂性，也能讓使用者反思自身的投資習慣，並可能引導他們對理財產生更多興趣。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「台股上50K，你的投資心態是哪道『東風』？」測驗你的財富累積策略！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "馬斯克排除台積電主導蓋晶圓廠 陸行之：老馬期待神山技術移轉 但談崩了！ - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOOF95d190OElNY1lwR19zU0U1b1JPUzFhbWNKbE9ZVEs2SnJiOExzUEszSUVYQTZZaWdqOUJxT1JCZXRBaHN6ZDJWbWJ6X2FwRDl4cGM3NmFIaFJzTDhwdVhxcWZPVnI5cXJGdEpONzFMMTdqY05nZEtPTTNkdHo3eUNQUjQwMDdGd2tGV1FXaHRSS28yalhrNWRBWXY0ZzMyY3hpeWVKTHlOLU4xS0hqeDB3djJSbnJZeWVYemE1dnNjN1pCY2NUTlg2ZnBQeW9QQWI5cHFxUWFLRUtHaGtYZFVFX2FRUDB1MUUwLXpKVVczVzN6RlFPWEJsUjZNMnRWZm9ud2hKbmxqbF9yS3F4NGdtdVh4cW9CM1ZQUzliSm1xbmdYbVk2SWhRY2hpM2ZWdkl4aElVcW9vOEhBWjF1aXNCMGNlV0VPYWkxZUppNUZpMzd1T1dzRVhIMVp2UlNzTU9rUFJlMzNhY3l3RnpUZ0VBS2VzcVZmczRBcm5SMVU3UVdzVmt2YXphdDliTUFVc2toZ0VUMXlkWTMtNDVrUV9sM3dEbnFwWDU3T0FhUThDd29HaWZvQ3JXcG5hQVB0bHV2ZFhNbkRBdms?oc=5",
+        "theme": "「在科技巨頭的角力中，你會是哪種『技術創新者』？」測出你的科技野心與合作哲學！",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "馬斯克與台積電的晶圓廠合作談判破裂，突顯了科技巨頭間的創新與策略角力。這個測驗將這場談判轉化為科技領域的個人角色定位，讓使用者透過對技術發展、合作模式與市場影響力的選擇，分析自己在科技創新領域中扮演的角色，例如是獨行俠般的顛覆者、精於合作的整合者，或是默默耕耘的技術宅，提供科技愛好者有趣的自我探索。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「在科技巨頭的角力中，你會是哪種『技術創新者』？」測出你的科技野心與合作哲學！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "重磅建設啟動！蔣萬安宣布規畫松山機場遷移用做AI園區、住宅及公園 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DcFVvQktiQmhULVlPOTZZX3VObk1ZRXN4WEJMU1JXbVhKVDRfNnU3RXNOLUFuYV9jTWpDLXZBMDVnTDg0MTBDNDh6d0JZbWM40gFWQVVfeXFMT3JXRkpGeVo0czdGUU1NS1UzVkJMeTFMY1U0ZklaU0xKNHZJRjluYlREZmFDa1pqVmhnY29VczhHUzhrYk83Y2FiZG13eTlwMkJHSXJLN2c?oc=5",
+        "theme": "「松山機場變身AI園區，你最適合哪種未來科技生活？」測驗你的AI世代適應力！",
+        "resultCount": 4,
+        "style": "霓虹賽博",
+        "description": "松山機場改建為AI園區、住宅及公園，預示著台灣邁向智慧城市的未來。這個測驗將焦點放在AI科技對生活的影響，透過使用者對智能家居、自動駕駛、虛擬實境等未來科技應用的偏好，分析他們在AI世代中最適合哪種生活模式，例如是熱衷於探索新技術的先驅者、享受智慧便利的實用主義者，或是追求平衡的綠色科技愛好者，引發對科技未來生活的想像與討論。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「松山機場變身AI園區，你最適合哪種未來科技生活？」測驗你的AI世代適應力！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "MLB／洋基球迷沒收沃爾普「全壘打」 官網形容30年前基特事件重演 - Yahoo運動",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQR3ZBV1lublZHRzlVTWo1TGRtTElhN2UyREtkZTV0SXVzaFZhRVBtYnp4cnhZWWlqM3ppeHliUGtpdC1nUUVrT2Z4bnoxUXBjTlJwR21HaDFlT3JDWTRvTFQ4RW5BZkhoWUJ6YVNKU2E2Q29RaXFsX0ZCRG11M0dKSFZxdTFnWk1BM1dEQTU0a2RFbHNVTXljTkpuc0RlUnBudGNIZVNPaTdGVzRwOUpMbVN5SE5oUnFIZm9pamV4ZFg3THhWSWxEX3J0R3FmUF9nWVVCclF0VUpxZGlpWFRPdnhNdWZZY1lZQlVKLVJfVXZWWEJVYkN1Q1g1N0FOV2Y3ZzJfcGtJNk5xRGlBaUEtbUJKbk1Ra2R0SWI0OUd4eS1wZWpBbEpZNUdKV00wdEF4cERGaGxsMThXcThWUHc0U21GTE9jbGpoeDQ4UXBXaDJ4NWRZVlYwVVMwSThqODh2Z0hUdk1EeDk2c0h3a3QtMzdGMkpSdkJTWkxpYUoySnpXWkRZcUVF?oc=5",
+        "theme": "「看球賽時，你是哪種『意外製造機』？」測驗你的觀賽行為與個性！",
+        "resultCount": 4,
+        "style": "美式波普",
+        "description": "棒球賽中球迷沒收全壘打事件，引發了對觀賽倫理、球迷熱情與球賽互動的討論。這個測驗可以將球迷在球場上可能發生的各種「意外」行為，轉化為有趣的個性分析。使用者透過選擇不同情境下的觀賽反應，例如是會為了爭搶紀念品奮不顧身，還是會嚴格遵守規則，來判斷自己是哪種「意外製造機」或「觀賽達人」，增加觀賽樂趣與社群話題。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「看球賽時，你是哪種『意外製造機』？」測驗你的觀賽行為與個性！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "足球》梅西阿根廷國家隊最後一舞 1進球、2助攻含淚圓滿謝幕 - 自由體育",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE0xTm92bkNkV2NPVWNONTFwSGRUd3hSakJYRWREU1FHTFZiSWF6eUhZM2paSk1za09lZFdOOEdNRzg0MlpGZk1RTkY1Wm9qcFJtZXRlMVN5blN4RVdNdTh5eNIBZkFVX3lxTE10QUtiajcxMkl3Z09mQmxvaFA5UW54RkZUMkttZ3lzbUItd28tUHJkRU4tTUdoUlQyWHMycG1FM05ZWnF0Um9nZkFzXzY4VE94bWpvN3lSTVNXb1UxS282eDVxSXY0Zw?oc=5",
+        "theme": "「梅西的最後一舞，你的人生謝幕會是哪種『傳奇風格』？」測驗你的個人影響力與告別姿態！",
+        "resultCount": 5,
+        "style": "唯美浪漫",
+        "description": "梅西在國家隊的告別演出，不僅是體育界的大事，更是關於傳奇、堅持與圓滿謝幕的動人故事。這個測驗能將梅西的職涯軌跡與個人生命的「謝幕」情境相結合，讓使用者透過對成就、告別與影響力的想像，來測驗自己的人生會以何種「傳奇風格」劃下句點。這能引發使用者對自我價值、生命意義和未來規劃的思考，同時也帶有向偶像致敬的意味。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「梅西的最後一舞，你的人生謝幕會是哪種『傳奇風格』？」測驗你的個人影響力與告別姿態！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
+      }
+    ]
+  },
+  {
     "id": "2026-10-07",
     "generatedAt": "2026-10-07T06:25:05.072Z",
     "ideas": [
@@ -632,122 +726,6 @@
         "description": "MLB季後賽的精彩表現，如選手的關鍵打擊和王牌投手的出色發揮，展現了團隊合作與個人英雄主義的魅力。這個測驗將棒球比賽的元素，轉化為對個人在團隊或職場中「角色定位」的探索。透過使用者對團隊合作、個人表現、壓力應對等問題的選擇，分析他們是「關鍵打者型」、「穩定投手型」、「策略教練型」或「啦啦隊隊長型」等團隊角色，讓使用者在趣味中發現自己的優勢和潛力。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「棒球魂燃燒！你是球隊裡的哪種『致勝關鍵』？」】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      }
-    ]
-  },
-  {
-    "id": "2026-09-29",
-    "generatedAt": "2026-09-29T06:10:43.698Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "【國內】盧秀燕再提「美國要賣武器給中國」 前一天即遭川普打臉 - 自由時報",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1neTEtSVFJdlZuTkRwMF81RnlTUFRuakxVX1pTRi1Ta1lzN2hLelZpS0ZCODB4M1ZqRWMweWZkV3VSZVlvck1pS1pvV1lrWnlTMG12ZHlQNkpOZGNHTFlCZTlXNFo2cXVWUmfSAW9BVV95cUxPOXYyVDhTYWxMc0xBbkRsTy1tdGUxXzc3OFNlMU9EcXpBYmNSSUVGa0lLU2hHRERBdjdoa00wMWRuWVF2N1ZsWFFOT0JaOFVEVU5XQjVKeERTU2JMMlpEWW5jVzU2eEZZSDExajk5dms?oc=5",
-        "theme": "你是『謠言終結者』還是『傳聲筒』？測測你的資訊判斷力與傳播風格！",
-        "resultCount": 6,
-        "style": "搞怪幽默",
-        "description": "這則新聞凸顯了資訊的傳播與個人判斷力在公眾議題中的重要性。這個心理測驗能讓使用者思考自己在面對爭議性資訊時，是傾向於批判性思考、追根究底，還是容易受到既有觀念或權威影響而輕信、轉發。透過趣味的題目，幫助使用者了解自身的資訊處理模式，並反思在資訊爆炸時代，如何更理性地接收與分享訊息。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是『謠言終結者』還是『傳聲筒』？測測你的資訊判斷力與傳播風格！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "【國內】綠委爆將廟方送的甘蔗「棄置在廟旁」蔣萬安親曝原因：已向董事長致歉 - UDN",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vUkU0Z2lkeUtkdk1SY0FKNFBoR1RjbEsyUXBPZVdYemdtMmRzeFdNVDBfb3pNWlo0TmpDeUcyNHhuUTRTNlMxbFI5LWpQSHRsVGVv0gFYQVVfeXFMTkw1ZnFWckNhU0VnWk9mMTRtWTdIV25PUVRMZDFNWE5SN3hLZlIzMTRRaXpobTJVbUFhaWZzbjk3SUVqdDhDUkxoSVBfRW54dHlHTE9KZW81LQ?oc=5",
-        "theme": "你的『社交禮儀雷達』有多靈敏？一測便知你在人際往來的應對情商！",
-        "resultCount": 5,
-        "style": "搞怪幽默",
-        "description": "這則新聞描繪了公眾人物在社交場合的應對失當與後續的危機處理。測驗將以此為靈感，探索使用者在面對人情世故、禮物饋贈或社交尷尬時的反應模式。無論是委婉拒絕、坦率表達，還是尋求圓融解決，都能從測驗中找到自己獨特的社交風格，並在趣味中反思如何在日常生活中展現高情商。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『社交禮儀雷達』有多靈敏？一測便知你在人際往來的應對情商！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "【娛樂】卵巢癌剛康復…林茉晶「又長巧克力囊腫」 淚訴：沒辦法再承受 - ETtoday星光雲| ETtoday新聞雲",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oZTRoMzQ1OHpReDNUTk04emVJa2t1Z0xmUEdQdzB5ckk3SlNadEluem5PN0NheHIzR1JLYzNkTzFKS0xzWWxKcjJrb0pnZw?oc=5",
-        "theme": "你的『心靈韌性值』有多高？測測你在逆境中如何充電與自我療癒！",
-        "resultCount": 6,
-        "style": "溫馨水彩",
-        "description": "這則新聞關於藝人面對反覆病痛的堅強與無助，觸動人心。心理測驗將聚焦於使用者在面對生活中的挫折、壓力或長期挑戰時，所展現的心理韌性與應對機制。透過情境題，引導使用者發現自己的內在力量，了解如何尋求支持、進行自我調適，並在溫暖的氛圍中找到繼續前行的動力。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『心靈韌性值』有多高？測測你在逆境中如何充電與自我療癒！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "【娛樂】防彈少年團榮膺第43屆MTV音樂錄影帶獎三冠王 - 韓聯社",
-        "sourceLink": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xRUtXdEU3bnphY0paM29ZaUNxd0lucHNfYnlUWExBY2RCX002cDBjd3FYai1Pb0ZKNlBnNEdNeW5IMlFPLUpWUkFCUUJxYkgteFp5NEN1Vks3TF9SNWk2ZDdWQVFhSVJ4MnZmRl83enJkeVlCeVJfQQ?oc=5",
-        "theme": "你是哪種『潛力偶像』？測測你在團隊中發光發熱的C位特質！",
-        "resultCount": 5,
-        "style": "霓虹賽博",
-        "description": "防彈少年團的全球成功彰顯了團隊合作、獨特魅力與不懈努力的重要性。此測驗將以『偶像團體』為背景，讓使用者探索自己在團隊中扮演的角色、展現的特質，以及如何透過協作達到共同目標。測驗結果能幫助使用者了解自己的領導力、創造力或凝聚力，並想像自己在聚光燈下的魅力，享受成為焦點的趣味。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種『潛力偶像』？測測你在團隊中發光發熱的C位特質！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "【財經】台股早盤跌179點 台積電漲15元 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdkloYnZIUkRBV1prb25uT25VWjRaN09qczZSN0ZyanR1TEZoSVhPYUZfTW5SakdxQlF4ZUxVbkk4VW5WRTlEQkxnWTFibjNNYjlzTk5Na3JWWWRIVWd0R2pDYUVEMGlqQm1hcjViUDBJRlE0Vkc1R1lSWEMweDVqaDVQYjZNcHdRMTEwaTNwbGp2MVZjc1hsLVFaUnUxZFA0OHJLc1gyNHU0REQ0a1RTRkdxb2kzZ1NRT204dVFZQk9hLVJjdEl0TE1uVTU5QkhmYWNMc3hwMUZ5ZW9DZjZR?oc=5",
-        "theme": "你的『投資直覺力』有多神準？測測你是否是天生的高手！",
-        "resultCount": 4,
-        "style": "極簡質感",
-        "description": "這則新聞呈現了股市的波動與個別股的獨特表現。心理測驗將從中延伸，探討使用者在面對機會與風險時的決策模式與直覺判斷力。測驗將模擬各種投資情境，讓使用者在虛擬的市場中選擇，從而了解自己是屬於穩健保守型、積極進取型，還是具備獨到眼光的『神選之股』追隨者。在理性分析中帶入趣味性，讓使用者反思自己的財商潛力。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『投資直覺力』有多神準？測測你是否是天生的高手！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "【財經】〈台股盤前要聞〉長假過後 4萬8攻防再起、世界先進曝8吋產能利用率「滿到爆」 - news.cnyes.com",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xQ0Z6d2R6YktCNzFyNWlDbXduMERFSk5QOEdqcVk0QkZsNmZ6NFZ0dlN0RE53ZEhrTUVrV2YzSWR1cUV5OGhfOUE3Rlc4VWM?oc=5",
-        "theme": "你的『職場電力』滿格嗎？測測長假後你重啟工作的效率與續航力！",
-        "resultCount": 5,
-        "style": "立體拼接",
-        "description": "新聞提到長假後市場的動向及產業產能滿載，這可延伸至個人在工作與生活中的『產能』表現。測驗將探索使用者在假期後重返工作崗位的狀態，是元氣滿滿、迅速進入狀況，還是需要時間調適？透過情境題，讓使用者了解自己的工作節奏、抗壓性以及如何有效分配精力，像「滿到爆」的產能一樣，高效運轉。趣味性在於能自我審視，並找到提升效率的方法。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『職場電力』滿格嗎？測測長假後你重啟工作的效率與續航力！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【立體拼接】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "【科技】停用倒數一天！LINE「這功能」將終止服務 影片、照片強制清除 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSW9PTjFsTGdiMENGXzR6OE1XeTQ3aDdyOG9qcUJCODhFbWZyWkxtNi05Mk1takZscV9mOFprVWtnYWF2SUlJLTY2OW1uam9uN012SnphT0tIM20yZVhsMWtKbDY3b09ucU9UTjVsc09lTUZWdGszLTVkczd2QzlncllSdUlQalZLazJDTHc4ZTJta3Uxak9VUHMtTUpBVzJOY0JGdTlFZFJ5UlBXLWc3OWNubzJ2aU9qeGtENEdPaWxhbnlXdXVfek85Yy1MZjR6SWxUT2VNZDI0NDdpOTF6MzV6bWFlR0RUMXVmd0ZyTk1BNlMzNDRmeWVB?oc=5",
-        "theme": "你是『數位囤積者』還是『斷捨離大師』？測測你對回憶的依戀度與管理術！",
-        "resultCount": 6,
-        "style": "復古像素",
-        "description": "LINE功能終止服務並清除資料，觸及了現代人對數位資料與回憶的處理方式。此測驗將探討使用者在面對數位內容（如照片、影片、訊息）時，是傾向於完整保存、不捨刪除，還是能果斷捨棄、擁抱極簡。透過情境題，讓使用者了解自己的數位生活習慣、對回憶的依戀程度，並在趣味中反思如何更好地管理個人數位資產。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是『數位囤積者』還是『斷捨離大師』？測測你對回憶的依戀度與管理術！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【復古像素】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "【科技】美債殖利率飆升、AI股領跌 美股指數全收黑 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQRXN5MTVsM0dPTWJDTDdmS2RpOUJ5dzBvUUx0aGZETEN2X2hjNF9fS2I5cGhuZ1BNWUtXUzJnNll3ZzNZWUcwS3AwUkhfb1ktd0FxN25wR3E4RVdFOFQ2amlRMFM0aVg5TVJsTUsydVYwTHRTNXR5eWhKTzBzTTMtU2VDT1o1VTQyWWt3Z3B3ZEUwOXFqWE1NM2VVMG8xUmZXSUdCZ3lOenE1QmJ5Z2c2blhaZXZEblFpb0Npc0NsRFJ2X0Y4TElBNExnRXpSNk81TXNxNlhjQTYzVmx3ZmMxN1VNU3QtX29Rbk15cGZGZXF6Qmo3Q0VYaVdIdWhDUmlVS2xYTExycC12bGlPYm9yb0RidWpNRnoxQmhBS1lIVmZaSDgz?oc=5",
-        "theme": "你的『趨勢嗅覺』有多敏銳？測測你是否能搶先洞察市場與生活新風向！",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "這則新聞顯示了全球市場受AI股與美債殖利率的影響，呈現快速變化的趨勢。測驗將以此為靈感，探索使用者對新興事物、市場動態或生活潮流的敏感度。透過模擬投資或生活選擇的情境，讓使用者了解自己是屬於保守觀望、謹慎分析，還是勇於嘗試、引領潮流的『趨勢先鋒』。趣味在於能檢視自己的洞察力與對變化的適應能力。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『趨勢嗅覺』有多敏銳？測測你是否能搶先洞察市場與生活新風向！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "【體育】亞運》陳念琴4強拳破北韓 晉級女子65公斤級決賽爭金奪銀 - Yahoo運動",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPQUhOYVRkQUVJRkMzRWtQVHVEXzM4OVdmczNOOGFrQlFwaGxuUnEzak1PZVJTRmQtaXE3cFprbFBlR0ZxX2NFajJKUFp2eXo0Slk4TzE2MERRUWROS1Q1WWE5VER2anZvVm1EdHg4Q04tVHMwWlFDb2F1U0FGYjE2Nnp2NklxUTZSbUdHQjkydUQ4WnpVQk11TDVWQWNIdE03dFBEN29kTU8wYXh3ekd3TE5BeUtZdUhRUmEwY2d4cVpPTjR1TXhHenVyX2tzc3NTMWs0LUJsTmZtN1ZwcFlQN0xzWnhCQzhYUklKdnk4ekJ3TmpSalJFajFJQXd6d1h2Y2hiOEFJSldVa1dPR1RPRENkSFhvcW5ZdWZlM3FqbFVQVW0zd0lJREduNTVWbzBCYl9IRUpsTGQ3MTZ4c2N0TUludUY2b1RiQlB1akNsVUh6SGxJOEotakJtQ0c0aUNaRHFfV1NaUERyU1E2RlNqcnRpTWtjLU9fQnZGZE5nY0YzUQ?oc=5",
-        "theme": "你的『戰鬥力天賦』有多狂？測測你在挑戰中的爆發力與必勝決心！",
-        "resultCount": 6,
-        "style": "美式波普",
-        "description": "陳念琴在亞運拳擊賽中過關斬將，展現了強大的意志力和戰鬥精神。此測驗將以此為靈感，探索使用者在面對人生挑戰、競爭或目標時，所展現的戰鬥力、抗壓性與求勝慾。無論是策略型、爆發型還是韌性型，使用者都能從測驗中找到自己獨特的『競技人格』，並在熱血的氛圍中激發潛能，為自己的目標奮鬥。",
-        "id": "idea-9",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『戰鬥力天賦』有多狂？測測你在挑戰中的爆發力與必勝決心！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "【體育】名古屋亞運》男子400M接力破全國 台灣勇奪銀牌 - 自由體育",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1veFdBTVZHMGVlc0lVT1VZS3YtVWNCdXE3WmxqcEprMmlabEdaRFp1b202dmExcUc1TjJQSzdTZUp2UU5Za0ZiMFpHYzhsZy1WbXBjYjNOSdIBXEFVX3lxTE9lWU85SzhOUXJaRzJjRlZDUDNfRGNZUE9HWDZXUmt4SkY3ckhqNDdDSzZnXzZ5RnZTLXctSk9iYjdOMy1KcVMwdGNLMmE5UjY5UXVmZW16SndwSUht?oc=5",
-        "theme": "你是『團隊神隊友』還是『獨行俠』？測測你在合作中的最佳定位！",
-        "resultCount": 4,
-        "style": "清爽動漫",
-        "description": "男子400M接力奪銀並破全國紀錄，展現了團隊合作與默契的重要性。此測驗將以此為主題，探索使用者在團體合作中扮演的角色、發揮的特質，以及如何與他人協同合作達成目標。無論是擔任衝鋒陷陣的先鋒、穩定全局的支柱，還是完美支援的後盾，使用者都能從測驗中找到自己在團隊中的最佳定位，並在動漫風格的趣味中，體驗共同創造榮耀的樂趣。",
-        "id": "idea-10",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是『團隊神隊友』還是『獨行俠』？測測你在合作中的最佳定位！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
       }
     ]
   }
