@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-10-10",
+    "generatedAt": "2026-10-10T06:21:21.126Z",
+    "ideas": [
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "來台過第20個國慶日！吳鳳曬國旗照吐心聲 驕傲喊：台灣民主滿是感動 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPUnRYdGlEM3hlR1BqT2NDVzlQRkpWN0VBZ09iNlJpZGJseVRpbkNLTTZMWm1obnN1OHFQQ1JaSE9Tb0xSSUdTT01sdDZ6SFlZLXRDQ2xqVFNLLUpXODVmWHdWa2s2eFVfa2o5TEM2R3JHSHp4S2Qxc3JHLWsxcXRZckhPX0k4Z2docTFHRV9EcTBKRmVtWkktblNJRUxMTml3UUJvT0M3UnNGNjBwQXJqNWhJNldZS1BWTkdKckQweVBoaDgxYVNyUTNpTVVlbWI2N292RWdGN3lYRjlVWjZDMURNbXlwMDRXMUoyc050anRON1VTamQxZUFZWWR6Z2tOYVRCY0lMMlBDbUZuWDNMdmxHVXU4dF85RV9KSEU2d1VRR2hJWk83V2pyajZDeGlscGhibGxWandueGJOcDZ2Q3FsTVBhY1JWamVQWllmbUtXQ2tJQ2d3bUswS0tRNWQ0ZDhfV2dnMFlPcFhwNzRYSWNGSTFiZ2RmcVlQTVNFbGU5d3Zwel92VWxlOEl3MkpoZFMwQnUxR1RGdzRDWWI0OEh4M25pdkVJQUE?oc=5",
+        "theme": "你的靈魂歸屬地在哪？測測看你最適合在哪個國家生活！",
+        "resultCount": 6,
+        "style": "溫馨水彩",
+        "description": "吳鳳在台灣過國慶日的感動，延伸出人們對於「歸屬感」與「理想生活地」的渴望。這個測驗透過情境題，引導使用者探索自己的價值觀、生活習慣與文化偏好，最終分析出哪種類型的國家或城市最能讓他們感到自在與幸福。趣味點在於結果的多元與想像空間，能激發使用者對不同文化的嚮往與自我探索。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的靈魂歸屬地在哪？測測看你最適合在哪個國家生活！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "周子瑜遭譏粗腿五五身 攝影師犯眾怒下場曝光認錯道歉了 - 自由娛樂",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EN013cF9ia3BlTlBfbDFkNkxsVHFBUHl3REp2VFgwUGNmc09RVFBYRERfZ0hJeG4zUFhlVjh3MnFlcVFmRUVhUVZqMGjwb0ViMjN3REJ2NmF0UmI40gFiQVVfeXFMT0NFRzZBY2NjRGxXUThmUUJqRDc1Nm05ZTF2Yi1vaVRrdXNPUHVlNDBwNk11RXV4Qm4xU2t1TUtPY2pTSXh1OHdEZEFsYTU3RjJQYlpEeTNxbFhZVVhIY2JnOVE?oc=5",
+        "theme": "外界眼光是濾鏡還是照妖鏡？測測你的「自信閃耀力」有多高！",
+        "resultCount": 5,
+        "style": "千禧Y2K",
+        "description": "周子瑜事件凸顯了現代人面對外貌批判與公眾壓力的議題。此測驗以正向角度切入，引導使用者思考如何看待外界評價、如何定義自身美麗，以及如何維持內在的自信與堅韌。結果將展現使用者在不同情境下應對批評的「閃耀力」類型，鼓勵大家擁抱獨特，提升自我價值感，並以Y2K風格營造偶像般的自信氣場。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【外界眼光是濾鏡還是照妖鏡？測測你的「自信閃耀力」有多高！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【千禧Y2K】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "一中散場2》從市占9.1％到乏人問津 HTC手機年底退場 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPV2dIRGFYSXU0VmpVY1N6YjZLLXZmVkZPMzNJUkhjTi02cmlDdkVkcjVUQlYxUF9Xb1VFM19uZzJHM0cyU0xJY19pT1V4SzJ2LU1obVNyLXhLd1Z0NTRvN19SQi1GZ0t5d1RiamtGcGp6V0xrdEZmT0dXaDF1VmlTZ04xeUdaRTBzQzJzY2MwUWNjbDRmZVh0bG55dEdKRkc1QnJOQ0tOY1F0Q1lnRDc4eUZtUlZ4NVdycHBuVTAyQWI5bDZOLV9sWWFrRkViUnpmY3hYazRGakVUNmIzUGYyLVRsSnJuSWRKb3FyNnFla1oxbEdxdl9tWm5kR3pqMk9uMXVrNWU1dzRBRS1Va3JWR2Rtd04wX0l6U3QxMFNibUQ0U00wQ3YzM2tpdXY?oc=5",
+        "theme": "你是會引領潮流還是堅守經典？測測你的「科技品味」屬於哪個世代！",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "HTC手機的興衰是一個科技品牌變革的縮影，引發人們對科技產品、市場趨勢與品牌忠誠度的思考。這個測驗將引導使用者審視自己對科技產品的選擇偏好，是追求最新功能、注重實用耐用，還是懷念經典情懷。結果將揭示使用者在科技洪流中的「品味定位」，趣味在於引發共鳴與對過去科技的回憶，同時展現個人對未來的看法。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是會引領潮流還是堅守經典？測測你的「科技品味」屬於哪個世代！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "大學發展人工智慧…用電將成最大考驗 台科大校長揭困境 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNLWVmbGtoOUxmNmFkMU9XMWZScFh0TDJwTjhnRy1PMi1PejdSZ1VOaXIzY0JlOXNqcnJ5cWtwT0d2ZUxRRkZZWkNHZ3FGZnhZZFppM2ZTN05GWWh1ZUhnOE5wekJPd3VjTVVxdUtIQ1Bnc2FaSzAtUXFPYjBpeWpWSktwem1IalFfSkVMNE4zR3BwTlNjQUhuSl81Z1V0WEYtbThpTXYtenMtVERTV3hyNTZCOFZ3SnpjbDJNOUZCbFcwMXdMWjQ0UU9wR3N0MjBRLWpwSTV0ZXU4Vzc1ZnEwdlVVaGtjZ0ktT0RPQUtaZmFQTHVpSU1YQ0g3REluYVh2QnJZdElwZ2hUWFFvdG1jVUZzTmt6QUoyUnFoTWFuT2YwdkhkMXJxUXM4YlUzcTJKNi1GUTk2NUJUd1VTOVpmNTc1QmotMFBfQWdUZnkwb3JBYzZfUGZwUzNGT0dJTjVuUHFWWm8weXFNbHI2WGxrVF83dm9fZw?oc=5",
+        "theme": "你的「能量」如何分配？測測你最擅長解決哪種未來困境！",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "AI發展的用電挑戰，觸及了能源消耗、永續發展與科技倫理等議題。此測驗從個人層面出發，將抽象的「能量」概念具體化為個人特質與應對問題的策略。使用者將透過情境選擇，探索自己在面對複雜的未來困境（如科技發展、環境保護、社會公平）時，最傾向採用哪種「能量」與方法來解決。趣味在於連結宏觀議題與個人影響力，激發對未來的思考與行動力，視覺風格則強調科技的未來感與挑戰性。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「能量」如何分配？測測你最擅長解決哪種未來困境！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      }
+    ]
+  },
+  {
     "id": "2026-10-09",
     "generatedAt": "2026-10-09T06:39:49.395Z",
     "ideas": [
@@ -654,56 +704,6 @@
         "description": "該話題涉及AI生成內容的版權、道德與真實性爭議，尤其在ACG社群引發熱議。測驗能讓使用者思考自己在AI科技發展與人類創作之間，如何平衡兩者關係，以及對「原創性」的定義，觸及當代熱門的科技倫理討論。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「AI創作倫理」觀點是？測測你在科技與藝術間的立場！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      }
-    ]
-  },
-  {
-    "id": "2026-10-01",
-    "generatedAt": "2026-10-01T06:30:01.828Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "遭酸「猶豫才跟進」免費營養午餐　黃偉哲火大回擊蔣萬安：要做不做好？",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVS3lZenRhRU8xU2Ztazh4Um1YaHVOR3p4Z3lvZThJa0I1SFB2UVBraElSUTlfakVuMnF0NjZqcWtBWEJqTXhIetIBTEFVX3lxTFBkU3c3SUFRN0U3Yy0wTjZ0OThpTEZNTFVVbEhjcXI1Tzc3LTBEcGtpMkptMmdtQW5KaWw5TmUzakFVd3Nsb1JtbkJkUXQ?oc=5",
-        "theme": "午餐大哉問：你的「福利政策」哲學是什麼？",
-        "resultCount": 4,
-        "style": "搞怪幽默",
-        "description": "這則新聞圍繞著政策實施、政治攻防與社會福利議題。測驗能讓使用者代入政策制定者的角色，思考自身對於公共資源分配、社會公平與民意壓力的看法。透過趣味情境，引導使用者發現自己是「效率至上」還是「民生優先」的政策推手，帶來輕鬆又帶有反思性的娛樂體驗。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【午餐大哉問：你的「福利政策」哲學是什麼？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "川習會一事無成！台灣「隱形大贏家」 學者：習近平把台灣牌打爛了",
-        "sourceLink": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOX0VPNmtiTTRGUWQySUY1UFhrYURDdkk5MkVMdjNYMGhFdENOcExiRlE2RzBaQ1dsaW1xOHVTdU1TSTN5d2gyY0pNcE9Wc29vWkJyTmRtcVl1R1Qyc3pRbzJ6b1VFQ3hpMFQxQVlfQUhRRl9qZVBPNmk3VEpxbFNQNFU2a3zLTnR0dXMwVHVXMFI5R2E3M2NiMXo4MDI1SjhiZGhldV90UkVBN3YzTS1zWF9QYW1ERUNxOHRBcVM2eTdGTVBwQmpkTUhPZlJBdWlCY0ZvVldHc3NSbGQ2N0RHOXRFTjF4a0J2ZEVmcy1CSHN5V25HTXRLZ29qRFZUb0xob3pWXzlSQmVvSWM2?oc=5",
-        "theme": "談判桌上的隱形贏家？測測你的「策略思維模式」！",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "這則新聞聚焦國際政治的策略角力與非預期結果，特別是「隱形贏家」的概念。心理測驗可以延伸探討使用者在面對複雜情勢、人際互動或商業談判時，是採取直接進攻、迂迴戰術，還是等待時機出手的策略。讓使用者了解自己的「局勢判斷力」與「應對風格」，帶來化被動為主動的策略趣味。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【談判桌上的隱形贏家？測測你的「策略思維模式」！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "迎光輝10月！台股漲逾200點守住4萬8 分析師黃紫東：內資開始布局第四季",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNS0pUT19nMlJrS29oM0NCaXFrcWVfZ1dHZnFpcGhMd1pYZWZwZHBFMjBPUFQ5ZWFUUmZ5VGg5bmNlSUtKWWk2cWdtSDJqVFdRS0ZwQjAtUi05QWtjLXVzaTZ3Z2R0SDFqNE9QS3JUUFNNZ2R5T24tdlNpNVR4cEw3aHp5aHN2OGoteTBQSjg1WkRjTWpsOGtLYTRtSlFsTjZtWlNGbkhWR2o0OHliU180QWpleU5rTjJIY2V0NDRPaHFHbldKSF94MDJZbjNqWGdxa1c1T3diaW5PNGZjbFdwSENXU2JDajBQckxKOTIwbnM1UnlmN0cyN0xTREVIU0poZWIzclZ0d2pqM01Eamp2am5wSUtVbEdFVDVMVHYtMS1lX3R1Tjd2MzBKMzRLZjI2NFg0S3VhdEVsRUQ1WjI5b0p3ZDcxY0NUdDBpLVBTVjY1YjVFZjJVVTVQYVJXUGZCcU41UGJOWHpKZVFGT2I3SWRJVVl0SjdkMjdtckFfbTFzRTVxODNuanVRdW9BVDJyU2dLa1NkWUFOcFZuY2dQaXJMd25NdDF2UHpkUWJ5S0d0QmdEdmVVZ1d4Qm1BQ1BmOENaVlJRM3pINldoU2pIRmxaNlRYZFY5MmhBQzRmc1hubGFKOWhLZFNLY3pMcXYxeFY0cHhQM3k?oc=5",
-        "theme": "股市漲跌我做主？測測你的「投資決策人格」！",
-        "resultCount": 6,
-        "style": "霓虹賽博",
-        "description": "這則新聞談論股市表現與內資布局，涉及投資決策與風險評估。心理測驗可以將使用者帶入「投資模擬」情境，讓他們選擇面對市場波動的態度、偏好的投資標的或情報來源。這能幫助使用者了解自己的風險承受度與投資傾向，無論是否真的有在投資，都能獲得一套獨特的「投資人格」分析，充滿趣味與實用性。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市漲跌我做主？測測你的「投資決策人格」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "勞動基金前8月大賺2.3兆 新制勞退分紅12.39萬元再破紀錄",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZMUxua3FQTEV0V3ZNeTlkX2hXWlFRZDU4OFlLVk03eWFjRlJZc1BneW5MTFJRdmFIb3NHUEZDcnRQOE15N21iWVRkRFp3SjVxWGhPWHd4ZkowSExsbFZZ0gFkQVVfeXFMTTN6NldlZXczRlFPRUN4RHlCS2p5Ym9jMlNNcGZzUDlnRTB2VnVQRlRRMXBfX29wWWR1ekN2NDJ2bjh5UXYtZmZfa2xLYUtOQTFheEVnNmtfN2ZJR2VjT1MxRjljdg?oc=5",
-        "theme": "退休金滾滾來！你是哪種「未來財富規劃師」？",
-        "resultCount": 5,
-        "style": "溫馨水彩",
-        "description": "這則新聞凸顯長期儲蓄與投資在退休金累積上的重要性，以及大眾對未來財富的期待。測驗可透過情境問答，讓使用者模擬如何在工作生涯中進行財務規劃、如何看待儲蓄與消費，以及對退休生活有何憧憬。這不僅能幫助使用者反思自身的金錢觀與理財習慣，更能以溫馨有趣的方式，為他們描繪出符合其性格的「未來財富藍圖」。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【退休金滾滾來！你是哪種「未來財富規劃師」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
       }
     ]
   }
