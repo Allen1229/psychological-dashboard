@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-10-11",
+    "generatedAt": "2026-10-11T06:24:11.365Z",
+    "ideas": [
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "空姐爆遭冷嘲熱諷以為包機 「知名歌手」身分呼之欲出",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQZ1Y1aHJFbHI1Nk9QdVhfRzJvU2t5SEk2cG5ScTZwQVBMRzFuS19CMkVvbHVleENmQndCTXZ2N1BTTnc1QWJnOEtSR1ZOdmlOQU5qdjhPM0N6QTM3YXkzcmN4Z0ZsdUxWY0pvQmNmRWlRQlRLTTA2cmd0YmxBVldfZVdZZVBqZ0ludXFQRDM2dXRMaGhraWZ2SzlQTUwzU0dObW9zZmNTN0h1dm9PSlR3NzVBYjFRMWpYcndjY3hKczRXd091MGpKanNQWnlsemI3dDhpNHVKTU0xenEtVHpibjdQQm1fOWRNWEFQYXhVTjgwR3ZBZVdnUTNEMDlub0VtU1JMUEw2ZjREQVJycnI0dHVsZ2hFQWNYVnJTY3FEU28tT1FQZU8zdVdoUmZDZno5dmRRYTdfUkJaR1JIZ2s5bG5LVVdkSjZvanNBcWlSbFJkbUpKblBnR3ZYLXdyQQ?oc=5",
+        "theme": "搭飛機時，你是哪種『隱藏版旅客』？測驗你的飛行禮儀與人格特質！",
+        "resultCount": 6,
+        "style": "搞怪幽默",
+        "description": "結合熱門新聞中「名人搭機行為」的討論，將焦點轉移到一般旅客的飛行情境。透過情境題，例如面對小孩吵鬧、餐點不合胃口、座位被侵犯等，讓使用者測出自己在飛機上的隱藏性格與應對方式。測驗結果除了提供趣味分類，也能間接引導使用者反思自身行為，增加話題性與社群分享的動力。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【搭飛機時，你是哪種『隱藏版旅客』？測驗你的飛行禮儀與人格特質！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "方文琳大女兒將出嫁！于冠華收「人生第一套訂製西裝」 認見1幕眼眶紅",
+        "sourceLink": "https://news.google.com/rss/articles/CBMingNBVV95cUxOa3hQMFd4SHhQY1UyM19IWVp0UTNPQzdnUVZHZzd4aTlnN0xvQ1NEanJiVWt2QWlfNUVzcHpfc3pCSVNmdS10N2JyTi1JZmF6dDRSZmJxOGpRUWhzcWY1LUx2WWtoXy1obW1mS2V6Y2U3dWN2UmdDcmhqMXZKZUNqTWQzejdncUhrRk4xaW5MMXBBbVRaTzJDLWJXZW5McU5reGVVQ08tVUF2R2pNTWFfX055cEt0U0gwQ0wtbGdCbC0yYVdSWkdObTB6dF9oR0hjQ3VucGJTRkItd1NmRkJPWExmUTIweU9rWm9rZG0wblM4NjYwY2s5UHV6OGZDR21sUVdRenkwQlR5LTAzZGV2M2xpaXBheTI2WHl5dTlla1BJTUYtNWNJNVVYb2h1Zk5UeURrWFVaRzcyXy1sOUdLalpweE0yTE9mdFJzTGlsV2ZrSlB6MHFsZU1pMkFmMWwwSVQzNlQ5R0xzbnZpUS1mVTg5YlYzODg5YXZjVjZPcUZnTk11MHp0akdILVQ1dGRHX1QxQ1dNcFJyOVNkTmc?oc=5",
+        "theme": "女兒出嫁/兒子成家，你家是哪種『幸福放手型父母』？測驗你的親職風格！",
+        "resultCount": 5,
+        "style": "溫馨水彩",
+        "description": "借鑒新聞中父母對子女出嫁的複雜情感，設計一個探索「親職風格」的心理測驗。透過模擬子女步入人生新階段時，父母會如何反應、提供建議或給予支持等情境，讓使用者了解自己是哪種「放手型」父母。這不僅能引起廣大父母族群的共鳴，也讓年輕一代思考未來與父母的關係，具有情感連結與討論價值。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【女兒出嫁/兒子成家，你家是哪種『幸福放手型父母』？測驗你的親職風格！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "明恐跌千點？台積電ADR回檔等利空夾擊 連假後迎震撼教育？",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNUUtKRllUYmpGSWJrSVl5UEd3eEN4ZTdZLUlURWh6YmJPaVFfNlRENkFXYU1qenRGU2JlbGU3Q3pXR2FWVlMzbjFiXzlLLXVGTENwaVp2SzNDOHR5aXd0Nld4OEplbEhrc04tcktncWZWTTJsclpPUWg4RFhMclAxaFpleGZDSDNIRGlmR0lSNEtuM0RlMjJnZmdnaDZDSy1rRF9vOU5SaU92YXhET3hTTFhkMW9ZckxiVWR3S0dkWFBoTEVjSzc4X3NpQVZ3M01Kd3pINEc1YmhPNF93cklWOGZuNDNfMFdGbEFiaGNWWWFBRjhKREpYbDJRdW9aR1ZCQ0pfU3JWUlU1eERGcXJQOTBjSndCWXJ6Y1hwRXc4YUdRZWJXX1oybmJBWC1Mc0dERzZIYVVnMEJEaUR1WVJiSlFSWDVTQjN6U2RkeXVUZ1NpbmFMRW1iNEF3RmNsWW5iR1ZUM0JtVFZKQk9VYkE?oc=5",
+        "theme": "股市震盪，你是哪種『抗壓型投資人』？測出你的市場應變力！",
+        "resultCount": 7,
+        "style": "科幻冷冽",
+        "description": "呼應新聞中股市「震撼教育」的氣氛，設計一個評估投資人「抗壓性」與「市場應變力」的測驗。透過模擬股價波動、利空消息傳出、投資組合虧損等情境，讓使用者了解自己在金融壓力下的決策模式。這不僅貼近當前財經熱點，也能幫助投資人自我認識，提升對市場波動的心理準備，具有實用與話題性。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股市震盪，你是哪種『抗壓型投資人』？測出你的市場應變力！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "美337調查鎖定AI供電 台達電最新回應來了",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aRDhfUlhnMlFFLV9xaU9HSi1rVEZuc3dOQThCTVRra0lIcWZVZlVnY21GR1dheDZnd084bHdIXzAtRktjemNGbEZLU0ZpZE5WbGotNlVmVWFaYWdEWC1R?oc=5",
+        "theme": "全球科技戰升級！你在AI浪潮中，是哪種『未來產業領航者』？",
+        "resultCount": 6,
+        "style": "霓虹賽博",
+        "description": "抓住新聞中「AI供電」、「科技戰」的關鍵詞，將其轉化為探索個人在未來科技產業中潛力的心理測驗。透過模擬面對技術瓶頸、國際競爭、供應鏈挑戰等情境，讓使用者評估自己在AI時代可能扮演的角色和應對策略。這能吸引對科技趨勢、職涯發展有興趣的受眾，並提供具前瞻性的自我認知，引發廣泛討論。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【全球科技戰升級！你在AI浪潮中，是哪種『未來產業領航者』？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      }
+    ]
+  },
+  {
     "id": "2026-10-10",
     "generatedAt": "2026-10-10T06:21:21.126Z",
     "ideas": [
@@ -610,100 +660,6 @@
         "description": "體育奪金帶來的慶祝優惠，將大眾對勝利的喜悅與美食連結。這個測驗將焦點放在人們在慶祝時刻的消費行為與偏好上，透過選擇不同優惠、美食種類等情境，分析使用者在愉悅氛圍下會展現出哪種「吃貨」特質。結果能讓使用者以輕鬆幽默的方式，發現自己的「慶功哲學」，並享受勝利帶來的滿足感。",
         "id": "idea-10",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「慶功美食」測驗：你是哪種「冠軍吃貨」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      }
-    ]
-  },
-  {
-    "id": "2026-10-02",
-    "generatedAt": "2026-10-02T06:09:54.144Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "北市營養午餐狂出包！沈伯洋拋解方 蔣萬安：見識到認知作戰專家的本領",
-        "sourceLink": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNZGUxNVZRcU1SYWYzbDE5UHBnQzNxVy03ZWVQMTE2WVFGcF8xQ1FmOWhVYzZRMGxvSUZtd0VRaWJhVlFodjhvUGpLd2FhV01qSGN6dzV0c1NmMGh5LXAtRmRLcU9GQl9RWVljaW9VVEw4TlQ0TXV6S2FuY3ZGNS1tNzQzRUhQYTh3Vk1kX2pkZUI0VnRjQk9RaUZPZXRTRU1FTjExSUk0Z3Y5S19UYmRsb2hPa2xGenNpeDlFZURYa1NUd01TbTNzXzB1a25kdm12RkZJb1NRRUZmVmZTYzNpU3liQ3R4di1MSzJTZUVIN3ZyMEo4amhaTWw3dzgwUkpEN2IwdVZIeFJPRWJMMjFhV1BCbDFGTHhIYlY1dzdlLTM5eE1aUThwN3RSTmtiVzg1VlhFdVlKMEpSZE1Ud0c1Ny1LdGdpTjcwc1RkSXZWOFVDdWRpaWtNLUY0MkpLUU0zNFFELUJLNFp6cTB0Zkd3cXl2ME9pNkJ0TTlmYWxveTdOTi1IcXJQQmVCOE9DdlZhUzJUcWt5RUJwUTIyR1V2NnlwOTdxYUdYNERHYVZhYV9GN2dKbmd0eW5UTy02OGc?oc=5",
-        "theme": "你的午餐危機處理哲學？測測看你面對食物出包，是哪種「應變型」人格！",
-        "resultCount": 5,
-        "style": "搞怪幽默",
-        "description": "該話題涉及食物安全、公眾信任與危機處理。透過測驗，讓使用者檢視自己在面對突發問題時，是傾向理性分析、情緒反應，還是尋求外部協助，帶有輕度諷刺與趣味性，符合時事話題。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的午餐危機處理哲學？測測看你面對食物出包，是哪種「應變型」人格！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "張淑娟遭毀名節 蘇巧慧幫兇鐵證曝光…李四川競辦：霸凌受害者良心何在？",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlbkVvTzIzUWY5QVh1VmVkNjlpVm1FREZBZDJUSG1oMjd6Tl9rLUJPb0Q3QzlNTWpMODEtQmtiMllqeHExUm1nWlFqa0pqSEUtRFRN0gFYQVVfeXFMUGNBZTZPU21SSUVYZUZidExYVGliRGwzanNySWRhNEp1SkNIWjQ4bUFheDdCWkFaOE9DU2VIR0xfOFFHTGczQk5ZdWl1WGdGMHhHUk1KeXBKRA?oc=5",
-        "theme": "你的網路輿論生存法則？測測你在流言蜚語中是「捍衛者」還是「旁觀者」！",
-        "resultCount": 6,
-        "style": "懷舊報刊",
-        "description": "新聞涉及名譽毀損、網路霸凌與輿論攻防。測驗能讓使用者反思自己在社群媒體時代，面對爭議事件時的立場與行為模式，是選擇發聲支持、冷靜分析，還是避免捲入，提供自我檢視的趣味。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的網路輿論生存法則？測測你在流言蜚語中是「捍衛者」還是「旁觀者」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "狗仔拍下約會鐵證！T.O.P熱戀NANA「年初拍攝MV來電」",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzR2lDTVh1Q19VZi0xeXM5WVcwdkh0U0lOc3ZSSlhQWXFSMnk5dy1VNGwzSE9ZVVdwLVktNmcxSDVaN25rb1pfaWRvdXJUcnpxTDAtZS1VQVFxbHBGczNQald5TEVpUdIBX0FVX3lxTFBtcmRINVVsT0RzS0F4TjZXV21KMS1vc3hUdEhsbHdZX3Q2eEs3NU13djltYnB6Nms2bURDOHpkNW5YZ3FpYXd4RW5NQUx6b3RPTEdkaHcySkd4empselY4?oc=5",
-        "theme": "你的戀愛啟動模式是哪種？測測你與偶像劇主角的相似度！",
-        "resultCount": 6,
-        "style": "唯美浪漫",
-        "description": "娛樂圈戀情總是引人遐想，特別是從合作中擦出火花的故事。此測驗能讓使用者代入明星戀愛的夢幻情境，探索自己的戀愛觀和追求愛情的方式，帶有甜蜜浪漫的趣味。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的戀愛啟動模式是哪種？測測你與偶像劇主角的相似度！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "林志玲相貌突變、髮際線後退？專訪影片引熱議 整形醫揭「變臉」真相",
-        "sourceLink": "https://news.google.com/rss/articles/CBMihANBVV95cUxQbGpoR3pueWdaTzNmQkliUEsxWGxldE5mMExYVTg1dU9qQ255VEVodk1XWVEyWTNZVmNyNnU2Mkg2OTIwZ1Z5X2dzYUxuSUdKdHhIRzgtclV0UElsM3hNVms1U2d6U25kbDU3a3BUbGhXWHBIZl9OdnRMdnFYdFp3QmdLU1V0NDRYWDlJLWNHMTdMdkJJTDYtd3ZQelJISlRIX2JYaTRMMXpfTUxpdXBxaDdQd01OeTlTbXhxSEpDM05jOHdNRWx3Mnh0TTBWMTNWdFhjR2p0N296bDFpYXM0MXJQRGlFVVpheTh1STFCNG1oZzBQMzlLM1RuUnY0T3JZX2hfU1dISmo1eHZjYXFmSENOSE9tYnpxRHFZUnFldFNPZ3JLTUFOLTJUMkpXNHVfOVRWRlNscG5Za3RHbmNicHVfeXFrQTRwSk91bWZ1Q292R3hWQmZEZGt4MUhZZkR0V2k4TkE0TTg3UUJ1Z0pVNDJvQTlBUmczMzJDNFF2TUZDMHZI?oc=5",
-        "theme": "你的「不老」焦慮指數有多高？測測你看待容貌變化的心態！",
-        "resultCount": 5,
-        "style": "極簡質感",
-        "description": "該話題觸及公眾人物的容貌焦慮、老化議題及社會對美的標準。測驗能引導使用者反思自己對於外貌變化的看法、對醫美的接受度，以及如何平衡自然與修飾，提供一種對自我價值觀的探索。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「不老」焦慮指數有多高？測測你看待容貌變化的心態！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台股衝48000還能買什麼？專家曝「5檔AI核心黑馬」 抓下一檔暴賺飆股",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQbmhzd1V3ZXY2UkFZbzBIOHJpRGcxdUQyejhTOUhjLWxxN093RjhRNUhxUnFONko4SGlIS1NZRjhhRmkxLXZZWWRfNlhfaURROGR1N2p6aGNJVkVEMzY0VTI0R1VnanJheEhGSnBudmpBXzVOMjItdjBvWE1sa0cydE43YjhNN2NNQWlPT1RnXy1QMWtrUVNEM01VR1d0OVJWMTQ4blpMejFqQkF6ZU9Dd0pDblYzUkNQV3daSWttbkg4RkR5ZHBmMS14ZG0wOWhIQlBmTVZvb25XVTA1QXNzTEw0Mmg1aGVRVUtIQ3hmbXJKeVUzdTdmMXI2TU83TUQxUHNuRW9uUU9INjlJXzRsTXhmRFM5dEsxRmxBNDRtMFBMdExqT2lLbENKOVlhaEJlRkdjTmtUY1hlVjc0UGlZbE9VQlAxWHd0eTBvZHlBQkwtNVI1RHRjLVRLczh5NG4yeG9IUmhEUWJPc2ZYV09ZbldBbUZJLWRPQ0lMZi1WYw?oc=5",
-        "theme": "你是哪種「投資動物」？測測你的股市淘金性格！",
-        "resultCount": 7,
-        "style": "科幻冷冽",
-        "description": "新聞聚焦熱門AI概念股與投資獲利機會。透過測驗，讓使用者以幽默的方式了解自己在投資決策中的行為模式、風險偏好，以及是偏向穩健還是敢於追逐高風險高報酬，增加財經知識的趣味性。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是哪種「投資動物」？測測你的股市淘金性格！】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "別被高殖利率騙了！策略師示警美債可能還沒跌夠",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZdzhkNnVnaDZFRk1vZmJOblU1Y05RekhvYkpVeWxMSUkzOGNxdEFpczByaXBGVXYwZ0p3Wk4zOUwyRlpUNkN5Mzk5T28wam8?oc=5",
-        "theme": "你的「投資警覺雷達」有多靈敏？測測你辨識市場陷阱的能力！",
-        "resultCount": 5,
-        "style": "廢墟美學",
-        "description": "該話題強調投資中的風險警示與陷阱識別。測驗能讓使用者評估自己在面對看似誘人的投資機會時，是否具備足夠的判斷力與警覺性，避免盲目追逐，提供一種實用且具反思性的趣味。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「投資警覺雷達」有多靈敏？測測你辨識市場陷阱的能力！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【廢墟美學】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "潛在獲利9萬元本周最狂申購！「記憶體模組巨頭」增資啟動 報酬率衝破3成",
-        "sourceLink": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNcjh4dE9BMVhCaFpWVTdTT1VvbkFDczRzeUdXNWNVeTl5QkxYLUhTR3pHSzNFQld4RVdORC1INzRUcVZjMlpLaXhnSGtMcEVSMWdhRWtKOE9XMWtKTm5seG1EYWtSdmFwb1F6Y2tGTXJpZHNRcXVjQkRDa3Q4Szd2ZXdsLUNHS0paRXVSeGl4c1dQZDRTdGFTMlhhSXMzbkZTbjhGWkMydUJjM3QwbGJSN3hJUmN2SWhxZU1TUG5jck9PMEhCaUhvM1pJdHFxX0ZGLVVlWEFoSzJJM3VpYXBoT3pMenNMVzZLclJDRnc2SE5HQm5ZOFZ6TDAwcmlJU0ZtQkVLbERlLTVjQ2g1WGpOQzlxMzBuZVcxd051X2pvUkRCV2ppUjhWOVlEZWFBNnlxeHhpX3BhTjhaUVRCY05MalRLRW1OclQ1QnZXNDdNRFZJMGdTQ255Rm5hNVBlWGlMQnVrMkliNFVfR3A3TXhiQnlMUE1PbXctQmJrenVQdWVSREFqbUNpdjNZa0IzNWIxTEdvWU9veWVGeFpmZElPSW55UnFWMVh0cGI3Z2QzZTgxeWJiR2Z5NjhfU28tUQ?oc=5",
-        "theme": "你的科技投資嗅覺有多靈敏？測測你能否抓住下一個「飆股巨頭」！",
-        "resultCount": 6,
-        "style": "霓虹賽博",
-        "description": "該話題結合科技與財經，強調高報酬率的申購機會。測驗能讓使用者評估自己對新興科技產業的敏感度、對高風險高報酬的接受度，以及是否具備抓住市場熱點的眼光，帶有科技前瞻與財富追逐的趣味。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的科技投資嗅覺有多靈敏？測測你能否抓住下一個「飆股巨頭」！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "ACG圈炸鍋！沈伯洋主視覺爆AI爭議道歉 專家揪關鍵破綻",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNaFBfcVRBOWJKeTdEdEsza3NHV0pIbjhKeE1wR3JsZEJXN25uVW5PNVY2YmFhVkZUZ3NOLWJFYTRQX3c1Mk9CYVpRTjcybno5d19yQ0NncmNTcnhpVnR5Q3dHX0ljbVlzX2NwNzE3Q0tpcmtieTQ1SFI0Qzh0RlBvYWl2cWc4cmpxMG5BcGhxZEszV0ZHTUtpT0dESjVMVnIyVklaQl9qMEN4STNRanhqWXozTHFZcmFCeGJZLWd1ekxmYWMtbDlQUVV5T1RUSktJS2lHVjN3MXRPaEVqYW01X28ydHB1RGdHUlpVS2pKY0VHY2dmNXpNeUxUYVc0eWxvc2NaZ29WcjJnWWFzeDBIMk0yc3NrcVhNM3VjcGx2azlDNWtSZGZPdWZ0VXR3b3drT0tELWp6MjRXcE8tejhvWHRBVWpOT2RacnJLQkJrMDdKVlBSMmNjRA?oc=5",
-        "theme": "你的「AI創作倫理」觀點是？測測你在科技與藝術間的立場！",
-        "resultCount": 6,
-        "style": "清爽動漫",
-        "description": "該話題涉及AI生成內容的版權、道德與真實性爭議，尤其在ACG社群引發熱議。測驗能讓使用者思考自己在AI科技發展與人類創作之間，如何平衡兩者關係，以及對「原創性」的定義，觸及當代熱門的科技倫理討論。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「AI創作倫理」觀點是？測測你在科技與藝術間的立場！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
       }
     ]
   }
