@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026-10-12",
+    "generatedAt": "2026-10-12T06:28:44.167Z",
+    "ideas": [
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "《蘭香如故》蘭香臨終不戴紅線惹議！譚松韻一封回信揭答案，網友：這才是她的通透",
+        "sourceLink": "https://news.google.com/rss/articles/CBMihANBVV95cUxPTmxtSlhKTGo3MHgtQkFPTUtJak1yanpKcnNKbkhuTnNJUjd5ZFhueEU1SUxZQ21rMndKc1JTdGpRelR2Z1pzdmlRSlg5OGFyenRsTE1kbkVGaVRqRDdfYW45Mmg4aUlOdERReWoyTGs2V3h3Z2lEQlpGT2NLblE4dmk3S0hBLTdNbGdfMkpXRGk1bzJZQ1FiNWZVVkh4V2RUUEZHYlhILTJzb3BtQ3JieUdtNUhmNnB5ek4yaV9fcllibFBEOUYyQUMtRnlCQ0g0d21Ed1pwQ1ZIYnpPaktrN0cyVHgxT1RROE9OSGVobDVsU0RVNXIyU2ZGbGlKQTU4LXFvTWtkRkt5WWFRMFprQ3JtUDRJckpZVU1Wc2RhVjhzdFd2YTFGVHY4N1hVWWdnXzdTSVdsX0E4SkZYN0Z5VGRRc2NLMHhudUtGX0FFbWJINUxUcmU0WlFmUGJqaFZqbUgzU0JkTHNlZGFUZk1jd1JVVkx5bUVyRG41dndaODctUk9N?oc=5",
+        "theme": "你的感情觀是『通透』還是『糾結』？測測你如何面對緣分與選擇！",
+        "resultCount": 6,
+        "style": "唯美浪漫",
+        "description": "這則新聞深入探討了劇中角色對於愛情與命運的選擇，以及演員對其「通透」的詮釋。以此為靈感，我們可以設計一個心理測驗，引導使用者思考自己對於緣分、感情觀以及人生抉擇的態度。透過情境題，讓使用者檢視自己是偏向順應天命、勇敢追求，還是會因為外在期待而陷入糾結。測驗結果能提供有趣的自我認識，幫助使用者更理解自己的內心，並以更「通透」的角度面對情感與人生選擇，帶來啟發與共鳴。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的感情觀是『通透』還是『糾結』？測測你如何面對緣分與選擇！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "才偷三明治遭逮！星二代超市直播「商品拿了走出門」店員急追來",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zSElJcF9aekdfeXZ6bkhxWFd5Y01OZnQwRm9KOUhCZ2htTVhFTmVvRG1yZEQ3NVYycTBISXVaXzVsalhkSFJmTTBXcGJVUdIBTEFVX3lxTE1Kenh1QmVOZXRjd2FYMUNyVWRoMTBCZDhHZkFEZDFfZHNLTGp2NFQxdUx2XzVOcFFkcVhtaVBuTHpxQUhoLUxGemR1X0M?oc=5",
+        "theme": "你內心的『社群小惡魔』有多叛逆？測測你的衝動指數與行為邊界！",
+        "resultCount": 5,
+        "style": "搞怪幽默",
+        "description": "星二代在直播中做出引發爭議的行為，凸顯了年輕世代的衝動、對規範的挑戰以及在社群媒體時代對目光的渴望。此話題極具討論度與共鳴。心理測驗可以圍繞「誘惑與自制」、「衝動型人格」或「社群媒體行為邊界」展開。透過虛擬情境，讓使用者測驗自己在面對誘惑、壓力或渴望關注時，會做出何種反應，藉此了解自己是乖巧順從、偶爾叛逆，還是常常在危險邊緣試探，以幽默的方式探討人性與社會行為的界線。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你內心的『社群小惡魔』有多叛逆？測測你的衝動指數與行為邊界！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "航運下一戰3》美線長約看漲歐線承壓 貨櫃三雄迎獲利考驗",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPWGEyUVduZ3FpWEtoM2ptUWFqaFEwckF0UUZ5ZXdvem1HaWE2UGRQOGNhbXNwbFQ4TkFSSk5wdWd6cUdCS05XTFJpS2tCVVBLTVRvQWhzeVhOemk2QTFWWE1ERnA4a0NzWmFza0lXd0hINkpNOExFTGRwSVNCWWtCS3ZycFFXVzFkWjFtR0hadnFzWWVFZkpVSTVEX1AtbThvSktlWF9JLThSQ0VYVXlyMDh2d3JIbVN6d0pmLWNqbEZid3p1ZERGbDl4WnJBU2M2VC1PVTZHRVZkd0pJMWJ5UE1WMWg3MVEyRktEYlpKZDVIbGJYU1hNdG94UzB6V3J6eUw2Z2JJTW51V29iYWxLOVQ3Ni1QVEloRUUxMldaYUItaXotZ2FPd1lrQTV3OG1JTGR4Y2JTeTNkbFNwYk5mU3N4TVhiSVhpMUZ1M1BVS0lHalBxYTlxOUhERDJCbnVieXk1d3NLZFIzT0tk?oc=5",
+        "theme": "人生航線大考驗！測測你面對變局的『投資』性格，是保守避險還是大膽進攻？",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "這篇財經新聞描述了航運市場不同航線的起伏，以及企業如何應對獲利考驗，這恰好能引申為個人在面對人生變局與挑戰時的應對策略。心理測驗可以將生活中的選擇比喻為「投資決策」，例如面對職涯轉型、感情抉擇或大筆消費。透過模擬不同的情境，讓使用者評估自己的風險承受度、決策風格以及對未來變化的預期，揭示自己是保守穩健的「歐線避險者」、積極開拓的「美線進攻者」，還是懂得靈活調度的「貨櫃三雄策略家」，提供實用又有趣的自我定位。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【人生航線大考驗！測測你面對變局的『投資』性格，是保守避險還是大膽進攻？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "台股盤中》大立光、金融、航運逆勢狂飆 指數急拉逾500點",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xdWdIc2pJc3p0bnhBclY5b0oweVZwUmVyRS1TLTJmNXpEei1LRkVrbmtKQ0xfbTN5bDFFUkdEaHp0SW8wX25pUEhYSG5TRV85a3MyTE0zNjNQemItaVEw0gFkQVVfeXFMUE1HUnFwR25ZeFNXRVI1OUVtQTY3LTZXeUFpTnJiX0RCR2IwcHJoSFEtQXhwSV9IUzl6cUFDQk01SUMyWDllXzBpeFo2czRmSXZxbUVMZUloTDBDMGJHRGlKOUZTRA?oc=5",
+        "theme": "你的潛力股是哪一支？測測你在人生逆境中『逆勢狂飆』的爆發力！",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "股市在逆勢中狂飆，象徵著在不利條件下也能創造奇蹟的爆發力與潛能。這個主題非常適合設計成心理測驗，幫助使用者探索自己在面對困境、壓力或挑戰時，能否展現出「逆勢成長」的特質。測驗可以透過生活中的小挫折或困難情境，評估使用者的韌性、應變能力和抓住機會的敏銳度。最終結果將揭示使用者潛在的「潛力股」類型，激勵他們發掘並運用自身未被看見的優勢，在人生賽道上也能『逆勢狂飆』，帶來積極正向的心理鼓舞。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的潛力股是哪一支？測測你在人生逆境中『逆勢狂飆』的爆發力！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      }
+    ]
+  },
+  {
     "id": "2026-10-11",
     "generatedAt": "2026-10-11T06:24:11.365Z",
     "ideas": [
@@ -544,122 +594,6 @@
         "description": "藉由道奇隊主帥對大谷翔平狀態「改口」的新聞，探討在高度關注下，個人如何應對「壓力」、「媒體提問」與「公關危機」。測驗問題將設計成在工作、學業或公開場合中，使用者面對質疑、挑戰或需要解釋狀況時的反應與說話技巧。這能讓使用者在趣味中檢視自己的應變能力與溝通智慧，並對名人在鎂光燈下的挑戰產生共情，提供實用且具啟發性的情境分析。",
         "id": "idea-8",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的危機公關能力有多強？測測看你面對「媒體拷問」的反應是哪一型！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      }
-    ]
-  },
-  {
-    "id": "2026-10-03",
-    "generatedAt": "2026-10-03T05:42:43.076Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "5縣市豪、大雨特報！下週東北季風再增強轉涼",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6VUc5SUtMRENZbFlKZXo1YXp2Z1hnNk9nWnhPeGVmbWdrS3I4VGw2bkJrNHpMZnloY3VPbHd3ZGhtVjJkRUZjc0RGZ2ZjQzNTemktV1FpN1RaTEZ3YmhyTV9pQ3rSAWpBVV95cUxOQnhfNlhYRzdFNFNJYkZBOW9LUTJKS3AwYmcwSGNnbHVHdURLYk96RG1BWFo2bzVHMmtocDNPZERQam5fX1VyN2VtalVIVXVUUG1WcWxMemhtMW1IY1d1YXF6YUlPN0RpdmZB?oc=5",
-        "theme": "「天氣預報」測驗：你是哪種「季節限定」人格？",
-        "resultCount": 5,
-        "style": "溫馨水彩",
-        "description": "氣候變遷是現代人最常討論的話題，天氣預報也成為每日必看。這個測驗透過使用者對不同天氣現象的偏好與反應，分析其隱藏的人格特質，例如喜歡晴天者可能樂觀開朗，偏愛陰雨者可能心思細膩。結果能讓使用者發現自己在不同情境下展現的「季節限定」魅力，增加自我探索的趣味。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「天氣預報」測驗：你是哪種「季節限定」人格？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "師大夜市掀洋流　學生拿沈伯洋寫的「刑法總則」到場：用它準備國考",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5xY01iNUpyREozNmZCM1ZId3VLVi1fUjFUYzBkU0wwdFFrMUJPX2Myd0RkakdHTHZxc01oZHpCd2NTdzlPTzdxZdIBTEFVX3lxTE5FNW5ndmE3ZGwtVHlWX1lHcnY5MkZuUWlFV1RJaldBQXlyZ08zMXY1V1NfYlNBOW00NXV6REkxSGgzTUFjX3YwWEhBNGw?oc=5",
-        "theme": "「夜市生存法則」測驗：你在師大夜市會是哪種「學霸系」攤主？",
-        "resultCount": 6,
-        "style": "搞怪幽默",
-        "description": "學生在夜市用刑法總則準備國考的畫面充滿反差萌，激發了這個測驗的靈感。測驗將夜市生活與學術領域結合，透過選擇夜市小吃、經營理念等情境，揭示使用者在面對生活挑戰時，會展現出哪種「學霸系」的策略與思維。趣味性在於顛覆傳統印象，讓學術與庶民文化碰撞出新火花。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「夜市生存法則」測驗：你在師大夜市會是哪種「學霸系」攤主？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "富邦悍將輸球遭淘汰！李珠珢應援最終戰失控崩潰 抱李晧禎痛哭畫面曝",
-        "sourceLink": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQeHcwS2tnbURQdDBzc2J1ZHlPeFpqMHl1bk9iTHlGakYwTWdBNmFJa0hyZWNPSVl4ZmNWazRzZjhrVmJNRjVMd2xYdlJYQzNON3VNTE4yZkxPRHJ0TDVPeXVrbGl4WVdRemdSX1hvcVI5d2pRaTFOQ0lsaE1ESkZuX3RZXy1yb3o2eXlsd2haZ3VwUFJnTm1zTnV5UjExMDBYRGM0ZUUwMV9aM19pUTZaVWFUeTF3NzRkR2FmYTZrS1pYMV92Mzl3SWpwemprT1UyblZyYmVreUcyU0RqajhZYWR1N2dvV1VaSnN0MTV3LUpSc0xMaWhUZnF3SGZKZ1ZaZ3Q5YUlHNUZxX2xWM0VyTTczbG5fWmU5STdWbG92T2I5Q1pYLU82dTJGVkxoYWFCbEJEY1UwMUFsQkxaVGROLWtyUjZucmhSQUhKV0xBVFFrdDdZbWZDMHlxSUZlRFBhWmgwRl8tdHpuRGZnal9rWkIxQzJXLWNLbzJiS3g4OHBBWVREVGFyLVhpVlVHS3F4eFdzSExxUjM2eEdEWGo5N09VcmJjd241Z2pNM3Q0cGhIejlKSFlCZUlBeE12QQ?oc=5",
-        "theme": "「應援魂」測驗：你是哪種情緒爆棚的「棒球甜心」？",
-        "resultCount": 5,
-        "style": "清爽動漫",
-        "description": "啦啦隊員為球賽失利而真情流露的畫面觸動人心。這個測驗將焦點放在應援文化與情緒表達上，透過回答面對球賽勝敗、應援方式等情境，分析使用者在團隊或群體活動中，會展現出哪種獨特的應援風格和情緒反應。結果能讓使用者了解自己的「應援人格」，並與其他球迷產生共鳴。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「應援魂」測驗：你是哪種情緒爆棚的「棒球甜心」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "小龍女野生遭嗆「坐著不跳就別來！」委屈喊：我休假也是球迷",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNZExpYUZrS2R4Q09sN08wMEpfS084YjNMQThxNlZqT3BlbEpSTl9QdVdUQVlid0lHV0VRWGhJQXpnTHhPM1BQUEJ6dk5ac296UkNoRWVrUTdRSjFsaC1oaVNZcXR4R1Fwd2ZveEVmdTZBZEp0VXBkVk83RTVqa25SdlNBUFZ0T3l6MG1mOV9maTdrNmp3bEpHOGhJTzgwTVRqcjJiMEVjTzcyYzVVSHBYVXZlbU9yR0NORjgtdUJxM21LQlNVOXloRlFyS2JyMENRMlR1S3cyRXJka2VPS2ZNZ181c0kwMkN5UXBBcUtlLXI0N1QzeFFEOGdQR1ZXN0lRV2hSbWZHdHktTHV4bjdDYkllVjNHdnlpaWliTC1GY0E0UF9Pem9VVTlBQzd4dlhwVlZ6RnlIOFVJb2lRUFp1LXNfLU40Y0M3SDlzRGNfcEs3TU9FdnA4dFFrekFydU1lUzd4VWtqMEdfNWhCbml6Ym9iTHJuWlFYZUU?oc=5",
-        "theme": "「球迷百態」測驗：你在球場是哪種「隱藏版」應援者？",
-        "resultCount": 5,
-        "style": "搞怪幽默",
-        "description": "啦啦隊員在休假時被誤解的事件，凸顯了球迷行為的多樣性。這個測驗旨在探索不同球迷在觀賽時的行為模式和心理狀態，從「坐著看球」到「激動吶喊」，每個人都有自己獨特的應援風格。透過情境題，測驗能幫助使用者了解自己屬於哪一類型的球迷，並藉此反思個人在公共場合中的「身份轉換」與行為界線，產生共鳴並引發討論。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「球迷百態」測驗：你在球場是哪種「隱藏版」應援者？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "〈美股盤後〉非農爆冷！Fed升息預期降溫 那指周線喜提連三紅",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VNXN5MmtwcHN4eFdlZFRQbGtweWxBNlFEWDgwYXVnMjlDVVU3bDNsU3VVVFVMQXM2OUVadjZka2RfMW5DMmpPRFU0aVYzOGs?oc=5",
-        "theme": "「股海羅盤」測驗：你是哪種「市場逆風操盤手」？",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "非農數據爆冷對市場產生巨大影響，財經新聞充滿不確定性與策略分析。這個測驗將財經事件擬人化，透過使用者在面對市場波動、投資決策等情境時的選擇，分析其潛在的投資人格與風險偏好。結果能讓使用者以輕鬆有趣的方式了解自己的「操盤風格」，並對投資行為有更深的自我認知。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「股海羅盤」測驗：你是哪種「市場逆風操盤手」？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "下週台股繼續上攻？台指期夜盤「一度站上49K大關」",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiugJBVV95cUxMdVAtZURNcHRaMlp1b2J2U3VlS1ctZXo2V0x0TURBRWRmQTNZZTZsYllCaF8xZUxYZzBld0k4THFtTVFTSjNKZ3FfUnJzeVEzZ2ZXVERsbU9oRU0ycDNNTnpIc1o2T1hMaW80TmtVWGhYLVZONVJTeUh6TUVJaGxudVZBSVg4UGIyamQ4ZV9WZkowc2QzdGVfSkJ1d2NLNmh1dVhuLVluR0kwLWlWMHZuME50eUx5V1lkcDAzOFAyU2p5Ymc3Sk1vVVJES01PTV9tY0JrMWxZTXZPODZIVGliTNWNV9rLXdrRDlwdnFvM2p4VG00aWtBZ3JzQUx3SHF6N0VNcnJka3pGS29hVVg3ZHdpUTd5RENsanFBU2lDcU1CWFJzNFFHNVB0TDBVc1g5a2NoNDhrY1JmUQ?oc=5",
-        "theme": "「台股展望」測驗：你的「投資雷達」是看漲還是看跌？",
-        "resultCount": 4,
-        "style": "極簡質感",
-        "description": "台指期夜盤衝高，市場對未來走勢充滿預期。這個測驗透過使用者對市場資訊、新聞事件、個人經驗等情境的判斷，分析其投資心態是偏向樂觀看漲還是保守看跌。趣味在於讓使用者檢視自己的「投資直覺」是否準確，並提供不同視角的「台股展望」，增加對市場的參與感。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「台股展望」測驗：你的「投資雷達」是看漲還是看跌？】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "傳AI巨頭白宮衝突 黃仁勳槓Anthropic執行長：別以為你在造福社會",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOR2hoQ21JbW8zV1Z2bFRRUE13X0V1RzlZMllVUnJGel9PdHkyN01EZHljb28wR3FpYV9oVF9kS01EMHczSHdPSFEzczJZdjlTYThOaEhmQ0pFcFlfbGhySFo3bmJ4QlJMWU5GWV9MSnBMQWxHUmpBNncweFJaUzdEUm8tNXMwS3hIUEt4N0o2OUJ5Y0R6SHgweWY5ZmdRc1ZiU1dteUVVbmdOM0R6NGpGYmdIUXFoYzVMMUpmUWQwUXRkU3JYOV82cEYyNUFyLVZhMHdOV3htdUcyVmw3WVRDZjZuU0hoWkl2NHJLWkRUNjBCVmV2MXVTcmNQa084OXZLYS1OVkJlSEVkdTNHejNDSUxfMjlWelBvbzJieVhxSzFqeFBSYnFvRHZ3b0FfQm85OGZhWlpRUDBjY1d1M3ZndDl4WG11clZkYTdSMWlsdVpSc2tIQTlxdGpTUjE4SmExNjFZZmFkR25pRkFEMzZBa1R3T1VBemt1?oc=5",
-        "theme": "「AI倫理觀」測驗：你是哪種「科技烏托邦/反烏托邦」思想家？",
-        "resultCount": 5,
-        "style": "霓虹賽博",
-        "description": "AI巨頭在白宮的言論交鋒，凸顯了AI發展背後的倫理與社會責任議題。這個測驗將使用者置於AI相關的兩難情境中，例如隱私、道德、權力等，透過他們的選擇分析其對科技發展的潛在態度，是傾向於樂觀的科技烏托邦，還是擔憂的科技反烏托邦。趣味在於引導使用者思考AI對人類社會的深遠影響。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「AI倫理觀」測驗：你是哪種「科技烏托邦/反烏托邦」思想家？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "iPhone「這功能默默開啟」狂吃電量！果粉關掉多用4小時",
-        "sourceLink": "https://news.google.com/rss/articles/CBMixAJBVV95cUxObmViOTZ2TFNxamRxS2ltNjhXUE9pQl9xeFVsVjlHNUJRcXUtVjF2RVRMVkQxSEVvTGtXWWVTYkEzWXg3Q3RwS3NxcGVWMWlod1NCMjlCUWNRdWlzQVJIeWd4dm41clRWV3Y2SzQ5aU1GdHY5a25OZzZGRkRBdDNJcjBLc0FEQUlfaE5GTk9QNHFtTVVFMnR1LTh6Ulg1ZWRNbEh6YnhNWjM0QWlKa0s5Vi12THV5VkU5VlVqS2hCMS1ONGV1VjI5cWZEMUlZMDNzZFRvZWxNbGFPWk5qMHl1NFE1R204QUNIc2FCTnU0UkdNb3lFNTlxWlBMaGQzbDF6X1JDVkdfTVIzbFA2c2ZQNWducWtielp0MWRrbHpZMnhwdnlFazFYR3Y4MU80V3phMHpEMjFlN2ZvWFBGVEJMR21OQ2s?oc=5",
-        "theme": "「手機成癮」測驗：你的「數位生活」是高效還是耗電？",
-        "resultCount": 5,
-        "style": "極簡質感",
-        "description": "iPhone隱藏功能耗電的新聞，戳中了許多手機使用者的痛點。這個測驗將焦點放在現代人與手機的關係上，透過使用者對手機功能、電量管理、使用習慣等情境的選擇，分析其數位生活模式。結果能讓使用者了解自己是否過度依賴手機，或是能有效管理數位生活，同時提供一些小撇步，增加實用性與趣味性。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「手機成癮」測驗：你的「數位生活」是高效還是耗電？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "亞運前線》謝淑薇女雙金牌戰對陣詹皓晴開打 賽前響起台灣樂團歌曲",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzQjhFb0dSLXFrZjgxd2o4RlRsVEx0UW5lSDB3WTV2ejdwaGdjM19zUmlYeVJ5aTBRYTI3NDBlc3JzNkJORlEzVndGYi1VRDNLZTg3OGM2UE1lUm5HTmpLTtIBZkFVX3lxTE1mRzhiR3g5NFludkJyWUxvVk9vdlhvNWUwTm9RYS1VNWdKeUdPdFQySlc5eXlnNU9FTTZtMHJsdGt0a1g5UmNGd0xWTnNIOUFPb1ZDV2VzREpjM3BVMkg3NHhic2JkQQ?oc=5",
-        "theme": "「運動精神」測驗：你是哪種「金牌戰場」的勝利者？",
-        "resultCount": 6,
-        "style": "清爽動漫",
-        "description": "亞運賽事與台灣樂團歌曲的結合，充滿激勵人心的元素。這個測驗以體育競技為背景，透過使用者在面對挑戰、團隊合作、壓力應對等情境的選擇，分析其在追求目標時所展現的「運動精神」與人格特質。結果能讓使用者發現自己具備哪種「金牌特質」，並從中獲得正向的自我肯定。",
-        "id": "idea-9",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「運動精神」測驗：你是哪種「金牌戰場」的勝利者？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "賀「林郁婷」亞運奪金！ 4大超商慶賀優惠懶人包「500份雞排免費吃、美式買2送2」",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zdnFwbmFqc2Y2d3BKank1WHc5QkdxbGNOLXo1RzZuNHhaNTQ1SjJhMGgxUW1WbklKYXRBZEpUMk1oNWZOY2w4SHQ3UVhyLVNZcEowLVFzUGJEUW13?oc=5",
-        "theme": "「慶功美食」測驗：你是哪種「冠軍吃貨」？",
-        "resultCount": 5,
-        "style": "美式波普",
-        "description": "體育奪金帶來的慶祝優惠，將大眾對勝利的喜悅與美食連結。這個測驗將焦點放在人們在慶祝時刻的消費行為與偏好上，透過選擇不同優惠、美食種類等情境，分析使用者在愉悅氛圍下會展現出哪種「吃貨」特質。結果能讓使用者以輕鬆幽默的方式，發現自己的「慶功哲學」，並享受勝利帶來的滿足感。",
-        "id": "idea-10",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「慶功美食」測驗：你是哪種「冠軍吃貨」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
       }
     ]
   }
