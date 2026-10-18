@@ -1,5 +1,33 @@
 [
   {
+    "id": "2026-10-18",
+    "generatedAt": "2026-10-18T05:05:16.434Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "賴清德讚老人健保免費「妥當了」 國民黨轟綠做可以、藍做違憲？ - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOb1U3NDNUYkpvSjBwbk9uMC11a0ZDNXpSbUpSWnUtTVpKZFM2TDdjVFpYZ2VjTVJNLUxXSEgydnVrdU9qb1BSd0JJRmpJdzhWMXEzbEFxNk82cFFGdDVTTUFNRXhnSGU5aFU1YkljRFJlYWRGenJSQWxhOXJHNUhxNFN6N0NRMXpmd2xTa3FRU05kaTVyLUFvOV91RHlacHIzcDd2WEF1cU5MMWtQeDk5VDRrVzZDOW9hTGIwc2NSZ2hEaEk1SGN1V1V4ZTVEVzVTUG56N0syYUdIc1pXSzMwOGdpSFJsYVRoVGZZUXdLenk0Snh2cTM0bGpqNEIyQU5FcXFyUFV2NWE0dVpnRnFOSmhISkRLb0x5NWRZcTNmSXhyS3BWRzF1M3lqdHZMd3pJaDB5a19CeHh3NzJWWXFZYlBwdFBnRDgtVlIxMDRmOUMycEUtTlhoTTIxdWVfSGJIYVF1NGlGY3MtcE9KWnRsS0NWMnY5dUdfN3VST3hDQ0YzQzg?oc=5",
+        "theme": "你的『社會福利DNA』是哪一種？從健保爭議看你心中的理想社會",
+        "resultCount": 6,
+        "style": "懷舊報刊",
+        "description": "這則新聞觸及了社會福利政策、公共財政分配與政治立場的深層議題。一個心理測驗能引導使用者反思自己對於「公平正義」、「社會責任」與「國家資源運用」的潛在價值觀。透過模擬情境題，例如：『當健保出現赤字，你會選擇...』或『你認為政府在社會福利上，最應優先考量的是...』，測驗結果能幫助使用者理解自己屬於哪一種類型的「社會福利倡議者」或「政策評估者」。這不僅能提供趣味，也能鼓勵使用者更深入思考公共議題，並在看似複雜的政治爭議中找到自己的立足點。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『社會福利DNA』是哪一種？從健保爭議看你心中的理想社會】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "松機遷建「黃仁勳來台只能停桃機」？蔣萬安：機捷36分鐘到台北 網全傻 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPUFZjWklNWHJicmhYMGV1cGdDYS04cUZua2c2YWlSSGx4aUVYR3Etb3E2MkdxMUtKX0tVZzVCRTVBREhQSWZ5SzRJbUNoUmVIWDU0d0t2OVppVGVMdkVRVUljc2pOaGRnalkzU25EVU90NEYzaVBxWDNmOGJ6aHZmTUI4eEFqWXM3OFJDdDVLXzBKNDJ6MVktTi11UzBFd2I4MXBiMlNZeUVoak9KUlZ2NTlFRUZPOG5hbHZhOTZVYlZBVFZDZGZCUS0zNDdhTVlHeDgwdVNoaGtCNjNKc3FIWDNZS08xV21kdUhsWk9INVVRZlJIUGtMUDZ5UWNoeVlvSUxuTGlLdzVWdjVJNXJwRWRUTEhBa1FfbElQTUFlc0ZXdlBsWFNuX181V3FNd0gxekp4bnQ3SzdVc0FLQWcwMUhHQmotQmR6cGxCZzRGcUpNZkNrcVEzM1RrV3Q5RlZUMGlkUnRfUDVMdU01ZjdvWVhqbTl5UDQ1VFY1V2tNWkctZWJ2M29lemNlQnlVS0luRUo4NzNiMzA5RS1VTEZr?oc=5",
+        "theme": "你的『城市便利度』雷達怎麼判讀？從松機遷建看你的交通哲學",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "松山機場遷建的討論，不僅涉及城市規劃與土地利用，更觸及了市民對於「便利性」、「效率」與「城市發展願景」的不同想像。此心理測驗能從使用者對交通工具的選擇偏好、對城市基礎建設的期待，以及對於國際形象與在地居民權益的權衡，來判斷其「城市交通哲學」。例如，問題可設定為：『如果一項政策能提升城市形象，但會稍微犧牲通勤效率，你會如何選擇？』，測驗結果能揭示使用者是「效率至上者」、「環保主義者」或「人文關懷者」等不同面向，讓大家在趣味中思考自己心目中的理想城市樣貌。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『城市便利度』雷達怎麼判讀？從松機遷建看你的交通哲學】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      }
+    ]
+  },
+  {
     "id": "2026-10-17",
     "generatedAt": "2026-10-17T04:57:10.096Z",
     "ideas": [
@@ -324,100 +352,6 @@
         "description": "「AI時代不會被淘汰就是水電工」這句話，點出了未來職場對實作技能的需求與人才流動的現象。此測驗能讓使用者思考自己在AI浪潮下，哪種技能和工作模式能讓自己更具競爭力，是專精一項傳統技術，還是擁抱科技轉型。趣味在於提供對未來職涯的趣味性思考與方向。",
         "id": "idea-6",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「AI時代，你該成為哪種『斜槓職人』？」從水電工到AI工程師，測測你的職場潛力！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【復古像素】"
-      }
-    ]
-  },
-  {
-    "id": "2026-10-08",
-    "generatedAt": "2026-10-08T06:37:47.448Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "淑麗氣象／今寒露！明起變天了 國慶連假天氣一次看 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNekJxbVNOTHhHSzFpaVQwVmg2N1laYTM4dDIzRjBXR2pZMzkwYXNXN1J6Z0s5U2plR0FPR3VqLU5Da3gyVlZ0bXM3OERJdGRwbDZ6QkJxRE5iTFRDRXRBSVROR1g3Mk5sYjhYNG92LXNBdHREUnJOdkxBOWtDRU9ud1lSSG1pWTlaaEVvLUNzcnQxU3NONm9HWHRWbmZsb2QxUW9ha3c5MnRyeENmY1RXU253aWphNVJHUmFndl9MR3ZVXzdSTHdZdXBxeklPcGtGeVI5bXJ6MWU0MjQ5eXNKSERqZ3dwUEpKTzNNNVBlUFdEb3hxMXp2bkJLWU4wV1ZPR2JTOWRnMDBvdXhsY1ozZF9zVG1abmlyOHlFZmMwQmplR1kySUhHM00yRHVkR3JhRHBZVnNLZjNHd21ZbS0zY3dVYmk0bW1ibDI%3Foc%3D5",
-        "theme": "「你的國慶連假是什麼天氣？」測驗你的放鬆風格與能量類型！",
-        "resultCount": 5,
-        "style": "清爽動漫",
-        "description": "國慶連假與天氣預報是民眾高度關注的議題。這個測驗能將抽象的天氣現象與個人在假期的規劃、心情連結，透過選擇不同的連假活動或對天氣變化的反應，分析出使用者的「放鬆風格」與「能量類型」，例如是喜歡戶外活動的陽光型，還是偏愛宅家充電的陰雨型，提供趣味的自我認知與社群分享點。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的國慶連假是什麼天氣？」測驗你的放鬆風格與能量類型！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "重磅建設啟動！蔣萬安宣布規畫松山機場遷移用做AI園區、住宅及公園 - UDN",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jc3NmZWZXRmQ4elozNU9WSEl6QVF1MjNLT0pnNEMxeldHaTd0YUg4VXRvRmpVQkZIRkJ2YnpBanVfVWpKYzNVRXpnWmpRWmhHTzhZ0gFYQVVfeXFMTXR5VXc2WC16NDNaZmo2QnhlOEd6cHNVVGhHUnZ5NDN3Si1Qd1VOdFkxSzRZS2VZWWQwblFCRUNIS1VsX0dpdnlVZ2tiNWR4dHpYallTOWI4aQ?oc=5",
-        "theme": "「如果松山機場變成新都心，你會是哪種城市居住者？」探索你的理想生活型態！",
-        "resultCount": 4,
-        "style": "極簡質感",
-        "description": "松山機場遷移並改建為AI園區、住宅及公園，是個結合都市發展與生活品質的熱門話題。這個測驗可以引導使用者想像未來生活場景，透過對不同空間功能的偏好（例如注重生活機能的便利型、追求綠意休憩的自然型），分析出他們最嚮往的城市居住型態，引發對未來生活的憧憬與討論。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「如果松山機場變成新都心，你會是哪種城市居住者？」探索你的理想生活型態！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "馬斯克排除台積電主導蓋晶圓廠 陸行之:老馬期待神山技術移轉 但談崩了! - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOOF95d190OElNY1lwR19zU0U1b1JPUzFhbWNKbE9ZVEs2SnJiOExzUEszSUVYQTZZaWdqOUJxT1JCZXRBaHN6ZDJWbWJ6X2FwRDl4cGM3NmFIaFJzTDhwdVhxcWZPVnI5cXJGdEpONzFMMTdqY05nZEtPTTNkdHo3eUNQUjQwMDdGd2tGV1FXaHRSS28yalhrNWRBWXY0ZzMyY3hpeWVKTHlOLU4xS0hqeDB3djJSbnJZeWVYemE1dnNjN1pCY2NUTlg2ZnBQeW9QQWI5cHFxUWFLRUtHaGtYZFVFX2FRUDB1MUUwLXpKVVczVzN6RlFPWEJsUjZNMnRWZm9ud2hKbmxqbF9yS3F4NGdtdVh4cW9CM1ZQUzliSm1xbmdYbVk2SWhRY2hpM2ZWdkl4aElVcW9vOEhBWjF1aXNCMGNlV0VPYWkxZUppNUZpMzd1T1dzRVhIMVp2UlNzTU9rUFJlMzNhY3l3RnpUZ0VBS2VzcVZmczRBcm5SMVU3UVdzVmt2YXphdDliTUFVc2toZ0VUMXlkWTMtNDVrUV9sM3dEbnFwWDU3T0FhUThDd29HaWZvQ3JXcG5hQVB0bHV2ZFhNbkRBdms?oc=5",
-        "theme": "「你的商業談判風格，像馬斯克還是台積電？」測出你的職場決策模式！",
-        "resultCount": 6,
-        "style": "霓虹賽博",
-        "description": "馬斯克與台積電的晶圓廠合作談判，象徵著全球科技與商業的頂尖對決。這個測驗將商業談判情境轉化為職場決策的縮影，讓使用者透過對風險、合作與目標的態度選擇，判斷自己在職場上屬於哪種類型的「談判者」或「決策者」，例如是追求突破的創新者、堅守原則的實力派，還是善於斡旋的協調者，提供幽默而實用的職場性格分析。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「你的商業談判風格，像馬斯克還是台積電？」測出你的職場決策模式！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "財經",
-        "sourceTitle": "台股50K差臨門一腳！法人揭「四道東風」 台積電法說助攻後市拚53K - 工商時報",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rcDVKbk1uVEY4UkdReHlIUVRPTmNHc3htRUFnTGZBR0o0ZWdoTC1FVUhuWzI0c2gxTDRHNjlFU3FjdlljMnpqMUdvcGdXWVNHUWF3ZTZ6VnBqVHlUckFV?oc=5",
-        "theme": "「台股上50K，你的投資心態是哪道『東風』？」測驗你的財富累積策略！",
-        "resultCount": 5,
-        "style": "極簡質感",
-        "description": "股市大盤點位與法人預測，是許多股民關注的焦點。這個測驗將抽象的「東風」比喻為不同的投資心態與策略，讓使用者透過選擇投資偏好、風險承受度及市場判斷，來了解自己在財富累積路徑上屬於哪種「風向」。這不僅能提供娛樂性，也能讓使用者反思自身的投資習慣，並可能引導他們對理財產生更多興趣。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「台股上50K，你的投資心態是哪道『東風』？」測驗你的財富累積策略！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "馬斯克排除台積電主導蓋晶圓廠 陸行之：老馬期待神山技術移轉 但談崩了！ - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOOF95d190OElNY1lwR19zU0U1b1JPUzFhbWNKbE9ZVEs2SnJiOExzUEszSUVYQTZZaWdqOUJxT1JCZXRBaHN6ZDJWbWJ6X2FwRDl4cGM3NmFIaFJzTDhwdVhxcWZPVnI5cXJGdEpONzFMMTdqY05nZEtPTTNkdHo3eUNQUjQwMDdGd2tGV1FXaHRSS28yalhrNWRBWXY0ZzMyY3hpeWVKTHlOLU4xS0hqeDB3djJSbnJZeWVYemE1dnNjN1pCY2NUTlg2ZnBQeW9QQWI5cHFxUWFLRUtHaGtYZFVFX2FRUDB1MUUwLXpKVVczVzN6RlFPWEJsUjZNMnRWZm9ud2hKbmxqbF9yS3F4NGdtdVh4cW9CM1ZQUzliSm1xbmdYbVk2SWhRY2hpM2ZWdkl4aElVcW9vOEhBWjF1aXNCMGNlV0VPYWkxZUppNUZpMzd1T1dzRVhIMVp2UlNzTU9rUFJlMzNhY3l3RnpUZ0VBS2VzcVZmczRBcm5SMVU3UVdzVmt2YXphdDliTUFVc2toZ0VUMXlkWTMtNDVrUV9sM3dEbnFwWDU3T0FhUThDd29HaWZvQ3JXcG5hQVB0bHV2ZFhNbkRBdms?oc=5",
-        "theme": "「在科技巨頭的角力中，你會是哪種『技術創新者』？」測出你的科技野心與合作哲學！",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "馬斯克與台積電的晶圓廠合作談判破裂，突顯了科技巨頭間的創新與策略角力。這個測驗將這場談判轉化為科技領域的個人角色定位，讓使用者透過對技術發展、合作模式與市場影響力的選擇，分析自己在科技創新領域中扮演的角色，例如是獨行俠般的顛覆者、精於合作的整合者，或是默默耕耘的技術宅，提供科技愛好者有趣的自我探索。",
-        "id": "idea-5",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「在科技巨頭的角力中，你會是哪種『技術創新者』？」測出你的科技野心與合作哲學！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "重磅建設啟動！蔣萬安宣布規畫松山機場遷移用做AI園區、住宅及公園 - UDN",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DcFVvQktiQmhULVlPOTZZX3VObk1ZRXN4WEJMU1JXbVhKVDRfNnU3RXNOLUFuYV9jTWpDLXZBMDVnTDg0MTBDNDh6d0JZbWM40gFWQVVfeXFMT3JXRkpGeVo0czdGUU1NS1UzVkJMeTFMY1U0ZklaU0xKNHZJRjluYlREZmFDa1pqVmhnY29VczhHUzhrYk83Y2FiZG13eTlwMkJHSXJLN2c?oc=5",
-        "theme": "「松山機場變身AI園區，你最適合哪種未來科技生活？」測驗你的AI世代適應力！",
-        "resultCount": 4,
-        "style": "霓虹賽博",
-        "description": "松山機場改建為AI園區、住宅及公園，預示著台灣邁向智慧城市的未來。這個測驗將焦點放在AI科技對生活的影響，透過使用者對智能家居、自動駕駛、虛擬實境等未來科技應用的偏好，分析他們在AI世代中最適合哪種生活模式，例如是熱衷於探索新技術的先驅者、享受智慧便利的實用主義者，或是追求平衡的綠色科技愛好者，引發對科技未來生活的想像與討論。",
-        "id": "idea-6",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「松山機場變身AI園區，你最適合哪種未來科技生活？」測驗你的AI世代適應力！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "MLB／洋基球迷沒收沃爾普「全壘打」 官網形容30年前基特事件重演 - Yahoo運動",
-        "sourceLink": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQR3ZBV1lublZHRzlVTWo1TGRtTElhN2UyREtkZTV0SXVzaFZhRVBtYnp4cnhZWWlqM3ppeHliUGtpdC1nUUVrT2Z4bnoxUXBjTlJwR21HaDFlT3JDWTRvTFQ4RW5BZkhoWUJ6YVNKU2E2Q29RaXFsX0ZCRG11M0dKSFZxdTFnWk1BM1dEQTU0a2RFbHNVTXljTkpuc0RlUnBudGNIZVNPaTdGVzRwOUpMbVN5SE5oUnFIZm9pamV4ZFg3THhWSWxEX3J0R3FmUF9nWVVCclF0VUpxZGlpWFRPdnhNdWZZY1lZQlVKLVJfVXZWWEJVYkN1Q1g1N0FOV2Y3ZzJfcGtJNk5xRGlBaUEtbUJKbk1Ra2R0SWI0OUd4eS1wZWpBbEpZNUdKV00wdEF4cERGaGxsMThXcThWUHc0U21GTE9jbGpoeDQ4UXBXaDJ4NWRZVlYwVVMwSThqODh2Z0hUdk1EeDk2c0h3a3QtMzdGMkpSdkJTWkxpYUoySnpXWkRZcUVF?oc=5",
-        "theme": "「看球賽時，你是哪種『意外製造機』？」測驗你的觀賽行為與個性！",
-        "resultCount": 4,
-        "style": "美式波普",
-        "description": "棒球賽中球迷沒收全壘打事件，引發了對觀賽倫理、球迷熱情與球賽互動的討論。這個測驗可以將球迷在球場上可能發生的各種「意外」行為，轉化為有趣的個性分析。使用者透過選擇不同情境下的觀賽反應，例如是會為了爭搶紀念品奮不顧身，還是會嚴格遵守規則，來判斷自己是哪種「意外製造機」或「觀賽達人」，增加觀賽樂趣與社群話題。",
-        "id": "idea-7",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「看球賽時，你是哪種『意外製造機』？」測驗你的觀賽行為與個性！】\n2. 結果數量：4，並請自行根據主題設定 4 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
-      },
-      {
-        "sourceCategory": "體育",
-        "sourceTitle": "足球》梅西阿根廷國家隊最後一舞 1進球、2助攻含淚圓滿謝幕 - 自由體育",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiYAFVX3lxTE0xTm92bkNkV2NPVWNONTFwSGRUd3hSakJYRWREU1FHTFZiSWF6eUhZM2paSk1za09lZFdOOEdNRzg0MlpGZk1RTkY1Wm9qcFJtZXRlMVN5blN4RVdNdTh5eNIBZkFVX3lxTE10QUtiajcxMkl3Z09mQmxvaFA5UW54RkZUMkttZ3lzbUItd28tUHJkRU4tTUdoUlQyWHMycG1FM05ZWnF0Um9nZkFzXzY4VE94bWpvN3lSTVNXb1UxS282eDVxSXY0Zw?oc=5",
-        "theme": "「梅西的最後一舞，你的人生謝幕會是哪種『傳奇風格』？」測驗你的個人影響力與告別姿態！",
-        "resultCount": 5,
-        "style": "唯美浪漫",
-        "description": "梅西在國家隊的告別演出，不僅是體育界的大事，更是關於傳奇、堅持與圓滿謝幕的動人故事。這個測驗能將梅西的職涯軌跡與個人生命的「謝幕」情境相結合，讓使用者透過對成就、告別與影響力的想像，來測驗自己的人生會以何種「傳奇風格」劃下句點。這能引發使用者對自我價值、生命意義和未來規劃的思考，同時也帶有向偶像致敬的意味。",
-        "id": "idea-8",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【「梅西的最後一舞，你的人生謝幕會是哪種『傳奇風格』？」測驗你的個人影響力與告別姿態！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
       }
     ]
   }
