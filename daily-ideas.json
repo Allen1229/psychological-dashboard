@@ -1,5 +1,99 @@
 [
   {
+    "id": "2026-10-31",
+    "generatedAt": "2026-10-31T06:18:38.172Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "【國內】高雄市長辯論！學者評柯志恩攻勢凌厲 賴瑞隆被逼到牆角3大「可惜」 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinANBVV95cUxNYnlDTzY4dGljZXNZQTF3N2gtcWpuNlhHTDVVaXVRRTFXM0lrb2lidFNaaUh0TkJtYkJ4cE83emt3SUdtOG9EV2FzaUhmRDlLVGZQeW0zS0VKb0xLZkpsYm1wUmxLMHNCT0V1QTkyaFNkMmRJR1I5R1JhOEVYaWE3ZVBLZ1FVMFdiWnh3OTY4UVFEdDZGdWVIUTJKUUdrajE3LS1fSHMxU2FiQnp1YlFpbm1SaUpKZlhXLWR2cHdRWUhNR1lXZ1NhSW9lbk1kWFpJakNITU8tZ0QyRWZIbV9mVWRZcDdnUzVzSURneDdZblFWd3RjUlZtVzZkMzM4OWdNUWRVQy16dU5FaExwSEg3NXd6NXpmdS02RDBBMjBXWjFLRkc0WWh6NWJzYkRYOG1MeFR4LWtJVjVkNlQ5akR6X0NjVXk1alpidFRtb3c3b09LbjYxcEF0cGVQR1VPZHZJRTAzRWpnV3dSSjVjcGlTYUluOFl5eEpINHdPRTNaS0ppTTlBVUl4WWRxQmxzVjM2d19wb2lzaGdNbE8y?oc=5",
+        "theme": "辯論場上的你，是哪種狠角色？",
+        "resultCount": 6,
+        "style": "懷舊報刊",
+        "description": "藉由分析使用者在意見表達、應對挑戰、面對壓力的反應，對應政治辯論中的不同角色特質，讓使用者了解自己在衝突或競爭情境下的策略風格，並帶有一絲幽默感。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【辯論場上的你，是哪種狠角色？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "【國內】新竹關西15.3度！未來1周東北季風強弱變化影響 專家估煙花將自生自滅 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GcF9TaURmbWFfSzQ4UnFLT1RHSkYyLVJrMHVYNEF2dlBlMTNpSUtzMm5abmxYYlJQX3dGcmJGd3BDRUFFYlUwUkJtUktjd3Zj0gFWQVVfeXFMTlZTLTRXQUI0MjJnZWJJOENueTJaTkNWbHBtYTJyMHFMTnlrZnZNa3U2eTRUN01NVGM3LTFmcWQtVWlkV0lZcTNpNUIySTJ2UDFhX29RN0E?oc=5",
+        "theme": "你的內心是哪種天氣型態？",
+        "resultCount": 5,
+        "style": "清爽動漫",
+        "description": "透過模擬不同天氣現象（如東北季風、颱風自生自滅等），分析使用者在面對環境變化、人生挑戰時的適應能力和心理狀態，測出他們內心是屬於哪種「天氣型態」，帶有哲思和趣味。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的內心是哪種天氣型態？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "【娛樂】主持人錄影突抓狂「踢飛無人機」女藝人慘遭砸臉受傷！驚悚畫面網全罵爆 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNVEJHNHFNenUtTGNXV0NNSF_7cUVYZ3llNTlnM3I2NldqX2RNN0Q3bzRvaDdTUExXVzhSZ1NBRXZJVUs5dXdnQnN0TllucDN0R0IzN3RMLVdTTHBLbnU4WnpELUpWTmFXRU9MQkFQcHVjRFJlcE13aHhTRjVnNm9iLTJCN1VUYldhMWtRcEFWTVpDSnRGR3BObWRORjlKc2MyRXpfY1BPSTdZY0dURXpsZ0lMeWJ4cXhnaE1kT1FoYVNFZTZUckhnWXNFbXFDbTVjVm5Tb25xWmNMbks5Wm5ybFFjdGRFaE1FNkxibHExd1NxUndfTEx0Q211MFdRaVJiOGJrcm01UDRKdmZraFp6eGplenp6Tm5kcGVQVm5WeGoyVVlHZ3lCUy1XYnZDOWZ6NnV3cVFicTVrNlBkemJPYkUwcWFKaVl5RlQxMzNVQVFXTzB5WjBmYjBUVWZuRGoyMjZKVW5qUUQ0YkxnRThvbkNXNWRNc1JPS0hHWGFVTnBHUmtyeE5JQlNiRTFUMHBlVDAwbnZuR1dDYUhKSjhMdE0yWlY1MTU2OWJ4Qk5vNjdtRHY2aExQbkdzVFVTSEU?oc=5",
+        "theme": "你的「情緒無人機」會突然失控嗎？",
+        "resultCount": 5,
+        "style": "驚悚懸疑",
+        "description": "借用主持人失控踢飛無人機的驚悚畫面，設計問題探討使用者在壓力、憤怒或突發狀況下的情緒管理與反應模式。讓使用者反思自己是否有「情緒無人機」隨時可能暴走的潛在因子，並提供趣味性的結果分析。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「情緒無人機」會突然失控嗎？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "【娛樂】獨家專訪》阿沁證實帶妻女離開台灣！認了「財富自由」版稅年賺3000萬 - 中時新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SzhfMVk1aTZ5NG9DTldmQUxlT1RYajZhU3NuM3lWREMtNW95amhSOGJrN3VLU0o3OHpOSTVPQXo3alFONjFVUzJfUGt5UTFtY3NxYUdGZWNCUVdicll6MGVvY3pSQnRWMU02WUd3?oc=5",
+        "theme": "如果你也「財富自由」，會選擇在哪裡過人生？",
+        "resultCount": 7,
+        "style": "唯美浪漫",
+        "description": "以藝人阿沁「財富自由」並選擇移居的話題為靈感，設計情境題探討使用者對於金錢、人生規劃、居住地選擇等價值觀，測驗他們在達到財富自由後，會如何規劃人生，是繼續努力、享受生活還是追求其他夢想，帶有夢幻和激勵效果。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【如果你也「財富自由」，會選擇在哪裡過人生？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【唯美浪漫】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】台股暴跌逾1600點嚇壞股民！阮慕驊曬對帳單進場「這3檔」 喊話再跌還有子彈 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQekpQQ1E1a3hkWjBoNXVWdG9FM3ZWbGV4LXF5ZURDejlWUW1XajJVY1dXSkdDNHRJdkJqbVF2ejZqS2V5VklJN3EtM3l4TV9EalZxZ2VUUnozUWJ2ejlPWUxrWFQzT1NVbzlRZGd4bDJWRG1NUHN2a0w3UG9rR1BlNGw1TkIwVGM0alRUaFlqVFAxOXh5X3JGZGR4Qmp3M0ZjMFR3SzZRa21OWU85OHRBS1ltYXBFeENPQjV1VkNqYUtfZTRGRXBCcl9wZElFZGhmSG9aMm1MUE55dHZRM19DanJ4bGNxbWR5SDNXeEZtcnctalJjekxBdnFlYVE2R2ZBUnh4aDRaNDdpZW1xbXdZa1NqR3BHdXlWTnhZckx5NUZISTBHc2tJaGliSDc4TVB5NGYxd0FJcmlZTkdtVzVLNXNtVHhiRlJzZGx5QUFtc2gwZ1pUOHdqSjhvWTRUNGtxRDljaEFpU0FuOV80LXZ2UlUydlVnc1JQNVA4bjZrUzR4SmhsaWRLZ1lxcnNIa1RwR2cyVkxDWTAtcmRhRDBJT1hhd1ZZSWRjNWQxYkpwQllqazktV3VPRC1tV3BJSmVHNmc?oc=5",
+        "theme": "台股震盪下，你的「投資心臟」是哪種等級？",
+        "resultCount": 5,
+        "style": "霓虹賽博",
+        "description": "藉由台股暴跌與專家進場護盤的財經熱點，設計測驗探討使用者在面對市場波動、高風險投資時的心理素質與決策模式。讓使用者了解自己的「投資心臟」強度，以及是屬於保守型、投機型還是價值型投資人，兼具教育與趣味性。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【台股震盪下，你的「投資心臟」是哪種等級？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "【財經】英特爾股價暴跌28％！創近50年最慘單日跌幅 原因一次看 - 自由財經",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1X2Y4aXdTUXQwSmtIS1lWcUVYVFFvRExDdFQxRzZ1UHluLXIxN3JMREN0eW9fU1pVTXk3cEpka295eXRpYVpVVXBmTG56M1M0TmxjenJmcFMxU0hOY0VJ0gFkQVVfeXFMTWVZTU0wYXRrQzBtSEoxQlh6NUUyNEpHX3hkbm5hS1VKS1pjNGpGVlhRMjBlWVhfcnFOSjNSb2ZsNHpGUUYwQ05XWVk2U3FQbl95Vk9EQnl2NkVKdVhGb21fV3Q0Ng?oc=5",
+        "theme": "當你的「事業巨頭」遭遇滑鐵盧，你會如何絕地反擊？",
+        "resultCount": 6,
+        "style": "科幻冷冽",
+        "description": "以科技巨頭英特爾股價暴跌的事件為引，設計情境題探討使用者在事業或人生中遭遇重大挫折、跌落谷底時的應對心態與策略。測驗能幫助使用者了解自己是會一蹶不振、尋找新出路，還是能分析原因、捲土重來，帶有勵志和策略分析的層面。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【當你的「事業巨頭」遭遇滑鐵盧，你會如何絕地反擊？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "【科技】英特爾：PC先塌，代工仍「稍後再說」 - 富途牛牛",
+        "sourceLink": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTVHU2JWSnlJbWdXMjI3WEpzNWh2U2ZRSV9MR2hkbllsbWprclZNZkFVaFZiYlVJV0o5YUJZTW9VOEZyQkY3eFZwaHd6X3NQSTVJS1VLSjFmX0ctZ1lMTnJpaG1ENTdiZThCYTd4QjlIUmMyanVjdkNHV0hYd0RZM2JWVmJoU3JFSC12M2tzQUxIYmFqVjhTeXJlOWdGT2s?oc=5",
+        "theme": "面對產業巨變，你擁有哪些「策略轉型」基因？",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "結合英特爾面對PC市場變化與代工策略的調整，設計測驗探討使用者在職涯規劃、產業趨勢判斷及個人轉型時的思考模式。讓使用者了解自己是屬於保守觀望、積極轉型還是具備前瞻視野的策略家，具備實用性和啟發性。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【面對產業巨變，你擁有哪些「策略轉型」基因？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "【科技】鴻海科技日》聯訪「延遲3小時」...劉揚偉親曝原因：會面OpenAI創辦人阿特曼 - Yahoo股市",
+        "sourceLink": "https://news.google.com/rss/articles/CBMizANBVV95cUxNd3l3YWdMT2JZbTJNc29ucmdFMTExd0Z2aFRpYS1DRFNlZ21FaFlFVHRHS1hfYUNKaFRJUEtRRm9MdnpFd1pOeERuY3FGakhTQzliT0x6WWR0Y0dwRF9qekFBZENpeUpJYTN5ejZCQXkxM01YNHNwT2JmVU1fMlBRMXVYTkpxMlNfUTAwMVowZFpEcHVkemZLNTh5eVlDcXZBOFdkS0Vsc3NkMmNiQi1FOFVpZElYNXhLWDJCVXphVkNYal_8-UVueERCR0NyemJFdkxsUTdQdTlORVIwbjZ4cDZENWRiTzk4WVlnOWxEVE9pdTJxRzJIQlJRemJqdm1IYTI1Z25qOGYyWGFmNGU4WkVucmxuQTFUcFl3S09URFFRUTN6WXBSS0xBMlZoaGVmQl9MZzB4dEoxRGIzVW9rbnlubVdRSFV6bzJ4VFBIdklUdW9wSGJMZUFyTFJnVmplR3ZhNmxzc3p5bHRVTDZJRUZTQVEtWE40THJXTFVJV0J0R3VLcGNZdzJjRG1kTWEwRlN2bU1NWkZXVGY3aVA5c3prNTgtZWdpSS1WZWFVTjBra0hzREhQWmE5LS10dkNFWVRBVl9yeUNDcm4t?oc=5",
+        "theme": "如果能和『AI教父』共進下午茶，你會問什麼？",
+        "resultCount": 6,
+        "style": "霓虹賽博",
+        "description": "以鴻海高層延遲會面只為與OpenAI創辦人阿特曼會談為切入點，設計情境題探討使用者對人工智慧的理解、期待與應用想像。測驗能幫助使用者發現自己對於AI科技的態度，是擁抱創新、謹慎觀望，還是期待透過AI創造新價值，帶有前瞻性與對未來世界的想像。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【如果能和『AI教父』共進下午茶，你會問什麼？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
+      }
+    ]
+  },
+  {
     "id": "2026-10-19",
     "generatedAt": "2026-10-19T05:16:18.645Z",
     "ideas": [
@@ -258,56 +352,6 @@
         "description": "抓住新聞中「AI供電」、「科技戰」的關鍵詞，將其轉化為探索個人在未來科技產業中潛力的心理測驗。透過模擬面對技術瓶頸、國際競爭、供應鏈挑戰等情境，讓使用者評估自己在AI時代可能扮演的角色和應對策略。這能吸引對科技趨勢、職涯發展有興趣的受眾，並提供具前瞻性的自我認知，引發廣泛討論。",
         "id": "idea-4",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【全球科技戰升級！你在AI浪潮中，是哪種『未來產業領航者』？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【霓虹賽博】"
-      }
-    ]
-  },
-  {
-    "id": "2026-10-10",
-    "generatedAt": "2026-10-10T06:21:21.126Z",
-    "ideas": [
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "來台過第20個國慶日！吳鳳曬國旗照吐心聲 驕傲喊：台灣民主滿是感動 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPUnRYdGlEM3hlR1BqT2NDVzlQRkpWN0VBZ09iNlJpZGJseVRpbkNLTTZMWm1obnN1OHFQQ1JaSE9Tb0xSSUdTT01sdDZ6SFlZLXRDQ2xqVFNLLUpXODVmWHdWa2s2eFVfa2o5TEM2R3JHSHp4S2Qxc3JHLWsxcXRZckhPX0k4Z2docTFHRV9EcTBKRmVtWkktblNJRUxMTml3UUJvT0M3UnNGNjBwQXJqNWhJNldZS1BWTkdKckQweVBoaDgxYVNyUTNpTVVlbWI2N292RWdGN3lYRjlVWjZDMURNbXlwMDRXMUoyc050anRON1VTamQxZUFZWWR6Z2tOYVRCY0lMMlBDbUZuWDNMdmxHVXU4dF85RV9KSEU2d1VRR2hJWk83V2pyajZDeGlscGhibGxWandueGJOcDZ2Q3FsTVBhY1JWamVQWllmbUtXQ2tJQ2d3bUswS0tRNWQ0ZDhfV2dnMFlPcFhwNzRYSWNGSTFiZ2RmcVlQTVNFbGU5d3Zwel92VWxlOEl3MkpoZFMwQnUxR1RGdzRDWWI0OEh4M25pdkVJQUE?oc=5",
-        "theme": "你的靈魂歸屬地在哪？測測看你最適合在哪個國家生活！",
-        "resultCount": 6,
-        "style": "溫馨水彩",
-        "description": "吳鳳在台灣過國慶日的感動，延伸出人們對於「歸屬感」與「理想生活地」的渴望。這個測驗透過情境題，引導使用者探索自己的價值觀、生活習慣與文化偏好，最終分析出哪種類型的國家或城市最能讓他們感到自在與幸福。趣味點在於結果的多元與想像空間，能激發使用者對不同文化的嚮往與自我探索。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的靈魂歸屬地在哪？測測看你最適合在哪個國家生活！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
-      },
-      {
-        "sourceCategory": "娛樂",
-        "sourceTitle": "周子瑜遭譏粗腿五五身 攝影師犯眾怒下場曝光認錯道歉了 - 自由娛樂",
-        "sourceLink": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EN013cF9ia3BlTlBfbDFkNkxsVHFBUHl3REp2VFgwUGNmc09RVFBYRERfZ0hJeG4zUFhlVjh3MnFlcVFmRUVhUVZqMGjwb0ViMjN3REJ2NmF0UmI40gFiQVVfeXFMT0NFRzZBY2NjRGxXUThmUUJqRDc1Nm05ZTF2Yi1vaVRrdXNPUHVlNDBwNk11RXV4Qm4xU2t1TUtPY2pTSXh1OHdEZEFsYTU3RjJQYlpEeTNxbFhZVVhIY2JnOVE?oc=5",
-        "theme": "外界眼光是濾鏡還是照妖鏡？測測你的「自信閃耀力」有多高！",
-        "resultCount": 5,
-        "style": "千禧Y2K",
-        "description": "周子瑜事件凸顯了現代人面對外貌批判與公眾壓力的議題。此測驗以正向角度切入，引導使用者思考如何看待外界評價、如何定義自身美麗，以及如何維持內在的自信與堅韌。結果將展現使用者在不同情境下應對批評的「閃耀力」類型，鼓勵大家擁抱獨特，提升自我價值感，並以Y2K風格營造偶像般的自信氣場。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【外界眼光是濾鏡還是照妖鏡？測測你的「自信閃耀力」有多高！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【千禧Y2K】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "一中散場2》從市占9.1％到乏人問津 HTC手機年底退場 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPV2dIRGFYSXU0VmpVY1N6YjZLLXZmVkZPMzNJUkhjTi02cmlDdkVkcjVUQlYxUF9Xb1VFM19uZzJHM0cyU0xJY19pT1V4SzJ2LU1obVNyLXhLd1Z0NTRvN19SQi1GZ0t5d1RiamtGcGp6V0xrdEZmT0dXaDF1VmlTZ04xeUdaRTBzQzJzY2MwUWNjbDRmZVh0bG55dEdKRkc1QnJOQ0tOY1F0Q1lnRDc4eUZtUlZ4NVdycHBuVTAyQWI5bDZOLV9sWWFrRkViUnpmY3hYazRGakVUNmIzUGYyLVRsSnJuSWRKb3FyNnFla1oxbEdxdl9tWm5kR3pqMk9uMXVrNWU1dzRBRS1Va3JWR2Rtd04wX0l6U3QxMFNibUQ0U00wQ3YzM2tpdXY?oc=5",
-        "theme": "你是會引領潮流還是堅守經典？測測你的「科技品味」屬於哪個世代！",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "HTC手機的興衰是一個科技品牌變革的縮影，引發人們對科技產品、市場趨勢與品牌忠誠度的思考。這個測驗將引導使用者審視自己對科技產品的選擇偏好，是追求最新功能、注重實用耐用，還是懷念經典情懷。結果將揭示使用者在科技洪流中的「品味定位」，趣味在於引發共鳴與對過去科技的回憶，同時展現個人對未來的看法。",
-        "id": "idea-3",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你是會引領潮流還是堅守經典？測測你的「科技品味」屬於哪個世代！】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
-      },
-      {
-        "sourceCategory": "科技",
-        "sourceTitle": "大學發展人工智慧…用電將成最大考驗 台科大校長揭困境 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNLWVmbGtoOUxmNmFkMU9XMWZScFh0TDJwTjhnRy1PMi1PejdSZ1VOaXIzY0JlOXNqcnJ5cWtwT0d2ZUxRRkZZWkNHZ3FGZnhZZFppM2ZTN05GWWh1ZUhnOE5wekJPd3VjTVVxdUtIQ1Bnc2FaSzAtUXFPYjBpeWpWSktwem1IalFfSkVMNE4zR3BwTlNjQUhuSl81Z1V0WEYtbThpTXYtenMtVERTV3hyNTZCOFZ3SnpjbDJNOUZCbFcwMXdMWjQ0UU9wR3N0MjBRLWpwSTV0ZXU4Vzc1ZnEwdlVVaGtjZ0ktT0RPQUtaZmFQTHVpSU1YQ0g3REluYVh2QnJZdElwZ2hUWFFvdG1jVUZzTmt6QUoyUnFoTWFuT2YwdkhkMXJxUXM4YlUzcTJKNi1GUTk2NUJUd1VTOVpmNTc1QmotMFBfQWdUZnkwb3JBYzZfUGZwUzNGT0dJTjVuUHFWWm8weXFNbHI2WGxrVF83dm9fZw?oc=5",
-        "theme": "你的「能量」如何分配？測測你最擅長解決哪種未來困境！",
-        "resultCount": 5,
-        "style": "科幻冷冽",
-        "description": "AI發展的用電挑戰，觸及了能源消耗、永續發展與科技倫理等議題。此測驗從個人層面出發，將抽象的「能量」概念具體化為個人特質與應對問題的策略。使用者將透過情境選擇，探索自己在面對複雜的未來困境（如科技發展、環境保護、社會公平）時，最傾向採用哪種「能量」與方法來解決。趣味在於連結宏觀議題與個人影響力，激發對未來的思考與行動力，視覺風格則強調科技的未來感與挑戰性。",
-        "id": "idea-4",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的「能量」如何分配？測測你最擅長解決哪種未來困境！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
       }
     ]
   }
