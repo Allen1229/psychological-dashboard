@@ -1,5 +1,121 @@
 [
   {
+    "id": "2026-11-06",
+    "generatedAt": "2026-11-06T07:22:12.796Z",
+    "ideas": [
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "「滿瑞富6號」中國籍漁工掌舵助張俊傑偷渡 船長等5人聲押 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxMdFZYNE9WYU5CV0dxOEUyVVcwLUNtS0c5X2w0Y1k2Wl9fU0J3ZmJ2ZUh0WU5pTE1OaGpoSEhZUFpRVHFxWWZsVm1TTEZxc2xCMGRKOVJyN2NkU19BOXdUZHB4RmFwSW5GOC1HRGVGaW9WdjE1dlBBblRzaEt5Yy1LN1FpLWxnZU1nbWdzS0xpWEpqbTV2SDdaenREOUhpcXJ6bTE2MjZIQ1RIeDNtMlpVbzNad3k5ZV9McWRsYmFBWGt0eG50dTRTYlpEYW1YZ3FFb3FicHpqTUNMZEtMejRUQ2hsOHRSdHRhWE4yMU5RVngzcGs2d0RQdE1jUWxvT1k5N1B4dlR1WHlLY0lUS05hRk5LRnVCM0o1dXZxWWlQYjFRelRXY2NDTWtDbDNYYWVsc2JBRko2UGFlZU9qcXFUcEVja01WUUxmVktkUWJnajZPUXRtZ3FRdUNUN21JX2Y0U3pIWGgxWkk1N3V0?oc=1",
+        "theme": "邊界挑戰者：你的潛意識是冒險家還是守護者？",
+        "resultCount": 6,
+        "style": "驚悚懸疑",
+        "description": "這則新聞涉及偷渡、風險和法律後果，觸及人類對規則邊界的試探與道德選擇。此測驗能探索使用者在面對誘惑或困難時，是傾向於冒險犯難、挑戰規範，還是嚴守原則、保守謹慎。透過模擬情境，讓使用者趣味性地了解自己的「邊界處理模式」。",
+        "id": "idea-1",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【邊界挑戰者：你的潛意識是冒險家還是守護者？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【驚悚懸疑】"
+      },
+      {
+        "sourceCategory": "國內",
+        "sourceTitle": "政院指老人免健保3問題...民眾黨團轟：斥千億補中油台電 不願照顧長者 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUS1FyWm5fWGxiSmZwNnl0bmJVOVNMaTlubF9qd1VQRFQ4WFlvRW93aFZqVzg5NGZVYVZESkV0TEZ5WGRTb2g0bVkxcVo0bjdn0gFWQVVfeXFMTTFiZkxGVjVaTHBac2s5SUhfcE85MmRKckUyYTYzdk95dG5rYnN6VmtwT01yc2ZRRDZtYl9LMlVQVTNQNUxuUXphRkRPUDVGZzJ0NGllRXc?oc=1",
+        "theme": "社會資源大哉問：你的「政策腦」會優先照顧誰？",
+        "resultCount": 5,
+        "style": "懷舊報刊",
+        "description": "此新聞聚焦於政府資源分配與社會福利的爭議，特別是長者健保議題。測驗能讓使用者代入政策制定者的角色，考量有限資源下，如何衡量不同群體的利益與需求。這不僅能啟發使用者對社會議題的思考，也能趣味性地揭示他們在公共事務上的價值觀傾向。",
+        "id": "idea-2",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【社會資源大哉問：你的「政策腦」會優先照顧誰？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "高雄全城紫色應援！陳其邁口中「選舉最大變數」要來了 - 自由時報",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04bldNQXBCOEFocEJDZjRsQWsxNUdORzU0NE1oY29tRXoyWG9iTFd4Zms3MHhqQ2tuUjk0N1JkMXNMNTRLZkFxSkI2bGlodjA0YlNoM2lfYUxwVGtCS3ZvZmlkNXbSAWpBVV95cUxPY0x1ZXJ6REtsZ1BQUXdlS3p6dE1TaVFaTXVRT2dxYlE4c0NkeGRvWVpCR3Y2SWVIRm83ekh5bzJNYmU1Z0czQXdmY3EtUW1DaG1ibUppNHZhaGluN2YwVkNmeDhybS1UTFZn?oc=1",
+        "theme": "應援狂粉圖鑑：你是哪種熱情追星族？",
+        "resultCount": 7,
+        "style": "清爽動漫",
+        "description": "這則新聞報導了因明星活動而掀起的城市熱潮，反映了當代粉絲文化的熱情與社群凝聚力。心理測驗可以從使用者追星的動機、投入程度和應援方式等面向切入，探索其在集體狂熱中的角色和個性特質，讓粉絲們在輕鬆有趣的氛圍中找到自己的歸屬。",
+        "id": "idea-3",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【應援狂粉圖鑑：你是哪種熱情追星族？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【清爽動漫】"
+      },
+      {
+        "sourceCategory": "娛樂",
+        "sourceTitle": "吳卓源「隔兩年」道歉：當時沒勇氣！朱軒洋前女友開酸 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZEZycDVQVGZaUml2NDRjSzhuTnhENm9xXzFTQjZRQ3o2UU9Dd2toWjl4RTV5SW0ybWpPanVTV19RZXd6MzB3MTcwV3QtVTRuVGZXLTBHd2ZXcGJYTUpPTmFFQzd1T2ZWZ1BxNGh5WXNtOGNSSVh2eU5vZ0F2NzhIQ0lYbHNRNE9sUHNmTTNNVk80THhlUEhKcmJRNjVkRDNQSGVDY3cyVm1qT1I2NWJrNjN4Z2FwNzlySEg5T1J3THpJM0hkMnVMLWZQd1Vya3kxeUh4Um1uRjNta281SEJ3bE00c3pHWDdPU0xDU002T20xZldXd09zMFZ6Z3Yzb2h3QkJyN2xWZFJodERubG9EZlh5LWIwU08zVm1qMnhTSS1QX0U4blZxU3hXalFCNU9jOTByWHlPSElBM2dLYUdkSzJrNS1MTU1fWlE?oc=1",
+        "theme": "勇氣測驗：面對過去的你，是選擇直球對決還是等待時機？",
+        "resultCount": 6,
+        "style": "搞怪幽默",
+        "description": "這則新聞關於藝人遲來的道歉與個人勇氣，引發公眾對「時機」與「坦承」的討論。測驗可以透過情境題，引導使用者思考自己在面對過錯、承擔責任時的態度，是會選擇立即面對、展現勇氣，還是會權衡利弊、等待最佳時機。以幽默方式探討人性中複雜的「勇氣」面向。",
+        "id": "idea-4",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【勇氣測驗：面對過去的你，是選擇直球對決還是等待時機？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【搞怪幽默】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "獨家》台股血崩限空令要來了！彭金隆：下午發布救市措施- 金融 - 工商時報",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FUm9KSW5raC1kRTRmLXRzM3JhZXB2YTJONmJ0bXVOMVdQNE1sVkpOcUx0MjRpVExad0E4LUM3SUo4X3ZWMFVBZnp2M0hyMlpkVjFyRU1aWG94SDdxY1dN?oc=1",
+        "theme": "股海求生指南：你的「市場恐慌指數」有多高？",
+        "resultCount": 5,
+        "style": "科幻冷冽",
+        "description": "新聞描述了股市重挫與政府救市措施，觸及投資者在危機中的心理狀態。測驗能模擬股市波動情境，探測使用者在市場震盪下的情緒反應、風險承受度及決策模式。這不僅能讓使用者了解自己的投資人格，也能在輕鬆氛圍中學習應對金融壓力的心態。",
+        "id": "idea-5",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【股海求生指南：你的「市場恐慌指數」有多高？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "財經",
+        "sourceTitle": "華爾街一夜血洗！美股暴跌「創4年最慘紀錄」 川普怒開砲了 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPaHFrNnE1S3d1ZWFqNWR4S2VrcHRmMkNzc2JZODlrd0ZIRVJUMURUU0dRdUtHNDBTYlJsUzduWk9YazN0TXgwTDVDcGsxS0ltNDhoaXd5U1JpSkcwdnNnVTIzRUREb2E0bmV5aE0yVW03MXgySG1QTXlzaHY4WExkcWh4R2Vjc21ybU5ZbVRsakxaRHhwQWI2ZVRhV3F3M1VLLU5LeXVOVVgwcTJtZnVseVZLYS0yaU9RQXVrSkVuc1pvSG9IMDBxcFFoOVVZelpzamdXM3Q2cGxXQl9qTEZzaEpXaWs4ZnFDN28yR2VFR0IxZk5CbzFPNXZ0RkoybG5YOVR3SUlFT0hSMnFMVEtOSHQxaHhnOXkxSDFfb1lzcHZRSlVoMXYyUkd4ZkZKOTM4Q0RqaDBVMWhKOV9KRTU3VUMyU1NKeWRNazA2Wm5oOEwwaVpZWHhic2FzVGkwQl9WaEE?oc=1",
+        "theme": "全球金融海嘯：你的「經濟焦慮」指數飆到哪？",
+        "resultCount": 6,
+        "style": "廢墟美學",
+        "description": "這則新聞描述了全球股市的劇烈波動，並帶有政治人物的強烈評論，情境更加宏大且具戲劇性。測驗可引導使用者思考在面對全球性危機時的反應，是容易被外界言論影響，還是能保持獨立思考。它以更廣闊的視角，幫助使用者了解自己在重大經濟事件下的心理韌性與應變能力。",
+        "id": "idea-6",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【全球金融海嘯：你的「經濟焦慮」指數飆到哪？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【廢墟美學】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "王品4日晚間突發重訊！子公司購物網站委外廠商發生資安事件 - Yahoo新聞",
+        "sourceLink": "https://news.google.com/rss/articles/CBMigANBVV95cUxOVHpRTkdpT1hCaklra1BFcnZtSm5pWHhvblhyOS1OWnRlblk1dEJ3QkJBNjluWEdfUzJjYlp5bTdueG41NmtCenprXzNFUWtoNEJIa3IwbE1XREVyUXF1WkpHd3c0YndKSnd4WjVUVmNia0lVbndRcVdxS3Q1RWd4MUJMVjlhNVMyOHJFUmZoN2lwQXlCcGFmUEFxNmdXSzV2MDlBanlJRFZIWnlKRXF2bjl2QmtSdnpScHR5MTVkVVAwSHVYSGIxVzdBMnFTZzBEc0kwaVZ2TVRnN1VWV1BIVlhfajhtZ0pINVJxaWx6dHdzNm5HZ3Y3T1NvdmhRWXdrLUVPOTRKaG50ZjdMTFJPeDVyT2kwSExOU3JKelZyMWo2dTRvM05uQWVPQ3FBUjZoZnFwdlFtSmZ4VXQ1cENkY1FQdWc2VEphZGlqbkVBRFBzTkEtM1FZUk00YlJjR1dPZGViNFhORXd1MUlKdkM3TW0zTDF1ZkQ3bGJfS0hUc00?oc=1",
+        "theme": "數位堡壘攻防戰：你的「資安防禦力」有多強？",
+        "resultCount": 7,
+        "style": "科幻冷冽",
+        "description": "這則新聞關於資安事件，凸顯了現代數位生活中資料隱私的重要性與潛在風險。測驗可以透過模擬日常上網、購物等情境，評估使用者對資安威脅的警覺性、個人資料保護習慣及應變能力。這能讓使用者在有趣的互動中，檢視自己的「數位足跡」是否安全，並提升資安意識。",
+        "id": "idea-7",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【數位堡壘攻防戰：你的「資安防禦力」有多強？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
+      },
+      {
+        "sourceCategory": "科技",
+        "sourceTitle": "韓國外電報導指出Nexon 發布全公司資安公告要求員工立刻刪除《勝利女神：妮姬》PC 啟動器《Goddess of Victory:NIKKE》 - GNN 新聞網",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LY2VZb1h0NGxCN0Y2TEU5NG5raE9Ia1hjMFg2dThHSWRoaHFhb1hvMHpjUFNZczBYSTVuU29DWUdmazJrRmF3OHgzSm1Ta1dLZlNQcV9MN3M?oc=1",
+        "theme": "遊戲資安危機：你是「安全玩家」還是「冒險闖關者」？",
+        "resultCount": 5,
+        "style": "復古像素",
+        "description": "此新聞聚焦於遊戲軟體的資安問題，對於廣大玩家社群具有高度連結性。測驗能從玩家的遊戲下載習慣、對官方公告的遵守程度以及對於數位便利性與安全性的權衡等面向切入。這能讓使用者趣味性地探索自己在遊戲世界中的「資安人格」，是偏好保守安全還是為了體驗敢於冒險。",
+        "id": "idea-8",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【遊戲資安危機：你是「安全玩家」還是「冒險闖關者」？】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【復古像素】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "NBA》Jaylen Brown球季最高30分也送出關鍵火鍋 76人5連勝續居東區第1 - Yahoo運動",
+        "sourceLink": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNeFBBZ2p4OUpBN0ZPc2psS2hoUDlzemVHSnluT2tWSXNLcE1vSkdLQllDazltWjZPcHk4RHZCcl9WZEs4ZnJ2eEZoeDNvMHpabVdUVnQ3alVxRWlDQnU4S19ZcUIxZzZ4VzhGM0JrNkJyb01PV3Y5U0ZXZFFaRERrQ2RuU3BFLVhMQUxxeU1pbWYxdVduMk1kTXdzcEdVeUsyTHJCVkJzekJPdU9IbHVEMnUzOHc5U09rYVhUaDhwcXA0bkF6cUd0M2lKeDUzbjZpd0RjV2hnWlVMcU9Nd3NsbHV4aHdoMnRia0hjVGRid3UwdVl3ZXRSd3FVS0oxVWQxVl9zN3loOGk1R0ViS3locEx5NDhfNC04dHdOcHl0SDRqSzBpdDNZYXg3TEwwOThibldXVEx1VTV1bUxjWjJ1MXJ6OG1seGZRUnFDYkF1YkdsazY3NzVvY3U4aDA0Q2lYQ1RPSl9EaGJpVWc?oc=1",
+        "theme": "球場MVP人格：你是哪種「致勝關鍵球員」？",
+        "resultCount": 7,
+        "style": "美式波普",
+        "description": "這則體育新聞頌揚了球員在關鍵時刻的傑出表現與團隊合作的勝利。測驗能將使用者在生活或職場中的個性特質，對應到籃球場上的不同角色與能力，例如是擅長關鍵一擊的得分手，還是掌控全局的組織者。讓體育迷們能趣味性地將自己與球場上的英雄聯繫起來，了解自己的「致勝潛能」。",
+        "id": "idea-9",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【球場MVP人格：你是哪種「致勝關鍵球員」？】\n2. 結果數量：7，並請自行根據主題設定 7 種細微不同的人格分析結果。\n3. 風格：【美式波普】"
+      },
+      {
+        "sourceCategory": "體育",
+        "sourceTitle": "直到24歲才選秀！菜鳥倫德伯格只用8場實績成勇士新少主| 運動專欄| 運動 - UDN",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YLUFBbGVhSlRBTEpkTjQtbHVoQnpzTW1TYXN2azJIakNXcXlMTlFLdmNpNGhhTUVHaHBrMzRjRHpwSlVQYWY3X3BTN0QyZEpnMk1n?oc=1",
+        "theme": "潛力爆發者：你是哪種「大器晚成」的天才？",
+        "resultCount": 6,
+        "style": "溫馨水彩",
+        "description": "這篇報導關於一位「大器晚成」的運動員迅速嶄露頭角，激勵人心的故事。測驗可以探討使用者對於天賦、努力和時機的看法，以及自己是否相信潛力會在對的時機爆發。透過情境題，引導使用者思考自己的成長曲線和發展模式，鼓勵人們相信自我，無論何時都能發光發熱。",
+        "id": "idea-10",
+        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【潛力爆發者：你是哪種「大器晚成」的天才？】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【溫馨水彩】"
+      }
+    ]
+  },
+  {
     "id": "2026-11-05",
     "generatedAt": "2026-11-05T07:20:51.304Z",
     "ideas": [
@@ -610,34 +726,6 @@
         "description": "新台幣貶值與央行介入是影響每個人荷包的重要經濟事件。此測驗能讓使用者檢視自己對宏觀經濟變化的敏感度，以及在貨幣波動時的理財應對策略。透過情境題，引導使用者思考如何保護個人資產、甚至從中找到機會。測驗結果不僅提供「財富危機感」的等級（例如：危機預警者、穩健避險者、機會探索者），更能引導使用者思考未來在資產配置上的可能性，兼具娛樂性與實用性，幫助大眾在不確定的經濟環境下做出更明智的決策。",
         "id": "idea-2",
         "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【新台幣貶值，你的「財富危機感」等級是？測測你如何在經濟波動中聰明佈局！】\n2. 結果數量：5，並請自行根據主題設定 5 種細微不同的人格分析結果。\n3. 風格：【極簡質感】"
-      }
-    ]
-  },
-  {
-    "id": "2026-10-18",
-    "generatedAt": "2026-10-18T05:05:16.434Z",
-    "ideas": [
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "賴清德讚老人健保免費「妥當了」 國民黨轟綠做可以、藍做違憲？ - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOb1U3NDNUYkpvSjBwbk9uMC11a0ZDNXpSbUpSWnUtTVpKZFM2TDdjVFpYZ2VjTVJNLUxXSEgydnVrdU9qb1BSd0JJRmpJdzhWMXEzbEFxNk82cFFGdDVTTUFNRXhnSGU5aFU1YkljRFJlYWRGenJSQWxhOXJHNUhxNFN6N0NRMXpmd2xTa3FRU05kaTVyLUFvOV91RHlacHIzcDd2WEF1cU5MMWtQeDk5VDRrVzZDOW9hTGIwc2NSZ2hEaEk1SGN1V1V4ZTVEVzVTUG56N0syYUdIc1pXSzMwOGdpSFJsYVRoVGZZUXdLenk0Snh2cTM0bGpqNEIyQU5FcXFyUFV2NWE0dVpnRnFOSmhISkRLb0x5NWRZcTNmSXhyS3BWRzF1M3lqdHZMd3pJaDB5a19CeHh3NzJWWXFZYlBwdFBnRDgtVlIxMDRmOUMycEUtTlhoTTIxdWVfSGJIYVF1NGlGY3MtcE9KWnRsS0NWMnY5dUdfN3VST3hDQ0YzQzg?oc=5",
-        "theme": "你的『社會福利DNA』是哪一種？從健保爭議看你心中的理想社會",
-        "resultCount": 6,
-        "style": "懷舊報刊",
-        "description": "這則新聞觸及了社會福利政策、公共財政分配與政治立場的深層議題。一個心理測驗能引導使用者反思自己對於「公平正義」、「社會責任」與「國家資源運用」的潛在價值觀。透過模擬情境題，例如：『當健保出現赤字，你會選擇...』或『你認為政府在社會福利上，最應優先考量的是...』，測驗結果能幫助使用者理解自己屬於哪一種類型的「社會福利倡議者」或「政策評估者」。這不僅能提供趣味，也能鼓勵使用者更深入思考公共議題，並在看似複雜的政治爭議中找到自己的立足點。",
-        "id": "idea-1",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『社會福利DNA』是哪一種？從健保爭議看你心中的理想社會】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【懷舊報刊】"
-      },
-      {
-        "sourceCategory": "國內",
-        "sourceTitle": "松機遷建「黃仁勳來台只能停桃機」？蔣萬安：機捷36分鐘到台北 網全傻 - Yahoo新聞",
-        "sourceLink": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPUFZjWklNWHJicmhYMGV1cGdDYS04cUZua2c2YWlSSGx4aUVYR3Etb3E2MkdxMUtKX0tVZzVCRTVBREhQSWZ5SzRJbUNoUmVIWDU0d0t2OVppVGVMdkVRVUljc2pOaGRnalkzU25EVU90NEYzaVBxWDNmOGJ6aHZmTUI4eEFqWXM3OFJDdDVLXzBKNDJ6MVktTi11UzBFd2I4MXBiMlNZeUVoak9KUlZ2NTlFRUZPOG5hbHZhOTZVYlZBVFZDZGZCUS0zNDdhTVlHeDgwdVNoaGtCNjNKc3FIWDNZS08xV21kdUhsWk9INVVRZlJIUGtMUDZ5UWNoeVlvSUxuTGlLdzVWdjVJNXJwRWRUTEhBa1FfbElQTUFlc0ZXdlBsWFNuX181V3FNd0gxekp4bnQ3SzdVc0FLQWcwMUhHQmotQmR6cGxCZzRGcUpNZkNrcVEzM1RrV3Q5RlZUMGlkUnRfUDVMdU01ZjdvWVhqbTl5UDQ1VFY1V2tNWkctZWJ2M29lemNlQnlVS0luRUo4NzNiMzA5RS1VTEZr?oc=5",
-        "theme": "你的『城市便利度』雷達怎麼判讀？從松機遷建看你的交通哲學",
-        "resultCount": 6,
-        "style": "科幻冷冽",
-        "description": "松山機場遷建的討論，不僅涉及城市規劃與土地利用，更觸及了市民對於「便利性」、「效率」與「城市發展願景」的不同想像。此心理測驗能從使用者對交通工具的選擇偏好、對城市基礎建設的期待，以及對於國際形象與在地居民權益的權衡，來判斷其「城市交通哲學」。例如，問題可設定為：『如果一項政策能提升城市形象，但會稍微犧牲通勤效率，你會如何選擇？』，測驗結果能揭示使用者是「效率至上者」、「環保主義者」或「人文關懷者」等不同面向，讓大家在趣味中思考自己心目中的理想城市樣貌。",
-        "id": "idea-2",
-        "aiPrompt": "請根據以下資訊製作一個心理測驗小遊戲：\n\n1. 主題：【你的『城市便利度』雷達怎麼判讀？從松機遷建看你的交通哲學】\n2. 結果數量：6，並請自行根據主題設定 6 種細微不同的人格分析結果。\n3. 風格：【科幻冷冽】"
       }
     ]
   }
